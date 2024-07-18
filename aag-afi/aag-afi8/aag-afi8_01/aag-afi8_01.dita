@@ -1,0 +1,51 @@
+<root id="aag-afi8_01" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.01</titleabbrev>
+    <title role="ps_para_number">8.01</title>
+  </sectioninfo>
+  <para role="ps_para_number">This case study uses the following three
+scenarios to illustrate how an entity’s use of a service organization
+affects the auditor’s considerations in planning and performing auditing
+procedures related to assertions about financial instrument transactions:</para>
+  <para role="ps_indent_hang_2">
+    .
+In this scenario, a user entity initiates trades, and a broker-dealer
+executes the trades and holds and services financial instruments purchased. 
+    <emphasis role="italic">
+      a.
+      <tab/>
+      <olink targetptr="aag-afi8_scenario_a">Scenario A — Directed Investing Arrangement
+With One Service Organization: a Broker-Dealer</olink>
+    </emphasis>
+    <footnote id="aag-afi8_fn2" label="fn 2" role="number">
+      <para>Maintaining custody of securities, either in physical or electronic
+form, is referred to as holding, and performing ancillary services
+is referred to as servicing. Examples of servicing transactions are
+collecting dividends and interest and distributing that income to
+the entity and receiving notification of corporate actions, such as
+stock splits.</para>
+    </footnote>
+  </para>
+  <para role="ps_indent_hang_2">
+    . In this scenario, the user entity has authorized an investment
+adviser to initiate trades on its behalf, and a broker-dealer executes
+the trades and holds and services the financial instruments purchased. 
+    <emphasis role="italic">b.</emphasis>
+    <tab/>
+    <olink targetptr="aag-afi8_scenario_b">
+      <emphasis role="italic">Scenario B — Discretionary Investing Arrangement With Two Service
+Organizations: an Investment Adviser and a Broker-Dealer</emphasis>
+    </olink>
+  </para>
+  <para role="ps_indent_hang_2">
+    . In this scenario, a user entity has authorized a broker-dealer
+to initiate trades on its behalf and also to execute the trades and
+hold and service the financial instruments purchased.
+    <emphasis role="italic">
+      c.
+      <tab/>
+      <olink targetptr="aag-afi8_scenario_c">Scenario C — Discretionary Investing
+Arrangement With One Service Organization: a Broker-Dealer</olink>
+    </emphasis>
+  </para>
+</root>

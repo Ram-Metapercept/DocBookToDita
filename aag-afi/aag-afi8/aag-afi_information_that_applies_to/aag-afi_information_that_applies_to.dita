@@ -1,0 +1,190 @@
+<root id="aag-afi_information_that_applies_to" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Information That Applies to All the Scenarios</titleabbrev>
+    <title role="ps_main_heading">Information That Applies to All the
+Scenarios</title>
+  </sectioninfo>
+  <section id="aag-afi8_description_of_the_entity" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Description of the Entity</titleabbrev>
+      <title role="ps_sub_heading">Description of the Entity</title>
+    </sectioninfo>
+    <section id="aag-afi8_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.03</titleabbrev>
+        <title role="ps_para_number">8.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">The user entity is Lane Components, Inc.
+(Lane) that manufactures electrical connectors and distributes them
+nationally and internationally, primarily to manufacturers. Several
+years ago, it sold a large division and used the proceeds to begin
+building a portfolio of equity securities traded on an exchange regulated
+by the SEC. Lane views the portfolio as a source of funds for future
+business acquisitions and plant expansions.</para>
+    </section>
+  </section>
+  <section id="aag-afi_summary_of_the_accounting" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Summary of the Accounting Considerations</titleabbrev>
+      <title role="ps_sub_heading">Summary of the Accounting Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi8_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.04</titleabbrev>
+        <title role="ps_para_number">8.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Lane accounts for the securities under
+FASB  (ASC) 321, , and, accordingly, reports the securities at their fair value, with
+unrealized holding gains and losses included in earnings.
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+        <emphasis role="italic">Investments — Equity Securities</emphasis>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi8_types_of_potential_misstatements" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Types of Potential Misstatements of the Entity’s Assertions
+About Its Financial Instruments and Financial Instrument Transactions</titleabbrev>
+      <title role="ps_sub_heading">Types of Potential Misstatements of the
+Entity’s Assertions About Its Financial Instruments and Financial
+Instrument Transactions</title>
+    </sectioninfo>
+    <section id="aag-afi8_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.05</titleabbrev>
+        <title role="ps_para_number">8.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor identifies the following seven
+types of potential misstatements of Lane’s assertions about its financial
+instrument transactions:</para>
+      <para role="ps_indent_hang_2">
+        The recorded financial instruments do not exist, and the recorded
+financial instrument transactions did not occur.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Lane does not have the rights and obligations associated with ownership
+of the recorded financial instruments.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        The entity’s financial instruments and financial instrument transactions
+were not recorded.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        The fair value of the recorded financial instruments was determined
+incorrectly.
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Realized and unrealized holding gains and losses are not properly
+reported as earnings.
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Disclosures about financial instruments and financial instrument
+transactions are not adequate.
+        <emphasis role="italic">
+          f.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi_inherent_risk_factors_the" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Inherent Risk Factors the Auditor Considers in Planning
+the Audit</titleabbrev>
+      <title role="ps_sub_heading">Inherent Risk Factors the Auditor Considers
+in Planning the Audit</title>
+    </sectioninfo>
+    <section id="aag-afi8_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.06</titleabbrev>
+        <title role="ps_para_number">8.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">The financial instruments are traded on
+an exchange regulated by the SEC, and the features of the instruments,
+underlying transactions, and accounting considerations are relatively
+straightforward. The auditor assesses inherent risk for all assertions
+about financial instruments and financial instrument transactions
+as low.</para>
+    </section>
+  </section>
+  <section id="aag-afi_timing_of_substantive_procedures" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Timing of Substantive Procedures</titleabbrev>
+      <title role="ps_sub_heading">Timing of Substantive Procedures</title>
+    </sectioninfo>
+    <section id="aag-afi8_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.07</titleabbrev>
+        <title role="ps_para_number">8.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor decides to perform substantive
+procedures for assertions about financial instruments at year-end
+because of the relatively small number of financial instruments and
+financial instrument transactions.</para>
+    </section>
+  </section>
+  <section id="aag-afi_materiality_considerations" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Materiality Considerations</titleabbrev>
+      <title role="ps_sub_heading">Materiality Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi8_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.08</titleabbrev>
+        <title role="ps_para_number">8.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">The carrying amount of the financial instruments
+and the realized and unrealized gains and losses on them are material
+to Lane’s financial statements, but dividends on the financial instruments
+are not material to the financial statements.</para>
+    </section>
+    <section id="aag-afi8_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.09</titleabbrev>
+        <title role="ps_para_number">8.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+         present three scenarios, including the following
+information relevant to the particular scenario:
+        <olink targetptr="aag-afi8_10">Paragraphs
+8.10–.24</olink>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The understanding of controls the auditor needs to
+plan the audit</para>
+        </listitem>
+        <listitem>
+          <para>The auditor’s assessment of control risk</para>
+        </listitem>
+        <listitem>
+          <para>The auditor’s design of procedures, including, when
+applicable, the auditor’s considerations in identifying controls that
+reduce control risk and the procedures the auditor uses to gather
+audit evidence about the operating effectiveness of those controls</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+</root>

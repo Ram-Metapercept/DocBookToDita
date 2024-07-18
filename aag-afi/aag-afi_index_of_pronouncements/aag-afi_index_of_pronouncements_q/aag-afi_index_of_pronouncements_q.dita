@@ -1,0 +1,102 @@
+<root id="aag-afi_index_of_pronouncements_q" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Q</titleabbrev>
+    <title role="ps_main_heading">Q</title>
+  </sectioninfo>
+  <table frame="all" id="aag-afi_index_of_pronouncements_table3" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="6in"/>
+      <colspec colname="c2" colwidth="3in"/>
+      <thead>
+        <row>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">Title</emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">Paragraphs</emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>
+            <para>Q&amp;A Section</para>
+          </entry>
+          <entry align="right">
+            <para/>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">2220.18, "Applicability of Practical Expedient"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi4_37">4.37</olink>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">8200.17, "Obtaining an Understanding of Business
+Processes Relevant to Financial Reporting and Communication"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi3_05">3.05</olink>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">8200.18, "Obtaining an Understanding of the
+Internal Control Relevant to the Audit"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi3_05">3.05</olink>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">8200.19, "Obtaining an Understanding of the
+Controls Relevant to the Audit"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi3_05">3.05</olink>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">8200.20, "Control Activities That Are Always
+Relevant to the Audit"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi3_05">3.05</olink>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para role="ps_indent_1">8200.21, "Control Activities That May Be
+Relevant to the Audit"</para>
+          </entry>
+          <entry align="right">
+            <para>
+              <olink targetptr="aag-afi3_05">3.05</olink>
+            </para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>
