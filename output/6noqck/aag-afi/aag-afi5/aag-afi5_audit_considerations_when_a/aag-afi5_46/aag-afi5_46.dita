@@ -1,0 +1,58 @@
+<root id="aag-afi5_46" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.46</titleabbrev>
+    <title role="ps_para_number">5.46</title>
+  </sectioninfo>
+  <para role="ps_para_number">Paragraph .08 of AU-C section 500B contains
+requirements for the auditor when evaluating evidence from a specialist
+engaged by management. The extent of the auditor’s procedures in relation
+to management’s specialist and that specialist’s work depend on the
+significance of the specialist’s work for the auditor’s purposes.
+Evaluating the appropriateness of management’s specialist’s work assists
+the auditor in assessing whether the prices or valuations supplied
+by management’s specialist provide sufficient appropriate audit evidence
+to support the valuations. Examples of procedures the auditor may
+perform include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>evaluating the competence, capabilities, and objectivity
+of management’s specialist (for example, his or her relationship with
+the entity, reputation and standing in the market, experience with
+the particular types of instruments, and understanding of the relevant
+financial reporting framework applicable to the valuations).</para>
+    </listitem>
+    <listitem>
+      <para>obtaining an understanding of the work of management’s
+specialist (for example, by assessing the appropriateness of the valuation
+technique[s] used and the key market variables and assumptions used
+in the valuation technique[s]).</para>
+    </listitem>
+    <listitem>
+      <para>
+        evaluating the appropriateness of that specialist’s
+work as audit evidence. At this point, the focus is on the appropriateness
+of the specialist’s work at the level of the individual financial
+instrument. For a sample of the relevant instruments, it may be appropriate
+to develop an estimate independently (see  on developing a point estimate or range)
+using different data and assumptions, then compare that estimate with
+that of management’s specialist.
+        <olink targetptr="aag-afi5_48">paragraphs 5.48–.49</olink>
+      </para>
+    </listitem>
+    <listitem>
+      <para>other procedures that may include</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>modeling different assumptions to derive assumptions
+in another model, then considering the reasonableness of those derived
+assumptions.</para>
+    </listitem>
+    <listitem>
+      <para>comparing management’s point estimates with the auditor’s
+point estimates to determine if management’s estimates are consistently
+higher or lower.</para>
+    </listitem>
+  </itemizedlist>
+</root>

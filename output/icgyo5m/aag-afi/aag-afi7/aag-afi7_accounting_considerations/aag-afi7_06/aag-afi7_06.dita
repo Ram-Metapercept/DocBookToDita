@@ -1,0 +1,30 @@
+<root id="aag-afi7_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.06</titleabbrev>
+    <title role="ps_para_number">7.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    When a bond is reclassified as held to
+maturity, the unrealized appreciation or depreciation in its value
+at the date of reclassification continues to be reported as a separate
+component of equity (such as accumulated other comprehensive income).
+However, it is treated as a premium or discount and amortized over
+future years as a yield adjustment. The bond’s amortized cost basis,
+which is its carrying amount, is its $800,000 face amount less the
+unamortized portion of the $150,000 unrealized loss at the date of
+reclassification. Therefore, when the bond matures, its carrying amount
+will be its face amount. In financial statements after the reclassification,
+BEV’s financial statements should disclose, among other things, the
+bond’s amortized cost basis, its fair value, and the unrealized appreciation
+or depreciation in its value. The unrealized appreciation or depreciation
+disclosed in the financial statements should be the difference between
+the bond’s fair value and its new amortized cost basis (that is, the
+fair value at the date of reclassification adjusted for unamortized
+premium or discount).
+    <footnote id="aag-afi7_fn5" label="fn 5" role="number">
+      <para>It may also be viewed as the $650,000 fair value at the date
+of reclassification plus cumulative amortization of the $150,000 unrealized
+loss at the date of reclassification.</para>
+    </footnote>
+  </para>
+</root>

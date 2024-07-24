@@ -1,0 +1,57 @@
+<root id="aag-afi3_use_of_service_organizations" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Use of Service Organizations</titleabbrev>
+    <title role="ps_subsub_heading">Use of Service Organizations</title>
+  </sectioninfo>
+  <section id="aag-afi3_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.14</titleabbrev>
+      <title role="ps_para_number">3.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Entities may use service organizations
+(for example, asset managers) to initiate the purchase or sale of
+financial instruments, maintain records of transactions for the entity,
+or value financial instruments. Some entities may be dependent on
+these service organizations to provide the basis of reporting for
+the financial instruments held. However, if management does not have
+an understanding about the controls in place at a service organization,
+the auditor may not be able to obtain sufficient appropriate audit
+evidence to rely on controls at that service organization. AU-C section
+402B, , establishes requirements
+for the auditor to obtain sufficient appropriate audit evidence when
+an entity uses the services of one or more service organizations.  provide further
+guidance about the use of a service organization.
+      <emphasis role="italic">Audit Considerations Relating to an
+Entity Using a Service Organization</emphasis>
+      <olink targetptr="aag-afi3_40">Paragraphs 3.40–.54</olink>
+    </para>
+  </section>
+  <section id="aag-afi3_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.15</titleabbrev>
+      <title role="ps_para_number">3.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">The use of service organizations may strengthen
+or weaken the control environment for financial instruments. For example,
+a service organization’s personnel may have more experience with financial
+instruments than the entity’s management or more robust internal control
+over financial reporting. The use of the service organization also
+may allow for greater segregation of duties. On the other hand, the
+service organization may have a poor control environment. </para>
+  </section>
+  <section id="aag-afi3_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.16</titleabbrev>
+      <title role="ps_para_number">3.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      , "Illustrative Questions About the Entity’s Controls Over
+Its Financial Instrument Activities," of this guide provides an illustration
+of questions that may be helpful to the auditor in obtaining an understanding
+of an entity’s controls over its financial instrument activities.
+      <olink targetptr="aag-afi_appB">Appendix
+B</olink>
+    </para>
+  </section>
+</root>

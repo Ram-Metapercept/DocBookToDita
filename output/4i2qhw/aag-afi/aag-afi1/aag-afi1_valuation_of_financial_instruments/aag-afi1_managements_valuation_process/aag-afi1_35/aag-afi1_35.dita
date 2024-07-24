@@ -1,0 +1,30 @@
+<root id="aag-afi1_35" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.35</titleabbrev>
+    <title role="ps_para_number">1.35</title>
+  </sectioninfo>
+  <para role="ps_para_number">In many financial reporting frameworks,
+the best evidence of a financial instrument’s fair value is found
+in contemporaneous transactions in an active market (that is, level
+1 inputs). In such cases, the valuation of a financial instrument
+may be relatively simple. Quoted prices for financial instruments
+that are listed on exchanges or traded in liquid OTC markets may be
+available from sources such as financial publications, the exchanges
+themselves, or third-party pricing sources. When using quoted prices,
+it is important that management understand the basis on which the
+quote is given to ensure that the price reflects market conditions
+at the measurement date. Quoted prices obtained from publications
+or exchanges may provide sufficient evidence of fair value when, for
+example, the</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>prices are not out of date or "stale" (for example,
+if the quote is based on the last traded price, and the trade occurred
+some time ago).</para>
+    </listitem>
+    <listitem>
+      <para>quotes are prices at which dealers would actually
+trade the financial instrument with sufficient frequency and volume.</para>
+    </listitem>
+  </itemizedlist>
+</root>

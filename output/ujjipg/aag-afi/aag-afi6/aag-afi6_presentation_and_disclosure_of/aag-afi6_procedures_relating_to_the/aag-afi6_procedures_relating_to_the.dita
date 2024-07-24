@@ -1,0 +1,116 @@
+<root id="aag-afi6_procedures_relating_to_the" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Procedures Relating to the Presentation and Disclosure
+of Financial Instruments</titleabbrev>
+    <title role="ps_sub_heading">Procedures Relating to the Presentation
+and Disclosure of Financial Instruments</title>
+  </sectioninfo>
+  <section id="aag-afi6_09" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.09</titleabbrev>
+      <title role="ps_para_number">6.09</title>
+    </sectioninfo>
+    <para role="ps_para_number">In relation to the presentation and disclosures
+of financial instruments, areas of particular importance include the
+following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Financial reporting frameworks generally require additional
+disclosures regarding estimates and related risks and uncertainties
+to supplement and explain assets, liabilities, income, and expenses.
+The auditor’s focus may need to be on the disclosures relating to
+risks and sensitivity analysis. Information obtained during the auditor’s
+risk assessment procedures and testing of control activities may provide
+evidence in order for the auditor to conclude whether the disclosures
+in the financial statements are in accordance with the requirements
+of the applicable financial reporting framework, such as the following:</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>The entity’s objectives and strategies for using financial
+instruments, including the entity’s stated accounting policies</para>
+      </listitem>
+      <listitem>
+        <para>The entity’s control framework for managing its risks
+associated with financial instruments</para>
+      </listitem>
+      <listitem>
+        <para>The risks and uncertainties associated with the financial
+instruments</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Information may come from systems outside traditional
+financial reporting systems, such as risk systems. Examples of procedures
+that the auditor may choose to perform in responding to assessed risks
+relative to disclosures include testing the</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>process used to derive the disclosed information.</para>
+      </listitem>
+      <listitem>
+        <para>operating effectiveness of the controls over the data
+used in the preparation of disclosures.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          In relation to financial instruments having significant
+risk, even when the disclosures are in accordance with the applicable
+financial reporting framework, the auditor may conclude that the disclosure
+of estimation uncertainty is inadequate in light of the circumstances
+and facts involved, and accordingly, the financial statements may
+not achieve fair presentation. AU-C section 705B, , provides guidance on the implications for the auditor’s
+opinion when the auditor believes management’s disclosures in the
+financial statements are inadequate or misleading.
+          <footnote id="aag-afi6_fn8" label="fn 8" role="number">
+            <para>Paragraph .20 of AU-C section 540B requires the auditor to perform
+further procedures on disclosures relating to accounting estimates
+that give rise to significant risks to evaluate the adequacy of the
+disclosure of estimation uncertainty in the financial statements in
+the context of the applicable financial reporting framework.</para>
+          </footnote>
+          <emphasis role="italic">Modifications to the Opinion in the Independent Auditor’s
+Report</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Auditors may also consider whether the disclosures
+are complete and understandable. (For example, all relevant information
+may be included in the financial statements [or accompanying reports],
+but it may be insufficiently drawn together to enable users of the
+financial statements to obtain an understanding of the position, or
+there may not be enough qualitative disclosure to give context to
+the amounts recorded in the financial statements). For example, even
+when an entity has included sensitivity analysis disclosures, the
+disclosure may not fully describe the risks and uncertainties that
+may arise because of changes in valuation, possible effects on debt
+covenants, collateral requirements, and the entity’s liquidity. Paragraph
+.12 of AU-C section 260B, , contains requirements
+and guidance about communicating with those charged with governance,
+including the auditor’s views about qualitative aspects of the entity’s
+significant accounting practices, including accounting policies, accounting
+estimates, and financial statement disclosures.
+          <emphasis role="italic">The Auditor’s Communication
+With Those Charged With Governance</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi6_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.10</titleabbrev>
+      <title role="ps_para_number">6.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">Consideration of the appropriateness of
+presentation (for example, on short-term and long-term classification)
+in substantive testing of financial instruments is relevant to the
+auditor’s evaluation of the presentation and disclosure.</para>
+  </section>
+</root>

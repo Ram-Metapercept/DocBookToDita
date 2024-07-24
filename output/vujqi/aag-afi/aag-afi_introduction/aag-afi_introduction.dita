@@ -1,0 +1,220 @@
+<root id="aag-afi_introduction" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Introduction</titleabbrev>
+    <title role="ps_section_title">Introduction</title>
+  </chapterinfo>
+  <section id="aag-afi_intro_1" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.1</titleabbrev>
+      <title role="ps_para_number">I.1</title>
+    </sectioninfo>
+    <para role="ps_para_number">Financial instruments may be used by financial
+and nonfinancial entities of all sizes for a variety of purposes.
+Some entities may have large holdings and transaction volumes, but
+other entities may only engage in a few financial instrument transactions.
+Some entities may take positions in financial instruments to assume
+and benefit from risk, but other entities may use financial instruments
+to reduce certain risks by hedging or managing exposures. This Audit
+Guide is relevant to all these situations.</para>
+  </section>
+  <section id="aag-afi_intro_2" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.2</titleabbrev>
+      <title role="ps_para_number">I.2</title>
+    </sectioninfo>
+    <para role="ps_para_number">The following AU-C sections are particularly
+relevant to audits of financial instruments:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          AU-C section 540B, , addresses the auditor’s responsibilities relating to auditing
+accounting estimates, including accounting estimates related to financial
+instruments measured at fair value.
+          <emphasis role="italic">Auditing
+Accounting Estimates, Including Fair Value Accounting Estimates, and
+Related Disclosures</emphasis>
+          <footnote id="aag-afi_introduction_fn1" label="fn 1" role="number">
+            <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of SAS Nos. 134–140 or or the amendments to other
+SASs made by SAS Nos. 134–140 and subsequently issued SASs.</para>
+            <para>
+              All AU-C sections can be found in AICPA .
+              <tab/>
+              <olink targetdoc="ps" targetptr="ps">
+                <emphasis role="italic">Professional
+Standards</emphasis>
+              </olink>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          AU-C section 315B, , and AU-C section 330B, , address identifying and assessing
+risks of material misstatement and responding to those risks.
+          <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement </emphasis>
+          <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          AU-C section 500B, , explains what constitutes audit evidence and addresses the auditor’s
+responsibility to design and perform audit procedures to obtain sufficient
+appropriate audit evidence to be able to draw reasonable conclusions
+on which to base the auditor’s opinion.
+          <emphasis role="italic">Audit Evidence</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          AU-C section 501B, , addresses
+certain specific aspects relating to auditing the valuation of investments
+in securities and derivative instruments. 
+          <emphasis role="italic">Audit Evidence
+— Specific Considerations for Selected Items</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_intro_3" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.3</titleabbrev>
+      <title role="ps_para_number">I.3</title>
+    </sectioninfo>
+    <para role="ps_para_number">The purpose of this Audit Guide is to
+provide</para>
+    <para role="ps_indent_0">Audit Guides provide practical assistance
+to auditors and material that accounting firms can use in developing
+their training programs and internal guidance.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          background information about financial instruments.
+(See , "Gaining an Understanding
+About Financial Instruments.")
+          <olink targetptr="aag-afi1">chapter 1</olink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          discussion of audit considerations relating to financial
+instruments. (See .)
+          <olink targetptr="aag-afi2">chapters 2–11</olink>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_intro_4" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.4</titleabbrev>
+      <title role="ps_para_number">I.4</title>
+    </sectioninfo>
+    <para role="ps_para_number">This Audit Guide is relevant to entities
+of all sizes because all entities may be subject to risks of material
+misstatement when using financial instruments.</para>
+  </section>
+  <section id="aag-afi_intro_5" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.5</titleabbrev>
+      <title role="ps_para_number">I.5</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The guidance on valuation in this Audit Guide is likely to be more relevant for
+financial instruments measured or disclosed at fair value, and the
+guidance on areas other than valuation applies equally to financial
+instruments measured at fair value or amortized cost or accounted
+for under the equity method of accounting. This Audit Guide is also
+applicable to both financial assets and liabilities, but it does not
+address instruments such as
+      <footnote id="aag-afi_introduction_fn2" label="fn 2" role="number">
+        <para>
+          In this Audit Guide, the terms  and  are used interchangeably.
+          <emphasis role="italic">valuation</emphasis>
+          <emphasis role="italic">measurement</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>the simplest financial instruments (for example, cash,
+trade accounts receivable, and trade accounts payable) or</para>
+      </listitem>
+      <listitem>
+        <para>insurance contracts.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_intro_6" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.6</titleabbrev>
+      <title role="ps_para_number">I.6</title>
+    </sectioninfo>
+    <para role="ps_para_number">Also, this Audit Guide does not address
+specific accounting issues relevant to financial instruments, such
+as profit or loss on inception (often known as Day 1 profit or loss),
+offsetting, or risk transfers. Although these subject matters can
+relate to an entity’s accounting for financial instruments, a discussion
+of the auditor’s consideration regarding how to address specific accounting
+requirements is beyond the scope of this Audit Guide.</para>
+  </section>
+  <section id="aag-afi_intro_7" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.7</titleabbrev>
+      <title role="ps_para_number">I.7</title>
+    </sectioninfo>
+    <para role="ps_para_number">An audit in accordance with generally
+accepted auditing standards is conducted on the premise that management
+and, when appropriate, those charged with governance have acknowledged
+certain responsibilities. Such responsibilities subsume making fair
+value measurements. This Audit Guide does not impose responsibilities
+on management or those charged with governance nor does it override
+laws and regulations that govern their responsibilities.</para>
+  </section>
+  <section id="aag-afi_intro_8" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.8</titleabbrev>
+      <title role="ps_para_number">I.8</title>
+    </sectioninfo>
+    <para role="ps_para_number">This Audit Guide has been written in the
+context of general purpose fair presentation financial reporting frameworks
+but may also be useful, as appropriate in the circumstances, in other
+financial reporting frameworks, such as special purpose financial
+reporting frameworks.</para>
+  </section>
+  <section id="aag-afi_intro_9" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.9</titleabbrev>
+      <title role="ps_para_number">I.9</title>
+    </sectioninfo>
+    <para role="ps_para_number">This Audit Guide primarily focuses on
+the assertions related to account balances and presentation and disclosure
+but also covers, in less detail, other assertions related to account
+balances, such as completeness, accuracy, existence, and rights and
+obligations.</para>
+  </section>
+  <section id="aag-afi_intro_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>I.10</titleabbrev>
+      <title role="ps_para_number">I.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Financial instruments are susceptible
+to , which
+is defined in paragraph .07 of AU-C section 540B as "[t]he susceptibility
+of an accounting estimate and related disclosures to an inherent lack
+of precision in its measurement." Estimation uncertainty is affected
+by the complexity of financial instruments, among other factors. The
+nature and reliability of information available to support the measurement
+of financial instruments varies widely, which affects the estimation
+uncertainty associated with their measurement. This Audit Guide uses
+the term  to refer to the estimation uncertainty associated with fair value
+measurements.
+      <emphasis role="italic">estimation uncertainty</emphasis>
+      <emphasis role="italic">measurement uncertainty</emphasis>
+    </para>
+  </section>
+</root>

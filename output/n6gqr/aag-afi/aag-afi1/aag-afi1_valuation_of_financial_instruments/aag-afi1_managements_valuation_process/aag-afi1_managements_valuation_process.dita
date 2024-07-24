@@ -1,0 +1,595 @@
+<root id="aag-afi1_managements_valuation_process" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Management’s Valuation Process</titleabbrev>
+    <title role="ps_sub_heading">Management’s Valuation Process</title>
+  </sectioninfo>
+  <section id="aag-afi1_34" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.34</titleabbrev>
+      <title role="ps_para_number">1.34</title>
+    </sectioninfo>
+    <para role="ps_para_number">Techniques that management may use to
+value the entity’s financial instruments include observable prices,
+recent transactions, and models that use observable or unobservable
+inputs. Management may also make use of a</para>
+    <para role="ps_indent_0">Third-party pricing sources and valuation
+specialists may use one or more of these valuation techniques.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>third-party pricing source, such as a pricing service
+or broker quote.</para>
+      </listitem>
+      <listitem>
+        <para>valuation specialist.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_35" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.35</titleabbrev>
+      <title role="ps_para_number">1.35</title>
+    </sectioninfo>
+    <para role="ps_para_number">In many financial reporting frameworks,
+the best evidence of a financial instrument’s fair value is found
+in contemporaneous transactions in an active market (that is, level
+1 inputs). In such cases, the valuation of a financial instrument
+may be relatively simple. Quoted prices for financial instruments
+that are listed on exchanges or traded in liquid OTC markets may be
+available from sources such as financial publications, the exchanges
+themselves, or third-party pricing sources. When using quoted prices,
+it is important that management understand the basis on which the
+quote is given to ensure that the price reflects market conditions
+at the measurement date. Quoted prices obtained from publications
+or exchanges may provide sufficient evidence of fair value when, for
+example, the</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>prices are not out of date or "stale" (for example,
+if the quote is based on the last traded price, and the trade occurred
+some time ago).</para>
+      </listitem>
+      <listitem>
+        <para>quotes are prices at which dealers would actually
+trade the financial instrument with sufficient frequency and volume.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_36" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.36</titleabbrev>
+      <title role="ps_para_number">1.36</title>
+    </sectioninfo>
+    <para role="ps_para_number">When no current observable market price
+for the financial instrument (that is, a level 1 input) exists, it
+will be necessary for the entity to gather other price indicators
+to use in a valuation technique to value the financial instrument.
+Price indicators may include</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>recent transactions, including transactions after
+the date of the financial statements in the same instrument. Consideration
+is given to whether an adjustment needs to be made for changes in
+market conditions between the measurement date and the date the transaction
+was made because these transactions are not necessarily indicative
+of the market conditions that existed at the date of the financial
+statements. In addition, it is possible the transaction represents
+a forced transaction and, therefore, is not indicative of a price
+in an orderly trade.</para>
+      </listitem>
+      <listitem>
+        <para>current or recent transactions in similar instruments,
+often known as proxy pricing. Adjustments will need to be made to
+the price of the proxy to reflect the differences between it and the
+instrument being priced (for example, to take account of differences
+in liquidity or credit risk between the two instruments).</para>
+      </listitem>
+      <listitem>
+        <para>indexes for similar instruments. As with transactions
+in similar instruments, adjustments will need to be made to reflect
+the difference between the instrument being priced and the instrument(s)
+from which the index used is derived.</para>
+      </listitem>
+      <listitem>
+        <para>transactions in the financial instrument occurring
+on thinly traded markets, such as OTC or bulletin board exchanges.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_37" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.37</titleabbrev>
+      <title role="ps_para_number">1.37</title>
+    </sectioninfo>
+    <para role="ps_para_number">Management is expected to document its
+valuation policies and model used to value a particular financial
+instrument, including the rationale for the model(s) used, the selection
+of assumptions in the valuation methodology, and the entity’s consideration
+of whether adjustments for measurement uncertainty are necessary. </para>
+  </section>
+  <section id="aag-afi1_models" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Models</titleabbrev>
+      <title role="ps_subsub_heading">Models</title>
+    </sectioninfo>
+    <section id="aag-afi1_38" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.38</titleabbrev>
+        <title role="ps_para_number">1.38</title>
+      </sectioninfo>
+      <para role="ps_para_number">Models may be used to value financial
+instruments when the price cannot be directly observed in the market.
+Models can be as simple as a commonly used bond pricing formula or
+involve complex, specifically developed software tools to value financial
+instruments with level 3 inputs. Many models are based on discounted
+cash flow calculations. </para>
+    </section>
+    <section id="aag-afi1_39" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.39</titleabbrev>
+        <title role="ps_para_number">1.39</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Examples of models that are often used
+are Black-Scholes, which is frequently used for option pricing, and
+the zero-coupon method, which is often used for estimating the fair
+value of interest rate swaps. , "Information About the Black-Scholes Valuation Model,"
+and , "Information
+About the Zero-Coupon Valuation Model," of this guide provide more
+information about the Black-Scholes and zero-coupon method.
+        <olink targetptr="aag-afi_appD">Appendix
+D</olink>
+        <olink targetptr="aag-afi_appE">appendix E</olink>
+      </para>
+    </section>
+    <section id="aag-afi1_40" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.40</titleabbrev>
+        <title role="ps_para_number">1.40</title>
+      </sectioninfo>
+      <para role="ps_para_number">Models comprise a methodology, assumptions,
+and data. The methodology describes rules or principles governing
+the relationship between the variables in the valuation. Assumptions
+include estimates of uncertain variables that are used in the model.
+Data may comprise actual or hypothetical information about the financial
+instrument or other inputs to the financial instrument.</para>
+    </section>
+    <section id="aag-afi1_41" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.41</titleabbrev>
+        <title role="ps_para_number">1.41</title>
+      </sectioninfo>
+      <para role="ps_para_number">Depending on the circumstances, matters
+that the entity may address when establishing or validating a model
+for a financial instrument include whether</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>the model is validated prior to usage, with periodic
+reviews to ensure that it is still suitable for its intended use.
+The entity’s validation process may include evaluation of the</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>methodology’s theoretical soundness and mathematical
+integrity, including the appropriateness of parameters and sensitivities.</para>
+        </listitem>
+        <listitem>
+          <para>consistency and completeness of the model’s inputs
+with market practices and whether the appropriate inputs are available
+for use in the model.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>appropriate change control policies, procedures, and
+security controls over the model exist.</para>
+        </listitem>
+        <listitem>
+          <para>the model is appropriately changed or adjusted on
+a timely basis for changes in market conditions.</para>
+        </listitem>
+        <listitem>
+          <para>the model is periodically calibrated, reviewed, and
+tested for validity by a separate and objective function. Doing so
+is a means of ensuring that the model’s output is a fair representation
+of the value that marketplace participants would ascribe to a financial
+instrument.</para>
+        </listitem>
+        <listitem>
+          <para>the model maximizes the use of relevant observable
+inputs and minimizes the use of unobservable inputs.</para>
+        </listitem>
+        <listitem>
+          <para>adjustments are made to the output of the model to
+reflect the assumptions that marketplace participants would use in
+similar circumstances.</para>
+        </listitem>
+        <listitem>
+          <para>the model is adequately documented, including the
+model’s intended applications and limitations and its key parameters,
+required data, results of any validation analysis performed, and any
+adjustments made to the output of the model.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_an_example_of_a" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>An Example of a Common Financial Instrument</titleabbrev>
+      <title role="ps_subsub_heading">An Example of a Common Financial Instrument</title>
+    </sectioninfo>
+    <section id="aag-afi1_42" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.42</titleabbrev>
+        <title role="ps_para_number">1.42</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The following describes how models may
+be applied to value a common financial instrument, known as an asset-backed
+security. Because asset-backed securities are often valued based
+on level 2 or level 3 inputs, they are frequently valued using models
+and involve understanding the
+        <footnote id="aag-afi1_fn6" label="fn 6" role="number">
+          <para>
+            An  is
+a financial instrument that is backed by a pool of underlying assets
+(known as the collateral, such as credit card receivables or vehicle
+loans) and that derives value and income from those underlying assets.
+            <emphasis role="italic">asset-backed security</emphasis>
+          </para>
+        </footnote>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>type of security, considering the underlying collateral
+and the terms of the security. The underlying collateral is used to
+estimate the timing and amounts of cash flows, such as mortgage or
+credit card interest and principal payments.</para>
+        </listitem>
+        <listitem>
+          <para>terms of the security. This includes evaluating contractual
+cash flow rights, such as the order of repayment, and any default
+events. The order of repayment, often known as seniority, refers to
+terms that require that some classes of security holders (senior debt)
+are repaid before others (subordinated debt). The rights of each class
+of security holder to the cash flows, frequently referred to as the
+cash flow "waterfall," together with assumptions of the timing and
+amount of cash flows, are used to derive a set of estimated cash flows
+for each class of security holder. The expected cash flows are then
+discounted to derive an estimated fair value.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_43" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.43</titleabbrev>
+        <title role="ps_para_number">1.43</title>
+      </sectioninfo>
+      <para role="ps_para_number">The cash flows of an asset-backed security
+may be affected by prepayments of the underlying collateral and potential
+default risk and resulting estimated loss reserves. Prepayment assumptions,
+if applicable, are generally based on evaluating market interest rates
+for similar collateral to the rates on the collateral underlying the
+security. For example, if market interest rates for mortgages have
+declined, then the underlying mortgages in a security may experience
+higher prepayment rates than originally expected. Estimating potential
+default and loss reserve involves close evaluation of the underlying
+collateral and borrowers to estimate default rates. For example, when
+the underlying collateral comprises residential mortgages, loss reserves
+may be affected by estimates of residential housing prices over the
+term of the security.</para>
+    </section>
+  </section>
+  <section id="aag-afi1_third_party_pricing_sources" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Third-Party Pricing Sources</titleabbrev>
+      <title role="ps_subsub_heading">Third-Party Pricing Sources</title>
+    </sectioninfo>
+    <section id="aag-afi1_44" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.44</titleabbrev>
+        <title role="ps_para_number">1.44</title>
+      </sectioninfo>
+      <para role="ps_para_number">Entities may use third-party pricing sources
+in order to obtain fair value information. The preparation of an entity’s
+financial statements, including the valuation of financial instruments
+and the preparation of financial statement disclosures relating to
+these instruments, may require expertise that management does not
+possess. Entities may not be able to develop appropriate valuation
+techniques, including models that may be used in a valuation, and
+may use a third-party pricing source to arrive at a valuation or provide
+disclosures for the financial statements. This may particularly be
+the case in smaller entities or entities that do not engage in a high
+volume of financial instrument transactions (for example, nonfinancial
+institutions with treasury departments). Even though management has
+used a third-party pricing source, management is ultimately responsible
+for the valuation and establishing internal control over the valuation
+process.</para>
+    </section>
+    <section id="aag-afi1_45" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.45</titleabbrev>
+        <title role="ps_para_number">1.45</title>
+      </sectioninfo>
+      <para role="ps_para_number">Third-party pricing sources may also be
+used because the volume of financial instruments to price over a short
+time frame may not be possible by the entity. This is often the case
+for traded investment funds that must determine a net asset value
+each day. In other cases, management may have its own pricing process
+but use third-party pricing sources to corroborate its own valuations.</para>
+    </section>
+    <section id="aag-afi1_46" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.46</titleabbrev>
+        <title role="ps_para_number">1.46</title>
+      </sectioninfo>
+      <para role="ps_para_number">For one or more of these reasons, most
+entities use third-party pricing sources when valuing financial instruments
+either as a primary source or a source of corroboration for their
+own valuations. Third-party pricing sources generally fall into the
+following categories:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Pricing services, including consensus pricing services</para>
+        </listitem>
+        <listitem>
+          <para>Brokers providing broker quotes</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_pricing_services" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Pricing Services</titleabbrev>
+      <title role="ps_subsub_heading">Pricing Services</title>
+    </sectioninfo>
+    <section id="aag-afi1_47" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.47</titleabbrev>
+        <title role="ps_para_number">1.47</title>
+      </sectioninfo>
+      <para role="ps_para_number">Pricing services provide entities with
+prices and price-related data for a variety of financial instruments,
+often performing daily valuations of large numbers of financial instruments.
+These valuations may be made by collecting market data and prices
+from a wide variety of sources, including market makers, and, in certain
+instances, by using internal valuation techniques to derive estimated
+fair values. Pricing services may combine a number of approaches to
+arrive at a price and are often used as a source of prices based on
+level 2 inputs. Pricing services may have strong controls around how
+prices are developed, and their customers often include a wide variety
+of parties, including buy-and-sell side investors, auditors, and others.</para>
+    </section>
+    <section id="aag-afi1_48" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.48</titleabbrev>
+        <title role="ps_para_number">1.48</title>
+      </sectioninfo>
+      <para role="ps_para_number">Pricing services often have a formalized
+process for customers to challenge the prices received from the pricing
+services. These challenge processes usually require the customer to
+provide evidence to support an alternative price, with challenges
+categorized based on the quality of evidence provided. For example,
+a challenge based on a recent sale of that instrument the pricing
+service was not aware of may be upheld, whereas a challenge based
+on a customer’s own valuation technique may be more heavily scrutinized.
+In this way, a pricing service with a large number of leading participants,
+both buy and sell side, may be able to constantly correct prices to
+more fully reflect the information available to market participants.</para>
+    </section>
+  </section>
+  <section id="aag-afi1_consensus_pricing_services" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Consensus Pricing Services</titleabbrev>
+      <title role="ps_subsub_heading">Consensus Pricing Services</title>
+    </sectioninfo>
+    <section id="aag-afi1_49" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.49</titleabbrev>
+        <title role="ps_para_number">1.49</title>
+      </sectioninfo>
+      <para role="ps_para_number">Some entities may use pricing data from
+consensus pricing services, which differ from other pricing services.
+Consensus pricing services obtain pricing information about an instrument
+from several participating entities (subscribers). Each subscriber
+submits prices to the pricing service. The pricing service treats
+this information confidentially and returns to each subscriber the
+consensus price, which is usually an arithmetical average of the data
+after a data-cleansing routine has been employed to eliminate outliers.
+For some markets, such as exotic derivatives, consensus prices might
+constitute the best available data. However, many factors are considered
+when assessing the representational faithfulness of the consensus
+prices, including, for example</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>whether the prices submitted by the subscribers reflect
+actual transactions or just indicative prices based on their own valuation
+techniques.</para>
+        </listitem>
+        <listitem>
+          <para>the number of sources from which prices have been
+obtained.</para>
+        </listitem>
+        <listitem>
+          <para>the quality of the sources used by the consensus pricing
+service.</para>
+        </listitem>
+        <listitem>
+          <para>whether participants include leading market participants.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_50" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.50</titleabbrev>
+        <title role="ps_para_number">1.50</title>
+      </sectioninfo>
+      <para role="ps_para_number">Typically, consensus prices are only available
+to subscribers who have submitted their own prices to the service.
+Accordingly, not all entities will have direct access to consensus
+prices. Because a subscriber generally cannot know how the prices
+submitted were estimated, other sources of evidence in addition to
+information from consensus pricing services may be needed for management
+to support its valuation. In particular, this may be the case if the
+sources are providing indicative prices based on their own valuation
+techniques, and management is unable to obtain an understanding of
+how these sources calculated their prices.</para>
+    </section>
+  </section>
+  <section id="aag-afi1_brokers_providing_broker_quotes" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Brokers Providing Broker Quotes</titleabbrev>
+      <title role="ps_subsub_heading">Brokers Providing Broker Quotes</title>
+    </sectioninfo>
+    <section id="aag-afi1_51" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.51</titleabbrev>
+        <title role="ps_para_number">1.51</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Because brokers provide quotes only as
+an incidental service for their clients, quotes they provide differ
+in many respects from prices obtained in pricing services. Brokers
+may be unwilling to provide information about the process used to
+develop their quote but may have access to information on transactions
+about which a pricing service may not be aware. Broker quotes may
+be executable or indicative.  are a broker’s best estimate of fair value, whereas an executable
+quote shows that the broker is willing to transact at this price.
+Executable quotes are strong evidence of fair value. Indicative quotes
+are less so because of the lack of transparency into the methods used
+by the broker to establish the quote. In addition the rigor of controls
+over the brokers’ quote often will differ depending on whether the
+broker also holds the same security in his or her own portfolio. Broker
+quotes are often used for financial instruments with level 3 inputs
+and sometimes may be the only external information available.
+        <emphasis role="italic">Indicative quotes</emphasis>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi1_further_considerations_relating_to" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Further Considerations Relating to Third-Party Pricing
+Sources</titleabbrev>
+      <title role="ps_subsub_heading">Further Considerations Relating to
+Third-Party Pricing Sources</title>
+    </sectioninfo>
+    <section id="aag-afi1_52" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.52</titleabbrev>
+        <title role="ps_para_number">1.52</title>
+      </sectioninfo>
+      <para role="ps_para_number">Understanding how the pricing sources
+calculated a price enables management to determine whether such information
+is suitable for use in its valuation, including as an input to a valuation
+technique and in what level of inputs the security should be categorized
+for disclosure purposes. For example, third-party pricing sources
+may value financial instruments using proprietary models, and it is
+important that management understands the methodology, assumptions,
+and data used.</para>
+    </section>
+    <section id="aag-afi1_53" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.53</titleabbrev>
+        <title role="ps_para_number">1.53</title>
+      </sectioninfo>
+      <para role="ps_para_number">If fair value measurements obtained from
+third-party pricing sources are not based on the current prices of
+an active market, it will be necessary for management to evaluate
+whether the fair value measurements were derived in a manner that
+is consistent with the applicable financial reporting framework. Management’s
+understanding of the fair value measurement may include</para>
+      <para role="ps_indent_0">Understanding the bases on which third-party
+pricing sources have determined their quotes in the context of the
+particular financial instruments held by the entity assists management
+in evaluating the relevance and reliability of this evidence to support
+its valuations.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>how the fair value measurement was determined (for
+example, whether the fair value measurement was determined by a valuation
+technique in order to assess whether it is consistent with the fair
+value measurement objective).</para>
+        </listitem>
+        <listitem>
+          <para>whether the quotes are indicative prices, indicative
+spread, or binding offers.</para>
+        </listitem>
+        <listitem>
+          <para>how frequently the fair value measurement is estimated
+by the third-party pricing sources in order to assess whether it reflects
+market conditions at the measurement date.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_54" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.54</titleabbrev>
+        <title role="ps_para_number">1.54</title>
+      </sectioninfo>
+      <para role="ps_para_number">Disparities may exist between price indicators
+from different sources. Understanding how the price indicators were
+derived and investigating these disparities assists management in
+corroborating the evidence used in developing its valuation of financial
+instruments in order to evaluate whether the valuation is reasonable.
+Simply taking the average of the quotes provided without doing further
+research may not be appropriate because one price in the range may
+be the most representative of fair value, and this may not be the
+average. To evaluate whether its valuations of financial instruments
+are reasonable, management may</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>consider whether actual transactions represent forced
+transactions rather than transactions between willing buyers and sellers.
+This may invalidate the price as a comparison.</para>
+        </listitem>
+        <listitem>
+          <para>analyze the expected future cash flows of the instrument.
+This could be performed as an indicator of the most relevant pricing
+data.</para>
+        </listitem>
+        <listitem>
+          <para>depending on the nature of what is unobservable, extrapolate
+from observed prices to unobserved ones (for example, there may be
+observed prices for maturities up to 10 years but not longer, but
+the 10-year price curve may be capable of being extrapolated beyond
+10 years as an indicator). Care is needed to ensure that extrapolation
+is not carried so far beyond the observable curve that its link to
+observable prices becomes too tenuous to be reliable.</para>
+        </listitem>
+        <listitem>
+          <para>compare prices within a portfolio of financial instruments
+with each other to make sure they are consistent among similar financial
+instruments.</para>
+        </listitem>
+        <listitem>
+          <para>use more than one model to corroborate the results
+from each one, considering the data and assumptions used in each.</para>
+        </listitem>
+        <listitem>
+          <para>evaluate movements in the prices for related hedging
+instruments and collateral.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_use_of_valuation_specialists" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Use of Valuation Specialists</titleabbrev>
+      <title role="ps_subsub_heading">Use of Valuation Specialists</title>
+    </sectioninfo>
+    <section id="aag-afi1_55" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.55</titleabbrev>
+        <title role="ps_para_number">1.55</title>
+      </sectioninfo>
+      <para role="ps_para_number">Management may engage a valuation specialist
+from an investment bank, a broker, or another valuation firm to value
+some or all of the entity’s financial instruments. Unlike pricing
+services and broker quotes, generally, the methodology and data used
+are more readily available to management when it has engaged a specialist
+to perform a valuation on its behalf. Even though management has engaged
+a specialist, management is ultimately responsible for the valuation
+used.</para>
+    </section>
+  </section>
+</root>

@@ -1,0 +1,57 @@
+<root id="aag-afi3_30" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.30</titleabbrev>
+    <title role="ps_para_number">3.30</title>
+  </sectioninfo>
+  <para role="ps_para_number">Segregation of duties and the assignment
+of personnel is an important control activity, particularly when exposed
+to financial instruments. Financial instrument activities may be segregated
+into a number of functions, including the following:</para>
+  <para role="ps_indent_hang_2">
+    Executing the transaction (dealing). In entities with a high volume
+of financial instrument transactions, this may be done by the sales
+function.
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Initiating cash payments and accepting cash receipts (settlements).
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Sending out trade confirmations and reconciling the differences between
+the entity’s records and replies from counterparties, if any.
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Recording correctly all transactions in the accounting records.
+    <emphasis role="italic">
+      d.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Monitoring risk limits. In entities with a high volume of financial
+instrument transactions, this may be performed by the risk management
+function.
+    <emphasis role="italic">
+      e.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Monitoring positions and valuing financial instruments.
+    <emphasis role="italic">
+      f.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

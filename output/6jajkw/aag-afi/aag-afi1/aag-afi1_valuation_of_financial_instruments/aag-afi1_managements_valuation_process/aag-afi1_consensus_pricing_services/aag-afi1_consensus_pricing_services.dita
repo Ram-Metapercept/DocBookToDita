@@ -1,0 +1,58 @@
+<root id="aag-afi1_consensus_pricing_services" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Consensus Pricing Services</titleabbrev>
+    <title role="ps_subsub_heading">Consensus Pricing Services</title>
+  </sectioninfo>
+  <section id="aag-afi1_49" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.49</titleabbrev>
+      <title role="ps_para_number">1.49</title>
+    </sectioninfo>
+    <para role="ps_para_number">Some entities may use pricing data from
+consensus pricing services, which differ from other pricing services.
+Consensus pricing services obtain pricing information about an instrument
+from several participating entities (subscribers). Each subscriber
+submits prices to the pricing service. The pricing service treats
+this information confidentially and returns to each subscriber the
+consensus price, which is usually an arithmetical average of the data
+after a data-cleansing routine has been employed to eliminate outliers.
+For some markets, such as exotic derivatives, consensus prices might
+constitute the best available data. However, many factors are considered
+when assessing the representational faithfulness of the consensus
+prices, including, for example</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>whether the prices submitted by the subscribers reflect
+actual transactions or just indicative prices based on their own valuation
+techniques.</para>
+      </listitem>
+      <listitem>
+        <para>the number of sources from which prices have been
+obtained.</para>
+      </listitem>
+      <listitem>
+        <para>the quality of the sources used by the consensus pricing
+service.</para>
+      </listitem>
+      <listitem>
+        <para>whether participants include leading market participants.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_50" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.50</titleabbrev>
+      <title role="ps_para_number">1.50</title>
+    </sectioninfo>
+    <para role="ps_para_number">Typically, consensus prices are only available
+to subscribers who have submitted their own prices to the service.
+Accordingly, not all entities will have direct access to consensus
+prices. Because a subscriber generally cannot know how the prices
+submitted were estimated, other sources of evidence in addition to
+information from consensus pricing services may be needed for management
+to support its valuation. In particular, this may be the case if the
+sources are providing indicative prices based on their own valuation
+techniques, and management is unable to obtain an understanding of
+how these sources calculated their prices.</para>
+  </section>
+</root>

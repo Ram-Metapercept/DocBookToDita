@@ -1,0 +1,47 @@
+<root id="aag-afi3_03" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.03</titleabbrev>
+    <title role="ps_para_number">3.03</title>
+  </sectioninfo>
+  <para role="ps_para_number">AU-C section 315B explains that the division
+of internal control into the following five components, for purposes
+of generally accepted accounting standards, provides a useful framework
+for auditors when considering how different aspects of an entity’s
+internal control may affect the audit:</para>
+  <para role="ps_indent_hang_2">
+    The control environment
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    The entity’s risk assessment process
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    The information system, including the related business processes
+relevant to financial reporting and communication
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Control activities
+    <emphasis role="italic">
+      d.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Monitoring of controls
+    <emphasis role="italic">
+      e.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

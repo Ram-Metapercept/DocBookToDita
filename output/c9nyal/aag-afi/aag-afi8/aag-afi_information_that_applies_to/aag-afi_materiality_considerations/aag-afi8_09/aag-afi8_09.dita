@@ -1,0 +1,27 @@
+<root id="aag-afi8_09" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.09</titleabbrev>
+    <title role="ps_para_number">8.09</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+     present three scenarios, including the following
+information relevant to the particular scenario:
+    <olink targetptr="aag-afi8_10">Paragraphs
+8.10–.24</olink>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The understanding of controls the auditor needs to
+plan the audit</para>
+    </listitem>
+    <listitem>
+      <para>The auditor’s assessment of control risk</para>
+    </listitem>
+    <listitem>
+      <para>The auditor’s design of procedures, including, when
+applicable, the auditor’s considerations in identifying controls that
+reduce control risk and the procedures the auditor uses to gather
+audit evidence about the operating effectiveness of those controls</para>
+    </listitem>
+  </itemizedlist>
+</root>

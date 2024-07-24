@@ -1,0 +1,64 @@
+<root id="aag-afi4_15" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.15</titleabbrev>
+    <title role="ps_para_number">4.15</title>
+  </sectioninfo>
+  <para role="ps_para_number">Designing substantive procedures includes
+consideration of</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        the use of analytical procedures. Although analytical procedures undertaken by the auditor
+can be effective as risk assessment procedures to provide the auditor
+with information about an entity’s business, they may be less effective
+as substantive procedures when performed alone because the complex
+interplay of the drivers of the valuation often mask any unusual trends
+that might arise.
+        <footnote id="aag-afi4_fn5" label="fn 5" role="number">
+          <para>
+            Paragraph .06 of AU-C section
+315B requires the auditor to apply analytical procedures as risk assessment
+procedures to assist in assessing the risks of material misstatement
+in order to provide a basis for designing and implementing responses
+to the assessed risks. Paragraph .06 of AU-C section 520B, , requires the auditor
+to use analytical procedures in forming an overall conclusion on the
+financial statements. Analytical procedures may also be applied at
+other stages of the audit.
+            <emphasis role="italic">b</emphasis>
+            <emphasis role="italic">Analytical Procedures</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+    <listitem>
+      <para>nonroutine transactions. Many financial transactions
+are negotiated contracts between an entity and its counterparty (often
+known as over the counter [OTC]). To the extent that financial instrument
+transactions are not routine and outside an entity’s normal activities,
+a substantive audit approach may be the most effective means of achieving
+the planned audit objectives. In instances when financial instrument
+transactions are not undertaken routinely, the auditor’s responses
+to assessed risk, including designing and performing audit procedures,
+take into consideration the entity’s possible lack of experience in
+this area. </para>
+    </listitem>
+    <listitem>
+      <para>availability of evidence. For example, when the entity
+uses a third-party pricing source, evidence concerning the relevant
+financial statement assertions may not be available from the entity.</para>
+    </listitem>
+    <listitem>
+      <para>procedures performed in other audit areas. Procedures
+performed in other financial statement areas may provide evidence
+about the completeness of financial instrument transactions. These
+procedures may include tests of subsequent cash receipts and payments
+and the search for unrecorded liabilities.</para>
+    </listitem>
+    <listitem>
+      <para>the selection of items for testing. In some cases,
+the financial instrument portfolio will comprise instruments with
+varying complexity and risk. In such cases, judgmental selection of
+items may be useful.</para>
+    </listitem>
+  </itemizedlist>
+</root>

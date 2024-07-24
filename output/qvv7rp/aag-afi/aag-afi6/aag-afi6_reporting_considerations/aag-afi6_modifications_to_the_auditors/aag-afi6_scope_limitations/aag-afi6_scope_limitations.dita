@@ -1,0 +1,75 @@
+<root id="aag-afi6_scope_limitations" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Scope Limitations</titleabbrev>
+    <title role="ps_subsub_heading">Scope Limitations</title>
+  </sectioninfo>
+  <section id="aag-afi6_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.19</titleabbrev>
+      <title role="ps_para_number">6.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s objective is to obtain sufficient
+appropriate audit evidence to provide a reasonable basis for forming
+an opinion. There are often significant challenges to management obtaining
+sufficient information to support its assertions relevant to financial
+instruments, and auditors will face similar challenges in obtaining
+audit evidence and evaluating its sufficiency. The amounts and types
+of audit evidence necessary to support an opinion are matters for
+the auditor to determine in the exercise of his or her professional
+judgment after careful study of the particular circumstances. In evaluating
+audit evidence, the auditor may consider whether the specific audit
+objectives have been met. The consideration might include such factors
+as</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>the significance of the financial instruments for
+which neither the underlying detail nor audited financial statements
+were available as of the balance sheet date.</para>
+      </listitem>
+      <listitem>
+        <para>the adequacy of management’s process and related internal
+control.</para>
+      </listitem>
+      <listitem>
+        <para>timeliness of the estimated fair value of the underlying
+financial instruments.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi6_20" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.20</titleabbrev>
+      <title role="ps_para_number">6.20</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s justification for the expression
+of his or her opinion rests on the conformity of the audit with generally
+accepted auditing standards (GAAS). When a significant amount of financial
+instruments are stated at estimated fair value, the auditor may consider
+both the uncertainties inherent in the financial instrument valuations
+and the extent of audit evidence supporting those valuations. The
+assessment of reasonableness of valuations considers their effects
+on the financial statements as a whole, not solely the investment
+caption in the financial statements. If the auditor is unable to obtain
+sufficient appropriate audit evidence to support the financial statement
+assertions, it will be necessary to modify an opinion on the financial
+statements due to a scope limitation. </para>
+  </section>
+  <section id="aag-afi6_21" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.21</titleabbrev>
+      <title role="ps_para_number">6.21</title>
+    </sectioninfo>
+    <para role="ps_para_number">Scope limitations related to sufficiency
+of evidence are different from situations in which the auditor concludes
+that the financial statements are materially misstated due to departures
+from the applicable financial reporting framework related to inadequate
+disclosure of uncertainties inherent in the financial instrument valuations,
+failure to apply a valuation method required by the applicable financial
+reporting framework, or valuations that are not supported or reasonable.
+If the potential effect of the applicable financial reporting framework
+departure is material to the investor entity’s financial statements
+as a whole, the auditor is required to issue a qualified opinion or
+an adverse opinion, as described in paragraph .09 of AU-C section
+705B.</para>
+  </section>
+</root>

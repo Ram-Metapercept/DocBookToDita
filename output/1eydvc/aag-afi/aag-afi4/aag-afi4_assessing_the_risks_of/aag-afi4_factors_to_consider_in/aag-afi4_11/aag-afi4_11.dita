@@ -1,0 +1,35 @@
+<root id="aag-afi4_11" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.11</titleabbrev>
+    <title role="ps_para_number">4.11</title>
+  </sectioninfo>
+  <para role="ps_para_number">In those entities with relatively few
+financial instrument transactions</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>management and those charged with governance may have
+only a limited understanding of financial instruments and how they
+affect the business.</para>
+    </listitem>
+    <listitem>
+      <para>the entity may only have a few different types of
+instruments, with little or no interaction between them.</para>
+    </listitem>
+    <listitem>
+      <para>
+        there is unlikely to be a complex control environment
+(for example, the controls described in , "Internal Control," of this guide may not be in
+place at the entity).
+        <olink targetptr="aag-afi3">chapter 3</olink>
+      </para>
+    </listitem>
+    <listitem>
+      <para>management may use pricing information from third-party
+pricing sources to value their instruments.</para>
+    </listitem>
+    <listitem>
+      <para>controls over the use of pricing information from
+third-party pricing sources may be less sophisticated.</para>
+    </listitem>
+  </itemizedlist>
+</root>

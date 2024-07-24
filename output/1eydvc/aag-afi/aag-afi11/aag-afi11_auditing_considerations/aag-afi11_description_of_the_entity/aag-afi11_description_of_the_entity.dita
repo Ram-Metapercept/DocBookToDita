@@ -1,0 +1,227 @@
+<root id="aag-afi11_description_of_the_entity" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Description of the Entity</titleabbrev>
+    <title role="ps_sub_heading">Description of the Entity</title>
+  </sectioninfo>
+  <section id="aag-afi11_23" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.23</titleabbrev>
+      <title role="ps_para_number">11.23</title>
+    </sectioninfo>
+    <para role="ps_para_number">Austin-Jhanes is a U.S. manufacturer that
+sells its products both domestically and outside the United States.
+Its foreign sales are denominated in foreign currencies, although
+its functional currency is the U.S. dollar.</para>
+  </section>
+  <section id="aag-afi11_24" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.24</titleabbrev>
+      <title role="ps_para_number">11.24</title>
+    </sectioninfo>
+    <para role="ps_para_number">The entity uses derivatives regularly
+to hedge forecasted foreign currency-denominated sales and purchases
+of raw materials. Derivatives are used to a lesser extent for management
+of U.S. interest rate risk (for example, converting fixed-rate debt
+to floating debt using interest rate swaps). (For purposes of this
+case study, only the accounting for the hedging of a forecasted foreign
+currency-denominated sale is illustrated.) Derivatives are not used
+for investment purposes.</para>
+  </section>
+  <section id="aag-afi11_25" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.25</titleabbrev>
+      <title role="ps_para_number">11.25</title>
+    </sectioninfo>
+    <para role="ps_para_number">The board of directors has authorized
+management of Austin-Jhanes to enter into derivatives for hedging
+purposes, and the board receives periodic reports on the intent of
+usage, as well as hedge effectiveness.</para>
+  </section>
+  <section id="aag-afi11_26" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.26</titleabbrev>
+      <title role="ps_para_number">11.26</title>
+    </sectioninfo>
+    <para role="ps_para_number">All derivatives transactions are executed
+through a centralized group of traders that reports to the CFO. The
+traders and CFO are very knowledgeable about derivatives. There is
+a formal risk management process for derivatives. Austin-Jhanes has
+systems in place to monitor the risks being hedged, as well as the
+ongoing effectiveness of the hedges. The trading desk executes derivatives
+transactions only with counterparties that have been approved after
+careful assessment of creditworthiness. There are limits on the credit
+exposure to any one counterparty and the extent to which derivatives
+can be used to hedge a given exposure.</para>
+  </section>
+  <section id="aag-afi11_27" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.27</titleabbrev>
+      <title role="ps_para_number">11.27</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . Because of senior management’s integrity and ethical values, its
+commitment to competence, its active involvement with the business,
+its philosophy and operating style, and the operating structure it
+has imposed, Austin-Jhanes’ overall control environment is sound.
+      <emphasis role="italic">Control environment</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_28" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.28</titleabbrev>
+      <title role="ps_para_number">11.28</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . Austin-Jhanes’ CFO conducts weekly meetings with the derivatives
+traders to discuss the financial markets generally and to assess the
+entity’s position in derivatives, including ongoing hedge effectiveness.
+This discussion includes an assessment of the valuation of the derivatives,
+as well as the hedged exposures, with particular emphasis on derivatives
+and exposures that are not exchange traded or are traded in a broad
+interbank market. Sales forecasts, significant forecasted transactions,
+and other issues also are discussed in order to plan for required
+upcoming hedging activities. The use of new types of derivatives or
+the execution of transactions with new counterparties must be discussed
+with, and approved by, the CFO.
+      <emphasis role="italic">Risk assessment</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_29" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.29</titleabbrev>
+      <title role="ps_para_number">11.29</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . Control activities include, among other things, the following:
+      <emphasis role="italic">Control activities</emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Controls have been implemented with respect to control
+objectives of</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>completeness of records.</para>
+      </listitem>
+      <listitem>
+        <para>validity of records.</para>
+      </listitem>
+      <listitem>
+        <para>restricted access to assets.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          Segregation of the accounting function from trade
+authorization and execution. The accounting department is responsible
+for cash and derivatives position reconciliations between the accounting
+and trading records and broker or counterparty statements. Quarterly,
+the controller reviews hedging activities for compliance with the
+requirements of FASB ASC 815, .
+          <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>Data files with such information as counterparty limits
+are maintained apart from the traders. The CFO authorizes any changes
+to these files. </para>
+      </listitem>
+      <listitem>
+        <para>Austin-Jhanes’ derivatives trading system has an automated
+interface with the general ledger and updates the general ledger monthly.
+Movements of cash associated with derivatives transactions are authorized
+and executed by the treasurer’s department, which is separate from
+the derivatives trading group.</para>
+      </listitem>
+      <listitem>
+        <para>Austin-Jhanes’ derivatives trading, sales, accounting,
+and other transaction processing activities are highly automated.
+There are effective general computer controls at the data centers
+that process the entity’s transactions and other information.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi11_30" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.30</titleabbrev>
+      <title role="ps_para_number">11.30</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . The CFO and controller receive monthly reports
+summarizing derivatives transactions for the period and the positions
+at the end of the month. (See the discussion of monitoring controls
+for descriptions of this and other reports.)
+      <emphasis role="italic">Information and
+communication</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.31</titleabbrev>
+      <title role="ps_para_number">11.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">The CFO advises the audit committee at
+its quarterly meetings on the status of the entity’s derivatives positions,
+realized and unrealized gains, compliance with Austin-Jhanes’ derivatives
+policy, and any other information that would be useful for the audit
+committee in carrying out its responsibilities.</para>
+  </section>
+  <section id="aag-afi11_32" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.32</titleabbrev>
+      <title role="ps_para_number">11.32</title>
+    </sectioninfo>
+    <para role="ps_para_number">The notes to the entity’s financial statements
+contain a description of the entity’s accounting policy for derivatives
+and other information required by the applicable financial reporting
+framework. </para>
+  </section>
+  <section id="aag-afi11_33" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.33</titleabbrev>
+      <title role="ps_para_number">11.33</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . The CFO and controller perform monthly reviews of Austin-Jhanes’
+performance in using derivatives, including their effectiveness, and,
+in the case of hedges of forecasted transactions, whether the forecasted
+transaction continues to meet the requirements for hedge accounting.
+      <emphasis role="italic">Monitoring</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_34" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.34</titleabbrev>
+      <title role="ps_para_number">11.34</title>
+    </sectioninfo>
+    <para role="ps_para_number">The CFO and controller receive monthly
+reports that provide information that enables them to identify any
+material breakdowns in controls, problems with the underlying systems,
+or possible material misstatements in the information. The reports
+include</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>realized and unrealized gain or loss on derivatives
+and hedged exposures, as well as a statistical measurement of correlation
+of changes in their values.</para>
+      </listitem>
+      <listitem>
+        <para>transaction volumes and trends.</para>
+      </listitem>
+      <listitem>
+        <para>derivatives positions by exchange; counterpart; or
+type of instrument, with a comparison with established limits. The
+CFO receives notification as limits are approached. The system does
+not allow limits to be exceeded without the CFO’s approval.</para>
+      </listitem>
+      <listitem>
+        <para>information on various reconciliations, including
+an aging of reconciling items and resolution status.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

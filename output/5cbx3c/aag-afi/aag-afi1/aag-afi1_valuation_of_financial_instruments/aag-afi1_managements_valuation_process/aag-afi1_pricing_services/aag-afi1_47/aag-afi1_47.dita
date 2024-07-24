@@ -1,0 +1,17 @@
+<root id="aag-afi1_47" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.47</titleabbrev>
+    <title role="ps_para_number">1.47</title>
+  </sectioninfo>
+  <para role="ps_para_number">Pricing services provide entities with
+prices and price-related data for a variety of financial instruments,
+often performing daily valuations of large numbers of financial instruments.
+These valuations may be made by collecting market data and prices
+from a wide variety of sources, including market makers, and, in certain
+instances, by using internal valuation techniques to derive estimated
+fair values. Pricing services may combine a number of approaches to
+arrive at a price and are often used as a source of prices based on
+level 2 inputs. Pricing services may have strong controls around how
+prices are developed, and their customers often include a wide variety
+of parties, including buy-and-sell side investors, auditors, and others.</para>
+</root>

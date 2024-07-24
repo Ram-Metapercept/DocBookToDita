@@ -1,0 +1,100 @@
+<root id="aag-afi_the_understanding_of_processes1" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Understanding of Processes and Controls the Auditor
+Needs to Assess the Risk of Material Misstatement</titleabbrev>
+    <title role="ps_sub_heading">The Understanding of Processes and Controls
+the Auditor Needs to Assess the Risk of Material Misstatement</title>
+  </sectioninfo>
+  <section id="aag-afi8_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.17</titleabbrev>
+      <title role="ps_para_number">8.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">In order to assess the risks of material
+misstatements, the auditor would obtain the following understanding
+of processes and controls:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The investment adviser initiates trades within parameters
+set by Lane, and the investment adviser directs the broker-dealer
+to execute them.</para>
+      </listitem>
+      <listitem>
+        <para>The broker-dealer sends a confirmation of each trade
+to the investment adviser and Lane, which Lane usually receives within
+three business days.</para>
+      </listitem>
+      <listitem>
+        <para>
+          Lane records the trade in the applicable general ledger
+accounts when it receives the trade confirmation.
+          <footnote id="aag-afi8_fn4" label="fn 4" role="number">
+            <para>In this scenario, recording trades when Lane Components, Inc.
+(Lane) receives the broker-dealer’s monthly statements may also be
+an effective control for Lane.</para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>Monthly, the broker-dealer sends the investment adviser
+and Lane a statement that includes trades, servicing transactions,
+a description of the financial instruments held, and the fair value
+of each of those financial instruments.</para>
+      </listitem>
+      <listitem>
+        <para>Quarterly, the investment adviser provides Lane with
+a summary of trades it has initiated and the performance of the financial
+instruments’ portfolio. Monthly, Lane compares the information about
+trades and the components of its financial instruments’ portfolio
+shown in its accounting records (which are recorded based on confirmations
+and statements from the broker-dealer) with the information in the
+investment adviser’s monthly statement and identifies and investigates
+any significant differences.</para>
+      </listitem>
+      <listitem>
+        <para>At the end of the year, Lane records any trades initiated
+by the investment adviser for which confirmations have not been received.
+Information for recording that information is obtained from Lane’s
+reconciliation of the investment adviser’s information with the broker-dealer’s
+information.</para>
+      </listitem>
+      <listitem>
+        <para>Monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+      </listitem>
+      <listitem>
+        <para>The broker-dealer’s execution of trades and holding
+of financial instruments are not part of Lane’s information system.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi8_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.18</titleabbrev>
+      <title role="ps_para_number">8.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">With respect to whether obtaining an understanding
+of the controls of the investment adviser and broker-dealer is necessary
+to plan the audit, the auditor concludes there is a high degree of
+interaction between Lane’s activities and those of the broker-dealer
+and investment adviser. Lane is able to and elects to implement effective
+controls over the activities of the broker-dealer and the investment
+adviser, including the investment adviser’s controls over initiation
+of trades and the broker-dealer’s controls over servicing financial
+instruments. Lane performs the following procedures:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Reconciles the investment adviser’s information with
+the broker-dealer’s information and investigates significant differences</para>
+      </listitem>
+      <listitem>
+        <para>Compares broker-dealer information about servicing
+and fair values with its expectations based on published information
+and investigates significant differences</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

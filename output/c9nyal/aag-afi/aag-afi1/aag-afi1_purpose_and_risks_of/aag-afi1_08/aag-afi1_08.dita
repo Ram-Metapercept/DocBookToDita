@@ -1,0 +1,115 @@
+<root id="aag-afi1_08" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.08</titleabbrev>
+    <title role="ps_para_number">1.08</title>
+  </sectioninfo>
+  <para role="ps_para_number">The following are principal types of risk
+applicable to financial instruments. This list is not meant to be
+exhaustive, and different terminology may be used to describe these
+risks or classify the components of individual risks:</para>
+  <para role="ps_indent_hang_2">
+      is the
+risk that one party to a financial instrument will cause a financial
+loss to another party by failing to discharge an obligation, and it
+is often associated with default. Credit risk includes counterparty
+risk and settlement risk, which are defined as follows:
+    <emphasis role="bold">Credit (or counterparty)
+risk. </emphasis>
+    <emphasis role="italic">Credit risk</emphasis>
+    <footnote id="aag-afi1_fn3" label="fn 3" role="number">
+      <para>
+        See the FASB ASC Master Glossary for definitions of  for purposes of a hedged item
+in a fair value hedge and a hedged transaction in a cash flow hedge. 
+        <emphasis role="italic">credit risk</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <para role="ps_indent_hang_2">
+      is the risk that
+the fair value or future cash flows of a financial instrument will
+fluctuate because of changes in market prices. Market risk comprises
+currency risk, interest rate risk, and other price risk.
+    <emphasis role="bold">Market risk. </emphasis>
+    <emphasis role="italic">Market risk</emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Liquidity risk includes the risk of not being able to buy or sell
+a financial instrument at an appropriate price in a timely manner
+due to a lack of marketability for that financial instrument.
+    <emphasis role="bold">Liquidity risk. </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+     Operational risk relates to the specific processing required for
+financial instruments. Operational risk may increase as the complexity
+of a financial instrument increases, and poor management of operational
+risk may increase other types of risk. Operational risk includes the
+risk
+    <emphasis role="bold">Operational risk.</emphasis>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>
+        . Connotes the exposure to the aggregate credit risk posed by all
+transactions with one counterparty.
+        <emphasis role="italic">Counterparty risk</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . The related exposure that a counterparty may fail to perform under
+a contract after the end user has delivered funds or assets according
+to its obligations. Settlement risk relates almost solely to over-the-counter
+(OTC) contracts (that is, nonexchange-traded instruments). One method
+for minimizing settlement risk is to enter into a master netting agreement
+that allows the parties to offset all their related payable and receivable
+positions at settlement.
+        <emphasis role="italic">Settlement risk</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>that confirmation and reconciliation controls are
+inadequate, resulting in incomplete or inaccurate recording of financial
+instruments.</para>
+    </listitem>
+    <listitem>
+      <para>that inappropriate documentation of transactions and
+insufficient monitoring of these transactions exist.</para>
+    </listitem>
+    <listitem>
+      <para>that transactions are incorrectly recorded, processed,
+or risk managed and, therefore, do not reflect the economics of the
+overall trade.</para>
+    </listitem>
+    <listitem>
+      <para>that undue reliance is placed by staff on the accuracy
+of valuation techniques without adequate review, and transactions
+are, therefore, incorrectly valued, or their risk is improperly measured.</para>
+    </listitem>
+    <listitem>
+      <para>that the use of financial instruments is not adequately
+incorporated into the entity’s risk management policies and procedures.</para>
+    </listitem>
+    <listitem>
+      <para>of loss resulting from inadequate or failed internal
+processes and systems or from external events, including the risk
+of fraud from both internal and external sources.</para>
+    </listitem>
+    <listitem>
+      <para>that inadequate or nontimely maintenance of valuation
+techniques used to measure financial instruments exist.</para>
+    </listitem>
+    <listitem>
+      <para>that losses may result from a legal or regulatory
+action that invalidates or otherwise precludes performance by the
+end user or its counterparty under the terms of the contract or related
+netting arrangements (that is, legal risk, which is a component of
+operational risk). For example, legal risk could arise from insufficient
+or incorrect documentation for the contract, an inability to enforce
+a netting arrangement in bankruptcy, adverse changes in tax laws,
+or statutes that prohibit entities from investing in certain types
+of financial instruments.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,12 @@
+<root id="aag-afi1_38" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.38</titleabbrev>
+    <title role="ps_para_number">1.38</title>
+  </sectioninfo>
+  <para role="ps_para_number">Models may be used to value financial
+instruments when the price cannot be directly observed in the market.
+Models can be as simple as a commonly used bond pricing formula or
+involve complex, specifically developed software tools to value financial
+instruments with level 3 inputs. Many models are based on discounted
+cash flow calculations. </para>
+</root>

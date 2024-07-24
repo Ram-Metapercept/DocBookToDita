@@ -1,0 +1,19 @@
+<root id="aag-afi1_43" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.43</titleabbrev>
+    <title role="ps_para_number">1.43</title>
+  </sectioninfo>
+  <para role="ps_para_number">The cash flows of an asset-backed security
+may be affected by prepayments of the underlying collateral and potential
+default risk and resulting estimated loss reserves. Prepayment assumptions,
+if applicable, are generally based on evaluating market interest rates
+for similar collateral to the rates on the collateral underlying the
+security. For example, if market interest rates for mortgages have
+declined, then the underlying mortgages in a security may experience
+higher prepayment rates than originally expected. Estimating potential
+default and loss reserve involves close evaluation of the underlying
+collateral and borrowers to estimate default rates. For example, when
+the underlying collateral comprises residential mortgages, loss reserves
+may be affected by estimates of residential housing prices over the
+term of the security.</para>
+</root>

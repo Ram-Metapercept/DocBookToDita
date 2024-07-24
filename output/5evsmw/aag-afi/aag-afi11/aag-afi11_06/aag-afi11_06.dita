@@ -1,0 +1,14 @@
+<root id="aag-afi11_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.06</titleabbrev>
+    <title role="ps_para_number">11.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The "" section illustrates the accounting for the cash flow hedge of a
+forecasted foreign currency-denominated transaction, including the
+requirement that the forecasted transaction be probable, and illustrates
+an audit approach when control risk is assessed as low or moderate
+for certain assertions.
+    <olink targetptr="aag-afi11_accounting_considerations">Accounting Considerations</olink>
+  </para>
+</root>

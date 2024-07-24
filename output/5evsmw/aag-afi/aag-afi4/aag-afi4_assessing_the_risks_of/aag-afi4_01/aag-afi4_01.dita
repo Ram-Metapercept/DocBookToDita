@@ -1,0 +1,31 @@
+<root id="aag-afi4_01" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.01</titleabbrev>
+    <title role="ps_para_number">4.01</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The auditor’s assessment of the identified
+risks at the assertion level in accordance with AU-C section 315B, , includes evaluating
+the design and implementation of internal control. It provides a basis for considering the appropriate audit
+approach for designing and performing further audit procedures in
+accordance with AU-C section 330B, , including both substantive procedures
+and tests of controls. The approach taken is influenced by the auditor’s
+understanding of internal control relevant to the audit, including
+the strength of the control environment and any risk management function,
+the size and complexity of the entity’s operations, and whether the
+auditor’s assessment of the risks of material misstatement include
+an expectation that controls are operating effectively. 
+    <emphasis role="italic">Understanding the Entity and Its Environment and Assessing
+the Risks of Material Misstatement</emphasis>
+    <emphasis role="italic">Performing
+Audit Procedures in Response to Assessed Risks and Evaluating the
+Audit Evidence Obtained</emphasis>
+    <footnote id="aag-afi4_fn2" label="fn 2" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+    </footnote>
+  </para>
+</root>

@@ -1,0 +1,33 @@
+<root id="aag-afi6_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.06</titleabbrev>
+    <title role="ps_para_number">6.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">In representing that the financial statements
+are in accordance with the applicable financial reporting framework,
+management implicitly or explicitly makes assertions regarding the
+presentation and disclosure of the various elements of financial statements
+and related disclosures. Assertions about presentation and disclosure
+encompass</para>
+  <para role="ps_indent_0">The auditor’s procedures around auditing
+disclosures are designed in consideration of these assertions.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>occurrence and rights and obligations. Disclosed events,
+transactions, and other matters have occurred and pertain to the entity.</para>
+    </listitem>
+    <listitem>
+      <para>completeness. All disclosures that should have been
+included in the financial statements have been included.</para>
+    </listitem>
+    <listitem>
+      <para>classification and understandability. Financial information
+is appropriately presented and described, and disclosures are clearly
+expressed.</para>
+    </listitem>
+    <listitem>
+      <para>accuracy and valuation. Financial and other information
+are disclosed fairly and at appropriate amounts.</para>
+    </listitem>
+  </itemizedlist>
+</root>

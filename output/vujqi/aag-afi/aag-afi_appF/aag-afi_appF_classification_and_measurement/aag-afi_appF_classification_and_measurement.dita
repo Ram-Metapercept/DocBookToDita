@@ -1,0 +1,436 @@
+<root id="aag-afi_appF_classification_and_measurement" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Classification and Measurement</titleabbrev>
+    <title role="ps_main_heading">Classification and Measurement</title>
+  </sectioninfo>
+  <section id="aag-afi_appF_overview1" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Overview</titleabbrev>
+      <title role="ps_sub_heading">Overview</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      On January 5, 2016, FASB issued Accounting
+Standards Update (ASU) No. 2016-01, , to enhance
+the reporting model for financial instruments and to provide users
+of financial statements with more decision-useful information. Amendments
+in the ASU are intended to improve certain aspects of recognition,
+measurement, presentation, and disclosure of financial instruments. 
+      <emphasis role="italic">Financial
+Instruments — Overall (Subtopic 825-10): Recognition and Measurement
+of Financial Assets and Financial Liabilities</emphasis>
+    </para>
+    <para role="ps_indent_0">The new guidance will accomplish the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Require equity investments (except those accounted
+for under the equity method of accounting or those that result in
+consolidation of the investee) to be measured at fair value with changes
+in fair value recognized in net income.</para>
+      </listitem>
+      <listitem>
+        <para>Replace the impairment model for equity investments
+without readily determinable fair values with a qualitative impairment
+assessment.</para>
+      </listitem>
+      <listitem>
+        <para>Eliminate the requirement to disclose the fair values
+of financial assets and financial liabilities measured at amortized
+cost for nonpublic business entities.</para>
+      </listitem>
+      <listitem>
+        <para>Eliminate the requirement for public business entities
+to disclose the methods and significant assumptions used to estimate
+fair value currently required to be disclosed for financial assets
+and financial liabilities measured at amortized cost on the balance
+sheet.</para>
+      </listitem>
+      <listitem>
+        <para>Require public business entities to use the exit price
+notion when measuring the fair value of financial instruments for
+disclosure purposes.</para>
+      </listitem>
+      <listitem>
+        <para>Require an entity to present separately in other comprehensive
+income (OCI) the portion of the total change in the fair value of
+a liability resulting from a change in instrument-specific credit
+risk when the entity has elected to measure the liability at fair
+value in accordance with the fair value option for financial instruments. </para>
+      </listitem>
+      <listitem>
+        <para>Require separate presentation of financial assets
+and financial liabilities by measurement category and form of financial
+asset (that is, securities or loans and receivables) on the balance
+sheet or in accompanying notes to the financial statements.</para>
+      </listitem>
+      <listitem>
+        <para>Clarify that an entity should evaluate the need for
+a valuation allowance on a deferred tax asset related to available-for-sale
+debt securities in combination with an entity’s other deferred tax
+assets.</para>
+      </listitem>
+      <listitem>
+        <para>Eliminate an entity’s ability to estimate the disclosed
+fair values of financial assets and financial liabilities on the basis
+of entry prices.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_appF_applicability_and_effective_date1" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Applicability and Effective Date</titleabbrev>
+      <title role="ps_sub_heading">Applicability and Effective Date</title>
+    </sectioninfo>
+    <para role="ps_indent_0">ASU No. 2016-01 affects all entities that
+hold financial assets or have financial liabilities and is effective
+as follows:</para>
+    <para role="ps_indent_0">All nonpublic business entities may adopt
+the amendments in this ASU earlier as of the fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years.</para>
+    <para role="ps_indent_0">Early adoption by public business entities
+to financial statements of fiscal years or interim periods that have
+not yet been issued or, by all other entities, that have not yet been
+made available for issuance of the following amendments in this ASU
+are permitted as of the beginning of the fiscal year of adoption:</para>
+    <para role="ps_indent_0">Except for as stated in this guidance, early
+adoption of the amendments in this ASU is not permitted.</para>
+    <table frame="all" id="aag-afi_appF_table1" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="3" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="1.92in"/>
+        <colspec colname="c2" colwidth="2.17in"/>
+        <colspec colname="c3" colwidth="1.92in"/>
+        <thead>
+          <row>
+            <entry align="center" role="shade" valign="bottom">
+              <para/>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">
+                  <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                </emphasis>
+              </para>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">
+                  <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                </emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>Public business entities </para>
+            </entry>
+            <entry>
+              <para>December 15, 2017</para>
+            </entry>
+            <entry>
+              <para>December 15, 2017</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>All other entities, including not-for-profit entities and employee
+benefit plans within the scope of FASB ASC 960 through FASB ASC 965
+on plan accounting</para>
+            </entry>
+            <entry>
+              <para>December 15, 2018</para>
+            </entry>
+            <entry>
+              <para>December 15, 2019</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>An entity should present separately in OCI the portion
+of the total change in the fair value of a liability resulting from
+a change in the instrument-specific credit risk if the entity has
+elected to measure the liability at fair value in accordance with
+the fair value option for financial instruments.</para>
+      </listitem>
+      <listitem>
+        <para>
+          Nonpublic business entities are not required to apply
+the fair value of financial instruments disclosure guidance in the
+"General" subsection of FASB  (ASC) 825-10-50.
+          <emphasis role="italic">Accounting Standards
+Codification</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_appF_latest_developments1" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Latest Developments</titleabbrev>
+      <title role="ps_sub_heading">Latest Developments</title>
+    </sectioninfo>
+    <section id="aag-afi_appF_fasb_asu_no__201803" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>FASB ASU No. 2018-03, Technical Corrections and Improvements
+to Financial Instruments — Overall (Subtopic 825-10): Recognition
+and Measurement of Financial Assets and Financial Liabilities</titleabbrev>
+        <title role="ps_subsub_heading">FASB ASU No. 2018-03, Technical Corrections
+and Improvements to Financial Instruments — Overall (Subtopic 825-10):
+Recognition and Measurement of Financial Assets and Financial Liabilities</title>
+      </sectioninfo>
+      <para role="ps_indent_0">In February 2018, FASB issued ASU No. 2018-03
+to clarify certain aspects of the guidance issued in ASU No. 2016-01
+as follows: </para>
+      <para role="ps_indent_0">ASU No. 2018-03 is effective as follows:</para>
+      <para role="ps_indent_0">Public business entities with fiscal years
+beginning between December 15, 2017 and June 15, 2018 are not required
+to adopt these amendments until the interim period beginning after
+June 15, 2018, and public business entities with fiscal years beginning
+between June 15, 2018 and December 15, 2018 are not required to adopt
+these amendments before adopting the amendments in ASU No. 2016-01.
+All entities may early adopt these amendments for fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years, as long as they have adopted ASU No. 2016-01.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+             The
+amendments in this ASU clarify that an entity measuring an equity
+security using the measurement alternative may change its measurement
+approach to a fair value method in accordance with FASB ASC 820, , through an irrevocable
+election that would apply to that security and all identical or similar
+investments of the same issuer. Once an entity makes this election,
+the entity should measure all future purchases of identical or similar
+investments of the same issuer using a fair value method in accordance
+with FASB ASC 820.
+            <emphasis role="italic">Equity securities without
+a readily determinable fair value — discontinuation.</emphasis>
+            <emphasis role="italic">Fair Value Measurement</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendment
+in this ASU clarifies that adjustments made under the measurement
+alternative are intended to reflect the fair value of the security
+as of the date that the observable transaction for a similar security
+took place.
+            <emphasis role="italic">Equity securities without
+a readily determinable fair value — adjustments.</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendment clarifies that remeasuring the  value of forward contracts and purchased
+options is required when observable transactions occur on the underlying
+equity securities.
+            <emphasis role="italic">Forward contracts and purchased
+options.</emphasis>
+            <emphasis role="italic">entire</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendment
+clarifies that when the fair value option is elected for a financial
+liability, the guidance in paragraph 5 of ASC 825-10-45 should be
+applied, regardless of whether the fair value option was elected under
+either FASB ASC 815-15 or 825-10.
+            <emphasis role="italic">Presentation requirements
+for certain fair value option liabilities.</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendments clarify
+that for financial liabilities for which the fair value option is
+elected, the amount of change in fair value that relates to the instrument-specific
+credit risk should first be measured in the currency of denomination
+when presented separately from the total change in fair value of the
+financial liability. Then, both components of the change in the fair
+value of the liability should be remeasured into the functional currency
+of the reporting entity using end-of-period spot rates.
+            <emphasis role="italic">Fair value option liabilities
+denominated in a foreign currency.</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The
+amendment clarifies that the prospective transition approach for equity
+securities without a readily determinable fair value in the amendments
+in ASU No. 2016-01 is meant only for instances in which the measurement
+alternative is applied. An insurance entity subject to the guidance
+in FASB ASC 944, , should apply a prospective transition method when applying the
+amendments related to equity securities without readily determinable
+fair values. An insurance entity should apply the selected prospective
+transition method consistently to the entity’s entire population of
+equity securities for which the measurement alternative is elected.
+            <emphasis role="italic">Transition guidance for equity
+securities without a readily determinable fair value.</emphasis>
+            <emphasis role="italic">Financial Services — Insurance</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+      <table frame="all" id="aag-afi_appF_table2" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="1.92in"/>
+          <colspec colname="c2" colwidth="2.17in"/>
+          <colspec colname="c3" colwidth="1.92in"/>
+          <thead>
+            <row>
+              <entry align="center" role="shade" valign="bottom">
+                <para/>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>Public business entities </para>
+              </entry>
+              <entry>
+                <para>December 15, 2017</para>
+              </entry>
+              <entry>
+                <para>June 15, 2018</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>All other entities</para>
+              </entry>
+              <entry>
+                <para>December 15, 2018</para>
+              </entry>
+              <entry>
+                <para>December 15, 2019</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi_appF_fasbasu_no__201904" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>FASB ASU No. 2019-04, Codification Improvements to Topic
+326, Financial Instruments — Credit Losses, Topic 815, Derivatives
+and Hedging, and Topic 825, Financial Instruments</titleabbrev>
+        <title role="ps_subsub_heading">FASB ASU No. 2019-04, Codification
+Improvements to Topic 326, Financial Instruments — Credit Losses,
+Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments</title>
+      </sectioninfo>
+      <para role="ps_indent_0">
+        In April 2019, FASB issued ASU No. 2019-04
+to clarify, correct, and improve various aspects of the guidance in
+ASU Nos. 2016-01, 2016-13, , and 2017-12, , related to financial instruments. The discussion
+herein will only address those amendments related to ASU No. 2016-01.
+Amendments related to ASU Nos. 2016-13 and ASU No. 2017-12 will be
+addressed in subsequent sections of this appendix.
+        <emphasis role="italic">Financial Instruments
+— Credit Losses (Topic 326): Measurement of Credit Losses on Financial
+Instruments</emphasis>
+        <emphasis role="italic">Derivatives
+and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging
+Activities</emphasis>
+      </para>
+      <para role="ps_indent_0">ASU No. 2019-04 clarifies certain aspects
+of the amendments in ASU No. 2016-01 as follows:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+             The amendments clarify
+the scope of FASB ASC 320-10 and FASB ASC 321-10 by specifically naming
+health and welfare plans accounted for in accordance with FASB ASC
+965,  in the paragraphs limiting the scope of
+those subtopics.
+            <emphasis role="italic">Scope clarifications for FASB
+ASC 320-10 and FASB ASC 321-10.</emphasis>
+            <emphasis role="italic">Plan Accounting — Health and Welfare
+Benefit Plans,</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendments to the disclosure
+requirements addressed in FASB ASC 320-10-50-5 and FASB ASC 942-320-50-3
+and the additions of paragraphs 5A–5B of FASB ASC 320-10-50 and paragraph
+3A of FASB ASC 942-320-50 clarify FASB’s intent to exempt entities
+other than public business entities from fair value disclosure requirements
+for financial instruments not measured at fair value on the balance
+sheet. 
+            <emphasis role="italic">Held-to-maturity debt securities
+fair value disclosures.</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendments specifically
+require that an entity remeasure an equity security without readily
+determinable fair value at fair value when an orderly transaction
+is identified for an identical or similar investment of the same issuer
+in accordance with FASB ASC 820. That is, the amendments clarify that
+the measurement alternative is a nonrecurring fair value measurement.
+Additionally, the amendments clarify that an entity should adhere
+to the applicable disclosure requirements in FASB ASC 820 for a nonrecurring
+fair value measurement.
+            <emphasis role="italic">Applicability of FASB ASC
+820 to the measurement alternative.</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+             The amendments clarify that
+equity securities without readily determinable fair values accounted
+for under the measurement alternative in accordance with FASB ASC
+321-10-35-2 are required to follow FASB ASC 830-10-45-18, which requires
+remeasurement at historical exchange rates. In addition, the amendments
+clarify that the rate used should be the historical exchange rate
+as of the later of the acquisition date or the most recent date on
+which the equity security was adjusted to fair value in accordance
+with paragraphs 2–3 of FASB ASC 321-10-35, if applicable. In addition,
+the amendments to FASB ASC 830-10-45-18 are not intended to change
+items that should be remeasured at historical exchange rates. 
+            <emphasis role="italic">Remeasurement of equity securities
+at historical exchange rates.</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi_appF_effective_date1" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Effective Date</titleabbrev>
+        <title role="ps_subsub_heading">Effective Date</title>
+      </sectioninfo>
+      <para role="ps_indent_0">The amendments in ASU No. 2019-04 related
+to No. 2016-01 are effective for fiscal years beginning after December
+15, 2019, including interim periods within those fiscal years. Early
+adoption is permitted in any interim period following the issuance
+of ASU No. 2019-04 as long as the entity has adopted all of the amendments
+in ASU No. 2016-01.</para>
+    </section>
+  </section>
+</root>

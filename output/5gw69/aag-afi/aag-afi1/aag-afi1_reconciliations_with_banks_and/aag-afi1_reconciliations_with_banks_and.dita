@@ -1,0 +1,66 @@
+<root id="aag-afi1_reconciliations_with_banks_and" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Reconciliations With Banks and Custodians</titleabbrev>
+    <title role="ps_main_heading">Reconciliations With Banks and Custodians</title>
+  </sectioninfo>
+  <section id="aag-afi1_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.17</titleabbrev>
+      <title role="ps_para_number">1.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">Some components of financial instruments,
+such as bonds and shares, may be held in separate depositories. In
+addition, most financial instruments result in payments of cash at
+some point, and often, these cash flows begin early in the contract’s
+life. These cash payments and receipts will pass through an entity’s
+bank account. Regular reconciliation of the entity’s records to external
+banks’ and custodians’ records enables the entity to ensure that transactions
+are properly recorded.</para>
+  </section>
+  <section id="aag-afi1_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.18</titleabbrev>
+      <title role="ps_para_number">1.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">It should be noted that not all financial
+instruments result in a cash flow in the early stages of the contract’s
+life or are capable of being recorded with an exchange or a custodian.
+When this is the case, reconciliation processes will not identify
+an omitted or inaccurately recorded trade, and confirmation controls
+are more important. Even when such a cash flow is accurately recorded
+in the early stages of an instrument’s life, this does not ensure
+that all characteristics or terms of the instrument (for example,
+the maturity or an early termination option) have been recorded accurately.</para>
+  </section>
+  <section id="aag-afi1_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.19</titleabbrev>
+      <title role="ps_para_number">1.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">In addition, cash movements may be quite
+small in the context of the overall size of the trade or the entity’s
+own balance sheet and, therefore, may be difficult to identify. The
+value of reconciliations is enhanced when finance or other administrative
+and support services staff review entries in all general ledger accounts
+to ensure that they are valid and supportable. This process will help
+identify if the other side-to-cash entries relating to financial instruments
+have not been properly recorded. Reviewing suspense and clearing accounts
+is important, regardless of the account balance, because there may
+be offsetting reconciling items in the account.</para>
+  </section>
+  <section id="aag-afi1_20" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.20</titleabbrev>
+      <title role="ps_para_number">1.20</title>
+    </sectioninfo>
+    <para role="ps_para_number">Reconciliation and confirmation controls
+may be automated, and if so, adequate IT controls need to be in place
+to support them. In particular, controls are needed to ensure that
+data is completely and accurately picked up from external sources
+(such as banks and custodians) and from the entity’s records and that
+it is not tampered with before or during reconciliation. Controls
+are also needed to ensure that the criteria on which entries are matched
+are sufficiently restrictive to prevent inaccurate clearance of reconciling
+items.</para>
+  </section>
+</root>

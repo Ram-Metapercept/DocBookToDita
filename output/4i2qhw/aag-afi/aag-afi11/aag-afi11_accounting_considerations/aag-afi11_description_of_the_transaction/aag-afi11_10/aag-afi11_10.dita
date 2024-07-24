@@ -1,0 +1,15 @@
+<root id="aag-afi11_10" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.10</titleabbrev>
+    <title role="ps_para_number">11.10</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Austin-Jhanes decides to assess effectiveness
+on the basis of the option’s  that it defines as the value of the option that reflects the positive
+difference between the spot exchange rate and strike exchange rate.
+Because changes in the time value of the option have been excluded
+from the assessment of the hedge’s effectiveness, changes in these
+amounts will be included in earnings during the periods they occur.
+    <emphasis role="italic">intrinsic value</emphasis>
+  </para>
+</root>

@@ -1,0 +1,123 @@
+<root id="aag-afi3_obtaining_an_understanding_of" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Obtaining an Understanding of the Services Provided by
+a Service Organization, Including Internal Control</titleabbrev>
+    <title role="ps_sub_heading">Obtaining an Understanding of the Services
+Provided by a Service Organization, Including Internal Control</title>
+  </sectioninfo>
+  <section id="aag-afi3_46" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.46</titleabbrev>
+      <title role="ps_para_number">3.46</title>
+    </sectioninfo>
+    <para role="ps_para_number">When auditing the financial statements
+of an entity that uses a service organization, the user auditor is
+required to obtain an understanding of how the entity uses the services
+of the service organization in the entity’s operations, including
+the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The nature of the services provided by the service
+organization and the significance of those services to the user entity,
+including their effect on the user entity’s internal control</para>
+      </listitem>
+      <listitem>
+        <para>The nature and materiality of the transactions processed
+or accounts or financial reporting processes affected by the service
+organization</para>
+      </listitem>
+      <listitem>
+        <para>The degree of interaction between the activities of
+the service organization and those of the user entity</para>
+      </listitem>
+      <listitem>
+        <para>
+          The nature of the relationship between the user entity
+and service organization, including the relevant contractual terms
+for the activities undertaken by the service organization
+          <footnote id="aag-afi3_fn5" label="fn 5" role="number">
+            <para>
+              Paragraph .09 of AU-C section 402B, .
+              <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service Organization</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi3_47" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.47</titleabbrev>
+      <title role="ps_para_number">3.47</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The user auditor is required to evaluate
+the design and implementation of relevant controls at the user entity
+that relate to the service provided by a service organization. If there is a high degree of interaction between the user
+entity and service organization, the user entity may be able to implement
+effective controls over the services provided by the service organization,
+and the user auditor may not need to obtain information about controls
+at the service organization. If the user entity has not implemented
+effective controls over the service organization’s services, and the
+transactions processed or accounts or financial reporting processes
+affected by the service organization are material to the user entity’s
+financial statements, the user auditor will need to gain an understanding
+of relevant controls at the service organization.
+      <footnote id="aag-afi3_fn6" label="fn 6" role="number">
+        <para>Paragraph .10 of AU-C section 402B.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi3_48" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.48</titleabbrev>
+      <title role="ps_para_number">3.48</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      A user auditor is required to determine
+whether a sufficient understanding of the nature and significance
+of the services provided by the service organization and their effect
+on the user entity’s internal control relevant to the audit has been
+obtained to provide a basis for the identification and assessment
+of risks of material misstatement. If the user auditor is unable to obtain (from the user
+entity) a sufficient understanding of the nature and significance
+of the services provided by the service organization and its effect
+on the user entity’s financial statements as they relate to financial
+instrument transactions, the user auditor is required to obtain that
+understanding from one or more of the following procedures:
+      <footnote id="aag-afi3_fn7" label="fn 7" role="number">
+        <para>Paragraph .11 of AU-C section 402B.</para>
+      </footnote>
+      <footnote id="aag-afi3_fn8" label="fn 8" role="number">
+        <para>Paragraph .12 of AU-C section 402B.</para>
+      </footnote>
+    </para>
+    <para role="ps_indent_hang_2">
+      . Obtaining and reading a type 1 or type 2 report, if available
+      <emphasis role="italic">a</emphasis>
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_2">
+      . Contacting the service organization through the user entity
+to obtain specific information
+      <emphasis role="italic">b</emphasis>
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_2">
+      Visiting the service organization and performing procedures that
+will provide the necessary information about the relevant controls
+at the service organization
+      <emphasis role="italic">
+        c. 
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      . Using another auditor to perform procedures that will provide
+the necessary information about the relevant controls at the service
+organization 
+      <emphasis role="italic">d</emphasis>
+      <tab/>
+    </para>
+  </section>
+</root>

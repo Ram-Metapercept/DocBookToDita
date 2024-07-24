@@ -1,0 +1,47 @@
+<root id="aag-afi10_types_of_potential_misstatements" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Types of Potential Misstatements</titleabbrev>
+    <title role="ps_sub_heading">Types of Potential Misstatements</title>
+  </sectioninfo>
+  <section id="aag-afi10_20" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.20</titleabbrev>
+      <title role="ps_para_number">10.20</title>
+    </sectioninfo>
+    <para role="ps_para_number">The types of potential misstatements are</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>failure to identify the swap.</para>
+      </listitem>
+      <listitem>
+        <para>failure to properly document the hedge and the expectation
+of hedge effectiveness.</para>
+      </listitem>
+      <listitem>
+        <para>the hedge does not remain highly effective on an ongoing
+basis so that hedge accounting does not continue to be appropriate.</para>
+      </listitem>
+      <listitem>
+        <para>the assessment of hedge effectiveness is not consistent
+with the risk management strategy documented for the particular hedging
+relationship.</para>
+      </listitem>
+      <listitem>
+        <para>JLM does not assess hedge effectiveness for similar
+hedging strategies in a similar manner, and such differences are not
+documented. </para>
+      </listitem>
+      <listitem>
+        <para>incorrect determination of the fair value of the swap
+and bonds.</para>
+      </listitem>
+      <listitem>
+        <para>incorrect computation and recording of interest and
+accrued interest on the bonds. </para>
+      </listitem>
+      <listitem>
+        <para>inadequate financial statement presentation and disclosure.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

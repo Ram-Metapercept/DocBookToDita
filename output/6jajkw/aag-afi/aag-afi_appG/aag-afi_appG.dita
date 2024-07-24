@@ -1,0 +1,393 @@
+<root id="aag-afi_appG" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Appendix G — Schedule of Changes Made to the Text From
+the Previous Edition</titleabbrev>
+    <title role="ps_section_heading">Appendix G</title>
+    <subtitle role="ps_section_title">Schedule of Changes Made to the
+Text From the Previous Edition</subtitle>
+  </chapterinfo>
+  <para role="ps_indent_0">
+    <emphasis role="italic">This appendix is
+nonauthoritative and is included for informational purposes only.</emphasis>
+  </para>
+  <para role="ps_indent_0">
+    <emphasis role="bold">As of September 1,
+2020</emphasis>
+  </para>
+  <para role="ps_indent_0">This schedule of changes identifies areas
+in the text and footnotes of this guide that have that have changed
+since the previous edition. Entries in the table of this appendix
+reflect current numbering, lettering (including that in appendix names),
+and character designations that resulted from the renumbering or reordering
+that occurred in the updating of this guide.</para>
+  <table frame="all" id="aag-afi_appG_table1" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.56in"/>
+      <colspec colname="c2" colwidth="3.42in"/>
+      <tbody>
+        <row valign="bottom">
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Reference</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Change</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>Various chapters</para>
+          </entry>
+          <entry>
+            <para>Update boxes have been added for various pronouncements issued
+by standards setters.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>General</para>
+          </entry>
+          <entry>
+            <para>Editorial changes, including rephrasing, have been made in this
+guide to improve readability where necessary.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               and 
+              <olink targetptr="aag-afi_preface">Preface</olink>
+              <olink targetptr="aag-afi_introduction">introduction</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Updated.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi1_01">Paragraph 1.01</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi1_24">Paragraph 1.24</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi1_62">Paragraphs 1.62–.64</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Added due to issuance of FASB Accounting Standards Update (ASU)
+No. 2018-13, 
+              <emphasis role="italic">Fair Value Measurement (Topic
+820), Disclosure Framework — Changes to the Disclosure Requirements
+for Fair Value Measurement.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi2_09">Paragraph 2.09</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi3_01">Paragraphs 3.01–.03</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi3_05">Paragraph 3.05</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Revised due to issuance of Technical Questions and Answers (Q&amp;A)
+sections in , .
+              <olink targetdoc="tpa" targetptr="tis_8200">Q&amp;A section
+8200</olink>
+              <emphasis role="italic">Internal Control</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi3_08">Paragraph 3.08</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi3_49">Paragraphs 3.49–.51</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               in paragraph 5.12
+              <olink role="footnote" targetptr="aag-afi5_fn6">Footnote 6</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi6_23">Paragraph 6.23</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi6_26">Paragraph 6.26</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>Illustration in former paragraph 6.29</para>
+          </entry>
+          <entry>
+            <para>Deleted due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               in paragraph 6.30
+              <olink role="footnote" targetptr="aag-afi6_fn15">Footnote 15</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               in paragraph 6.32
+              <olink role="footnote" targetptr="aag-afi6_fn16">Footnote 16</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi7_05">Paragraph 7.05</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Revised due to issuance of FASB ASU No. 2019-04, .
+              <emphasis role="italic">Codification Improvements to Topic 326, Financial Instruments
+— Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825,
+Financial Instruments</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi7_10">Paragraph 7.10</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Revised due to issuance of FASB ASU No. 2016-13, .
+              <emphasis role="italic">Financial Instruments — Credit Losses (Topic 326): Measurement
+of Credit Losses on Financial Instruments</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi8_04">Paragraph 8.04</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi8_18">Paragraph 8.18</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>Former chapter 9</para>
+          </entry>
+          <entry>
+            <para>Deleted due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi9_02">Paragraph 9.02</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to issuance of FASB ASU No. 2016-13.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi9_05">Paragraph 9.05</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Revised due to issuance of FASB ASU Nos. 2018-03, , and 2016-01, 
+              <emphasis role="italic">Technical Corrections and Improvements to Financial
+Instruments — Overall (Subtopic 825-10): Recognition and Measurement
+of Financial Assets and Financial Liabilities</emphasis>
+              <emphasis role="italic">Financial Instruments — Overall (Subtopic 825-10): Recognition
+and Measurement of Financial Assets and Financial Liabilities.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               in paragraph 9.07
+              <olink role="footnote" targetptr="aag-afi9_fn7">Footnote 7</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to passage of time. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi10_10">Paragraph 10.10</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Revised due to issuance of FASB ASU No. 2017-12, 
+              <emphasis role="italic">Derivatives and Hedging (Topic 815): Targeted Improvements
+to Accounting for Hedging Activities.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi10_11">Paragraphs 10.11–.12</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Added due to issuance of FASB ASU No. 2017-12. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+               and 
+              <olink targetptr="aag-afi11_18">Paragraphs 11.18</olink>
+              <olink targetptr="aag-afi11_20">11.20</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Revised due to issuance of FASB ASU No. 2017-12.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi_appA">Appendixes A–F</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Updated.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi_index_of_pronouncements">Index of
+Pronouncements and Other Technical Guidance</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Updated. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              <olink targetptr="aag-afi_subject_index">Subject Index</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>Updated. </para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

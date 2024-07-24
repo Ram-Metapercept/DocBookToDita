@@ -1,0 +1,210 @@
+<root id="aag-afi4_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.05</titleabbrev>
+    <title role="ps_para_number">4.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Paragraph .A41 of AU-C section 200B, , states that the risks of material misstatement
+at the assertion level consist of two components: inherent risk and
+control risk. The following exhibit summarizes the examples of considerations
+that might affect the auditor’s assessment of the inherent risk for
+assertions about financial instruments.
+    <emphasis role="italic">Overall Objectives of the Independent Auditor and the
+Conduct of an Audit in Accordance With Generally Accepted Auditing
+Standards</emphasis>
+  </para>
+  <para id="aag-afi4_exhibit_4-1" role="ps_sub_heading">
+    <emphasis role="bold">Exhibit 4-1 — Characteristics That Might Affect Inherent
+Risk</emphasis>
+  </para>
+  <table frame="all" id="aag-afi4_table1" role="ps_table_center">
+    <tgroup align="left" cols="4" colsep="1" rowsep="1">
+      <colspec colname="c1" colsep="0" colwidth="1.36in"/>
+      <colspec colname="c3" colwidth="1.49in"/>
+      <colspec colname="c5" colwidth="1.52in"/>
+      <colspec colname="c7" colwidth="1.27in"/>
+      <thead>
+        <row rowsep="0">
+          <entry align="center" nameend="c7" namest="c1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Indications of</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row rowsep="1" valign="bottom">
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Characteristic</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Higher Risk</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Lower Risk</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Related Assertion</emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry colsep="1">
+            <para>Management’s objective</para>
+          </entry>
+          <entry colsep="1">
+            <para>Financial instruments used as hedges</para>
+          </entry>
+          <entry colsep="1">
+            <para>Financial instruments held as investments</para>
+          </entry>
+          <entry colsep="0">
+            <para>Rights and obligations, valuation, and presentation and disclosure </para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Management’s intent and ability</para>
+          </entry>
+          <entry colsep="1">
+            <para>Accounting treatment based on management’s intent and ability</para>
+          </entry>
+          <entry colsep="1">
+            <para>Accounting treatment based on objective criteria</para>
+          </entry>
+          <entry colsep="0">
+            <para>Valuation and presentation and disclosure</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Complexity of financial instruments</para>
+          </entry>
+          <entry colsep="1">
+            <para>More complex instrument (for example, futures contracts, swaps,
+or stock appreciation rights)</para>
+            <para>Collaterized mortgage obligations</para>
+            <para>Stock warrants</para>
+          </entry>
+          <entry colsep="1">
+            <para>Less complex instrument (for example, common stock traded on
+an exchange or U.S government agency debt)</para>
+            <para>U.S. Treasury securities</para>
+            <para>Common stock</para>
+          </entry>
+          <entry colsep="1">
+            <para>Rights and obligations, valuation, and presentation and disclosure</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Relationship of the derivative to the hedged item or underlying
+security</para>
+          </entry>
+          <entry colsep="1">
+            <para>Low degree of correlation</para>
+          </entry>
+          <entry colsep="1">
+            <para>High degree of correlation</para>
+          </entry>
+          <entry colsep="0">
+            <para>Valuation and presentation and disclosure</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Exchange of cash at inception</para>
+          </entry>
+          <entry colsep="1">
+            <para>No exchange of cash at inception</para>
+          </entry>
+          <entry colsep="1">
+            <para>Cash exchanged at inception</para>
+          </entry>
+          <entry>
+            <para>Completeness and presentation and disclosure</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Freestanding versus embedded</para>
+          </entry>
+          <entry colsep="1">
+            <para>Embedded derivative</para>
+          </entry>
+          <entry colsep="1">
+            <para>Freestanding derivative</para>
+          </entry>
+          <entry>
+            <para>Completeness and presentation and disclosure</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Credit risk</para>
+          </entry>
+          <entry colsep="1">
+            <para>High counterparty credit risk</para>
+            <para>High nonpayment risk</para>
+          </entry>
+          <entry colsep="1">
+            <para>Low counterparty credit risk</para>
+            <para>Low nonpayment risk</para>
+          </entry>
+          <entry>
+            <para>Valuation</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Market risk</para>
+          </entry>
+          <entry colsep="1">
+            <para>Volatile values or interest rates</para>
+          </entry>
+          <entry colsep="1">
+            <para>Stable values or interest rates</para>
+          </entry>
+          <entry>
+            <para>Valuation</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Nature of security and related accounting principles</para>
+          </entry>
+          <entry colsep="1">
+            <para>Rapidly evolving</para>
+          </entry>
+          <entry colsep="1">
+            <para>Relatively stable</para>
+          </entry>
+          <entry>
+            <para>All</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="1">
+            <para>Assumptions about future conditions</para>
+          </entry>
+          <entry>
+            <para>Significant subjective assumptions</para>
+          </entry>
+          <entry>
+            <para>Relatively few, objective, and verifiable assumptions</para>
+          </entry>
+          <entry>
+            <para>All</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

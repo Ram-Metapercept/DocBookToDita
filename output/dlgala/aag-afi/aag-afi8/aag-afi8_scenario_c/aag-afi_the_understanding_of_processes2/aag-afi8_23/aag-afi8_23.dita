@@ -1,0 +1,41 @@
+<root id="aag-afi8_23" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.23</titleabbrev>
+    <title role="ps_para_number">8.23</title>
+  </sectioninfo>
+  <para role="ps_para_number">In order to plan the audit, the auditor
+obtains the following understanding of processes and controls:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The broker-dealer initiates trades within parameters
+set by Lane and also executes the trades.</para>
+    </listitem>
+    <listitem>
+      <para>The broker-dealer sends a confirmation of each trade
+to Lane, which Lane usually receives within three business days.</para>
+    </listitem>
+    <listitem>
+      <para>Lane records the trade in the applicable general ledger
+accounts when it receives the trade confirmation.</para>
+    </listitem>
+    <listitem>
+      <para>Monthly, the broker-dealer sends Lane a statement
+that includes trades, servicing transactions, a description of the
+financial instruments held, and the fair value of each of those financial
+instruments.</para>
+    </listitem>
+    <listitem>
+      <para>Monthly, Lane compares the information about trades
+and the components of its financial instruments’ portfolio that are
+shown in its accounting records with the broker-dealer’s monthly statement
+and investigates significant differences.</para>
+    </listitem>
+    <listitem>
+      <para>Monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+    </listitem>
+  </itemizedlist>
+</root>

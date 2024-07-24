@@ -1,0 +1,28 @@
+<root id="aag-afi5_10" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.10</titleabbrev>
+    <title role="ps_para_number">5.10</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    As described in , "Gaining an Understanding About Financial Instruments,"
+of this guide, to estimate the fair value of financial instruments,
+management may
+    <olink targetptr="aag-afi1">chapter 1</olink>
+  </para>
+  <para role="ps_indent_0">Management often may use a combination of
+these approaches. For example, management may have its own pricing
+process but use third-party pricing sources to corroborate its own
+values.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>utilize information from third-party pricing sources.</para>
+    </listitem>
+    <listitem>
+      <para>gather data to develop its own estimate using various
+techniques, including models.</para>
+    </listitem>
+    <listitem>
+      <para>engage a specialist to develop an estimate.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,230 @@
+<root id="aag-afi5_impairment_losses" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Impairment Losses</titleabbrev>
+    <title role="ps_main_heading">Impairment Losses</title>
+  </sectioninfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi5_update_5-3">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+5-3 : Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 540), which supersedes , , and amends the following AU-C
+sections: 
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540A</olink>
+      <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+            <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+            <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance </emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+            <emphasis role="italic">Written Representations</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements.
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+    </para>
+    <para>
+      This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi5_41" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.41</titleabbrev>
+      <title role="ps_para_number">5.41</title>
+    </sectioninfo>
+    <para role="ps_para_number">Regardless of the valuation method used
+(including those investments reported based on an investee’s financial
+results), applicable financial reporting frameworks may require recognizing
+in earnings an impairment loss for a decline in fair value that is
+other than temporary. Determining whether losses are other than temporary
+often involves estimating the outcome of future events. Accordingly,
+judgment is required in determining whether factors exist that indicate
+that an impairment loss has been incurred at the end of the reporting
+period. These judgments are based on subjective, as well as objective,
+factors, including knowledge and experience about past and current
+events and assumptions about future events. The following are examples
+of such factors:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Fair value is significantly below cost, and</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>the decline is attributable to adverse conditions
+specifically related to the security or conditions in an industry
+or a geographic area.</para>
+      </listitem>
+      <listitem>
+        <para>the decline has existed for an extended period of
+time.</para>
+      </listitem>
+      <listitem>
+        <para>management does not possess both the intent and ability
+to hold the security for a period of time sufficient to allow for
+any anticipated recovery in fair value.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The security has been downgraded by a rating agency.</para>
+      </listitem>
+      <listitem>
+        <para>The financial condition of the issuer or counterparty
+has deteriorated.</para>
+      </listitem>
+      <listitem>
+        <para>Dividends have been reduced or eliminated, or scheduled
+interest payments have not been made.</para>
+      </listitem>
+      <listitem>
+        <para>The entity recorded losses from the security subsequent
+to the end of the reporting period.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_42" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.42</titleabbrev>
+      <title role="ps_para_number">5.42</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      AU-C section 501B, , requires the auditor to ()
+evaluate management’s conclusion (including the relevance of the information
+considered) about the need to recognize an impairment loss for a decline
+in a security’s fair value below its cost or carrying amount and () obtain sufficient appropriate audit evidence
+supporting the amount of any impairment adjustment recorded, including
+evaluating whether the requirements of the applicable financial reporting
+framework have been complied with. That includes evaluating () whether management has considered relevant information in determining
+whether factors such as those listed in  exist and () management’s conclusions about the need to recognize an impairment
+loss. That evaluation requires the auditor to obtain evidence about
+such factors that tend to corroborate or conflict with management’s
+conclusions.
+      <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+      <emphasis role="italic">a</emphasis>
+      <emphasis role="italic">b</emphasis>
+      <emphasis role="italic">a</emphasis>
+      <emphasis role="italic">b</emphasis>
+      <footnote id="aag-afi5_fn12" label="fn 12" role="number">
+        <para>
+          Paragraph .09 of AU-C section 501B, .
+          <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+        </para>
+      </footnote>
+      <olink targetptr="aag-afi5_03">paragraph 5.03</olink>
+    </para>
+  </section>
+  <section id="aag-afi5_43" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.43</titleabbrev>
+      <title role="ps_para_number">5.43</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor is not responsible for designing
+procedures to detect the presence of these factors per se. Rather,
+the auditor might evaluate whether management has considered information
+that would be relevant in determining whether such factors exist.
+For example, the auditor would not be responsible for determining
+whether the financial condition of the issuer of a security has deteriorated
+but, instead, would ask management how it considered the issuer’s
+financial condition. Once the auditor has determined that the entity
+considered relevant information, the auditor is responsible for evaluating
+management’s conclusion about the need to recognize an impairment
+loss. </para>
+  </section>
+  <section id="aag-afi5_44" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.44</titleabbrev>
+      <title role="ps_para_number">5.44</title>
+    </sectioninfo>
+    <para role="ps_para_number">If the entity has recognized an impairment
+loss, and the auditor agrees with that conclusion, the auditor would</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>determine that the write-down of an investment to
+a new cost basis is accounted for as a realized loss.</para>
+      </listitem>
+      <listitem>
+        <para>test the calculation of the loss recorded.</para>
+      </listitem>
+      <listitem>
+        <para>determine that the new cost basis of investments previously
+written down is not changed for subsequent recoveries in fair value.</para>
+      </listitem>
+      <listitem>
+        <para>review a summary of investments written down for completeness
+and unusual items.</para>
+      </listitem>
+      <listitem>
+        <para>evaluate management’s assessment of the credit rating
+of the counterparty.</para>
+      </listitem>
+      <listitem>
+        <para>conclude on the adequacy of impairment adjustments
+recorded.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

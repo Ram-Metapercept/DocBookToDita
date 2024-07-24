@@ -1,0 +1,33 @@
+<root id="aag-afi10_inherent_risk_factors_to" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatement</titleabbrev>
+    <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatement</title>
+  </sectioninfo>
+  <section id="aag-afi10_21" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.21</titleabbrev>
+      <title role="ps_para_number">10.21</title>
+    </sectioninfo>
+    <para role="ps_para_number">The inherent risk factors are</para>
+    <para role="ps_indent_0">Based on the preceding factors, the auditor
+determines inherent risk to be high.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>this transaction requires no initial cash outlay;
+therefore, detection of the derivative may be difficult (although
+it is unlikely that management would attempt to conceal the transaction).</para>
+      </listitem>
+      <listitem>
+        <para>management does not have a valuation model capable
+of valuing the interest rate swap and relies on the broker-dealer
+who arranged the transaction for the valuation of the swap.</para>
+      </listitem>
+      <listitem>
+        <para>credit risk related to the swap is moderate and primarily
+related to the risk of nonperformance by the counterparty.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

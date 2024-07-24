@@ -1,0 +1,21 @@
+<root id="aag-afi3_39" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.39</titleabbrev>
+    <title role="ps_para_number">3.39</title>
+  </sectioninfo>
+  <para role="ps_para_number">In larger entities, sophisticated computer
+information systems generally keep track of financial instrument activities
+and are designed to ensure that settlements occur when due. More complex
+computer systems may generate automatic postings to clearing accounts
+to monitor cash movements, and controls over processing are put in
+place with the objective of ensuring that financial instrument activities
+are correctly reflected in the entity’s records. Computer systems
+may be designed to produce exception reports to alert management to
+situations when financial instruments have not been used within authorized
+limits or when transactions undertaken were not within the limits
+established for the chosen counterparties. However, even a sophisticated
+computer system may not ensure the completeness of the recording of
+financial instrument transactions. Accordingly, management frequently
+puts additional procedures in place to increase the likelihood that
+all transactions will be recorded.</para>
+</root>

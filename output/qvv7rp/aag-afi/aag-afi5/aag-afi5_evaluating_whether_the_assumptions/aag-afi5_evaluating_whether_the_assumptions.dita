@@ -1,0 +1,158 @@
+<root id="aag-afi5_evaluating_whether_the_assumptions" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Evaluating Whether the Assumptions Used by Management
+Are Reasonable</titleabbrev>
+    <title role="ps_main_heading">Evaluating Whether the Assumptions Used
+by Management Are Reasonable</title>
+  </sectioninfo>
+  <section id="aag-afi5_25" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.25</titleabbrev>
+      <title role="ps_para_number">5.25</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      An assumption used in a model may be deemed
+to be significant if a reasonable variation in the assumption would
+materially affect the measurement of the financial instrument. Management may have considered alternative assumptions
+or outcomes by performing a sensitivity analysis. The extent of subjectivity
+associated with assumptions influences the degree of measurement uncertainty
+and may lead the auditor to conclude that a significant risk exits
+(for example, in the case of Level 3 inputs). 
+      <footnote id="aag-afi5_fn10" label="fn 10" role="number">
+        <para>See paragraph .A113 of AU-C section 540B.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi5_26" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.26</titleabbrev>
+      <title role="ps_para_number">5.26</title>
+    </sectioninfo>
+    <para role="ps_para_number">For items valued by the entity using a
+valuation model, the auditor does not function as an appraiser. Rather,
+the auditor reviews the model and evaluates whether the assumptions
+used are reasonable, and the model is appropriate, considering the
+entity’s circumstances. For example, it may be inappropriate to use
+discounted cash flows for valuing an equity investment in a start-up
+enterprise if no current revenues exist on which to base the forecast
+of future earnings or cash flows.</para>
+  </section>
+  <section id="aag-afi5_27" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.27</titleabbrev>
+      <title role="ps_para_number">5.27</title>
+    </sectioninfo>
+    <para role="ps_para_number">Audit procedures to test the assumptions
+used by management, including those used as inputs to models, may
+include evaluating whether</para>
+    <para role="ps_indent_0">See paragraphs .A78–.A84 of AU-C section
+540B for further considerations relative to evaluating the assumptions
+used by management.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>and, if so, how management has incorporated market
+inputs into the development of assumptions because it is generally
+preferable to seek to maximize the use of relevant observable inputs
+and minimize unobservable inputs.</para>
+      </listitem>
+      <listitem>
+        <para>the assumptions are consistent with observable market
+conditions and the characteristics of the financial asset or liability.</para>
+      </listitem>
+      <listitem>
+        <para>the sources of market-participant assumptions are
+relevant and reliable and how management has selected the assumptions
+to use when a number of different marketplace assumptions exist.</para>
+      </listitem>
+      <listitem>
+        <para>sensitivity analyses indicate that valuations would
+change significantly with only small or moderate changes in assumptions.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_28" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.28</titleabbrev>
+      <title role="ps_para_number">5.28</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s consideration of judgments
+about the future is based on information available at the time at
+which the judgment is made. Subsequent events may result in outcomes
+that are inconsistent with judgments that were reasonable at the time
+they were made.</para>
+  </section>
+  <section id="aag-afi5_29" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.29</titleabbrev>
+      <title role="ps_para_number">5.29</title>
+    </sectioninfo>
+    <para role="ps_para_number">Audit procedures dealing with management’s
+assumptions are performed in the context of the audit of the entity’s
+financial statements. The objective of the audit procedures is, therefore,
+not intended to obtain sufficient appropriate audit evidence to provide
+an opinion on the assumptions themselves. Rather, the auditor performs
+procedures to evaluate whether the assumptions provide a reasonable
+basis for measuring fair values in the context of an audit of the
+financial statements as a whole.</para>
+  </section>
+  <section id="aag-afi5_30" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.30</titleabbrev>
+      <title role="ps_para_number">5.30</title>
+    </sectioninfo>
+    <para role="ps_para_number">Identifying those assumptions that appear
+to be significant to the fair value measurement requires the exercise
+of judgment by management. The auditor focuses attention on the significant
+assumptions that management has identified. Generally, significant
+assumptions cover matters that materially affect the fair value measurement
+and may include those that are</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>sensitive to variation or uncertainty in amount or
+nature. (For example, assumptions about short-term interest rates
+may be less susceptible to significant variation compared with assumptions
+about long-term interest rates.)</para>
+      </listitem>
+      <listitem>
+        <para>susceptible to misapplication or bias.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.31</titleabbrev>
+      <title role="ps_para_number">5.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor may consider the sensitivity
+of the valuation to changes in significant assumptions, including
+market conditions that may affect the value. When applicable, the
+auditor may encourage management to use techniques such as sensitivity
+analysis to help identify particularly sensitive assumptions. If management
+has not identified particularly sensitive assumptions, the auditor
+considers whether to employ techniques to identify those assumptions.</para>
+  </section>
+  <section id="aag-afi5_32" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.32</titleabbrev>
+      <title role="ps_para_number">5.32</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The evaluation of whether the assumptions
+provide a reasonable basis for the fair value measurements relates
+to the whole set of assumptions, as well as each assumption individually.
+Assumptions are frequently interdependent and, therefore, need to
+be internally consistent. A particular assumption that may appear
+reasonable when taken in isolation may not be reasonable when used
+in conjunction with other assumptions. The auditor is required to
+obtain an understanding of how management makes the accounting estimates
+and the data on which they are based.
+      <footnote id="aag-afi5_fn11" label="fn 11" role="number">
+        <para>
+          Paragraph .08 of AU-C section
+540B.
+          <emphasis role="italic">c</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+</root>

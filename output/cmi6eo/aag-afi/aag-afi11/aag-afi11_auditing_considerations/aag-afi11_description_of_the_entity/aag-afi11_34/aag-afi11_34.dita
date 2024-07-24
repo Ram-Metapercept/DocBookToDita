@@ -1,0 +1,31 @@
+<root id="aag-afi11_34" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.34</titleabbrev>
+    <title role="ps_para_number">11.34</title>
+  </sectioninfo>
+  <para role="ps_para_number">The CFO and controller receive monthly
+reports that provide information that enables them to identify any
+material breakdowns in controls, problems with the underlying systems,
+or possible material misstatements in the information. The reports
+include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>realized and unrealized gain or loss on derivatives
+and hedged exposures, as well as a statistical measurement of correlation
+of changes in their values.</para>
+    </listitem>
+    <listitem>
+      <para>transaction volumes and trends.</para>
+    </listitem>
+    <listitem>
+      <para>derivatives positions by exchange; counterpart; or
+type of instrument, with a comparison with established limits. The
+CFO receives notification as limits are approached. The system does
+not allow limits to be exceeded without the CFO’s approval.</para>
+    </listitem>
+    <listitem>
+      <para>information on various reconciliations, including
+an aging of reconciling items and resolution status.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,101 @@
+<root id="aag-afi3_how_the_use_of" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>How the Use of a Service Organization May Affect the
+User Auditor’s Procedures</titleabbrev>
+    <title role="ps_sub_heading">How the Use of a Service Organization
+May Affect the User Auditor’s Procedures</title>
+  </sectioninfo>
+  <section id="aag-afi3_43" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.43</titleabbrev>
+      <title role="ps_para_number">3.43</title>
+    </sectioninfo>
+    <para role="ps_para_number">Use of a service organization’s services
+that are part of a user entity’s information system may affect the
+nature, timing, and extent of the user auditor’s substantive procedures
+related to financial statement assertions about financial instruments.
+For example, if supporting documentation, such as derivative contracts
+or financial instruments’ purchase and sales advices, is located at
+a service organization, it may be necessary for the user auditor or
+another auditor to visit the service organization to inspect the documentation.
+Also, if investment advisers, holders of financial instruments, recordkeepers,
+and other service organizations electronically transmit, process,
+maintain, or access significant information about the user entity’s
+financial instruments, it may not be practicable or possible for the
+user auditor to obtain an understanding of the user entity’s internal
+control over financial instruments, assess the risk of material misstatement
+for financial statement assertions about financial instruments, and
+design and perform further audit procedures to address those risks
+without identifying controls placed into operation by the service
+organization or user entity and gathering sufficient appropriate evidence
+about the operating effectiveness of those controls.</para>
+  </section>
+  <section id="aag-afi3_44" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.44</titleabbrev>
+      <title role="ps_para_number">3.44</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The case study in , "Case Study of How an Entity’s
+Use of a Service Organization Affects the Auditor’s Considerations
+in Auditing Financial Instruments," of this guide discusses the effect
+on the auditor’s consideration of the risk of material misstatement
+of financial statement assertions about financial instruments if one
+or more service organizations provides financial instrument services
+to the entity under a discretionary arrangement. Those discussions
+address the following two types of situations:
+      <olink targetptr="aag-afi8">chapter 8</olink>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Two separate service organizations. In this situation,
+one service organization initiates transactions as an investment adviser,
+and a second service organization holds and services the financial
+instruments. The auditor may corroborate information provided by the
+two organizations. For example, the auditor may confirm holdings with
+the holder of the financial instruments and apply other substantive
+procedures to transactions reported by the user entity based on information
+provided by the investment adviser. Depending on the facts and circumstances,
+the auditor also may confirm transactions or holdings with the investment
+adviser and review the reconciliation of differences. </para>
+      </listitem>
+      <listitem>
+        <para>One service organization. In this situation, one service
+organization initiates transactions as an investment adviser and also
+holds and services the financial instruments. All the information
+available to the auditor is based on one service organization’s information.
+Therefore, the auditor may have to obtain evidence about the operating
+effectiveness of the service organization’s controls. The auditor
+may be unable to obtain an understanding of the user entity’s internal
+control over financial instrument transactions; assess the risk of
+material misstatement for financial statement assertions about financial
+instruments; and design and perform further audit procedures, including
+substantive audit procedures, to address those risks without obtaining
+audit evidence about the operating effectiveness of relevant service
+organization controls. An example of such controls is establishing
+independent departments that provide the investment advisory services
+and the holding and servicing of financial instruments, then reconciling
+the information about the financial instruments provided by each department.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi3_45" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.45</titleabbrev>
+      <title role="ps_para_number">3.45</title>
+    </sectioninfo>
+    <para role="ps_para_number">If a user entity uses the services of
+one or more service organizations, and those services are part of
+the user entity’s information system for financial instruments, the
+user auditor may be unable to sufficiently limit audit risk for the
+completeness assertion with respect to financial instruments without
+obtaining audit evidence about the operating effectiveness of controls
+at the service organizations. Because derivatives transactions may
+not require an initial exchange of tangible consideration, they may
+not be recorded; therefore, testing reconciliations of information
+provided by two or more service organizations may not sufficiently
+limit audit risk for assertions about the completeness of derivatives.
+Accordingly, the auditor may need to perform additional audit procedures
+at the user entity to address completeness.</para>
+  </section>
+</root>

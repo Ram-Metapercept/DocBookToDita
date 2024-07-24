@@ -1,0 +1,29 @@
+<root id="aag-afi2_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>2.06</titleabbrev>
+    <title role="ps_para_number">2.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">The characteristics of financial instruments
+may obscure certain elements of risk and exposure. Obtaining an understanding
+of the instruments in which the entity has invested or to which it
+is exposed, including the characteristics of the instruments, helps
+the auditor identify whether</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>important aspects of a transaction are missing or
+inaccurately recorded.</para>
+    </listitem>
+    <listitem>
+      <para>the risks inherent in them are fully understood and
+managed by the entity.</para>
+    </listitem>
+    <listitem>
+      <para>the instruments are valued using an appropriate valuation
+technique.</para>
+    </listitem>
+    <listitem>
+      <para>the financial instruments are appropriately classified
+into current and noncurrent assets and liabilities.</para>
+    </listitem>
+  </itemizedlist>
+</root>

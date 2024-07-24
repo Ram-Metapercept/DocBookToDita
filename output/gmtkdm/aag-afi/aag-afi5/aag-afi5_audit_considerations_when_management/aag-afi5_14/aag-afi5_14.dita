@@ -1,0 +1,75 @@
+<root id="aag-afi5_14" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.14</titleabbrev>
+    <title role="ps_para_number">5.14</title>
+  </sectioninfo>
+  <para role="ps_para_number">Possible approaches to gathering evidence
+regarding information from third-party pricing sources may include
+the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>For Level 1 inputs, comparing the information from
+third-party pricing sources with observable market prices</para>
+    </listitem>
+    <listitem>
+      <para>Reviewing disclosures provided by third-party pricing
+sources about their controls and processes, valuation techniques,
+inputs, and assumptions</para>
+    </listitem>
+    <listitem>
+      <para>Testing the controls that management has in place
+to assess the reliability of information from third-party pricing
+sources</para>
+    </listitem>
+    <listitem>
+      <para>Performing procedures at the third-party pricing source
+to understand and test the controls and processes, valuation techniques,
+inputs, and assumptions used for asset classes or specific financial
+instruments of interest</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating whether the prices obtained from third-party
+pricing sources are reasonable in relation to prices from other third-party
+pricing sources, the entity’s estimate, or the auditor’s own estimate</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating the reasonableness of valuation techniques,
+inputs, and assumptions</para>
+    </listitem>
+    <listitem>
+      <para>Developing a point estimate or range for some financial
+instruments priced by the third-party pricing source and evaluating
+whether the results are within a reasonable range of each other</para>
+    </listitem>
+    <listitem>
+      <para>
+        Obtaining a service auditor’s report that covers the
+controls over validation of the prices
+        <footnote id="aag-afi5_fn7" label="fn 7" role="number">
+          <para>
+            Some pricing services may provide reports for users of its data
+to explain their controls over pricing data (that is, a report prepared
+in accordance with , . Management may request,
+and the auditor may consider obtaining, such a report to develop an
+understanding of how the pricing data is prepared and to evaluate
+whether the controls at the pricing service can be relied upon. See  of this guide
+for additional guidance.
+            <olink targetdoc="ps" targetptr="atc_320">AT-C
+section 320</olink>
+            <olink targetptr="aag-afi3_48">paragraphs 3.48–.53</olink>
+            <emphasis role="italic">Reporting on an Examination
+of Controls at a Service Organization Relevant to User Entities’ Internal
+Control Over Financial Reporting</emphasis>
+          </para>
+          <para>
+            All AT-C sections can be found in AICPA .
+            <tab/>
+            <emphasis role="italic">
+              <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+            </emphasis>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

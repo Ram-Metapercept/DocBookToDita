@@ -1,0 +1,65 @@
+<root id="aag-afi4_tests_of_controls" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Tests of Controls</titleabbrev>
+    <title role="ps_sub_heading">Tests of Controls</title>
+  </sectioninfo>
+  <section id="aag-afi4_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.14</titleabbrev>
+      <title role="ps_para_number">4.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">In reaching a decision on the nature,
+timing, and extent of testing of controls, the auditor may consider
+factors such as the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The nature, frequency, and volume of financial instrument
+transactions.</para>
+      </listitem>
+      <listitem>
+        <para>The strength of controls, including whether controls
+are appropriately designed to respond to the risks associated with
+an entity’s volume of financial instrument transactions and whether
+a governance framework over the entity’s financial instrument activities
+exists.</para>
+      </listitem>
+      <listitem>
+        <para>The importance of particular controls to the overall
+control objectives and processes in place at the entity, including
+the sophistication of the information systems to support financial
+instrument transactions.</para>
+      </listitem>
+      <listitem>
+        <para>The monitoring of controls and identified deficiencies
+in control procedures.</para>
+      </listitem>
+      <listitem>
+        <para>The issues the controls are intended to address (for
+example, controls related to the exercise of judgments compared with
+controls over supporting data). Substantive procedures are likely
+to be more effective than relying on controls related to the exercise
+of judgment.</para>
+      </listitem>
+      <listitem>
+        <para>The competency of those involved in the control activities
+(for example whether the entity has adequate capacity, including during
+periods of stress, and ability to establish and verify valuations
+for the financial instruments to which it is exposed).</para>
+      </listitem>
+      <listitem>
+        <para>The frequency of performance of these control activities.</para>
+      </listitem>
+      <listitem>
+        <para>The level of precision the controls are intended to
+achieve.</para>
+      </listitem>
+      <listitem>
+        <para>The evidence of performance of control activities.</para>
+      </listitem>
+      <listitem>
+        <para>The timing of key financial instrument transactions
+(for example, whether they are close to period-end).</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

@@ -1,0 +1,19 @@
+<root id="aag-afi6_15" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.15</titleabbrev>
+    <title role="ps_para_number">6.15</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The auditor should not refer to the work
+of an auditor’s specialist in an auditor’s report containing an unmodified
+opinion. Reference to the specialist might be misunderstood to
+be a modification of the auditor’s opinion or division of responsibility,
+neither of which is intended. 
+    <footnote id="aag-afi6_fn11" label="fn 11" role="number">
+      <para>
+        Paragraph .14 of AU-C section 620B, .
+        <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

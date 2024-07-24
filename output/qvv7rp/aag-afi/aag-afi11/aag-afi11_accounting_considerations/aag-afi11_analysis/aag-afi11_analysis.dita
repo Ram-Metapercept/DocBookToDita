@@ -1,0 +1,199 @@
+<root id="aag-afi11_analysis" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Analysis</titleabbrev>
+    <title role="ps_sub_heading">Analysis</title>
+  </sectioninfo>
+  <section id="aag-afi11_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.14</titleabbrev>
+      <title role="ps_para_number">11.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Austin-Jhanes’ forecasted sale on March
+31, 20X2, is considered to be a forecasted transaction. A derivative
+that hedges the foreign currency exposure to the variability of cash
+flows associated with a forecasted transaction is a , provided
+that it meets the eligibility requirements of FASB ASC 815-30. The
+use of an option contract to offset a loss qualifies for cash flow
+hedge accounting, provided that it is highly effective (as described
+in paragraphs 38–41 of FASB ASC 815-20-25). 
+      <emphasis role="italic">foreign currency cash flow hedge</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.15</titleabbrev>
+      <title role="ps_para_number">11.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Among other criteria, FASB ASC 815-20-25-15(b)
+requires that the forecasted transaction (in this case, the foreign
+currency-denominated sale) be , as the term is used in FASB ASC 450, . The mere intent of management is not sufficient support for the
+conclusion that the forecasted transaction is probable. Rather, the
+transaction’s probability should be supported by observable facts
+and the attendant circumstances, such as the following:
+      <emphasis role="italic">probable</emphasis>
+      <emphasis role="italic">Contingencies</emphasis>
+    </para>
+    <para role="ps_indent_0">Additionally, the length of time until a
+forecasted transaction is expected to occur and the quantity of the
+forecasted transaction that is expected to occur are considerations
+in determining probability. Austin-Jhanes has a history of foreign
+sales that are similar to the one it is hedging. The forecasted sale
+is imminent and expected to take place in six months, on March 31,
+20X2. The management of Austin-Jhanes believes its assessment of probability
+is supportable.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The frequency of similar past transactions</para>
+      </listitem>
+      <listitem>
+        <para>The financial and operational ability of the entity
+to carry out the transaction</para>
+      </listitem>
+      <listitem>
+        <para>The extent of loss that could result if the transaction
+does not occur</para>
+      </listitem>
+      <listitem>
+        <para>The likelihood that transactions with substantially
+different characteristics might be used to achieve the same business
+purposes</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi11_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.16</titleabbrev>
+      <title role="ps_para_number">11.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">Further, the forecasted transaction must
+continue to be probable throughout the period covered by the hedge.
+FASB ASC 815-30-40-1(a) states that the entity is required to discontinue
+prospectively hedge accounting if the transaction fails to meet any
+of the hedge accounting criteria stated in FASB ASC 815-30-25, including
+the requirement that the forecasted transaction be probable.</para>
+  </section>
+  <section id="aag-afi11_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.17</titleabbrev>
+      <title role="ps_para_number">11.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">Management has elected to measure effectiveness
+based on changes in the intrinsic value of the option contract, as
+permitted by FASB ASC 815-20-25-82.</para>
+  </section>
+  <section id="aag-afi11_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.18</titleabbrev>
+      <title role="ps_para_number">11.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Austin-Jhanes should report the fair value
+of the option in its statement of financial position. Changes in the
+time value of the option should be recorded currently in earnings.  is considered to be the excess
+of the fair value of the option over its intrinsic value. Changes
+in the option’s intrinsic value, to the extent it is effective as
+a hedge, should be recorded in other comprehensive income. That is,
+the amount in other comprehensive income should be brought to a balance
+equal to the lesser of the cumulative
+      <emphasis role="italic">Time value</emphasis>
+    </para>
+    <para role="ps_indent_0">Any additional change in the intrinsic value
+of the option should be recorded in earnings. The balance in accumulated
+other comprehensive income should be reclassified to earnings at March
+31, 20X2: the date of the sale.</para>
+    <para role="ps_indent_0">
+      <emphasis role="shade">
+        Austin-Jhanes should
+report the fair value of the option in its statement of financial
+position. Changes in the time value of the option should be recorded
+currently in earnings.  is considered to be the excess of the fair value of the option over
+its intrinsic value. “Pending content” in FASB ASC 815-30-35-3 provides
+that when the relationship between the hedged item and hedging instrument
+is highly effective at achieving offsetting changes in cash flows
+attributable to the hedged risk, an entity should record in other
+comprehensive income the entire change in the fair value of the designated
+hedging instrument that is included in the assessment of hedge effectiveness.
+More specifically, a qualifying cash flow hedge should be accounted
+for as follows:
+        <emphasis role="italic">Time value</emphasis>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      <emphasis role="shade">
+        An entity’s defined risk management
+strategy for a particular hedging relationship may exclude a specific
+component of the gain or loss, or related cash flows, on the hedging
+derivative from the assessment of hedge effectiveness (as discussed
+in paragraphs 81–83B of FASB ASC 815-20-25). That excluded component
+of the gain or loss should be recognized in earnings either through
+an amortization approach in accordance with FASB ASC 815-20-25-83A
+or through a mark-to-market approach in accordance with FASB ASC 815-20-25-83B.
+Under either approach, the amount recognized in earnings for an excluded
+component should be presented in the same income statement line item
+as the earnings effect of the hedged item in accordance with FASB
+ASC 815-20-45-1A. For example, if the effectiveness of a hedging relationship
+with an option is assessed based on changes in the option’s intrinsic
+value, the changes in the option’s time value would be excluded from
+the assessment of hedge effectiveness and either may be recognized
+in earnings through an amortization approach in accordance with FASB
+ASC 815-20-25-83A or currently in earnings in accordance with FASB
+ASC 815-20-25-83B.
+        <emphasis role="italic">a.</emphasis>
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      <emphasis role="shade">
+        Amounts in accumulated other comprehensive
+income related to the derivative designated as a hedging instrument
+included in the assessment of hedge effectiveness are reclassified
+to earnings in the same period or periods during which the hedged
+forecasted transaction affects earnings in accordance with paragraphs
+38–41 of 815-30-35 and presented in the same income statement line
+item as the earnings effect of the hedged item in accordance with
+FASB ASC 815-20-45-1A. The balance in accumulated other comprehensive
+income associated with the hedged transaction should be the cumulative
+gain or loss on the derivative instrument from inception of the hedge
+less all of the following items: () the derivative instrument’s gains or losses previously reclassified
+from accumulated other comprehensive income into earnings pursuant
+to paragraphs 38–41 of FASB ASC 815-30-35; () the cumulative amount amortized to earnings related
+to excluded components accounted for through an amortization approach
+in accordance with paragraph FASB ASC 815-20-25-83A; and () the cumulative change in fair value of
+an excluded component for which changes in fair value are recorded
+currently in earnings in accordance with paragraph 815-20-25-83B.
+        <emphasis role="italic">b.</emphasis>
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">b</emphasis>
+        <emphasis role="italic">c</emphasis>
+        <tab/>
+      </emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>increase in the intrinsic value of the option (less
+any gains and losses on the option that were previously reclassified
+from accumulated other comprehensive income to earnings).</para>
+      </listitem>
+      <listitem>
+        <para>decrease in the expected proceeds of the sale, measured
+at the current spot rate, less any gains and losses on the option
+that were previously reclassified from accumulated other comprehensive
+income into earnings. </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi11_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.19</titleabbrev>
+      <title role="ps_para_number">11.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">By entering into the option contract,
+Austin-Jhanes is assured of receiving at least $5 million from its
+FC 10 million sale, excluding the cost of the option contract. (As
+shown in the journal entries that follow, the entity received $5 million,
+consisting of $4,347,826 from the sale at the spot rate plus $652,174
+from the gain on the option contract.)</para>
+  </section>
+</root>

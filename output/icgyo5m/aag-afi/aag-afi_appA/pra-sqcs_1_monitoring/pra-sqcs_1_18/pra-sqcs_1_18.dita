@@ -1,0 +1,36 @@
+<root id="pra-sqcs_1_18" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.18</titleabbrev>
+    <title role="ps_para_number">1.18</title>
+  </sectioninfo>
+  <para role="ps_para_number">Some of the monitoring procedures discussed
+in the previous list may be accomplished through the performance of
+the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Engagement quality control review</para>
+    </listitem>
+    <listitem>
+      <para>Review of engagement documentation, reports, and clients’
+financial statements for selected engagements after the report release
+date</para>
+    </listitem>
+    <listitem>
+      <para>
+        Inspection procedures
+        <footnote id="pra-sqcs_1_fn4" label="fn 4">
+          <para>
+             is a retrospective
+evaluation of the adequacy of the firm’s quality control policies
+and procedures, its personnel’s understanding of those policies and
+procedures, and the extent of the firm’s compliance with them. Although
+monitoring procedures are meant to be ongoing, they may include inspection
+procedures performed at a fixed point in time. Monitoring is a broad
+concept; inspection is one specific type of monitoring procedure.
+            <emphasis role="italic">Inspection</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

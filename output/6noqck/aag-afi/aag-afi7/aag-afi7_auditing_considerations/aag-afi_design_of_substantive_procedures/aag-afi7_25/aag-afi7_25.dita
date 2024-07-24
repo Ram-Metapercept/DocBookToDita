@@ -1,0 +1,159 @@
+<root id="aag-afi7_25" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.25</titleabbrev>
+    <title role="ps_para_number">7.25</title>
+  </sectioninfo>
+  <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about the transaction:</para>
+  <table frame="all" id="aag-afi7_table4" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.97in"/>
+      <colspec colname="c3" colwidth="2.99in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">
+                <emphasis role="italic">Audit Objective</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">
+                <emphasis role="italic">Procedure</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The bond exists and is owned by BEV.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Confirm existence and ownership with the broker-dealer.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Management authorized the change in classification of the bond
+from available for sale to held to maturity; this includes considerations
+relative to the securities’ eligibility to be classified as held to
+maturity.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Review minutes of meetings or any applicable internal
+memorandums of relevant groups for evidence that management authorized
+the change.</para>
+              </listitem>
+              <listitem>
+                <para>Absent written evidence in the minutes or other documentation,
+perform other procedures to determine whether the change was authorized,
+such as inquiry or obtaining a representation in the management representation
+letter.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The bond’s fair value at the date its classification was changed
+was properly determined.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Test the fair value of the bond at the date of reclassification
+by agreeing market price to independent published sources.</para>
+              </listitem>
+              <listitem>
+                <para>Review any notes from periodic pricing meetings with
+the traders or management of the entity to determine whether steps
+were taken to properly value the bond.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The difference between the bond’s fair value and its face amount
+at the date the bond’s classification was changed was properly recorded
+and amortized.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Recalculate the difference between the bond’s face
+amount and fair value at the date the bond’s classification was changed
+to held to maturity. Confirm the assumptions used in the calculation,
+including the notional amount and rate of the bond, because these
+inputs are used to determine the face amount and fair value.</para>
+              </listitem>
+              <listitem>
+                <para>Recalculate the amortization of the resulting discount. </para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Management has the positive intent and ability to hold the bond
+to maturity.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Review management’s cash flow forecasts, or perform
+other procedures considered necessary to assess BEV’s ability to hold
+the security to maturity.</para>
+              </listitem>
+              <listitem>
+                <para>
+                  Obtain a representation in the management representation
+letter confirming management’s intent to hold the security to maturity.
+                  <footnote id="aag-afi7_fn8" label="fn 8" role="number">
+                    <para>
+                      A written representation of management’s intent and ability
+with regard to held-to-maturity securities does not constitute sufficient
+appropriate audit evidence.  of this guide provide additional guidance on the
+types of auditing procedures the auditor might perform to corroborate
+management’s stated intent and ability to realize that intent.
+                      <olink targetptr="aag-afi6_07">Paragraphs
+6.07–.08</olink>
+                    </para>
+                  </footnote>
+                </para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Presentation and disclosure are appropriate.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>
+                  Read the financial statements and compare the presentation
+and disclosure with the requirements of FASB  320, .
+                  <emphasis role="italic">Accounting Standards Codification</emphasis>
+                  <emphasis role="italic">Investments — Debt and Equity Securities</emphasis>
+                </para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

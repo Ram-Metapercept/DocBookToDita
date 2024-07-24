@@ -1,0 +1,48 @@
+<root id="aag-afi3_21" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.21</titleabbrev>
+    <title role="ps_para_number">3.21</title>
+  </sectioninfo>
+  <para role="ps_para_number">Some entities (for example, large financial
+institutions with a high volume of financial instrument transactions)
+may be required by law or regulation or may choose to establish a
+formal risk management function. This function is separated from those
+responsible for undertaking and managing financial instrument transactions.
+The function is responsible for reporting on and monitoring financial
+instrument activities and may include a formal risk committee established
+by those charged with governance. Examples of key responsibilities
+in this area may include</para>
+  <para role="ps_indent_hang_2">
+    implementing the risk management policy set by those charged with
+governance (including analyses of the risks to which an entity may
+be exposed).
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    designing risk limit structures and ensuring these risk limits are
+implemented in practice.
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    developing stress scenarios and subjecting open position portfolios
+to sensitivity analysis, including reviews of unusual movements in
+positions.
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    reviewing and analyzing new financial instrument products.
+    <emphasis role="italic">
+      d.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

@@ -1,0 +1,27 @@
+<root id="aag-afi8_12" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.12</titleabbrev>
+    <title role="ps_para_number">8.12</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Paragraph .05 of AU-C section 402B, , does not apply to services that are limited
+to processing an entity’s transactions that are specifically authorized
+by the entity, such as the processing of checking account transactions
+by a bank or the processing of financial instrument transactions by
+a broker (that is, when the user entity retains responsibility for
+authorizing the transactions and maintaining the related accountability). Because Lane retains responsibility for authorizing the
+transactions and maintaining the related accountability, AU-C section
+402B is not applicable in .
+    <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service
+Organization</emphasis>
+    <footnote id="aag-afi8_fn3" label="fn 3" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently-issued
+SASs.</para>
+    </footnote>
+    <olink targetptr="aag-afi8_scenario_a">scenario
+A</olink>
+  </para>
+</root>

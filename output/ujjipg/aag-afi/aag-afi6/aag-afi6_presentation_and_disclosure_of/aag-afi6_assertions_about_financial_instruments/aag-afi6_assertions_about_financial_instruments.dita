@@ -1,0 +1,141 @@
+<root id="aag-afi6_assertions_about_financial_instruments" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Assertions About Financial Instruments Based on Management’s
+Intent and Ability</titleabbrev>
+    <title role="ps_sub_heading">Assertions About Financial Instruments
+Based on Management’s Intent and Ability</title>
+  </sectioninfo>
+  <section id="aag-afi6_07" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.07</titleabbrev>
+      <title role="ps_para_number">6.07</title>
+    </sectioninfo>
+    <para role="ps_para_number">Financial reporting frameworks may require
+that management’s intent and ability be considered in valuing certain
+financial instruments, as follows:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Whether debt securities are classified as held to
+maturity and reported at their cost depends on management’s intent
+and ability to hold them to their maturity, as well as management’s
+assessment of whether it is more likely than not that they will be
+required to sell the security before the recovery of its amortized
+cost basis.</para>
+      </listitem>
+      <listitem>
+        <para>Whether equity securities are reported using the equity
+method depends on management’s ability to significantly influence
+the investee.</para>
+      </listitem>
+      <listitem>
+        <para>Whether equity securities are classified as trading
+or available for sale depends on management’s intent and objectives
+in investing in the financial instruments.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi6_08" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.08</titleabbrev>
+      <title role="ps_para_number">6.08</title>
+    </sectioninfo>
+    <para role="ps_para_number">In evaluating management’s intent and
+ability, the auditor might</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>obtain an understanding of the process used by management
+to classify financial instruments as trading, available for sale,
+or held to maturity.</para>
+      </listitem>
+      <listitem>
+        <para>for an investment accounted for using the equity method,
+inquire of management regarding whether the entity has the ability
+to exercise significant influence over the operating and financial
+policies of the investee and evaluate the attendant circumstances
+that serve as a basis for management’s conclusions.</para>
+      </listitem>
+      <listitem>
+        <para>if the entity accounts for the investment contrary
+to the presumption established by the applicable financial reporting
+framework for use of the equity method, obtain sufficient appropriate
+audit evidence about whether that presumption has been overcome and
+whether appropriate disclosure is made regarding the reasons for not
+accounting for the investment in keeping with that presumption.</para>
+      </listitem>
+      <listitem>
+        <para>consider whether management’s activities corroborate
+or conflict with its stated intent. For example, the auditor might
+evaluate an assertion that management intends to hold debt securities
+to their maturity by examining evidence such as documentation of management’s
+strategies and sales and other historical activities with respect
+to those financial instruments and similar financial instruments.</para>
+      </listitem>
+      <listitem>
+        <para>
+          determine whether the applicable financial reporting
+framework requires management to document its intentions and specify
+the content and timeliness of that documentation. The auditor might inspect the documentation and obtain
+audit evidence about its timeliness. Unlike the formal documentation
+required for hedging activities, audit evidence supporting the classification
+of debt and equity securities may be more informal.
+          <footnote id="aag-afi6_fn6" label="fn 6" role="number">
+            <para>
+              Paragraphs 1–2 of FASB  (ASC) 320-10-25 require an investor to classify
+and document the classification of debt securities into one of three
+categories at their acquisition: held to maturity, available for sale,
+or trading.
+              <emphasis role="italic">Accounting Standards
+Codification</emphasis>
+            </para>
+          </footnote>
+          <footnote id="aag-afi6_fn7" label="fn 7" role="number">
+            <para>
+              FASB ASC 825-10-05-5 permits entities to choose to measure many
+financial instruments and certain other items at fair value that are
+not currently required to be measured at fair value. FASB ASC 825-10-50
+also establishes presentation and disclosure requirements designed
+to facilitate comparisons between entities that choose different measurement
+attributes for similar types of assets and liabilities. FASB ASC 825-10-50
+does not eliminate disclosure requirements included in other accounting
+standards, including requirements for disclosures about fair value
+measurements included in FASB ASC 820, .
+              <emphasis role="italic">Fair
+Value Measurement</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>determine whether management’s activities, contractual
+agreements, or the entity’s financial condition provide evidence of
+its ability, as follows:</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>The entity’s financial position, working capital needs,
+operating results, debt agreements, guarantees, alternate sources
+of liquidity, and other relevant contractual obligations, as well
+as laws and regulations, may provide evidence about an entity’s ability
+to hold debt financial instruments to their maturity.</para>
+      </listitem>
+      <listitem>
+        <para>Management’s cash flow projections may suggest that
+it does not have the ability to hold debt financial instruments to
+their maturity.</para>
+      </listitem>
+      <listitem>
+        <para>Management’s inability to obtain information from
+an investee may suggest that it does not have the ability to significantly
+influence the investee.</para>
+      </listitem>
+      <listitem>
+        <para>If the entity asserts that it maintains effective
+control over financial instruments transferred under a repurchase
+agreement, the contractual agreement may be such that the entity actually
+surrendered control over the financial instruments and, therefore,
+should account for the transfer as a sale instead of a secured borrowing.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

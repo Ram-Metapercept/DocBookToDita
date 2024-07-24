@@ -1,0 +1,20 @@
+<root id="aag-afi10_summary_of_accounting" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Summary of Accounting</titleabbrev>
+    <title role="ps_sub_heading">Summary of Accounting</title>
+  </sectioninfo>
+  <section id="aag-afi10_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.19</titleabbrev>
+      <title role="ps_para_number">10.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">Because no cash is required to enter into
+the interest rate swap, no entry is required at its inception. The
+swap should subsequently be adjusted to its fair value. Because the
+swap is designated as a fair value hedge, the entire change in its
+fair value should be recognized in earnings. In addition, changes
+in the fair value of the bond obligation due to changes in the benchmark
+interest rate should be recognized in earnings. The basis of the bond
+obligation should be adjusted accordingly.</para>
+  </section>
+</root>

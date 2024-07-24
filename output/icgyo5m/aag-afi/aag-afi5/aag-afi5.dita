@@ -1,0 +1,1730 @@
+<root id="aag-afi5" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 5 — Valuation of Financial Instruments</titleabbrev>
+    <title role="ps_section_heading">Chapter 5</title>
+    <subtitle role="ps_section_title">Valuation of Financial Instruments</subtitle>
+  </chapterinfo>
+  <section id="aag-afi5_financial_reporting_requirements" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Financial Reporting Requirements</titleabbrev>
+      <title role="ps_main_heading">Financial Reporting Requirements</title>
+    </sectioninfo>
+    <paraBlock role="ps_box">
+      <para id="aag-afi5_update_5-1">
+        <icon fileref="images/icon-guidance.png"/>
+        <emphasis role="bold">
+           Update
+5-1 : Auditor Reporting
+and Amendments, Including Amendments Addressing Disclosures in the
+Audit of Financial Statements
+          <emphasis role="italic">Auditing</emphasis>
+        </emphasis>
+      </para>
+      <para>
+        In May 2019,
+the AICPA issued Statement on Auditing Standards (SAS) No. 134, . This suite of auditor reporting standards includes a new (although
+not required) , , and replaces the following AU-C sections in AICPA :
+        <emphasis role="italic">Auditor Reporting and Amendments, Including Amendments
+Addressing Disclosures in the Audit of Financial Statements</emphasis>
+        <emphasis role="italic">Communicating Key Audit Matters
+in the Independent Auditor’s Report</emphasis>
+        <emphasis role="italic">Professional Standards</emphasis>
+        <olink targetdoc="ps" targetptr="ad_701">AU-C section
+701</olink>
+        <footnote id="aag-afi5_fn1" label="fn 1" role="number">
+          <para>
+            All AU-C sections can be found in AICPA .
+            <emphasis role="italic">
+              <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+            </emphasis>
+          </para>
+        </footnote>
+      </para>
+      <para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+              <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_705">Section 705</olink>
+              <emphasis role="italic">Modifications to the Opinion in the Independent
+Auditor’s Report</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_706">Section 706</olink>
+              <emphasis role="italic">Emphasis-of-Matter Paragraphs and Other-Matter
+Paragraphs in the Independent Auditor’s Report</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </para>
+      <para>SAS No. 134, which also amends various
+other AU-C sections, addresses the auditor’s responsibility to form
+an opinion on the financial statements and the form and content of
+the auditor’s report issued as a result of an audit of financial statements.
+It also addresses the auditor’s responsibilities, and the form and
+content of the auditor’s report, when the auditor concludes that a
+modification to the auditor’s opinion on the financial statements
+is necessary, and when additional communications are necessary in
+the auditor’s report.</para>
+      <para>
+        At the time SAS No. 134 was originally
+issued, the amendments were intended to become effective for audits
+of financial statements for periods ending on or after December 15,
+2020 and early implementation was not permitted; however, in May 2020,
+the AICPA issued SAS No. 141, .
+        <emphasis role="italic">Amendment to
+the Effective Dates of SAS Nos. 134–140</emphasis>
+      </para>
+      <para>SAS
+No. 141 delays the effective dates of SAS Nos. 134–140, and the amendments
+to other SASs made by SAS Nos. 134–140, from December 15, 2020 to
+December 15, 2021, in order to provide more time for firms to implement
+these SASs in light of the effect of the coronavirus pandemic. SAS
+Nos. 134, 136–137, and 139–140, as originally issued, do not permit
+early implementation; however, SAS No. 141 amends these SASs to no
+longer preclude early implementation. </para>
+      <para>SAS Nos. 134 and
+136–140 are interrelated because the Auditing Standards Board (ASB)
+amended the auditor reporting model adopted in SAS No. 134 with the
+issuance of the subsequent SASs. The effective dates were aligned
+so that these SASs would be implemented as a suite, primarily to accommodate
+the amendments to the auditor reporting model. Accordingly, the ASB
+recommends that all of these SASs be implemented concurrently. SAS
+No. 141 was effective upon issuance.</para>
+    </paraBlock>
+    <paraBlock role="ps_box">
+      <para id="aag-afi5_update_5-2">
+        <icon fileref="images/icon-guidance.png"/>
+        <emphasis role="bold">
+           Update
+5-2 : Audit Evidence
+          <emphasis role="italic">Auditing</emphasis>
+        </emphasis>
+      </para>
+      <para>
+        In July 2020, the AICPA issued ,  (AU-C sec. 500), which supersedes AU-C section
+500A, , and amends
+the following AU-C sections: 
+        <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+        <emphasis role="italic">Audit
+Evidence</emphasis>
+        <emphasis role="italic">Audit Evidence</emphasis>
+      </para>
+      <para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+              <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+              <emphasis role="italic">Audit Documentation</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+              <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+              <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+              <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+              <emphasis role="italic">Audit Sampling</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_540a">Section
+540A</olink>
+              <emphasis role="italic">Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </para>
+      <para>
+         explains what constitutes audit evidence in an
+audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+        <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+      </para>
+      <para>
+        This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+        <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+      </para>
+    </paraBlock>
+    <section id="aag-afi5_01" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.01</titleabbrev>
+        <title role="ps_para_number">5.01</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Fair presentation financial reporting
+frameworks often use fair value hierarchies (for example, those used
+in accounting principles generally accepted in the United States of
+America and International Financial Reporting Standards). This usually
+means that the volume and detail of the required disclosures increases
+as the level of measurement uncertainty increases. The distinction
+between the levels in the hierarchy may require judgment. 
+        <footnote id="aag-afi5_fn2" label="fn 2" role="number">
+          <para>
+             of this
+guide describes the classification of the different levels (Level
+1, Level 2, and Level 3 inputs).
+            <olink targetptr="aag-afi1_26">Paragraph 1.26</olink>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi5_02" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.02</titleabbrev>
+        <title role="ps_para_number">5.02</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor may find it useful to obtain
+an understanding of how the financial instruments relate to the fair
+value hierarchy. Ordinarily, the risk of material misstatement and
+the level of audit procedures to be applied increases as the level
+of measurement uncertainty increases. The use of Level 3 and some
+Level 2 inputs from the fair value hierarchy may be a useful guide
+to the level of measurement uncertainty. Level 2 inputs vary from
+those that are easily obtained to those that are closer to Level 3
+inputs. The auditor evaluates available evidence and understands both
+the fair value hierarchy and the risk of management bias in management’s
+categorization of financial instruments in the fair value hierarchy.</para>
+    </section>
+    <section id="aag-afi5_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.03</titleabbrev>
+        <title role="ps_para_number">5.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        In accordance with paragraph .08 of AU-C section 540B, , the auditor is required to obtain
+an understanding of how management makes the accounting estimates
+and the data on which they are based, which includes the entity’s
+valuation policies and methodology for data and assumptions used in
+the valuation methodology. In many cases, the applicable financial reporting framework
+does not prescribe the specific valuation methodology. When this is
+the case, matters that may be relevant to the auditor’s understanding
+of how management values financial instruments include, for example
+        <emphasis role="italic">c</emphasis>
+        <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+        <footnote id="aag-afi5_fn3" label="fn 3" role="number">
+          <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+        </footnote>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>whether management has a formal valuation policy and,
+if so, whether the valuation technique used for a financial instrument
+is appropriately documented in accordance with that policy.</para>
+        </listitem>
+        <listitem>
+          <para>which models may give rise to the greatest risk of
+material misstatement.</para>
+        </listitem>
+        <listitem>
+          <para>how management considered the complexity of the valuation
+of the financial instrument when selecting a particular valuation
+technique.</para>
+        </listitem>
+        <listitem>
+          <para>whether there is a greater risk of material misstatement
+because management has internally developed a model to be used to
+value financial instruments or is departing from a valuation technique
+commonly used to value the particular financial instrument.</para>
+        </listitem>
+        <listitem>
+          <para>whether management made use of a third-party pricing
+source.</para>
+        </listitem>
+        <listitem>
+          <para>whether those involved in developing and applying
+the valuation technique have the appropriate skills and expertise
+to do so, including whether management’s specialist has been used.</para>
+        </listitem>
+        <listitem>
+          <para>whether there are indicators of management bias in
+selecting the valuation technique to be used.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi_assessing_the_risk_of_material_misstatement_related_to_valuation" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Assessing the Risk of Material Misstatement Related to
+Valuation</titleabbrev>
+      <title role="ps_main_heading">Assessing the Risk of Material Misstatement
+Related to Valuation</title>
+    </sectioninfo>
+    <section id="aag-afi5_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.04</titleabbrev>
+        <title role="ps_para_number">5.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">When evaluating whether the valuation
+techniques used by an entity are appropriate in the circumstances
+and whether controls over valuation techniques are in place, the factors
+considered by the auditor may include</para>
+      <para role="ps_indent_0">The auditor (or auditor’s specialist) may
+also independently develop one or more valuation techniques to compare
+his or her output with that of the valuation techniques used by management.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>whether the valuation techniques are commonly used
+by other market participants and have been previously demonstrated
+to provide a reliable estimate of prices obtained from market transactions.</para>
+        </listitem>
+        <listitem>
+          <para>whether the valuation techniques operate as intended,
+and there are no flaws in their design, particularly under extreme
+conditions, and whether they have been objectively validated. Indicators
+of flaws include inconsistent movements relative to benchmarks.</para>
+        </listitem>
+        <listitem>
+          <para>whether the valuation techniques take into account
+the risks inherent in the financial instrument being valued, including
+counterparty creditworthiness, and own credit risk in the case of
+valuation techniques used to measure financial liabilities.</para>
+        </listitem>
+        <listitem>
+          <para>how the valuation techniques are calibrated to the
+market, including the sensitivity of the valuation techniques to changes
+in variables.</para>
+        </listitem>
+        <listitem>
+          <para>whether market variables and assumptions are used
+consistently and whether new conditions justify a change in the valuation
+techniques, market variables, or assumptions used.</para>
+        </listitem>
+        <listitem>
+          <para>whether sensitivity analyses indicate that valuations
+would change significantly with only small or moderate changes in
+assumptions.</para>
+        </listitem>
+        <listitem>
+          <para>the organizational structure, such as the existence
+of an internal department responsible for developing models to value
+certain instruments, particularly when Level 3 inputs are involved.
+For example, a model development function that is involved in assisting
+in pricing deals is less objective than one that is functionally and
+organizationally segregated from the sales function.</para>
+        </listitem>
+        <listitem>
+          <para>the competence and objectivity of those responsible
+for the development and application of the valuation techniques, including
+management’s relative experience with particular models that may be
+newly developed.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_significant_risks" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Significant Risks</titleabbrev>
+        <title role="ps_sub_heading">Significant Risks</title>
+      </sectioninfo>
+      <section id="aag-afi5_05" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>5.05</titleabbrev>
+          <title role="ps_para_number">5.05</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor’s risk assessment process
+may lead the auditor to identify one or more significant risks relating
+to the valuation of financial instruments when any of the following
+circumstances exist:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              High measurement uncertainty related to the valuation
+of financial instruments (for example, those with unobservable inputs)
+              <footnote id="aag-afi5_fn4" label="fn 4" role="number">
+                <para>
+                  When the auditor determines that the high estimation uncertainty
+related to the valuation of complex financial instruments gives rise
+to a significant risk, AU-C section 540B, , requires the auditor to perform
+substantive procedures and evaluate the adequacy of the disclosure
+of his or her estimation uncertainty. See paragraphs .11, .15, and
+.20 of AU-C section 540B.
+                  <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+                </para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Lack of sufficient evidence to support management’s
+valuation of its financial instruments</para>
+          </listitem>
+          <listitem>
+            <para>Lack of management understanding of its financial
+instruments or expertise necessary to value such instruments properly,
+including the ability to determine whether valuation adjustments are
+needed</para>
+          </listitem>
+          <listitem>
+            <para>Lack of management understanding of complex requirements
+in the applicable financial reporting framework relating to measurement
+and disclosure of financial instruments and the inability of management
+to make the judgments required to properly apply those requirements</para>
+          </listitem>
+          <listitem>
+            <para>The significance of valuation adjustments made to
+valuation technique outputs when the applicable financial reporting
+framework requires or permits such adjustments.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi5_06" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>5.06</titleabbrev>
+          <title role="ps_para_number">5.06</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          For accounting estimates that give rise
+to significant risks, in addition to other substantive procedures
+performed to meet the requirements of AU-C section 330B, , paragraph
+.15– of AU-C section 540B requires the auditor to evaluate the following:
+          <emphasis role="italic">Performing Audit Procedures in Response to Assessed
+Risks and Evaluating the Audit Evidence Obtained</emphasis>
+          <emphasis role="italic">a</emphasis>
+          <emphasis role="italic">c</emphasis>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>How management has considered alternative assumptions
+or outcomes and why it has rejected them or how management has otherwise
+addressed measurement uncertainty in making the accounting estimate</para>
+          </listitem>
+          <listitem>
+            <para>Whether the significant assumptions used by management
+are reasonable</para>
+          </listitem>
+          <listitem>
+            <para>When relevant to the reasonableness of the significant
+assumptions used by management or the appropriate application of the
+applicable financial reporting framework, management’s intent to carry
+out specific courses of action and its ability to do so</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi5_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>5.07</titleabbrev>
+          <title role="ps_para_number">5.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">As markets become inactive, the change
+in circumstances may lead to a move from valuation by market price
+to valuation by model or may result in a change from one particular
+model to another. Reacting to changes in market conditions may be
+difficult if management does not have policies in place prior to their
+occurrence. Management may also not possess the expertise necessary
+to develop a model on an urgent basis or select the valuation technique
+that may be appropriate in the circumstances. Even when valuation
+techniques have been consistently used, a need exists for management
+to examine the continuing appropriateness of the valuation techniques
+and assumptions used for determining valuation of financial instruments.
+Further, valuation techniques may have been selected in times when
+reasonable market information was available, but that information
+may not provide reasonable valuations in times of unanticipated stress.</para>
+      </section>
+      <section id="aag-afi5_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>5.08</titleabbrev>
+          <title role="ps_para_number">5.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">The susceptibility to management bias,
+whether intentional or unintentional, increases with the subjectivity
+of the valuation and the degree of measurement uncertainty. For example,
+management may tend to ignore observable marketplace assumptions or
+data and instead use its own internally-developed assumptions if those
+assumptions yield more favorable results. Even without fraudulent
+intent, there may be a natural temptation to bias judgments toward
+the most favorable end of what may be a wide spectrum rather than
+the point in the spectrum that might be considered to be most consistent
+with the applicable financial reporting framework. Changing the valuation
+technique from period to period without a clear and an appropriate
+reason for doing so may also be an indicator of management bias. Although
+some form of management bias is inherent in subjective decisions relating
+to the valuation of financial instruments, when there is intention
+to mislead, management bias is fraudulent in nature.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi5_developing_an_audit_approach" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Developing an Audit Approach</titleabbrev>
+      <title role="ps_main_heading">Developing an Audit Approach</title>
+    </sectioninfo>
+    <section id="aag-afi5_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.09</titleabbrev>
+        <title role="ps_para_number">5.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">In testing how management values the financial
+instrument and in responding to the assessed risks of material misstatement
+in accordance with paragraphs .12–.14 of AU-C section 540B, the auditor
+undertakes one or more of the following procedures, taking account
+of the nature of the accounting estimates:</para>
+      <para role="ps_indent_0">
+        Many auditors find that a combination of
+testing how management valued the financial instrument and the data
+on which it is based and testing the operating effectiveness of controls
+will be an effective and efficient audit approach. Although subsequent
+events may provide some evidence about the valuation of financial
+instruments, other factors may need to be taken into account to address
+any changes in market conditions subsequent to the balance sheet date. If the auditor is unable to test how management made the
+estimate, the auditor may choose to develop a point estimate or range.
+        <footnote id="aag-afi5_fn5" label="fn 5" role="number">
+          <para>Paragraphs .A64–.A67 of AU-C section 540B provide examples of
+some of the factors that may be relevant.</para>
+        </footnote>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Test how management made the accounting estimate and
+the data on which it is based (including valuation techniques used
+by the entity in its valuations).</para>
+        </listitem>
+        <listitem>
+          <para>Test the operating effectiveness of the controls over
+how management made the accounting estimate, together with appropriate
+substantive procedures.</para>
+        </listitem>
+        <listitem>
+          <para>Develop a point estimate or range to evaluate management’s
+point estimate.</para>
+        </listitem>
+        <listitem>
+          <para>Determine whether events occurring up to the date
+of the auditor’s report provide audit evidence regarding the accounting
+estimate.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.10</titleabbrev>
+        <title role="ps_para_number">5.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        As described in , "Gaining an Understanding About Financial Instruments,"
+of this guide, to estimate the fair value of financial instruments,
+management may
+        <olink targetptr="aag-afi1">chapter 1</olink>
+      </para>
+      <para role="ps_indent_0">Management often may use a combination of
+these approaches. For example, management may have its own pricing
+process but use third-party pricing sources to corroborate its own
+values.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>utilize information from third-party pricing sources.</para>
+        </listitem>
+        <listitem>
+          <para>gather data to develop its own estimate using various
+techniques, including models.</para>
+        </listitem>
+        <listitem>
+          <para>engage a specialist to develop an estimate.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi5_audit_considerations_when_management" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Audit Considerations When Management Uses a Third-Party
+Pricing Source</titleabbrev>
+      <title role="ps_main_heading">Audit Considerations When Management
+Uses a Third-Party Pricing Source</title>
+    </sectioninfo>
+    <section id="aag-afi5_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.11</titleabbrev>
+        <title role="ps_para_number">5.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">Management may make use of a third-party
+pricing source, such as a pricing service or broker, in valuing the
+entity’s financial instruments. Understanding how management uses
+the information and how the pricing service operates assists the auditor
+in determining the nature and extent of audit procedures needed.</para>
+    </section>
+    <section id="aag-afi5_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.12</titleabbrev>
+        <title role="ps_para_number">5.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        AU-C section 500B, , explains that when information to be used
+as audit evidence has been prepared using the work of management’s
+specialist, the requirement with respect to management’s specialist
+in paragraph .08 of AU-C section 500B applies. For example, an individual
+or organization may possess expertise in the application of models
+to estimate the fair value of securities for which no observable market
+exists. If the individual or organization applies that expertise in
+making an estimate that the entity uses in preparing its financial
+statements, the individual or organization is a management’s specialist,
+and paragraph .08 of AU-C section 500B applies. If, on the other hand,
+that individual or organization merely provides price data regarding
+private transactions not otherwise available to the entity that the
+entity uses in its own estimation methods, such information, if used
+as audit evidence, is subject to paragraph .07 of AU-C section 500B,
+but it is not the use of management’s specialist by the entity.
+        <emphasis role="italic">Audit Evidence</emphasis>
+        <footnote id="aag-afi5_fn6" label="fn 6" role="number">
+          <para>
+            See paragraph .A36 of AU-C section 500B, .
+            <emphasis role="italic">Audit Evidence</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi5_13" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.13</titleabbrev>
+        <title role="ps_para_number">5.13</title>
+      </sectioninfo>
+      <para role="ps_para_number">The following matters may be relevant
+when management uses a third-party pricing source:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            . Some third-party pricing sources make more information
+available about their process. For example, a pricing service often
+provides information about its methodology, assumptions, and data
+in valuing financial instruments at the asset class level. By contrast,
+brokers often provide no, or only limited, information about the inputs
+and assumptions used in developing the quote.
+            <emphasis role="italic">The type of third-party pricing
+source</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . The reliability
+of prices from third-party pricing sources varies depending on the
+observability of inputs (and, accordingly, the level of inputs in
+the fair value hierarchy) and the complexity of the methodology for
+valuing a specific security or asset class. For example, the reliability
+of a price for an equity investment actively traded in a liquid market
+is higher than that of a corporate bond traded in a liquid market
+that has not traded on the measurement date, which, in turn, is more
+reliable than that of an asset-backed security that is valued using
+a discounted cash flow model.
+            <emphasis role="italic">The nature of inputs used
+and the complexity of the valuation technique</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . For example, a third-party
+pricing source may be experienced in a certain type of financial instrument
+and be recognized as such but may not be similarly experienced in
+other types of financial instruments. The auditor’s past experience
+with the third-party pricing source may also be relevant in this regard.
+            <emphasis role="italic">The reputation and experience
+of the third-party pricing source</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . For example, if a price obtained by management
+comes from a counterparty, such as the broker who sold the financial
+instrument to the entity, or an entity with a close relationship with
+the entity being audited, the price may not be reliable.
+            <emphasis role="italic">The objectivity of the third-party
+pricing source</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . The degree to which
+management has controls in place to assess the reliability of information
+from third-party pricing sources affects the reliability of the fair
+value measurement. For example, management may have controls in place
+to
+            <emphasis role="italic">The entity’s controls over
+the use of third-party pricing sources</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>review and approve the use of the third-party pricing
+source, including consideration of the reputation, experience, and
+objectivity of the third-party pricing source.</para>
+        </listitem>
+        <listitem>
+          <para>determine the completeness, relevance, and accuracy
+of the prices and pricing-related data.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            . The controls and processes over valuations for
+the asset classes are of interest to the auditor. For example, a third-party
+pricing source may have strong controls around how prices are developed.
+In addition, the third-party pricing source may include the use of
+a formalized process for customers, both buy and sell side, to challenge
+the prices received from the pricing service when supported by appropriate
+evidence. This enables the third-party pricing source to constantly
+correct prices to more fully reflect the information available to
+market participants.
+            <emphasis role="italic">The third-party pricing source’s
+controls</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.14</titleabbrev>
+        <title role="ps_para_number">5.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">Possible approaches to gathering evidence
+regarding information from third-party pricing sources may include
+the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>For Level 1 inputs, comparing the information from
+third-party pricing sources with observable market prices</para>
+        </listitem>
+        <listitem>
+          <para>Reviewing disclosures provided by third-party pricing
+sources about their controls and processes, valuation techniques,
+inputs, and assumptions</para>
+        </listitem>
+        <listitem>
+          <para>Testing the controls that management has in place
+to assess the reliability of information from third-party pricing
+sources</para>
+        </listitem>
+        <listitem>
+          <para>Performing procedures at the third-party pricing source
+to understand and test the controls and processes, valuation techniques,
+inputs, and assumptions used for asset classes or specific financial
+instruments of interest</para>
+        </listitem>
+        <listitem>
+          <para>Evaluating whether the prices obtained from third-party
+pricing sources are reasonable in relation to prices from other third-party
+pricing sources, the entity’s estimate, or the auditor’s own estimate</para>
+        </listitem>
+        <listitem>
+          <para>Evaluating the reasonableness of valuation techniques,
+inputs, and assumptions</para>
+        </listitem>
+        <listitem>
+          <para>Developing a point estimate or range for some financial
+instruments priced by the third-party pricing source and evaluating
+whether the results are within a reasonable range of each other</para>
+        </listitem>
+        <listitem>
+          <para>
+            Obtaining a service auditor’s report that covers the
+controls over validation of the prices
+            <footnote id="aag-afi5_fn7" label="fn 7" role="number">
+              <para>
+                Some pricing services may provide reports for users of its data
+to explain their controls over pricing data (that is, a report prepared
+in accordance with , . Management may request,
+and the auditor may consider obtaining, such a report to develop an
+understanding of how the pricing data is prepared and to evaluate
+whether the controls at the pricing service can be relied upon. See  of this guide
+for additional guidance.
+                <olink targetdoc="ps" targetptr="atc_320">AT-C
+section 320</olink>
+                <olink targetptr="aag-afi3_48">paragraphs 3.48–.53</olink>
+                <emphasis role="italic">Reporting on an Examination
+of Controls at a Service Organization Relevant to User Entities’ Internal
+Control Over Financial Reporting</emphasis>
+              </para>
+              <para>
+                All AT-C sections can be found in AICPA .
+                <tab/>
+                <emphasis role="italic">
+                  <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+                </emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.15</titleabbrev>
+        <title role="ps_para_number">5.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">Obtaining prices from multiple third-party
+pricing sources may also provide useful information about measurement
+uncertainty. A wide range of prices may indicate higher measurement
+uncertainty and suggest that the financial instrument is sensitive
+to small changes in data and assumptions. A narrow range may indicate
+lower measurement uncertainty and suggest less sensitivity to changes
+in data and assumptions. Although obtaining prices from multiple sources
+may be useful, when considering financial instruments that have inputs
+categorized at Levels 2 or 3 of the fair value hierarchy, in particular,
+obtaining prices from multiple sources may not provide sufficient
+appropriate audit evidence on its own because</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>what appear to be multiple sources of pricing information
+may be utilizing the same underlying pricing source.</para>
+        </listitem>
+        <listitem>
+          <para>understanding the inputs used by the third-party pricing
+source in determining the price may be necessary in order to categorize
+the financial instrument in the fair value hierarchy.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.16</titleabbrev>
+        <title role="ps_para_number">5.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">In some situations, the auditor may be
+unable to gain an understanding of the process used to generate the
+price, including any controls over the process of how reliably the
+price is determined, or may not have access to the model, including
+the assumptions and other inputs used. In such cases, the auditor
+may decide to undertake to develop a point estimate or range to evaluate
+management’s point estimate in responding to the assessed risk. </para>
+    </section>
+  </section>
+  <section id="aag-afi5_audit_considerations_when_management2" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Audit Considerations When Management Estimates Fair Values
+Using a Model</titleabbrev>
+      <title role="ps_main_heading">Audit Considerations When Management
+Estimates Fair Values Using a Model</title>
+    </sectioninfo>
+    <section id="aag-afi5_17" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.17</titleabbrev>
+        <title role="ps_para_number">5.17</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Paragraph .13 of AU-C section 540B requires the auditor, if testing management’s
+process of making the accounting estimate, to evaluate whether the
+method of measurement used is appropriate in the circumstances and
+the assumptions used by management are reasonable in light of the
+measurement objectives of the applicable financial reporting framework
+and whether the data on which the estimate is based is sufficiently
+reliable for the auditor’s purposes.
+        <emphasis role="italic">b</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi5_18" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.18</titleabbrev>
+        <title role="ps_para_number">5.18</title>
+      </sectioninfo>
+      <para role="ps_para_number">Whether management has used a third-party
+pricing source or is undertaking its own valuation, models are often
+used to value financial instruments, particularly when using inputs
+at Levels 2 and 3 of the fair value hierarchy. In determining the
+nature, timing, and extent of audit procedures on models, the auditor
+may consider the methodology, assumptions, and data used in the model.
+When considering more complex financial instruments, such as those
+using Level 3 inputs, testing all three may be a useful source of
+audit evidence. However, when the model is both simple and generally
+accepted, such as some bond price calculations, audit evidence obtained
+from focusing on the assumptions and data used in the model may be
+a more useful source of evidence. </para>
+    </section>
+    <section id="aag-afi5_19" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.19</titleabbrev>
+        <title role="ps_para_number">5.19</title>
+      </sectioninfo>
+      <para role="ps_para_number">Testing a model can be accomplished by
+the following two main approaches:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The auditor can test management’s model by considering
+the appropriateness of the model used by management, the reasonableness
+of the assumptions and data used, and the mathematical accuracy.</para>
+        </listitem>
+        <listitem>
+          <para>The auditor can develop his or her own estimate and
+then compare the auditor’s valuation with that of the entity.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_20" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.20</titleabbrev>
+        <title role="ps_para_number">5.20</title>
+      </sectioninfo>
+      <para role="ps_para_number">When valuation of financial instruments
+is based on unobservable inputs (that is, Level 3 inputs), matters
+the auditor may consider include, for example, how management supports
+the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The identification and characteristics of marketplace
+participants relevant to the financial instrument</para>
+        </listitem>
+        <listitem>
+          <para>How unobservable inputs are determined on initial
+recognition</para>
+        </listitem>
+        <listitem>
+          <para>Modifications the auditor has made to his or her own
+assumptions to reflect the auditor’s view of assumptions that marketplace
+participants would use</para>
+        </listitem>
+        <listitem>
+          <para>Whether he or she has incorporated the best input
+information available in the circumstances</para>
+        </listitem>
+        <listitem>
+          <para>When applicable, how his or her assumptions take account
+of comparable transactions</para>
+        </listitem>
+        <listitem>
+          <para>Sensitivity analysis of models when unobservable inputs
+are used and whether adjustments have been made to address measurement
+uncertainty</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_21" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.21</titleabbrev>
+        <title role="ps_para_number">5.21</title>
+      </sectioninfo>
+      <para role="ps_para_number">In addition, the auditor’s industry knowledge,
+knowledge of market trends, and understanding of other entities’ valuations
+(giving consideration to confidentiality) and other relevant price
+indicators informs the auditor’s testing of the valuations and the
+consideration of whether the valuations appear reasonable overall.
+If the valuations appear to be consistently overly aggressive or conservative,
+this may be an indicator of possible management bias.</para>
+    </section>
+    <section id="aag-afi5_22" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.22</titleabbrev>
+        <title role="ps_para_number">5.22</title>
+      </sectioninfo>
+      <para role="ps_para_number">When there is a lack of observable external
+evidence, it is particularly important that those charged with governance
+have been appropriately engaged to understand the subjectivity of
+management’s valuations and the evidence that has been obtained to
+support these valuations. In such cases, it may be necessary for the
+auditor to evaluate whether there has been a thorough review and consideration
+of the issues, including any documentation, at all appropriate management
+levels within the entity, including with those charged with governance.</para>
+    </section>
+    <section id="aag-afi5_23" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.23</titleabbrev>
+        <title role="ps_para_number">5.23</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        When markets become inactive or dislocated
+or inputs are unobservable, management’s valuations may be more judgmental
+and less verifiable and, as result, less reliable. In such circumstances,
+the auditor may test the model by a combination of testing controls
+operated by the entity, evaluating the design and operation of the
+model, testing the assumptions and data used in the model, and comparing
+its output to a point estimate or range developed by the auditor or
+to other third-party valuation techniques.
+        <footnote id="aag-afi5_fn8" label="fn 8" role="number">
+          <para>
+            Paragraph .13 of AU-C section
+540B describes requirements when the auditor develops a range to evaluate
+management’s point estimate. Valuation techniques developed by third
+parties and used by the auditor may, in some circumstances, be considered
+the work of an auditor’s specialist and subject to the requirements
+in AU-C section 620B, .
+            <emphasis role="italic">d</emphasis>
+            <emphasis role="italic">Using the Work of an
+Auditor’s Specialist</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi5_24" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.24</titleabbrev>
+        <title role="ps_para_number">5.24</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        It is likely that in testing the inputs
+used in an entity’s valuation methodology (for example, when such inputs are categorized in the
+fair value hierarchy), the auditor will also be obtaining evidence
+to support the disclosures required by the applicable financial reporting
+framework. For example, the auditor’s substantive procedures to evaluate
+whether the inputs used in an entity’s valuation technique (that is,
+Level 1, Level 2, and Level 3 inputs) are appropriate and tests of
+an entity’s sensitivity analysis, if any, will be relevant to the
+auditor’s evaluation of whether the disclosures achieve fair presentation.
+        <footnote id="aag-afi5_fn9" label="fn 9" role="number">
+          <para>See, for example, paragraph .15 of AU-C section 540B for requirements
+relative to the auditor’s evaluation of management’s assumption regarding
+significant risks.</para>
+        </footnote>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi5_evaluating_whether_the_assumptions" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Evaluating Whether the Assumptions Used by Management
+Are Reasonable</titleabbrev>
+      <title role="ps_main_heading">Evaluating Whether the Assumptions Used
+by Management Are Reasonable</title>
+    </sectioninfo>
+    <section id="aag-afi5_25" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.25</titleabbrev>
+        <title role="ps_para_number">5.25</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        An assumption used in a model may be deemed
+to be significant if a reasonable variation in the assumption would
+materially affect the measurement of the financial instrument. Management may have considered alternative assumptions
+or outcomes by performing a sensitivity analysis. The extent of subjectivity
+associated with assumptions influences the degree of measurement uncertainty
+and may lead the auditor to conclude that a significant risk exits
+(for example, in the case of Level 3 inputs). 
+        <footnote id="aag-afi5_fn10" label="fn 10" role="number">
+          <para>See paragraph .A113 of AU-C section 540B.</para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi5_26" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.26</titleabbrev>
+        <title role="ps_para_number">5.26</title>
+      </sectioninfo>
+      <para role="ps_para_number">For items valued by the entity using a
+valuation model, the auditor does not function as an appraiser. Rather,
+the auditor reviews the model and evaluates whether the assumptions
+used are reasonable, and the model is appropriate, considering the
+entity’s circumstances. For example, it may be inappropriate to use
+discounted cash flows for valuing an equity investment in a start-up
+enterprise if no current revenues exist on which to base the forecast
+of future earnings or cash flows.</para>
+    </section>
+    <section id="aag-afi5_27" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.27</titleabbrev>
+        <title role="ps_para_number">5.27</title>
+      </sectioninfo>
+      <para role="ps_para_number">Audit procedures to test the assumptions
+used by management, including those used as inputs to models, may
+include evaluating whether</para>
+      <para role="ps_indent_0">See paragraphs .A78–.A84 of AU-C section
+540B for further considerations relative to evaluating the assumptions
+used by management.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>and, if so, how management has incorporated market
+inputs into the development of assumptions because it is generally
+preferable to seek to maximize the use of relevant observable inputs
+and minimize unobservable inputs.</para>
+        </listitem>
+        <listitem>
+          <para>the assumptions are consistent with observable market
+conditions and the characteristics of the financial asset or liability.</para>
+        </listitem>
+        <listitem>
+          <para>the sources of market-participant assumptions are
+relevant and reliable and how management has selected the assumptions
+to use when a number of different marketplace assumptions exist.</para>
+        </listitem>
+        <listitem>
+          <para>sensitivity analyses indicate that valuations would
+change significantly with only small or moderate changes in assumptions.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_28" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.28</titleabbrev>
+        <title role="ps_para_number">5.28</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor’s consideration of judgments
+about the future is based on information available at the time at
+which the judgment is made. Subsequent events may result in outcomes
+that are inconsistent with judgments that were reasonable at the time
+they were made.</para>
+    </section>
+    <section id="aag-afi5_29" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.29</titleabbrev>
+        <title role="ps_para_number">5.29</title>
+      </sectioninfo>
+      <para role="ps_para_number">Audit procedures dealing with management’s
+assumptions are performed in the context of the audit of the entity’s
+financial statements. The objective of the audit procedures is, therefore,
+not intended to obtain sufficient appropriate audit evidence to provide
+an opinion on the assumptions themselves. Rather, the auditor performs
+procedures to evaluate whether the assumptions provide a reasonable
+basis for measuring fair values in the context of an audit of the
+financial statements as a whole.</para>
+    </section>
+    <section id="aag-afi5_30" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.30</titleabbrev>
+        <title role="ps_para_number">5.30</title>
+      </sectioninfo>
+      <para role="ps_para_number">Identifying those assumptions that appear
+to be significant to the fair value measurement requires the exercise
+of judgment by management. The auditor focuses attention on the significant
+assumptions that management has identified. Generally, significant
+assumptions cover matters that materially affect the fair value measurement
+and may include those that are</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>sensitive to variation or uncertainty in amount or
+nature. (For example, assumptions about short-term interest rates
+may be less susceptible to significant variation compared with assumptions
+about long-term interest rates.)</para>
+        </listitem>
+        <listitem>
+          <para>susceptible to misapplication or bias.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_31" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.31</titleabbrev>
+        <title role="ps_para_number">5.31</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor may consider the sensitivity
+of the valuation to changes in significant assumptions, including
+market conditions that may affect the value. When applicable, the
+auditor may encourage management to use techniques such as sensitivity
+analysis to help identify particularly sensitive assumptions. If management
+has not identified particularly sensitive assumptions, the auditor
+considers whether to employ techniques to identify those assumptions.</para>
+    </section>
+    <section id="aag-afi5_32" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.32</titleabbrev>
+        <title role="ps_para_number">5.32</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The evaluation of whether the assumptions
+provide a reasonable basis for the fair value measurements relates
+to the whole set of assumptions, as well as each assumption individually.
+Assumptions are frequently interdependent and, therefore, need to
+be internally consistent. A particular assumption that may appear
+reasonable when taken in isolation may not be reasonable when used
+in conjunction with other assumptions. The auditor is required to
+obtain an understanding of how management makes the accounting estimates
+and the data on which they are based.
+        <footnote id="aag-afi5_fn11" label="fn 11" role="number">
+          <para>
+            Paragraph .08 of AU-C section
+540B.
+            <emphasis role="italic">c</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi5_investments_reported_based_on" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Investments Reported Based on an Investee’s Financial
+Results</titleabbrev>
+      <title role="ps_main_heading">Investments Reported Based on an Investee’s
+Financial Results</title>
+    </sectioninfo>
+    <section id="aag-afi5_33" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.33</titleabbrev>
+        <title role="ps_para_number">5.33</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Investments accounted for under the equity
+method of accounting constitute components for purposes of AU-C section
+600B, . Thus, financial statements that include investments accounted for
+under the equity method are considered group financial statements,
+and AU-C section 600B applies to investments accounted for under the
+equity method of accounting. The auditor of the group financial statements
+(that is, the financial statements of the investor) is required to
+obtain an understanding of the component auditor (that is, the auditor
+of the equity investee) and decide whether to make reference to the
+audit of the equity investee in the auditor’s report on the group
+financial statements. 
+        <emphasis role="italic">Special Considerations — Audits of Group
+Financial Statements (Including the Work of Component Auditors)</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi5_34" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.34</titleabbrev>
+        <title role="ps_para_number">5.34</title>
+      </sectioninfo>
+      <para role="ps_para_number">When the auditor of the group financial
+statements has performed the procedures required by AU-C section 600B
+necessary for determining whether to make reference and has determined
+to make reference to the audit of the equity investee in the auditor’s
+report on the group financial statements, obtaining and reading the
+audited financial statements of the equity investee may constitute
+sufficient appropriate evidence relative to the equity investment.
+If, in the auditor’s judgment, additional audit evidence is needed,
+examples of procedures the auditor may perform include, but are not
+limited to, reviewing information in the investor’s files that relates
+to the investee, such as investee minutes, budgets, and cash flows’
+information, and making inquiries of investor management about the
+investee’s financial results. The auditor may conclude that additional
+audit evidence is needed because of, for example, significant differences
+in fiscal year-ends, significant differences in accounting principles,
+changes in ownership, or changes in conditions affecting the use of
+the equity method.</para>
+    </section>
+    <section id="aag-afi5_35" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.35</titleabbrev>
+        <title role="ps_para_number">5.35</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        When a time lag in reporting between the
+date of the financial statements of the investor and that of the investee
+exists, the requirement in paragraph .38 of AU-C section 600B for
+the group engagement team to evaluate whether appropriate adjustments
+have been made to the financial statements is applicable. The effect
+of the time lag may be material (for example, because the time lag
+is not consistent with the prior period in comparative statements
+or because a significant transaction occurred during the time lag).
+If a change in time lag occurs that has a material effect on the investor’s
+financial statements, the auditor should consider the consistency
+of the financial statements for the periods presented, in accordance
+with AU-C section 708B, , because of the change in reporting period.
+        <emphasis role="italic">Consistency of Financial
+Statements</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi5_36" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.36</titleabbrev>
+        <title role="ps_para_number">5.36</title>
+      </sectioninfo>
+      <para role="ps_para_number">When the carrying amount of the investment
+in the investor’s financial statements is based on the investee’s
+financial results and also reflects factors that are not recognized
+in the investee’s financial statements (for example, goodwill) or
+fair values of assets that are materially different from the investee’s
+carrying amounts (for example, appreciated land), additional procedures
+may be necessary to obtain sufficient appropriate audit evidence in
+support of those amounts.</para>
+    </section>
+    <section id="aag-afi5_37" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.37</titleabbrev>
+        <title role="ps_para_number">5.37</title>
+      </sectioninfo>
+      <para role="ps_para_number">AU-C section 600B also addresses the responsibilities
+of the auditor of the group financial statements regarding</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>the appropriateness, completeness, and accuracy of
+the elimination of unrealized profits and losses on transactions between
+the entity and investee that is required when the equity method of
+accounting is used to account for an investment under the applicable
+financial reporting framework.</para>
+        </listitem>
+        <listitem>
+          <para>the adequacy of disclosures about material related-party
+transactions.</para>
+        </listitem>
+        <listitem>
+          <para>subsequent events and transactions of the investee
+occurring after the date of the investee’s financial statements but
+before the date of the investor auditor’s report that may require
+adjustment to, or disclosure in, the investor financial statements.
+Procedures to identify subsequent events and transactions that are
+material to the investor’s financial statements may include reading
+available interim financial statements of the investee and making
+appropriate inquiries of the investor.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_38" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.38</titleabbrev>
+        <title role="ps_para_number">5.38</title>
+      </sectioninfo>
+      <para role="ps_para_number">If the auditor of the group financial
+statements decides not to make reference to the audit of the equity
+investee, and the equity investment constitutes a significant component
+due to individual financial significance, the auditor of the group
+financial statements is required by paragraph .52 of AU-C section
+600B to perform, or request a component auditor to perform on the
+group engagement team’s behalf, an audit of the financial statements
+of the equity investee, adapted as necessary to meet the needs of
+the group engagement team, using component materiality. If the equity
+investment constitutes a significant component due to significant
+risk of material misstatement, the auditor of the group financial
+statements is required by paragraph .53 of AU-C section 600B to perform,
+or request a component auditor to perform on the group engagement
+team’s behalf, an audit of the financial information of the component;
+an audit of one or more account balances, classes of transactions,
+or disclosures relating to the likely significant risks of material
+misstatement of the group financial statements; or specified audit
+procedures relating to the likely significant risks of material misstatement
+of the group financial statements.</para>
+    </section>
+    <section id="aag-afi5_39" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.39</titleabbrev>
+        <title role="ps_para_number">5.39</title>
+      </sectioninfo>
+      <para role="ps_para_number">When the equity investment does not constitute
+a significant component, AU-C section 600B requires the group engagement
+team to perform analytical procedures at the group level. Obtaining
+and reading the financial statements of the investee and the accompanying
+audit report provides additional evidence on which to base the group
+audit opinion.</para>
+    </section>
+    <section id="aag-afi5_40" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.40</titleabbrev>
+        <title role="ps_para_number">5.40</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+         of this guide address the situations when the auditor
+is unable to obtain sufficient appropriate audit evidence to test
+investments reported based on investee’s financial results.
+        <olink targetptr="aag-afi6_19">Paragraphs
+6.19–.21</olink>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi5_impairment_losses" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Impairment Losses</titleabbrev>
+      <title role="ps_main_heading">Impairment Losses</title>
+    </sectioninfo>
+    <paraBlock role="ps_box">
+      <para id="aag-afi5_update_5-3">
+        <icon fileref="images/icon-guidance.png"/>
+        <emphasis role="bold">
+           Update
+5-3 : Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures
+          <emphasis role="italic">Auditing</emphasis>
+        </emphasis>
+      </para>
+      <para>
+        In July 2020, the AICPA issued ,  (AU-C sec. 540), which supersedes , , and amends the following AU-C
+sections: 
+        <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+        <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540A</olink>
+        <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+        <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+      </para>
+      <para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+              <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  
+              <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+              <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance </emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              , 
+              <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+              <emphasis role="italic">Written Representations</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </para>
+      <para>
+         addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements.
+        <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      </para>
+      <para>
+        This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+        <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+      </para>
+    </paraBlock>
+    <section id="aag-afi5_41" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.41</titleabbrev>
+        <title role="ps_para_number">5.41</title>
+      </sectioninfo>
+      <para role="ps_para_number">Regardless of the valuation method used
+(including those investments reported based on an investee’s financial
+results), applicable financial reporting frameworks may require recognizing
+in earnings an impairment loss for a decline in fair value that is
+other than temporary. Determining whether losses are other than temporary
+often involves estimating the outcome of future events. Accordingly,
+judgment is required in determining whether factors exist that indicate
+that an impairment loss has been incurred at the end of the reporting
+period. These judgments are based on subjective, as well as objective,
+factors, including knowledge and experience about past and current
+events and assumptions about future events. The following are examples
+of such factors:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Fair value is significantly below cost, and</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>the decline is attributable to adverse conditions
+specifically related to the security or conditions in an industry
+or a geographic area.</para>
+        </listitem>
+        <listitem>
+          <para>the decline has existed for an extended period of
+time.</para>
+        </listitem>
+        <listitem>
+          <para>management does not possess both the intent and ability
+to hold the security for a period of time sufficient to allow for
+any anticipated recovery in fair value.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The security has been downgraded by a rating agency.</para>
+        </listitem>
+        <listitem>
+          <para>The financial condition of the issuer or counterparty
+has deteriorated.</para>
+        </listitem>
+        <listitem>
+          <para>Dividends have been reduced or eliminated, or scheduled
+interest payments have not been made.</para>
+        </listitem>
+        <listitem>
+          <para>The entity recorded losses from the security subsequent
+to the end of the reporting period.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_42" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.42</titleabbrev>
+        <title role="ps_para_number">5.42</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        AU-C section 501B, , requires the auditor to ()
+evaluate management’s conclusion (including the relevance of the information
+considered) about the need to recognize an impairment loss for a decline
+in a security’s fair value below its cost or carrying amount and () obtain sufficient appropriate audit evidence
+supporting the amount of any impairment adjustment recorded, including
+evaluating whether the requirements of the applicable financial reporting
+framework have been complied with. That includes evaluating () whether management has considered relevant information in determining
+whether factors such as those listed in  exist and () management’s conclusions about the need to recognize an impairment
+loss. That evaluation requires the auditor to obtain evidence about
+such factors that tend to corroborate or conflict with management’s
+conclusions.
+        <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">b</emphasis>
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">b</emphasis>
+        <footnote id="aag-afi5_fn12" label="fn 12" role="number">
+          <para>
+            Paragraph .09 of AU-C section 501B, .
+            <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+          </para>
+        </footnote>
+        <olink targetptr="aag-afi5_03">paragraph 5.03</olink>
+      </para>
+    </section>
+    <section id="aag-afi5_43" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.43</titleabbrev>
+        <title role="ps_para_number">5.43</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor is not responsible for designing
+procedures to detect the presence of these factors per se. Rather,
+the auditor might evaluate whether management has considered information
+that would be relevant in determining whether such factors exist.
+For example, the auditor would not be responsible for determining
+whether the financial condition of the issuer of a security has deteriorated
+but, instead, would ask management how it considered the issuer’s
+financial condition. Once the auditor has determined that the entity
+considered relevant information, the auditor is responsible for evaluating
+management’s conclusion about the need to recognize an impairment
+loss. </para>
+    </section>
+    <section id="aag-afi5_44" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.44</titleabbrev>
+        <title role="ps_para_number">5.44</title>
+      </sectioninfo>
+      <para role="ps_para_number">If the entity has recognized an impairment
+loss, and the auditor agrees with that conclusion, the auditor would</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>determine that the write-down of an investment to
+a new cost basis is accounted for as a realized loss.</para>
+        </listitem>
+        <listitem>
+          <para>test the calculation of the loss recorded.</para>
+        </listitem>
+        <listitem>
+          <para>determine that the new cost basis of investments previously
+written down is not changed for subsequent recoveries in fair value.</para>
+        </listitem>
+        <listitem>
+          <para>review a summary of investments written down for completeness
+and unusual items.</para>
+        </listitem>
+        <listitem>
+          <para>evaluate management’s assessment of the credit rating
+of the counterparty.</para>
+        </listitem>
+        <listitem>
+          <para>conclude on the adequacy of impairment adjustments
+recorded.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi5_audit_considerations_when_a" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Audit Considerations When a Management’s Specialist Is
+Used by the Entity</titleabbrev>
+      <title role="ps_main_heading">Audit Considerations When a Management’s
+Specialist Is Used by the Entity</title>
+    </sectioninfo>
+    <section id="aag-afi5_45" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.45</titleabbrev>
+        <title role="ps_para_number">5.45</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        As discussed in  of this guide, management may engage a valuation
+specialist to value some or all of the entity’s financial instruments.
+Such specialists may be brokers, investment bankers, pricing services
+that also provide valuation services, or other specialized valuation
+firms.
+        <olink targetptr="aag-afi1">chapter 1</olink>
+      </para>
+    </section>
+    <section id="aag-afi5_46" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.46</titleabbrev>
+        <title role="ps_para_number">5.46</title>
+      </sectioninfo>
+      <para role="ps_para_number">Paragraph .08 of AU-C section 500B contains
+requirements for the auditor when evaluating evidence from a specialist
+engaged by management. The extent of the auditor’s procedures in relation
+to management’s specialist and that specialist’s work depend on the
+significance of the specialist’s work for the auditor’s purposes.
+Evaluating the appropriateness of management’s specialist’s work assists
+the auditor in assessing whether the prices or valuations supplied
+by management’s specialist provide sufficient appropriate audit evidence
+to support the valuations. Examples of procedures the auditor may
+perform include</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>evaluating the competence, capabilities, and objectivity
+of management’s specialist (for example, his or her relationship with
+the entity, reputation and standing in the market, experience with
+the particular types of instruments, and understanding of the relevant
+financial reporting framework applicable to the valuations).</para>
+        </listitem>
+        <listitem>
+          <para>obtaining an understanding of the work of management’s
+specialist (for example, by assessing the appropriateness of the valuation
+technique[s] used and the key market variables and assumptions used
+in the valuation technique[s]).</para>
+        </listitem>
+        <listitem>
+          <para>
+            evaluating the appropriateness of that specialist’s
+work as audit evidence. At this point, the focus is on the appropriateness
+of the specialist’s work at the level of the individual financial
+instrument. For a sample of the relevant instruments, it may be appropriate
+to develop an estimate independently (see  on developing a point estimate or range)
+using different data and assumptions, then compare that estimate with
+that of management’s specialist.
+            <olink targetptr="aag-afi5_48">paragraphs 5.48–.49</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>other procedures that may include</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>modeling different assumptions to derive assumptions
+in another model, then considering the reasonableness of those derived
+assumptions.</para>
+        </listitem>
+        <listitem>
+          <para>comparing management’s point estimates with the auditor’s
+point estimates to determine if management’s estimates are consistently
+higher or lower.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_47" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.47</titleabbrev>
+        <title role="ps_para_number">5.47</title>
+      </sectioninfo>
+      <para role="ps_para_number">Assumptions may be made or identified
+by management’s specialist to assist management in valuing its financial
+instruments. Such assumptions, when used by management, become management’s
+assumptions that the auditor needs to consider in the same manner
+as management’s other assumptions. </para>
+    </section>
+  </section>
+  <section id="aag-afi5_developing_a_point_estimate" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Developing a Point Estimate or Range</titleabbrev>
+      <title role="ps_main_heading">Developing a Point Estimate or Range</title>
+    </sectioninfo>
+    <section id="aag-afi5_48" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.48</titleabbrev>
+        <title role="ps_para_number">5.48</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        An auditor may develop a valuation technique
+and adjust the inputs and assumptions used in the valuation technique
+to develop a range for use in evaluating the reasonableness of management’s
+valuation. The guidance in this chapter may assist the auditor in
+developing a point estimate or range. In accordance with paragraph
+.13(i) of AU-C section 540B, if
+the auditor uses assumptions or methodologies that differ from management’s,
+the auditor should obtain an understanding of management’s assumptions
+or methodologies sufficient to establish that the auditor’s range
+takes into account relevant variables and to evaluate any significant
+differences from management’s valuation. The auditor may find it useful
+to use the work of an auditor’s specialist to evaluate the reasonableness
+of management’s valuation.
+        <emphasis role="italic">d</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi5_49" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.49</titleabbrev>
+        <title role="ps_para_number">5.49</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        In some cases, the auditor may conclude
+that sufficient evidence cannot be obtained from the auditor’s attempts
+to obtain an understanding of management’s assumptions or methodology
+(for example, when a third-party pricing source uses internally developed
+models and software and does not allow access to relevant information).
+In such cases, the auditor may not be able to obtain sufficient appropriate
+audit evidence about the valuation if the auditor is unable to perform
+other procedures to respond to the risks of material misstatement,
+such as developing a point estimate or range to evaluate management’s
+point estimate, as discussed in . AU-C section 705B, , describes
+the implications of the auditor’s inability to obtain sufficient appropriate
+audit evidence.
+        <olink targetptr="aag-afi5_47">paragraph
+5.47</olink>
+        <footnote id="aag-afi5_fn13" label="fn 13" role="number">
+          <para>
+            Paragraph .13 of AU-C section
+540B.
+            <emphasis role="italic">d</emphasis>
+          </para>
+        </footnote>
+        <emphasis role="italic">Modifications
+to the Opinion in the Independent Auditor’s Report</emphasis>
+      </para>
+    </section>
+  </section>
+</root>

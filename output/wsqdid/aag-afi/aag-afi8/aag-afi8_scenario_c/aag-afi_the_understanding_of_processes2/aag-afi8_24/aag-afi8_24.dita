@@ -1,0 +1,19 @@
+<root id="aag-afi8_24" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.24</titleabbrev>
+    <title role="ps_para_number">8.24</title>
+  </sectioninfo>
+  <para role="ps_para_number">Following the guidance in AU-C section
+402B, the auditor concludes the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Initiating trades, servicing financial instruments,
+and providing fair value information are broker-dealer services that
+are part of Lane’s information system.</para>
+    </listitem>
+    <listitem>
+      <para>The broker-dealer’s execution of trades and holding
+of securities are not part of Lane’s information system.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,191 @@
+<root id="aag-afi4_additional_considerations_about_alternative" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Additional Considerations About Alternative Investments</titleabbrev>
+    <title role="ps_sub_heading">Additional Considerations About Alternative
+Investments</title>
+  </sectioninfo>
+  <section id="aag-afi4_36" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.36</titleabbrev>
+      <title role="ps_para_number">4.36</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Alternative investments represent investments
+for which a readily determinable fair value does not exist. The FASB  (ASC) glossary
+defines  as follows:
+      <emphasis role="italic">Accounting Standards Codification</emphasis>
+      <emphasis role="italic">readily determinable fair value</emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      The fair value of an equity security is readily determinable
+if sales prices or bid-and-asked quotations are currently available
+on a securities exchange registered with the U.S. Securities and Exchange
+Commission (SEC) or in the over-the-counter market, provided that
+those prices or quotations for the over-the-counter market are publicly
+reported by the National Association of Securities Dealers Automated
+Quotations systems or by OTC Markets Group Inc. Restricted stock meets
+that definition if the restriction terminates within one year.
+      <emphasis role="italic">a.</emphasis>
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_2">
+      The fair value of an equity security traded only in a foreign
+market is readily determinable if that foreign market is of a breadth
+and scope comparable to one of the U.S. markets referred to previously.
+      <emphasis role="italic">b.</emphasis>
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_2">
+      The fair value of an equity security that is an investment
+in a mutual fund or in a structure similar to a mutual fund (that
+is, a limited partnership or a venture capital entity) is readily
+determinable if the fair value per share (unit) is determined and
+published and is the basis for current transactions.
+      <emphasis role="italic">c.</emphasis>
+      <tab/>
+    </para>
+  </section>
+  <section id="aag-afi4_37" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.37</titleabbrev>
+      <title role="ps_para_number">4.37</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      These alternative investments include
+investments that are not listed on national exchanges or OTC markets
+or for which quoted market prices are not available from sources such
+as financial publications, the exchanges, or NASDAQ. These investments,
+as discussed in , “Applicability of Practical
+Expedient,” include hedge funds, private equity funds, real estate
+funds, venture capital funds, commodity funds, offshore fund vehicles,
+and funds of funds. Alternative investments may be structured as limited
+partnerships, limited liability corporations, trusts, or corporations.
+      <olink targetdoc="tpa" targetptr="tis_2220_18">Technical
+Questions and Answers section 2220.18</olink>
+      <footnote id="aag-afi_fn9" label="fn 9" role="number">
+        <para>
+          All Q&amp;A sections can be found in .
+          <emphasis role="italic">
+            <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi4_38" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.38</titleabbrev>
+      <title role="ps_para_number">4.38</title>
+    </sectioninfo>
+    <para role="ps_para_number">When alternative investments are required
+to be accounted for at fair value, the valuation assertion may involve
+significant judgment by management in the assessment of the estimate
+of fair value of the investment. The more complex or illiquid the
+investment or the lack of sufficient management processes and records
+over valuation, the greater the risk of misstatement and the more
+persuasive audit evidence needs to be obtained by the auditor.</para>
+  </section>
+  <section id="aag-afi4_39" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.39</titleabbrev>
+      <title role="ps_para_number">4.39</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s understanding of the reliability
+of the process used by the investor entity’s management to determine
+estimated fair value is an important element in support of the resulting
+amounts and, therefore, affects the nature, timing, and extent of
+audit procedures. The auditor may test management’s fair value estimate
+as of the balance sheet date by using one or more of the following
+approaches. The approach(es) taken may not be the same for all alternative
+investments in an investor entity’s portfolio because the nature of
+the underlying investments and associated risk, as well as the information
+available to management and the auditor, likely will be different
+for each alternative investment. The higher the assessed risk of material
+misstatement, the greater the need for the auditor to utilize a combination
+of the following approaches:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          . If the auditor determines that the nature and extent of auditing
+procedures should include testing the measurement of the investor
+entity’s investment, simply receiving a confirmation from the alternative
+investment of the entity’s investments in financial instruments, either
+in aggregate or on a security-by-security basis, does not, in and
+of itself, constitute sufficient appropriate audit evidence in addressing
+the valuation assertion. The extent of the additional audit procedures
+is directly related to the assessed risk of material misstatement
+of the financial statements.
+          <emphasis role="italic">Confirm the alternative investment</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          . A confirmation on a security-by-security basis may provide support
+of the data used by the investor’s management in its valuation process.
+In drafting a confirmation, the auditor may consider requesting a
+description of each investment, ownership percentage or shares owned,
+and estimated fair value. If detailed information is not available,
+the auditor may look to the other data that management used in its
+valuation and perform tests on such data. The nature of the tests
+depends on the types of data used by management and the auditor’s
+assessment of the risk of material misstatement of the financial statements.
+          <emphasis role="italic">Review and test the investor
+entity’s significant assumptions and the underlying data in its valuation
+or analysis of the assumptions and data obtained from the fund manager</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          . If audited financial statements
+of the alternative investment are available as of the date of the
+investor entity’s year-end, and the alternative investment follows
+fair value accounting, the audited financial statements and an accompanying
+auditor’s report may provide significant audit evidence regarding
+the valuation of the investment. However, the investor entity and
+fund often have different fiscal year-ends. In lower- or moderate-risk
+situations, the auditor might be able to obtain the fund’s audited
+financial statements as of the fund’s fiscal year-end and perform
+(or arrange to have the fund’s auditor perform) additional procedures
+to test the transactions and changes in fair value between the fund’s
+fiscal year-end and the investor’s fiscal year-end.
+          <emphasis role="italic">Reconcile to audited financial
+statements as of the same date</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          . Evidence of an actual transaction,
+such as an investment in, or liquidation of, a portion of its alternative
+investment as of a date close to the investor entity’s fiscal year-end,
+may provide information for management to support the valuation of
+the alternative investment. The auditor may consider how often settlements
+occur and the terms used to determine the value of the settlement.
+Issues to consider include whether the process used for the settlement
+is the same process used for financial reporting; whether there are
+holdbacks or potential true-ups subsequent to the balance sheet date;
+and the possibility that the parties to the transactions were not
+both willing buyers and sellers, such as in a distress sale.
+          <emphasis role="italic">Review transactions at or
+near the balance sheet date</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_40" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.40</titleabbrev>
+      <title role="ps_para_number">4.40</title>
+    </sectioninfo>
+    <para role="ps_para_number">If management estimates the fair value
+of a significant portion of its alternative investments as of an interim
+date, management will need a robust process and strong internal control
+over the roll-forward period to the balance sheet date. Because the
+valuation assertion embedded in the financial statements is as of
+the balance sheet date, management needs to have the ability to obtain
+sufficient information to record the investments at estimated fair
+value as of the balance sheet date, including changes in the estimated
+fair value during the roll-forward period. In this situation, the
+auditor may test both the estimation process as of the interim date
+and the roll-forward process.</para>
+  </section>
+</root>

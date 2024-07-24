@@ -1,0 +1,49 @@
+<root id="aag-afi7_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.05</titleabbrev>
+    <title role="ps_para_number">7.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    According to FASB  (ASC) 320, , BEV should
+record the unrealized loss through the date of change in classification
+through a $150,000 charge to other comprehensive income and a $150,000
+credit directly to the bond. The $650,000 fair value at the date the
+classification is changed becomes the bond’s new cost basis. With
+the exception of a decline in fair value that is other than temporary,
+changes in the fair value of the bond after the change in classification
+should only be recognized when they are realized. However, any decline
+in value that is other than temporary should be recognized in accordance
+with the requirements of paragraphs 34A–34E of FASB ASC 320-10-35.
+The measurement of the decline in value (impairment) should not include
+partial recoveries after the balance sheet date. The fair value of
+the bond would then become the new cost basis and should not be adjusted
+for subsequent recoveries in fair value. However, the amortized cost
+basis should be adjusted for accretion and amortization as discussed
+in FASB ASC 320-10-35-35.
+    <emphasis role="italic">Accounting Standards Codification</emphasis>
+    <emphasis role="italic">Investments — Debt Securities</emphasis>
+  </para>
+  <para role="ps_para_number">
+    <emphasis role="shade">
+      Based on “Pending
+Content” (added by Accounting Standards Update No. 2019-04, ) in paragraph 10B of  FASB ASC 320-10-35,
+BEV should reclassify and transfer the debt security to the held-to-maturity
+category at its amortized cost basis of $650,000 (which is reduced
+by any previous write-offs but excludes any allowance for credit losses)
+plus or minus the amount of remaining unrealized holding loss reported
+in accumulated other comprehensive income. BEV should evaluate the
+debt security for an allowance for credit losses by following the
+guidance in FASB ASC 326-20, . BEV should
+continue to report the unrealized holding loss at the date of the
+transfer in a separate component of shareholders’ equity, such as
+accumulated other comprehensive income; the loss should be amortized
+over the remaining life of the security as an adjustment of yield
+in a manner consistent with the amortization of any premium or discount.
+      <emphasis role="italic">Codification Improvements to Topic 326, Financial Instruments
+— Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825,
+Financial Instruments</emphasis>
+      <emphasis role="italic">Financial Instruments
+— Credit Losses-Measured at Amortized Cost</emphasis>
+    </emphasis>
+  </para>
+</root>

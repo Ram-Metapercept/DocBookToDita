@@ -1,0 +1,172 @@
+<root id="aag-afi9_design_of_procedures" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Design of Procedures</titleabbrev>
+    <title role="ps_sub_heading">Design of Procedures</title>
+  </sectioninfo>
+  <section id="aag-afi9_22" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.22</titleabbrev>
+      <title role="ps_para_number">9.22</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The auditor defined the following objectives
+and related procedures for the audit of assertions about the convertible
+bonds:
+      <footnote id="aag-afi9_fn9" label="fn 9" role="number">
+        <para>In this case study, the entity properly accounted for the embedded
+derivative. However, if the entity had not separately accounted for
+the embedded derivative, the auditor could have detected it by reading
+the agreements supporting the bonds.</para>
+      </footnote>
+    </para>
+    <table frame="all" id="aag-afi9_table5" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="2.96in"/>
+        <colspec colname="c3" colwidth="2.99in"/>
+        <thead>
+          <row>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Audit Objective </emphasis>
+              </para>
+            </entry>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Procedure</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The hybrid instrument was purchased during the reporting period
+and exists at the end of the reporting period.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Examine the broker’s advice for the purchase and Martin,
+Inc.’s (Martin’s) canceled check or other evidence of Martin’s cash
+disbursement. </para>
+                </listitem>
+                <listitem>
+                  <para>At year-end, confirm existence, rights and obligations,
+and the description of the convertible bonds with the custodian bank
+that serves as safekeeping agent. </para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The hybrid instrument was executed according to management’s
+authorizations.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Compare the terms of the convertible bonds with the
+investment guidelines approved by the board of directors.</para>
+                </listitem>
+                <listitem>
+                  <para>Examine signed authorization by the CFO.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The straight bonds and option were properly accounted for separately. </para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>
+                    Read the underlying agreement, and compare its provisions
+with the separation criteria prescribed by paragraphs 2–3 of FASB  (ASC) 815-15-25.
+                    <emphasis role="italic">Accounting Standards Codification</emphasis>
+                  </para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>Both the host instrument and option are measured using appropriate
+fair values.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>
+                    Compare the fair values of the convertible bonds and
+similar straight bonds with quoted prices published in the 
+                    <emphasis role="italic">Wall Street Journal.</emphasis>
+                  </para>
+                </listitem>
+                <listitem>
+                  <para>Ensure that total fair value of the separate components
+does not exceed the fair value of the convertible bonds.</para>
+                </listitem>
+                <listitem>
+                  <para>Test the fair value calculation of the option by one
+of the following:</para>
+                </listitem>
+              </itemizedlist>
+              <itemizedlist mark="emdash" role="ps_indent_2">
+                <listitem>
+                  <para>Testing management’s calculation and underlying assumptions</para>
+                </listitem>
+                <listitem>
+                  <para>Reperforming the calculation</para>
+                </listitem>
+                <listitem>
+                  <para>
+                    Engaging a specialist to recompute the value in accordance
+with the guidance provided in AU-C section 620B, .
+                    <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+                  </para>
+                </listitem>
+              </itemizedlist>
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Ensure that the changes in fair value of the host
+contract and embedded derivative are properly recorded in comprehensive
+income and income, respectively.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>Interest income has been properly recorded.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Perform analytical procedures to test the reasonableness
+of interest income, including amortization of the original discount.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>Presentation is appropriate and disclosure adequate.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Compare the presentation and disclosure with the requirements
+of FASB ASC 320 and 815.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+</root>

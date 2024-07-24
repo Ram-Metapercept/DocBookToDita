@@ -1,0 +1,52 @@
+<root id="aag-afi3_48" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.48</titleabbrev>
+    <title role="ps_para_number">3.48</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    A user auditor is required to determine
+whether a sufficient understanding of the nature and significance
+of the services provided by the service organization and their effect
+on the user entity’s internal control relevant to the audit has been
+obtained to provide a basis for the identification and assessment
+of risks of material misstatement. If the user auditor is unable to obtain (from the user
+entity) a sufficient understanding of the nature and significance
+of the services provided by the service organization and its effect
+on the user entity’s financial statements as they relate to financial
+instrument transactions, the user auditor is required to obtain that
+understanding from one or more of the following procedures:
+    <footnote id="aag-afi3_fn7" label="fn 7" role="number">
+      <para>Paragraph .11 of AU-C section 402B.</para>
+    </footnote>
+    <footnote id="aag-afi3_fn8" label="fn 8" role="number">
+      <para>Paragraph .12 of AU-C section 402B.</para>
+    </footnote>
+  </para>
+  <para role="ps_indent_hang_2">
+    . Obtaining and reading a type 1 or type 2 report, if available
+    <emphasis role="italic">a</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    . Contacting the service organization through the user entity
+to obtain specific information
+    <emphasis role="italic">b</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    Visiting the service organization and performing procedures that
+will provide the necessary information about the relevant controls
+at the service organization
+    <emphasis role="italic">
+      c. 
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    . Using another auditor to perform procedures that will provide
+the necessary information about the relevant controls at the service
+organization 
+    <emphasis role="italic">d</emphasis>
+    <tab/>
+  </para>
+</root>

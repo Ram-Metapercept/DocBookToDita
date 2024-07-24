@@ -1,0 +1,107 @@
+<root id="aag-afi1_models" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Models</titleabbrev>
+    <title role="ps_subsub_heading">Models</title>
+  </sectioninfo>
+  <section id="aag-afi1_38" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.38</titleabbrev>
+      <title role="ps_para_number">1.38</title>
+    </sectioninfo>
+    <para role="ps_para_number">Models may be used to value financial
+instruments when the price cannot be directly observed in the market.
+Models can be as simple as a commonly used bond pricing formula or
+involve complex, specifically developed software tools to value financial
+instruments with level 3 inputs. Many models are based on discounted
+cash flow calculations. </para>
+  </section>
+  <section id="aag-afi1_39" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.39</titleabbrev>
+      <title role="ps_para_number">1.39</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Examples of models that are often used
+are Black-Scholes, which is frequently used for option pricing, and
+the zero-coupon method, which is often used for estimating the fair
+value of interest rate swaps. , "Information About the Black-Scholes Valuation Model,"
+and , "Information
+About the Zero-Coupon Valuation Model," of this guide provide more
+information about the Black-Scholes and zero-coupon method.
+      <olink targetptr="aag-afi_appD">Appendix
+D</olink>
+      <olink targetptr="aag-afi_appE">appendix E</olink>
+    </para>
+  </section>
+  <section id="aag-afi1_40" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.40</titleabbrev>
+      <title role="ps_para_number">1.40</title>
+    </sectioninfo>
+    <para role="ps_para_number">Models comprise a methodology, assumptions,
+and data. The methodology describes rules or principles governing
+the relationship between the variables in the valuation. Assumptions
+include estimates of uncertain variables that are used in the model.
+Data may comprise actual or hypothetical information about the financial
+instrument or other inputs to the financial instrument.</para>
+  </section>
+  <section id="aag-afi1_41" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.41</titleabbrev>
+      <title role="ps_para_number">1.41</title>
+    </sectioninfo>
+    <para role="ps_para_number">Depending on the circumstances, matters
+that the entity may address when establishing or validating a model
+for a financial instrument include whether</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>the model is validated prior to usage, with periodic
+reviews to ensure that it is still suitable for its intended use.
+The entity’s validation process may include evaluation of the</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>methodology’s theoretical soundness and mathematical
+integrity, including the appropriateness of parameters and sensitivities.</para>
+      </listitem>
+      <listitem>
+        <para>consistency and completeness of the model’s inputs
+with market practices and whether the appropriate inputs are available
+for use in the model.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>appropriate change control policies, procedures, and
+security controls over the model exist.</para>
+      </listitem>
+      <listitem>
+        <para>the model is appropriately changed or adjusted on
+a timely basis for changes in market conditions.</para>
+      </listitem>
+      <listitem>
+        <para>the model is periodically calibrated, reviewed, and
+tested for validity by a separate and objective function. Doing so
+is a means of ensuring that the model’s output is a fair representation
+of the value that marketplace participants would ascribe to a financial
+instrument.</para>
+      </listitem>
+      <listitem>
+        <para>the model maximizes the use of relevant observable
+inputs and minimizes the use of unobservable inputs.</para>
+      </listitem>
+      <listitem>
+        <para>adjustments are made to the output of the model to
+reflect the assumptions that marketplace participants would use in
+similar circumstances.</para>
+      </listitem>
+      <listitem>
+        <para>the model is adequately documented, including the
+model’s intended applications and limitations and its key parameters,
+required data, results of any validation analysis performed, and any
+adjustments made to the output of the model.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

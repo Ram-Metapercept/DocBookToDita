@@ -1,0 +1,80 @@
+<root id="aag-afi5_developing_an_audit_approach" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Developing an Audit Approach</titleabbrev>
+    <title role="ps_main_heading">Developing an Audit Approach</title>
+  </sectioninfo>
+  <section id="aag-afi5_09" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.09</titleabbrev>
+      <title role="ps_para_number">5.09</title>
+    </sectioninfo>
+    <para role="ps_para_number">In testing how management values the financial
+instrument and in responding to the assessed risks of material misstatement
+in accordance with paragraphs .12–.14 of AU-C section 540B, the auditor
+undertakes one or more of the following procedures, taking account
+of the nature of the accounting estimates:</para>
+    <para role="ps_indent_0">
+      Many auditors find that a combination of
+testing how management valued the financial instrument and the data
+on which it is based and testing the operating effectiveness of controls
+will be an effective and efficient audit approach. Although subsequent
+events may provide some evidence about the valuation of financial
+instruments, other factors may need to be taken into account to address
+any changes in market conditions subsequent to the balance sheet date. If the auditor is unable to test how management made the
+estimate, the auditor may choose to develop a point estimate or range.
+      <footnote id="aag-afi5_fn5" label="fn 5" role="number">
+        <para>Paragraphs .A64–.A67 of AU-C section 540B provide examples of
+some of the factors that may be relevant.</para>
+      </footnote>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Test how management made the accounting estimate and
+the data on which it is based (including valuation techniques used
+by the entity in its valuations).</para>
+      </listitem>
+      <listitem>
+        <para>Test the operating effectiveness of the controls over
+how management made the accounting estimate, together with appropriate
+substantive procedures.</para>
+      </listitem>
+      <listitem>
+        <para>Develop a point estimate or range to evaluate management’s
+point estimate.</para>
+      </listitem>
+      <listitem>
+        <para>Determine whether events occurring up to the date
+of the auditor’s report provide audit evidence regarding the accounting
+estimate.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.10</titleabbrev>
+      <title role="ps_para_number">5.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      As described in , "Gaining an Understanding About Financial Instruments,"
+of this guide, to estimate the fair value of financial instruments,
+management may
+      <olink targetptr="aag-afi1">chapter 1</olink>
+    </para>
+    <para role="ps_indent_0">Management often may use a combination of
+these approaches. For example, management may have its own pricing
+process but use third-party pricing sources to corroborate its own
+values.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>utilize information from third-party pricing sources.</para>
+      </listitem>
+      <listitem>
+        <para>gather data to develop its own estimate using various
+techniques, including models.</para>
+      </listitem>
+      <listitem>
+        <para>engage a specialist to develop an estimate.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

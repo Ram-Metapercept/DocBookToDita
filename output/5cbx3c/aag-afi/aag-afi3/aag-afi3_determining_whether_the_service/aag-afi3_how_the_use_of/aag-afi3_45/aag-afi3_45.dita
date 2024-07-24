@@ -1,0 +1,19 @@
+<root id="aag-afi3_45" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.45</titleabbrev>
+    <title role="ps_para_number">3.45</title>
+  </sectioninfo>
+  <para role="ps_para_number">If a user entity uses the services of
+one or more service organizations, and those services are part of
+the user entity’s information system for financial instruments, the
+user auditor may be unable to sufficiently limit audit risk for the
+completeness assertion with respect to financial instruments without
+obtaining audit evidence about the operating effectiveness of controls
+at the service organizations. Because derivatives transactions may
+not require an initial exchange of tangible consideration, they may
+not be recorded; therefore, testing reconciliations of information
+provided by two or more service organizations may not sufficiently
+limit audit risk for assertions about the completeness of derivatives.
+Accordingly, the auditor may need to perform additional audit procedures
+at the user entity to address completeness.</para>
+</root>

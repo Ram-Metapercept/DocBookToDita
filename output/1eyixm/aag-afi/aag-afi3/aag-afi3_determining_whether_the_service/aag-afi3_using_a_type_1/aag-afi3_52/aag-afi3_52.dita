@@ -1,0 +1,44 @@
+<root id="aag-afi3_52" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.52</titleabbrev>
+    <title role="ps_para_number">3.52</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    If the user auditor plans to use a type
+1 or type 2 report as audit evidence to support the user auditor’s
+understanding about the design and implementation of controls at the
+service organization, the user auditor should
+    <footnote id="aag-afi3_fn10" label="fn 10" role="number">
+      <para>Paragraph .14 of AU-C section 402B.</para>
+    </footnote>
+  </para>
+  <para role="ps_indent_hang_2">
+    evaluate whether the type 1 report is as of a date or, in the case
+of a type 2 report, is for a period that is appropriate for the user
+auditor’s purposes.
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    evaluate the sufficiency and appropriateness of the evidence provided
+by the report for the understanding of the user entity’s internal
+control relevant to the audit.
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    determine whether complementary user entity controls identified by
+the service organization are relevant in addressing the risks of material
+misstatement relating to the relevant assertions in the user entity’s
+financial statements and, if so, obtain an understanding of whether
+the user entity has designed and implemented such controls. 
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

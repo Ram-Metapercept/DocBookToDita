@@ -33,22 +33,22 @@ app.use(fileUpload());
 app.use(cors())
 app.use(express.json());
 
-app.post('/api/upload', async (req, res) => {
-  try {
-    if (!req.files || Object.keys(req.files).length === 0) {
-      return res.status(400).send({ error: 'No files were uploaded.' });
-    }
-    const docxFile = req.files.file;
-    const uniqueFilename = `${docxFile.name}`;
-    const filePath = path.join(__dirname, `../inputs/${uniqueFilename}`);
-    await docxFile.mv(filePath);
-    await cleanInputDirectory(filePath);
-    res.status(200).send({ message: `File "${uniqueFilename}" uploaded successfully.` });
-  } catch (err) {
-    console.error(err);
-    res.status(500).send({ error: 'An unexpected error occurred.' });
-  }
-});
+// app.post('/api/upload', async (req, res) => {
+//   try {
+//     if (!req.files || Object.keys(req.files).length === 0) {
+//       return res.status(400).send({ error: 'No files were uploaded.' });
+//     }
+//     const docxFile = req.files.file;
+//     const uniqueFilename = `${docxFile.name}`;
+//     const filePath = path.join(__dirname, `../inputs/${uniqueFilename}`);
+//     await docxFile.mv(filePath);
+//     await cleanInputDirectory(filePath);
+//     res.status(200).send({ message: `File "${uniqueFilename}" uploaded successfully.` });
+//   } catch (err) {
+//     console.error(err);
+//     res.status(500).send({ error: 'An unexpected error occurred.' });
+//   }
+// });
 
 
 // app.get('/api/convertDcbToDita', async (req, res) => {
@@ -117,12 +117,15 @@ app.get('/api/convertDcbToDita', async (req, res) => {
       }
       for (const file of files) {
         const filePath = path.join(inputDocxFile, file);
+
         let fileName = path.parse(path.basename(filePath)).name + ".zip";
         setInputFileName(fileName)
-        const a= await convertDocBookToDITA(filePath);
+        const a= await convertDocBookToDITA(filePath);  
+        // console.log(a); 
         // obj.downloadLink = downloadLink;
         // obj.outputId = outputId;
       }
+   
     //   const outputFolderPath = outputFile;
     //  const outputPath = path.join(outputFolderPath,obj.outputId);
 
@@ -152,13 +155,6 @@ app.get('/api/convertDcbToDita', async (req, res) => {
     res.status(500).send("Internal server error.");
   }
 });
-
-
-
-
-
-
-
 
 app.get('/api/download/:downloadId', async (req, res) => {
   const downloadId = req.params.downloadId;

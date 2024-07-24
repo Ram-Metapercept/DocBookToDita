@@ -1,0 +1,159 @@
+<root id="aag-afi_appF_fasb_asu_no__201803" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>FASB ASU No. 2018-03, Technical Corrections and Improvements
+to Financial Instruments — Overall (Subtopic 825-10): Recognition
+and Measurement of Financial Assets and Financial Liabilities</titleabbrev>
+    <title role="ps_subsub_heading">FASB ASU No. 2018-03, Technical Corrections
+and Improvements to Financial Instruments — Overall (Subtopic 825-10):
+Recognition and Measurement of Financial Assets and Financial Liabilities</title>
+  </sectioninfo>
+  <para role="ps_indent_0">In February 2018, FASB issued ASU No. 2018-03
+to clarify certain aspects of the guidance issued in ASU No. 2016-01
+as follows: </para>
+  <para role="ps_indent_0">ASU No. 2018-03 is effective as follows:</para>
+  <para role="ps_indent_0">Public business entities with fiscal years
+beginning between December 15, 2017 and June 15, 2018 are not required
+to adopt these amendments until the interim period beginning after
+June 15, 2018, and public business entities with fiscal years beginning
+between June 15, 2018 and December 15, 2018 are not required to adopt
+these amendments before adopting the amendments in ASU No. 2016-01.
+All entities may early adopt these amendments for fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years, as long as they have adopted ASU No. 2016-01.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+         The
+amendments in this ASU clarify that an entity measuring an equity
+security using the measurement alternative may change its measurement
+approach to a fair value method in accordance with FASB ASC 820, , through an irrevocable
+election that would apply to that security and all identical or similar
+investments of the same issuer. Once an entity makes this election,
+the entity should measure all future purchases of identical or similar
+investments of the same issuer using a fair value method in accordance
+with FASB ASC 820.
+        <emphasis role="italic">Equity securities without
+a readily determinable fair value — discontinuation.</emphasis>
+        <emphasis role="italic">Fair Value Measurement</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+         The amendment
+in this ASU clarifies that adjustments made under the measurement
+alternative are intended to reflect the fair value of the security
+as of the date that the observable transaction for a similar security
+took place.
+        <emphasis role="italic">Equity securities without
+a readily determinable fair value — adjustments.</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+         The amendment clarifies that remeasuring the  value of forward contracts and purchased
+options is required when observable transactions occur on the underlying
+equity securities.
+        <emphasis role="italic">Forward contracts and purchased
+options.</emphasis>
+        <emphasis role="italic">entire</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+         The amendment
+clarifies that when the fair value option is elected for a financial
+liability, the guidance in paragraph 5 of ASC 825-10-45 should be
+applied, regardless of whether the fair value option was elected under
+either FASB ASC 815-15 or 825-10.
+        <emphasis role="italic">Presentation requirements
+for certain fair value option liabilities.</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+         The amendments clarify
+that for financial liabilities for which the fair value option is
+elected, the amount of change in fair value that relates to the instrument-specific
+credit risk should first be measured in the currency of denomination
+when presented separately from the total change in fair value of the
+financial liability. Then, both components of the change in the fair
+value of the liability should be remeasured into the functional currency
+of the reporting entity using end-of-period spot rates.
+        <emphasis role="italic">Fair value option liabilities
+denominated in a foreign currency.</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+         The
+amendment clarifies that the prospective transition approach for equity
+securities without a readily determinable fair value in the amendments
+in ASU No. 2016-01 is meant only for instances in which the measurement
+alternative is applied. An insurance entity subject to the guidance
+in FASB ASC 944, , should apply a prospective transition method when applying the
+amendments related to equity securities without readily determinable
+fair values. An insurance entity should apply the selected prospective
+transition method consistently to the entity’s entire population of
+equity securities for which the measurement alternative is elected.
+        <emphasis role="italic">Transition guidance for equity
+securities without a readily determinable fair value.</emphasis>
+        <emphasis role="italic">Financial Services — Insurance</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <table frame="all" id="aag-afi_appF_table2" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="1.92in"/>
+      <colspec colname="c2" colwidth="2.17in"/>
+      <colspec colname="c3" colwidth="1.92in"/>
+      <thead>
+        <row>
+          <entry align="center" role="shade" valign="bottom">
+            <para/>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>
+            <para>Public business entities </para>
+          </entry>
+          <entry>
+            <para>December 15, 2017</para>
+          </entry>
+          <entry>
+            <para>June 15, 2018</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>All other entities</para>
+          </entry>
+          <entry>
+            <para>December 15, 2018</para>
+          </entry>
+          <entry>
+            <para>December 15, 2019</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

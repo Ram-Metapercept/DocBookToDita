@@ -1,0 +1,32 @@
+<root id="aag-afi8_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.02</titleabbrev>
+    <title role="ps_para_number">8.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+     present information that is applicable to all the
+scenarios, including
+    <olink targetptr="aag-afi8_03">Paragraphs
+8.03–.09</olink>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>a description of the user entity.</para>
+    </listitem>
+    <listitem>
+      <para>a summary of the accounting considerations.</para>
+    </listitem>
+    <listitem>
+      <para>types of potential misstatements of the user entity’s
+assertions about its financial instruments and financial instrument
+transactions.</para>
+    </listitem>
+    <listitem>
+      <para>inherent risk factors the auditor considers in planning
+the audit.</para>
+    </listitem>
+    <listitem>
+      <para>the timing of substantive procedures.</para>
+    </listitem>
+  </itemizedlist>
+</root>

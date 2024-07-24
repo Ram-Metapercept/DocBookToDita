@@ -1,0 +1,31 @@
+<root id="aag-afi_intro_5" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>I.5</titleabbrev>
+    <title role="ps_para_number">I.5</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The guidance on valuation in this Audit Guide is likely to be more relevant for
+financial instruments measured or disclosed at fair value, and the
+guidance on areas other than valuation applies equally to financial
+instruments measured at fair value or amortized cost or accounted
+for under the equity method of accounting. This Audit Guide is also
+applicable to both financial assets and liabilities, but it does not
+address instruments such as
+    <footnote id="aag-afi_introduction_fn2" label="fn 2" role="number">
+      <para>
+        In this Audit Guide, the terms  and  are used interchangeably.
+        <emphasis role="italic">valuation</emphasis>
+        <emphasis role="italic">measurement</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the simplest financial instruments (for example, cash,
+trade accounts receivable, and trade accounts payable) or</para>
+    </listitem>
+    <listitem>
+      <para>insurance contracts.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,61 @@
+<root id="aag-afi5_03" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.03</titleabbrev>
+    <title role="ps_para_number">5.03</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    In accordance with paragraph .08 of AU-C section 540B, , the auditor is required to obtain
+an understanding of how management makes the accounting estimates
+and the data on which they are based, which includes the entity’s
+valuation policies and methodology for data and assumptions used in
+the valuation methodology. In many cases, the applicable financial reporting framework
+does not prescribe the specific valuation methodology. When this is
+the case, matters that may be relevant to the auditor’s understanding
+of how management values financial instruments include, for example
+    <emphasis role="italic">c</emphasis>
+    <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+    <footnote id="aag-afi5_fn3" label="fn 3" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>whether management has a formal valuation policy and,
+if so, whether the valuation technique used for a financial instrument
+is appropriately documented in accordance with that policy.</para>
+    </listitem>
+    <listitem>
+      <para>which models may give rise to the greatest risk of
+material misstatement.</para>
+    </listitem>
+    <listitem>
+      <para>how management considered the complexity of the valuation
+of the financial instrument when selecting a particular valuation
+technique.</para>
+    </listitem>
+    <listitem>
+      <para>whether there is a greater risk of material misstatement
+because management has internally developed a model to be used to
+value financial instruments or is departing from a valuation technique
+commonly used to value the particular financial instrument.</para>
+    </listitem>
+    <listitem>
+      <para>whether management made use of a third-party pricing
+source.</para>
+    </listitem>
+    <listitem>
+      <para>whether those involved in developing and applying
+the valuation technique have the appropriate skills and expertise
+to do so, including whether management’s specialist has been used.</para>
+    </listitem>
+    <listitem>
+      <para>whether there are indicators of management bias in
+selecting the valuation technique to be used.</para>
+    </listitem>
+  </itemizedlist>
+</root>

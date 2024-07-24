@@ -1,0 +1,33 @@
+<root id="aag-afi5_27" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.27</titleabbrev>
+    <title role="ps_para_number">5.27</title>
+  </sectioninfo>
+  <para role="ps_para_number">Audit procedures to test the assumptions
+used by management, including those used as inputs to models, may
+include evaluating whether</para>
+  <para role="ps_indent_0">See paragraphs .A78–.A84 of AU-C section
+540B for further considerations relative to evaluating the assumptions
+used by management.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>and, if so, how management has incorporated market
+inputs into the development of assumptions because it is generally
+preferable to seek to maximize the use of relevant observable inputs
+and minimize unobservable inputs.</para>
+    </listitem>
+    <listitem>
+      <para>the assumptions are consistent with observable market
+conditions and the characteristics of the financial asset or liability.</para>
+    </listitem>
+    <listitem>
+      <para>the sources of market-participant assumptions are
+relevant and reliable and how management has selected the assumptions
+to use when a number of different marketplace assumptions exist.</para>
+    </listitem>
+    <listitem>
+      <para>sensitivity analyses indicate that valuations would
+change significantly with only small or moderate changes in assumptions.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,113 @@
+<root id="aag-afi11_13" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.13</titleabbrev>
+    <title role="ps_para_number">11.13</title>
+  </sectioninfo>
+  <para role="ps_para_number">Management used that information to prepare
+a hedge-effective analysis as follows:</para>
+  <table frame="none" id="aag-afi11_table4" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="7" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="0.82in"/>
+      <colspec colname="c3" colwidth="1.37in"/>
+      <colspec colname="COLSPEC0" colwidth="0.79in"/>
+      <colspec colname="c5" colwidth="1.11in"/>
+      <colspec colname="COLSPEC1" colwidth="1.11in"/>
+      <colspec colname="c7" colwidth="0.50in"/>
+      <colspec colname="c9" colwidth="0.50in"/>
+      <tbody>
+        <row>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Date</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Cumulative Change in the Option’s Intrinsic
+Value</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Cumulative Change in Expected Cash Flows
+Based on Changes in the FC Spot Rate</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" nameend="c9" namest="c7" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Effectiveness Ratio</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">For the Period</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Cumulative</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>12/31/X1</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$238,095</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$(238,095)</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>1.00</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>1.00</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>3/31/X2</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>652,174</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>(652,174)</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>1.00</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>1.00</para>
+          </entry>
+        </row>
+        <row>
+          <entry nameend="c9" namest="c1" rowsep="0" valign="bottom">
+            <para>Austin-Jhanes has determined that the hedging relationship between
+the option contract and forecasted sales proceeds is highly effective
+in achieving the offset in changes of cash flows due to changes in
+foreign currency exchange rates. Management has formally documented
+the hedging relationship, as well as its objectives for entering into
+the hedge.</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

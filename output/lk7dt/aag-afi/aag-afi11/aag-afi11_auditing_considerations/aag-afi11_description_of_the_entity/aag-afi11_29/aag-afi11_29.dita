@@ -1,0 +1,59 @@
+<root id="aag-afi11_29" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.29</titleabbrev>
+    <title role="ps_para_number">11.29</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    . Control activities include, among other things, the following:
+    <emphasis role="italic">Control activities</emphasis>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Controls have been implemented with respect to control
+objectives of</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>completeness of records.</para>
+    </listitem>
+    <listitem>
+      <para>validity of records.</para>
+    </listitem>
+    <listitem>
+      <para>restricted access to assets.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        Segregation of the accounting function from trade
+authorization and execution. The accounting department is responsible
+for cash and derivatives position reconciliations between the accounting
+and trading records and broker or counterparty statements. Quarterly,
+the controller reviews hedging activities for compliance with the
+requirements of FASB ASC 815, .
+        <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>Data files with such information as counterparty limits
+are maintained apart from the traders. The CFO authorizes any changes
+to these files. </para>
+    </listitem>
+    <listitem>
+      <para>Austin-Jhanes’ derivatives trading system has an automated
+interface with the general ledger and updates the general ledger monthly.
+Movements of cash associated with derivatives transactions are authorized
+and executed by the treasurer’s department, which is separate from
+the derivatives trading group.</para>
+    </listitem>
+    <listitem>
+      <para>Austin-Jhanes’ derivatives trading, sales, accounting,
+and other transaction processing activities are highly automated.
+There are effective general computer controls at the data centers
+that process the entity’s transactions and other information.</para>
+    </listitem>
+  </itemizedlist>
+</root>

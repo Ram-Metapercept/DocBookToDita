@@ -1,0 +1,10 @@
+<root id="aag-afi3_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.06</titleabbrev>
+    <title role="ps_para_number">3.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">As in any control system, it is sometimes
+necessary to duplicate controls at different control levels (for example,
+preventative, detective, and monitoring) to avoid the risk of material
+misstatement.</para>
+</root>

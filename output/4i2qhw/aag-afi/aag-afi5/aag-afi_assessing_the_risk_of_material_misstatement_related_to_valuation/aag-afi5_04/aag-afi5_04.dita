@@ -1,0 +1,61 @@
+<root id="aag-afi5_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.04</titleabbrev>
+    <title role="ps_para_number">5.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">When evaluating whether the valuation
+techniques used by an entity are appropriate in the circumstances
+and whether controls over valuation techniques are in place, the factors
+considered by the auditor may include</para>
+  <para role="ps_indent_0">The auditor (or auditor’s specialist) may
+also independently develop one or more valuation techniques to compare
+his or her output with that of the valuation techniques used by management.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>whether the valuation techniques are commonly used
+by other market participants and have been previously demonstrated
+to provide a reliable estimate of prices obtained from market transactions.</para>
+    </listitem>
+    <listitem>
+      <para>whether the valuation techniques operate as intended,
+and there are no flaws in their design, particularly under extreme
+conditions, and whether they have been objectively validated. Indicators
+of flaws include inconsistent movements relative to benchmarks.</para>
+    </listitem>
+    <listitem>
+      <para>whether the valuation techniques take into account
+the risks inherent in the financial instrument being valued, including
+counterparty creditworthiness, and own credit risk in the case of
+valuation techniques used to measure financial liabilities.</para>
+    </listitem>
+    <listitem>
+      <para>how the valuation techniques are calibrated to the
+market, including the sensitivity of the valuation techniques to changes
+in variables.</para>
+    </listitem>
+    <listitem>
+      <para>whether market variables and assumptions are used
+consistently and whether new conditions justify a change in the valuation
+techniques, market variables, or assumptions used.</para>
+    </listitem>
+    <listitem>
+      <para>whether sensitivity analyses indicate that valuations
+would change significantly with only small or moderate changes in
+assumptions.</para>
+    </listitem>
+    <listitem>
+      <para>the organizational structure, such as the existence
+of an internal department responsible for developing models to value
+certain instruments, particularly when Level 3 inputs are involved.
+For example, a model development function that is involved in assisting
+in pricing deals is less objective than one that is functionally and
+organizationally segregated from the sales function.</para>
+    </listitem>
+    <listitem>
+      <para>the competence and objectivity of those responsible
+for the development and application of the valuation techniques, including
+management’s relative experience with particular models that may be
+newly developed.</para>
+    </listitem>
+  </itemizedlist>
+</root>

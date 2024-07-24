@@ -1,0 +1,296 @@
+<root id="aag-afi5_financial_reporting_requirements" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Financial Reporting Requirements</titleabbrev>
+    <title role="ps_main_heading">Financial Reporting Requirements</title>
+  </sectioninfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi5_update_5-1">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+5-1 : Auditor Reporting
+and Amendments, Including Amendments Addressing Disclosures in the
+Audit of Financial Statements
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In May 2019,
+the AICPA issued Statement on Auditing Standards (SAS) No. 134, . This suite of auditor reporting standards includes a new (although
+not required) , , and replaces the following AU-C sections in AICPA :
+      <emphasis role="italic">Auditor Reporting and Amendments, Including Amendments
+Addressing Disclosures in the Audit of Financial Statements</emphasis>
+      <emphasis role="italic">Communicating Key Audit Matters
+in the Independent Auditor’s Report</emphasis>
+      <emphasis role="italic">Professional Standards</emphasis>
+      <olink targetdoc="ps" targetptr="ad_701">AU-C section
+701</olink>
+      <footnote id="aag-afi5_fn1" label="fn 1" role="number">
+        <para>
+          All AU-C sections can be found in AICPA .
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_705">Section 705</olink>
+            <emphasis role="italic">Modifications to the Opinion in the Independent
+Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_706">Section 706</olink>
+            <emphasis role="italic">Emphasis-of-Matter Paragraphs and Other-Matter
+Paragraphs in the Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>SAS No. 134, which also amends various
+other AU-C sections, addresses the auditor’s responsibility to form
+an opinion on the financial statements and the form and content of
+the auditor’s report issued as a result of an audit of financial statements.
+It also addresses the auditor’s responsibilities, and the form and
+content of the auditor’s report, when the auditor concludes that a
+modification to the auditor’s opinion on the financial statements
+is necessary, and when additional communications are necessary in
+the auditor’s report.</para>
+    <para>
+      At the time SAS No. 134 was originally
+issued, the amendments were intended to become effective for audits
+of financial statements for periods ending on or after December 15,
+2020 and early implementation was not permitted; however, in May 2020,
+the AICPA issued SAS No. 141, .
+      <emphasis role="italic">Amendment to
+the Effective Dates of SAS Nos. 134–140</emphasis>
+    </para>
+    <para>SAS
+No. 141 delays the effective dates of SAS Nos. 134–140, and the amendments
+to other SASs made by SAS Nos. 134–140, from December 15, 2020 to
+December 15, 2021, in order to provide more time for firms to implement
+these SASs in light of the effect of the coronavirus pandemic. SAS
+Nos. 134, 136–137, and 139–140, as originally issued, do not permit
+early implementation; however, SAS No. 141 amends these SASs to no
+longer preclude early implementation. </para>
+    <para>SAS Nos. 134 and
+136–140 are interrelated because the Auditing Standards Board (ASB)
+amended the auditor reporting model adopted in SAS No. 134 with the
+issuance of the subsequent SASs. The effective dates were aligned
+so that these SASs would be implemented as a suite, primarily to accommodate
+the amendments to the auditor reporting model. Accordingly, the ASB
+recommends that all of these SASs be implemented concurrently. SAS
+No. 141 was effective upon issuance.</para>
+  </paraBlock>
+  <paraBlock role="ps_box">
+    <para id="aag-afi5_update_5-2">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+5-2 : Audit Evidence
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 500), which supersedes AU-C section
+500A, , and amends
+the following AU-C sections: 
+      <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+      <emphasis role="italic">Audit
+Evidence</emphasis>
+      <emphasis role="italic">Audit Evidence</emphasis>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            <emphasis role="italic">Audit Documentation</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+            <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+            <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+            <emphasis role="italic">Audit Sampling</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_540a">Section
+540A</olink>
+            <emphasis role="italic">Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       explains what constitutes audit evidence in an
+audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+      <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+    </para>
+    <para>
+      This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi5_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.01</titleabbrev>
+      <title role="ps_para_number">5.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Fair presentation financial reporting
+frameworks often use fair value hierarchies (for example, those used
+in accounting principles generally accepted in the United States of
+America and International Financial Reporting Standards). This usually
+means that the volume and detail of the required disclosures increases
+as the level of measurement uncertainty increases. The distinction
+between the levels in the hierarchy may require judgment. 
+      <footnote id="aag-afi5_fn2" label="fn 2" role="number">
+        <para>
+           of this
+guide describes the classification of the different levels (Level
+1, Level 2, and Level 3 inputs).
+          <olink targetptr="aag-afi1_26">Paragraph 1.26</olink>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi5_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.02</titleabbrev>
+      <title role="ps_para_number">5.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor may find it useful to obtain
+an understanding of how the financial instruments relate to the fair
+value hierarchy. Ordinarily, the risk of material misstatement and
+the level of audit procedures to be applied increases as the level
+of measurement uncertainty increases. The use of Level 3 and some
+Level 2 inputs from the fair value hierarchy may be a useful guide
+to the level of measurement uncertainty. Level 2 inputs vary from
+those that are easily obtained to those that are closer to Level 3
+inputs. The auditor evaluates available evidence and understands both
+the fair value hierarchy and the risk of management bias in management’s
+categorization of financial instruments in the fair value hierarchy.</para>
+  </section>
+  <section id="aag-afi5_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.03</titleabbrev>
+      <title role="ps_para_number">5.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      In accordance with paragraph .08 of AU-C section 540B, , the auditor is required to obtain
+an understanding of how management makes the accounting estimates
+and the data on which they are based, which includes the entity’s
+valuation policies and methodology for data and assumptions used in
+the valuation methodology. In many cases, the applicable financial reporting framework
+does not prescribe the specific valuation methodology. When this is
+the case, matters that may be relevant to the auditor’s understanding
+of how management values financial instruments include, for example
+      <emphasis role="italic">c</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+      <footnote id="aag-afi5_fn3" label="fn 3" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+      </footnote>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>whether management has a formal valuation policy and,
+if so, whether the valuation technique used for a financial instrument
+is appropriately documented in accordance with that policy.</para>
+      </listitem>
+      <listitem>
+        <para>which models may give rise to the greatest risk of
+material misstatement.</para>
+      </listitem>
+      <listitem>
+        <para>how management considered the complexity of the valuation
+of the financial instrument when selecting a particular valuation
+technique.</para>
+      </listitem>
+      <listitem>
+        <para>whether there is a greater risk of material misstatement
+because management has internally developed a model to be used to
+value financial instruments or is departing from a valuation technique
+commonly used to value the particular financial instrument.</para>
+      </listitem>
+      <listitem>
+        <para>whether management made use of a third-party pricing
+source.</para>
+      </listitem>
+      <listitem>
+        <para>whether those involved in developing and applying
+the valuation technique have the appropriate skills and expertise
+to do so, including whether management’s specialist has been used.</para>
+      </listitem>
+      <listitem>
+        <para>whether there are indicators of management bias in
+selecting the valuation technique to be used.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

@@ -1,0 +1,14 @@
+<root id="aag-afi1_30" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.30</titleabbrev>
+    <title role="ps_para_number">1.30</title>
+  </sectioninfo>
+  <para role="ps_para_number">When observable inputs are not available,
+an entity uses unobservable inputs (level 3 inputs) that reflect the
+assumption that market participants would use when pricing the financial
+asset or liability, including assumptions about risk. Unobservable
+inputs are developed using the best information available in the circumstances.
+In developing unobservable inputs, an entity may begin with its own
+data that is adjusted if reasonably available information indicates
+that other market participants would use different data.</para>
+</root>

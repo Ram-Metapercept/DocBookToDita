@@ -1,0 +1,22 @@
+<root id="aag-afi10_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.02</titleabbrev>
+    <title role="ps_para_number">10.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Under FASB  (ASC) 815, , the change in the fair value
+of a derivative designated as a fair value hedge is recognized in
+earnings together with the change in the fair value of the hedged
+item that is attributable to the risk being hedged. In this case study,
+the change in the fair value of the interest rate swap will be offset
+by the change in the fair value of the obligation under the bond that
+is attributable to changes in the benchmark interest rate. The changes
+have opposite effects on earnings. For example, if the change in the
+fair value of the obligation under the bond from a change in the benchmark
+interest rate creates a gain, the change in the fair value of the
+swap will create a loss. 
+    <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+    <emphasis role="italic">Derivatives and Hedging</emphasis>
+  </para>
+</root>

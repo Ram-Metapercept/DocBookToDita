@@ -1,0 +1,37 @@
+<root id="aag-afi4_overall_considerations_relating_to" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Overall Considerations Relating to Financial Instruments</titleabbrev>
+    <title role="ps_sub_heading">Overall Considerations Relating to Financial
+Instruments</title>
+  </sectioninfo>
+  <section id="aag-afi4_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.03</titleabbrev>
+      <title role="ps_para_number">4.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .02 of AU-C section 540B, , explains
+that the degree of estimation uncertainty affects the risk of material
+misstatement of accounting estimates. The use of more complex financial
+instruments, such as those that have a high level of uncertainty and
+variability of future cash flows, may lead to an increased risk of
+material misstatement, particularly regarding valuation. Other matters
+affecting the risk of material misstatement include the
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value
+Accounting Estimates, and Related Disclosures</emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>volume of financial instruments to which the entity
+is exposed.</para>
+      </listitem>
+      <listitem>
+        <para>terms of the financial instrument, including whether
+the financial instrument itself includes other financial instruments.</para>
+      </listitem>
+      <listitem>
+        <para>nature of the financial instruments.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

@@ -1,0 +1,57 @@
+<root id="aag-afi1_01" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.01</titleabbrev>
+    <title role="ps_para_number">1.01</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Different definitions of  may exist among financial
+reporting frameworks. For example, accounting principles generally
+accepted in the United States of America define a  as cash, evidence of
+an ownership interest in an entity, or a contract that both
+    <emphasis role="italic">financial instruments</emphasis>
+    <emphasis role="italic">financial instrument</emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    imposes on one entity a contractual obligation to either
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    i.deliver cash or another financial
+instrument to a second entity
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_4">
+    ii.exchange other financial instruments
+on potentially unfavorable terms with a second entity
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    conveys to that second entity a contractual right to either
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    i.receive cash or another financial
+instrument from the first entity or
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_4">
+    ii.exchange other financial instruments
+on potentially favorable terms with the first entity.
+    <tab/>
+    <footnote id="aag-afi1_fn1" label="fn 1" role="number">
+      <para>
+        The FASB  Master Glossary.
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <para role="ps_indent_0">This definition encompasses a wide range
+of financial instruments, from simple loans and deposits to complex
+derivatives, structured products, and some commodity contracts.</para>
+</root>

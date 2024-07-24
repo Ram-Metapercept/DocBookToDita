@@ -1,0 +1,29 @@
+<root id="aag-afi5_23" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.23</titleabbrev>
+    <title role="ps_para_number">5.23</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    When markets become inactive or dislocated
+or inputs are unobservable, management’s valuations may be more judgmental
+and less verifiable and, as result, less reliable. In such circumstances,
+the auditor may test the model by a combination of testing controls
+operated by the entity, evaluating the design and operation of the
+model, testing the assumptions and data used in the model, and comparing
+its output to a point estimate or range developed by the auditor or
+to other third-party valuation techniques.
+    <footnote id="aag-afi5_fn8" label="fn 8" role="number">
+      <para>
+        Paragraph .13 of AU-C section
+540B describes requirements when the auditor develops a range to evaluate
+management’s point estimate. Valuation techniques developed by third
+parties and used by the auditor may, in some circumstances, be considered
+the work of an auditor’s specialist and subject to the requirements
+in AU-C section 620B, .
+        <emphasis role="italic">d</emphasis>
+        <emphasis role="italic">Using the Work of an
+Auditor’s Specialist</emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

@@ -1,0 +1,34 @@
+<root id="aag-afi_appF_amounts_excluded_from_the" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Amounts Excluded from the Assessment of Hedge Effectiveness</titleabbrev>
+    <title role="ps_subsub_heading">Amounts Excluded from the Assessment
+of Hedge Effectiveness</title>
+  </sectioninfo>
+  <para role="ps_indent_0">Current GAAP permits an entity to exclude
+option premiums and forward points from the assessment of hedge effectiveness.
+The amendments in this ASU continue to allow an entity to exclude
+those components of a hedging instrument’s change in fair value from
+the assessment of hedge effectiveness. Additionally, the amendments
+permit an entity to exclude the portion of the change in fair value
+of a currency swap that is attributable to a cross-currency basis
+spread from the assessment of hedge effectiveness.</para>
+  <para role="ps_indent_0">For all types of hedges, if an entity excludes
+certain portions of a hedging instrument’s change in fair value from
+the assessment of hedge effectiveness (excluded component), the amendments
+permit an entity to recognize in earnings the initial value of the
+excluded component using a systematic and rational method over the
+life of the hedging instrument. If an entity elects this method, any
+difference between the change in fair value of the excluded component
+and amounts recognized under the systematic and rational method is
+recognized in other comprehensive income, whereas for net investment
+hedges, the difference is recognized in the cumulative translation
+adjustment section of other comprehensive income. An entity also may
+elect to recognize all fair value changes in an excluded component
+currently in earnings, consistent with current GAAP.</para>
+  <para role="ps_indent_0">For fair value and cash flow hedges, an entity
+should present amounts related to excluded components that are recognized
+in earnings in the same income statement line item that is used to
+present the earnings effect of the hedged item. For net investment
+hedges, the amendments do not specify a required presentation for
+excluded components.</para>
+</root>

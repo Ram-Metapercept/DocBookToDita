@@ -1,0 +1,46 @@
+<root id="aag-afi3_41" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.41</titleabbrev>
+    <title role="ps_para_number">3.41</title>
+  </sectioninfo>
+  <para role="ps_para_number">AU-C section 402B addresses the user auditor’s
+responsibility for obtaining sufficient appropriate audit evidence
+in an audit of the financial statements of a user entity. Services
+provided by a service organization are relevant to an audit of a user
+entity’s financial statements when those services and the controls
+over them affect the user entity’s information system, including related
+business processes relevant to financial reporting. An entity’s information
+system relevant to financial reporting objectives includes the entity’s
+accounting system and consists of the procedures and records designed
+and established to</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>initiate, authorize, record, process, and report entity
+transactions (as well as events and conditions) and maintain accountability
+for the related assets, liabilities, and equity.</para>
+    </listitem>
+    <listitem>
+      <para>resolve incorrect processing of transactions (for
+example, automated suspense files and procedures followed to clear
+suspense items out on a timely basis).</para>
+    </listitem>
+    <listitem>
+      <para>process and account for system overrides or bypasses
+to controls.</para>
+    </listitem>
+    <listitem>
+      <para>transfer information from transaction processing systems
+to the general ledger.</para>
+    </listitem>
+    <listitem>
+      <para>capture information relevant to financial reporting
+for events and conditions other than transactions.</para>
+    </listitem>
+    <listitem>
+      <para>ensure that information required to be disclosed by
+the applicable financial reporting framework is accumulated, recorded,
+processed, summarized, and appropriately reported in the financial
+statements.</para>
+    </listitem>
+  </itemizedlist>
+</root>

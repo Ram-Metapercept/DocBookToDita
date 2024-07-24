@@ -1,0 +1,339 @@
+<root id="aag-afi4_the_use_of_assertions" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Use of Assertions</titleabbrev>
+    <title role="ps_sub_heading">The Use of Assertions</title>
+  </sectioninfo>
+  <section id="aag-afi4_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.04</titleabbrev>
+      <title role="ps_para_number">4.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Assertions used by the auditor to consider
+the different types of potential misstatements that may occur fall
+into the following three categories and may take the following forms:
+      <footnote id="aag-afi4_fn3" label="fn 3" role="number">
+        <para>
+          Paragraph .A114 of AU-C section 315B, .
+          <emphasis role="italic">Understanding the Entity and Its Environment and Assessing the Risks
+of Material Misstatement</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para role="ps_indent_hang_2">
+      Assertions about classes of transactions and events for the period
+under audit, such as the following:
+      <emphasis role="italic">
+        a.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      i.. Transactions and events that have been recorded have occurred and
+pertain to the entity.
+      <tab/>
+      <emphasis role="italic">Occurrence</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      ii.. All transactions and events that should have been recorded have
+been recorded.
+      <tab/>
+      <emphasis role="italic">Completeness</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iii.. Amounts and other data relating to recorded transactions and events
+have been recorded appropriately.
+      <tab/>
+      <emphasis role="italic">Accuracy</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iv.. Transactions and events have been recorded in the correct accounting
+period.
+      <tab/>
+      <emphasis role="italic">Cutoff</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      v.. Transactions and events have been recorded in the proper accounts.
+      <tab/>
+      <emphasis role="italic">Classification</emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      Assertions about account balances at period-end, such as the following:
+      <emphasis role="italic">
+        b.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      i.. Assets, liabilities, and equity interests exist.
+      <tab/>
+      <emphasis role="italic">Existence</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      ii.. The entity holds or controls the rights
+to assets, and liabilities are the obligations of the entity.
+      <tab/>
+      <emphasis role="italic">Rights
+and obligations</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iii.. All assets, liabilities, and equity interests that should have
+been recorded have been recorded.
+      <tab/>
+      <emphasis role="italic">Completeness</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iv.. Assets, liabilities, and equity interests
+are included in the financial statements at appropriate amounts, and
+any resulting valuation or allocation adjustments are appropriately
+recorded.
+      <tab/>
+      <emphasis role="italic">Valuation
+and allocation</emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      Assertions about presentation and disclosure, such as the following:
+      <emphasis role="italic">
+        c.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      i.. Disclosed events, transactions,
+and other matters have occurred and pertain to the entity.
+      <tab/>
+      <emphasis role="italic">Occurrence
+and rights and obligations</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      ii.. All disclosures that should have been included in the financial
+statements have been included.
+      <tab/>
+      <emphasis role="italic">Completeness</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iii.. Financial information is appropriately
+presented and described, and disclosures are clearly expressed.
+      <tab/>
+      <emphasis role="italic">Classification
+and understandability</emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      iv.. Financial and other information is disclosed
+fairly and in appropriate amounts.
+      <tab/>
+      <emphasis role="italic">Accuracy
+and valuation</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi4_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.05</titleabbrev>
+      <title role="ps_para_number">4.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .A41 of AU-C section 200B, , states that the risks of material misstatement
+at the assertion level consist of two components: inherent risk and
+control risk. The following exhibit summarizes the examples of considerations
+that might affect the auditor’s assessment of the inherent risk for
+assertions about financial instruments.
+      <emphasis role="italic">Overall Objectives of the Independent Auditor and the
+Conduct of an Audit in Accordance With Generally Accepted Auditing
+Standards</emphasis>
+    </para>
+    <para id="aag-afi4_exhibit_4-1" role="ps_sub_heading">
+      <emphasis role="bold">Exhibit 4-1 — Characteristics That Might Affect Inherent
+Risk</emphasis>
+    </para>
+    <table frame="all" id="aag-afi4_table1" role="ps_table_center">
+      <tgroup align="left" cols="4" colsep="1" rowsep="1">
+        <colspec colname="c1" colsep="0" colwidth="1.36in"/>
+        <colspec colname="c3" colwidth="1.49in"/>
+        <colspec colname="c5" colwidth="1.52in"/>
+        <colspec colname="c7" colwidth="1.27in"/>
+        <thead>
+          <row rowsep="0">
+            <entry align="center" nameend="c7" namest="c1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Indications of</emphasis>
+              </para>
+            </entry>
+          </row>
+          <row rowsep="1" valign="bottom">
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Characteristic</emphasis>
+              </para>
+            </entry>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Higher Risk</emphasis>
+              </para>
+            </entry>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Lower Risk</emphasis>
+              </para>
+            </entry>
+            <entry align="center" colsep="0" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="italic">Related Assertion</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry colsep="1">
+              <para>Management’s objective</para>
+            </entry>
+            <entry colsep="1">
+              <para>Financial instruments used as hedges</para>
+            </entry>
+            <entry colsep="1">
+              <para>Financial instruments held as investments</para>
+            </entry>
+            <entry colsep="0">
+              <para>Rights and obligations, valuation, and presentation and disclosure </para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Management’s intent and ability</para>
+            </entry>
+            <entry colsep="1">
+              <para>Accounting treatment based on management’s intent and ability</para>
+            </entry>
+            <entry colsep="1">
+              <para>Accounting treatment based on objective criteria</para>
+            </entry>
+            <entry colsep="0">
+              <para>Valuation and presentation and disclosure</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Complexity of financial instruments</para>
+            </entry>
+            <entry colsep="1">
+              <para>More complex instrument (for example, futures contracts, swaps,
+or stock appreciation rights)</para>
+              <para>Collaterized mortgage obligations</para>
+              <para>Stock warrants</para>
+            </entry>
+            <entry colsep="1">
+              <para>Less complex instrument (for example, common stock traded on
+an exchange or U.S government agency debt)</para>
+              <para>U.S. Treasury securities</para>
+              <para>Common stock</para>
+            </entry>
+            <entry colsep="1">
+              <para>Rights and obligations, valuation, and presentation and disclosure</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Relationship of the derivative to the hedged item or underlying
+security</para>
+            </entry>
+            <entry colsep="1">
+              <para>Low degree of correlation</para>
+            </entry>
+            <entry colsep="1">
+              <para>High degree of correlation</para>
+            </entry>
+            <entry colsep="0">
+              <para>Valuation and presentation and disclosure</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Exchange of cash at inception</para>
+            </entry>
+            <entry colsep="1">
+              <para>No exchange of cash at inception</para>
+            </entry>
+            <entry colsep="1">
+              <para>Cash exchanged at inception</para>
+            </entry>
+            <entry>
+              <para>Completeness and presentation and disclosure</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Freestanding versus embedded</para>
+            </entry>
+            <entry colsep="1">
+              <para>Embedded derivative</para>
+            </entry>
+            <entry colsep="1">
+              <para>Freestanding derivative</para>
+            </entry>
+            <entry>
+              <para>Completeness and presentation and disclosure</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Credit risk</para>
+            </entry>
+            <entry colsep="1">
+              <para>High counterparty credit risk</para>
+              <para>High nonpayment risk</para>
+            </entry>
+            <entry colsep="1">
+              <para>Low counterparty credit risk</para>
+              <para>Low nonpayment risk</para>
+            </entry>
+            <entry>
+              <para>Valuation</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Market risk</para>
+            </entry>
+            <entry colsep="1">
+              <para>Volatile values or interest rates</para>
+            </entry>
+            <entry colsep="1">
+              <para>Stable values or interest rates</para>
+            </entry>
+            <entry>
+              <para>Valuation</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Nature of security and related accounting principles</para>
+            </entry>
+            <entry colsep="1">
+              <para>Rapidly evolving</para>
+            </entry>
+            <entry colsep="1">
+              <para>Relatively stable</para>
+            </entry>
+            <entry>
+              <para>All</para>
+            </entry>
+          </row>
+          <row>
+            <entry colsep="1">
+              <para>Assumptions about future conditions</para>
+            </entry>
+            <entry>
+              <para>Significant subjective assumptions</para>
+            </entry>
+            <entry>
+              <para>Relatively few, objective, and verifiable assumptions</para>
+            </entry>
+            <entry>
+              <para>All</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+</root>

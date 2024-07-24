@@ -1,0 +1,253 @@
+<root id="aag-afi11_40" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.40</titleabbrev>
+    <title role="ps_para_number">11.40</title>
+  </sectioninfo>
+  <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about put options
+hedging forecasted sales:</para>
+  <table frame="all" id="aag-afi11_table8" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.13in"/>
+      <colspec colname="c3" colwidth="2.50in"/>
+      <colspec colname="c5" colwidth="1.16in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">
+                <emphasis role="italic">Audit Objective</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">
+                <emphasis role="italic">Procedures, Including
+Those Designed to Gather Audit Evidence About the Operating Effectiveness
+of Controls</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">
+                <emphasis role="italic">Timing</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The purchase of options was properly authorized.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>For a sample of transactions, review for proper authorization.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Interim date</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" morerows="2" rowsep="1" valign="top">
+            <para>The foreign currency options exist, and the entity’s rights
+and obligations relating to the options have been properly classified
+and recorded.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Confirm details of related transactions and derivatives.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>For selected transactions, trace to proper recording
+in the trading system and general ledger, with emphasis on classification
+(that is, earnings or other comprehensive income).</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Review general ledger, trading system, and cash reconciliations.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" morerows="2" rowsep="1" valign="top">
+            <para>All options transactions have been captured and recorded in
+the entity’s information in the proper accounting period.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Test controls on completeness (for example, independent
+review of deal information and reconciliations).</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>For a sample of transactions, review for recording
+in the proper period.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry rowsep="0">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Send confirmations to dealers, and compare options
+in the responses to amounts recorded.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" morerows="3" rowsep="1" valign="top">
+            <para>Hedge accounting has been properly applied.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Review open options contracts, and determine whether
+forecasted foreign currency-denominated transactions qualify for hedge
+accounting.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date and year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Test the process by which hedge effectiveness is determined
+and monitored.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date and year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Determine that options transactions continue to qualify
+as foreign currency cash flow hedges.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Interim date and year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Determine that the fair value of the options and changes
+in the fair value thereof are properly reported in the financial statements.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" morerows="1" rowsep="1" valign="top">
+            <para>
+              The options and hedged transaction are measured at fair value,
+consistent with the requirements of FASB  (ASC) 815, .
+              <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+              <emphasis role="italic">Derivatives and Hedging</emphasis>
+            </para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>By reference to independent sources, verify the valuation
+of the options.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Test valuation of the hedged transactions.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Presentation and disclosure are appropriate.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Read the financial statements, and compare the presentation
+and disclosure with the requirements of FASB ASC 815.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Year-end</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

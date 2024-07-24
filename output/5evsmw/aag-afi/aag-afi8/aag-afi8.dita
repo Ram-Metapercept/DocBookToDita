@@ -1,0 +1,1628 @@
+<root id="aag-afi8" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 8 — Case Study of How an Entity’s Use of a Service
+Organization Affects the Auditor’s Considerations in Auditing Financial
+Instruments</titleabbrev>
+    <title role="ps_section_heading">Chapter 8</title>
+    <subtitle role="ps_section_title">Case Study of How an Entity’s Use
+of a Service Organization Affects the Auditor’s Considerations in
+Auditing Financial Instruments</subtitle>
+  </chapterinfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi8_update_8-1">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+8-1 : Audit Evidence
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 500), which supersedes AU-C section 500A, , and amends the following AU-C sections: 
+      <olink targetdoc="ps" targetptr="ad_500">Statement on Auditing Standards (SAS) No. 142</olink>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <footnote id="aag-afi8_fn1" label="fn 1" role="number">
+        <para>
+          All AU-C sections can be found in AICPA .
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            <emphasis role="italic">Audit Documentation</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+            <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+            <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+            <emphasis role="italic">Audit Sampling</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_540a">Section
+540A</olink>
+            <emphasis role="italic">Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       explains what constitutes audit evidence in an
+audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+      <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+    </para>
+    <para>
+      This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <paraBlock role="ps_box">
+    <para id="aag-afi8_update_8-2">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+8-2 : Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 540), which supersedes , , and amends the following AU-C
+sections: 
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540A</olink>
+      <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+            <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+            <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance </emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+            <emphasis role="italic">Written Representations</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+            <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements.
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+    </para>
+    <para>
+      This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi8_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.01</titleabbrev>
+      <title role="ps_para_number">8.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">This case study uses the following three
+scenarios to illustrate how an entity’s use of a service organization
+affects the auditor’s considerations in planning and performing auditing
+procedures related to assertions about financial instrument transactions:</para>
+    <para role="ps_indent_hang_2">
+      .
+In this scenario, a user entity initiates trades, and a broker-dealer
+executes the trades and holds and services financial instruments purchased. 
+      <emphasis role="italic">
+        a.
+        <tab/>
+        <olink targetptr="aag-afi8_scenario_a">Scenario A — Directed Investing Arrangement
+With One Service Organization: a Broker-Dealer</olink>
+      </emphasis>
+      <footnote id="aag-afi8_fn2" label="fn 2" role="number">
+        <para>Maintaining custody of securities, either in physical or electronic
+form, is referred to as holding, and performing ancillary services
+is referred to as servicing. Examples of servicing transactions are
+collecting dividends and interest and distributing that income to
+the entity and receiving notification of corporate actions, such as
+stock splits.</para>
+      </footnote>
+    </para>
+    <para role="ps_indent_hang_2">
+      . In this scenario, the user entity has authorized an investment
+adviser to initiate trades on its behalf, and a broker-dealer executes
+the trades and holds and services the financial instruments purchased. 
+      <emphasis role="italic">b.</emphasis>
+      <tab/>
+      <olink targetptr="aag-afi8_scenario_b">
+        <emphasis role="italic">Scenario B — Discretionary Investing Arrangement With Two Service
+Organizations: an Investment Adviser and a Broker-Dealer</emphasis>
+      </olink>
+    </para>
+    <para role="ps_indent_hang_2">
+      . In this scenario, a user entity has authorized a broker-dealer
+to initiate trades on its behalf and also to execute the trades and
+hold and service the financial instruments purchased.
+      <emphasis role="italic">
+        c.
+        <tab/>
+        <olink targetptr="aag-afi8_scenario_c">Scenario C — Discretionary Investing
+Arrangement With One Service Organization: a Broker-Dealer</olink>
+      </emphasis>
+    </para>
+  </section>
+  <section id="aag-afi8_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.02</titleabbrev>
+      <title role="ps_para_number">8.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+       present information that is applicable to all the
+scenarios, including
+      <olink targetptr="aag-afi8_03">Paragraphs
+8.03–.09</olink>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>a description of the user entity.</para>
+      </listitem>
+      <listitem>
+        <para>a summary of the accounting considerations.</para>
+      </listitem>
+      <listitem>
+        <para>types of potential misstatements of the user entity’s
+assertions about its financial instruments and financial instrument
+transactions.</para>
+      </listitem>
+      <listitem>
+        <para>inherent risk factors the auditor considers in planning
+the audit.</para>
+      </listitem>
+      <listitem>
+        <para>the timing of substantive procedures.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_information_that_applies_to" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Information That Applies to All the Scenarios</titleabbrev>
+      <title role="ps_main_heading">Information That Applies to All the
+Scenarios</title>
+    </sectioninfo>
+    <section id="aag-afi8_description_of_the_entity" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Entity</titleabbrev>
+        <title role="ps_sub_heading">Description of the Entity</title>
+      </sectioninfo>
+      <section id="aag-afi8_03" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.03</titleabbrev>
+          <title role="ps_para_number">8.03</title>
+        </sectioninfo>
+        <para role="ps_para_number">The user entity is Lane Components, Inc.
+(Lane) that manufactures electrical connectors and distributes them
+nationally and internationally, primarily to manufacturers. Several
+years ago, it sold a large division and used the proceeds to begin
+building a portfolio of equity securities traded on an exchange regulated
+by the SEC. Lane views the portfolio as a source of funds for future
+business acquisitions and plant expansions.</para>
+      </section>
+    </section>
+    <section id="aag-afi_summary_of_the_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Summary of the Accounting Considerations</titleabbrev>
+        <title role="ps_sub_heading">Summary of the Accounting Considerations</title>
+      </sectioninfo>
+      <section id="aag-afi8_04" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.04</titleabbrev>
+          <title role="ps_para_number">8.04</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Lane accounts for the securities under
+FASB  (ASC) 321, , and, accordingly, reports the securities at their fair value, with
+unrealized holding gains and losses included in earnings.
+          <emphasis role="italic">Accounting Standards Codification</emphasis>
+          <emphasis role="italic">Investments — Equity Securities</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi8_types_of_potential_misstatements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Types of Potential Misstatements of the Entity’s Assertions
+About Its Financial Instruments and Financial Instrument Transactions</titleabbrev>
+        <title role="ps_sub_heading">Types of Potential Misstatements of the
+Entity’s Assertions About Its Financial Instruments and Financial
+Instrument Transactions</title>
+      </sectioninfo>
+      <section id="aag-afi8_05" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.05</titleabbrev>
+          <title role="ps_para_number">8.05</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor identifies the following seven
+types of potential misstatements of Lane’s assertions about its financial
+instrument transactions:</para>
+        <para role="ps_indent_hang_2">
+          The recorded financial instruments do not exist, and the recorded
+financial instrument transactions did not occur.
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Lane does not have the rights and obligations associated with ownership
+of the recorded financial instruments.
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          The entity’s financial instruments and financial instrument transactions
+were not recorded.
+          <emphasis role="italic">
+            c.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          The fair value of the recorded financial instruments was determined
+incorrectly.
+          <emphasis role="italic">
+            d.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Realized and unrealized holding gains and losses are not properly
+reported as earnings.
+          <emphasis role="italic">
+            e.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Disclosures about financial instruments and financial instrument
+transactions are not adequate.
+          <emphasis role="italic">
+            f.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi_inherent_risk_factors_the" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Inherent Risk Factors the Auditor Considers in Planning
+the Audit</titleabbrev>
+        <title role="ps_sub_heading">Inherent Risk Factors the Auditor Considers
+in Planning the Audit</title>
+      </sectioninfo>
+      <section id="aag-afi8_06" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.06</titleabbrev>
+          <title role="ps_para_number">8.06</title>
+        </sectioninfo>
+        <para role="ps_para_number">The financial instruments are traded on
+an exchange regulated by the SEC, and the features of the instruments,
+underlying transactions, and accounting considerations are relatively
+straightforward. The auditor assesses inherent risk for all assertions
+about financial instruments and financial instrument transactions
+as low.</para>
+      </section>
+    </section>
+    <section id="aag-afi_timing_of_substantive_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Timing of Substantive Procedures</titleabbrev>
+        <title role="ps_sub_heading">Timing of Substantive Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi8_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.07</titleabbrev>
+          <title role="ps_para_number">8.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor decides to perform substantive
+procedures for assertions about financial instruments at year-end
+because of the relatively small number of financial instruments and
+financial instrument transactions.</para>
+      </section>
+    </section>
+    <section id="aag-afi_materiality_considerations" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Materiality Considerations</titleabbrev>
+        <title role="ps_sub_heading">Materiality Considerations</title>
+      </sectioninfo>
+      <section id="aag-afi8_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.08</titleabbrev>
+          <title role="ps_para_number">8.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">The carrying amount of the financial instruments
+and the realized and unrealized gains and losses on them are material
+to Lane’s financial statements, but dividends on the financial instruments
+are not material to the financial statements.</para>
+      </section>
+      <section id="aag-afi8_09" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.09</titleabbrev>
+          <title role="ps_para_number">8.09</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+           present three scenarios, including the following
+information relevant to the particular scenario:
+          <olink targetptr="aag-afi8_10">Paragraphs
+8.10–.24</olink>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The understanding of controls the auditor needs to
+plan the audit</para>
+          </listitem>
+          <listitem>
+            <para>The auditor’s assessment of control risk</para>
+          </listitem>
+          <listitem>
+            <para>The auditor’s design of procedures, including, when
+applicable, the auditor’s considerations in identifying controls that
+reduce control risk and the procedures the auditor uses to gather
+audit evidence about the operating effectiveness of those controls</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi8_scenario_a" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Scenario A — Directed Investing Arrangement With One
+Service Organization: a Broker-Dealer</titleabbrev>
+      <title role="ps_main_heading">Scenario A — Directed Investing Arrangement
+With One Service Organization: a Broker-Dealer</title>
+    </sectioninfo>
+    <section id="aag-afi8_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.10</titleabbrev>
+        <title role="ps_para_number">8.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">In this scenario, Lane initiates trades,
+and the broker-dealer executes the trades and holds and services the
+financial instruments purchased.</para>
+    </section>
+    <section id="aag-afi_the_understanding_of_processes" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Understanding of Processes and Controls the Auditor
+Needs to Plan the Audit</titleabbrev>
+        <title role="ps_sub_heading">The Understanding of Processes and Controls
+the Auditor Needs to Plan the Audit</title>
+      </sectioninfo>
+      <section id="aag-afi8_11" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.11</titleabbrev>
+          <title role="ps_para_number">8.11</title>
+        </sectioninfo>
+        <para role="ps_para_number">In obtaining an understanding of the entity
+and its environment, including its internal control , the auditor
+determines that</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Lane initiates trades and directs the broker-dealer
+to execute them.</para>
+          </listitem>
+          <listitem>
+            <para>Lane maintains records of the trades it directs the
+broker-dealer to execute.</para>
+          </listitem>
+          <listitem>
+            <para>the broker-dealer sends a confirmation of each trade
+to Lane, which Lane usually receives within three business days.</para>
+          </listitem>
+          <listitem>
+            <para>Lane compares the information in the trade confirmation
+with its record of the trade that it directed the broker-dealer to
+execute and investigates significant differences.</para>
+          </listitem>
+          <listitem>
+            <para>Lane records the trade in the applicable general ledger
+accounts.</para>
+          </listitem>
+          <listitem>
+            <para>at the end of the year, Lane adjusts the general ledger
+accounts for trades it has initiated for which confirmations have
+not been received. Information for that adjustment is obtained from
+Lane’s record of trades it directed the broker-dealer to execute and
+the confirmations of those trades it received subsequent to year-end.</para>
+          </listitem>
+          <listitem>
+            <para>monthly, the broker-dealer sends Lane a statement
+that includes trades, servicing transactions, a description of the
+financial instruments held, and the fair value of each of those financial
+instruments. </para>
+          </listitem>
+          <listitem>
+            <para>monthly, Lane compares the information about trades
+and the components of its financial instrument portfolio shown in
+its accounting records with the broker-dealer’s monthly statement
+and investigates significant differences.</para>
+          </listitem>
+          <listitem>
+            <para>monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi8_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.12</titleabbrev>
+          <title role="ps_para_number">8.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraph .05 of AU-C section 402B, , does not apply to services that are limited
+to processing an entity’s transactions that are specifically authorized
+by the entity, such as the processing of checking account transactions
+by a bank or the processing of financial instrument transactions by
+a broker (that is, when the user entity retains responsibility for
+authorizing the transactions and maintaining the related accountability). Because Lane retains responsibility for authorizing the
+transactions and maintaining the related accountability, AU-C section
+402B is not applicable in .
+          <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service
+Organization</emphasis>
+          <footnote id="aag-afi8_fn3" label="fn 3" role="number">
+            <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently-issued
+SASs.</para>
+          </footnote>
+          <olink targetptr="aag-afi8_scenario_a">scenario
+A</olink>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_assessment_of" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Assessment of Control Risk</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Assessment of Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi8_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.13</titleabbrev>
+          <title role="ps_para_number">8.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor concludes that audit risk
+can be reduced to an acceptable level without testing Lane’s controls
+over financial instruments and financial instrument transactions.
+In addition, the auditor concludes that the number of financial instruments
+and financial instrument transactions is small enough that gathering
+audit evidence about the operating effectiveness of Lane’s controls
+sufficient to support an assessment of control risk as low or moderate
+is not likely to significantly improve audit efficiency.</para>
+      </section>
+      <section id="aag-afi8_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.14</titleabbrev>
+          <title role="ps_para_number">8.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">However, if the number of transactions
+increases in future years, the auditor will reconsider that conclusion.
+For example, the auditor may be able to reduce the number of trades
+tested by gathering audit evidence about the operating effectiveness
+of Lane’s control that involves comparing the information in the trade
+confirmation with its record of the trade it directed the broker-dealer
+to execute and investigating significant differences. Audit evidence
+might be gathered by inspecting the documentation of the comparisons
+of trades, noting the timeliness of the comparison, and inspecting
+the documentation of the analysis of results and investigation of
+significant differences.</para>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_design_of" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Design of Procedures</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Design of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi8_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.15</titleabbrev>
+          <title role="ps_para_number">8.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor identifies the objectives
+for the audit of assertions about financial instruments and financial
+instrument transactions and designs related procedures:</para>
+        <table frame="all" id="aag-afi8_table1" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.97in"/>
+            <colspec colname="c3" colwidth="2.99in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Audit Objective</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Procedure</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded financial instruments exist, and Lane has the rights
+and obligations associated with ownership of the recorded financial
+instruments.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Confirm with the broker-dealer the name of the investee,
+the number of shares, whether the shares are pledged, and that Lane
+is the owner. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded financial instrument transactions occurred.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Inspect supporting documentation, such as trade confirmations
+or entries in the broker-dealer’s monthly statements.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>All the financial instruments that Lane owns and all its financial
+instrument transactions have been recorded. </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test management’s reconciliation of the fair value
+of the financial instruments at the beginning and end of the year
+to the information provided by the broker-dealer.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Perform analytical procedures on dividends and realized
+and unrealized gains and losses.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                    The financial instruments are recorded at their fair value,
+determined by following the requirements of FASB ASC 320, .
+                    <emphasis role="italic">Investments — Debt and Equity Securities</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Obtain the per-share price quoted by the exchange
+at the balance sheet date and compare the quoted price with the price
+that Lane used.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Test the extension of the number of shares at the
+quoted price. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Realized and unrealized holding gains and losses are properly
+reported as earnings or other comprehensive income.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Evaluate management’s considerations in ensuring that
+the requirements of FASB ASC 320 were satisfied.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Review journal entries for propriety.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The financial instruments are properly classified.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Gather audit evidence about the classification of
+the financial instruments as available for sale.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Disclosures about financial instruments and financial instrument
+transactions are adequate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the financial statements and compare the disclosures
+about financial instruments and financial instrument transactions
+with the requirements of FASB ASC 320-10-50.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi8_scenario_b" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Scenario B — Discretionary Investing Arrangement With
+Two Service Organizations: an Investment Adviser and a Broker-Dealer</titleabbrev>
+      <title role="ps_main_heading">Scenario B — Discretionary Investing
+Arrangement With Two Service Organizations: an Investment Adviser
+and a Broker-Dealer</title>
+    </sectioninfo>
+    <section id="aag-afi8_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.16</titleabbrev>
+        <title role="ps_para_number">8.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">In this scenario, Lane has authorized
+the investment adviser to initiate trades on its behalf under a discretionary
+arrangement, and the broker-dealer executes the trades and holds and
+services financial instruments purchased.</para>
+    </section>
+    <section id="aag-afi_the_understanding_of_processes1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Understanding of Processes and Controls the Auditor
+Needs to Assess the Risk of Material Misstatement</titleabbrev>
+        <title role="ps_sub_heading">The Understanding of Processes and Controls
+the Auditor Needs to Assess the Risk of Material Misstatement</title>
+      </sectioninfo>
+      <section id="aag-afi8_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.17</titleabbrev>
+          <title role="ps_para_number">8.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">In order to assess the risks of material
+misstatements, the auditor would obtain the following understanding
+of processes and controls:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The investment adviser initiates trades within parameters
+set by Lane, and the investment adviser directs the broker-dealer
+to execute them.</para>
+          </listitem>
+          <listitem>
+            <para>The broker-dealer sends a confirmation of each trade
+to the investment adviser and Lane, which Lane usually receives within
+three business days.</para>
+          </listitem>
+          <listitem>
+            <para>
+              Lane records the trade in the applicable general ledger
+accounts when it receives the trade confirmation.
+              <footnote id="aag-afi8_fn4" label="fn 4" role="number">
+                <para>In this scenario, recording trades when Lane Components, Inc.
+(Lane) receives the broker-dealer’s monthly statements may also be
+an effective control for Lane.</para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Monthly, the broker-dealer sends the investment adviser
+and Lane a statement that includes trades, servicing transactions,
+a description of the financial instruments held, and the fair value
+of each of those financial instruments.</para>
+          </listitem>
+          <listitem>
+            <para>Quarterly, the investment adviser provides Lane with
+a summary of trades it has initiated and the performance of the financial
+instruments’ portfolio. Monthly, Lane compares the information about
+trades and the components of its financial instruments’ portfolio
+shown in its accounting records (which are recorded based on confirmations
+and statements from the broker-dealer) with the information in the
+investment adviser’s monthly statement and identifies and investigates
+any significant differences.</para>
+          </listitem>
+          <listitem>
+            <para>At the end of the year, Lane records any trades initiated
+by the investment adviser for which confirmations have not been received.
+Information for recording that information is obtained from Lane’s
+reconciliation of the investment adviser’s information with the broker-dealer’s
+information.</para>
+          </listitem>
+          <listitem>
+            <para>Monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+          </listitem>
+          <listitem>
+            <para>The broker-dealer’s execution of trades and holding
+of financial instruments are not part of Lane’s information system.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi8_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.18</titleabbrev>
+          <title role="ps_para_number">8.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">With respect to whether obtaining an understanding
+of the controls of the investment adviser and broker-dealer is necessary
+to plan the audit, the auditor concludes there is a high degree of
+interaction between Lane’s activities and those of the broker-dealer
+and investment adviser. Lane is able to and elects to implement effective
+controls over the activities of the broker-dealer and the investment
+adviser, including the investment adviser’s controls over initiation
+of trades and the broker-dealer’s controls over servicing financial
+instruments. Lane performs the following procedures:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Reconciles the investment adviser’s information with
+the broker-dealer’s information and investigates significant differences</para>
+          </listitem>
+          <listitem>
+            <para>Compares broker-dealer information about servicing
+and fair values with its expectations based on published information
+and investigates significant differences</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_assessment_of1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Assessment of Control Risk</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Assessment of Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi8_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.19</titleabbrev>
+          <title role="ps_para_number">8.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor concludes that audit risk
+can be reduced to an acceptable level without tests of Lane’s controls
+over financial instruments and financial instrument transactions.
+In addition, the auditor concludes that the number of financial instruments
+and financial instrument transactions is small enough that gathering
+audit evidence about the operating effectiveness of Lane’s controls
+sufficient to support an assessment of control risk as low or moderate
+is not likely to significantly improve audit efficiency.</para>
+      </section>
+      <section id="aag-afi8_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.20</titleabbrev>
+          <title role="ps_para_number">8.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">However, if the number of transactions
+increases in future years, the auditor will reconsider that conclusion.
+For example, the auditor may be able to reduce the number of trades
+tested by gathering audit evidence about the operating effectiveness
+of Lane’s controls over the reconciliation of the investment adviser’s
+information with the broker-dealer’s information and by identifying
+and investigating any significant differences. Such audit evidence
+might be gathered by inspecting the documentation of some of the reconciliations,
+noting their timeliness, and inspecting the documentation of the analysis
+of results and investigation of significant differences.</para>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_design_of1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Design of Procedures</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Design of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi8_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.21</titleabbrev>
+          <title role="ps_para_number">8.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor identifies the objectives
+for the audit of assertions about financial instruments and financial
+instrument transactions and designs related procedures:</para>
+        <table frame="all" id="aag-afi8_table2" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.97in"/>
+            <colspec colname="c3" colwidth="2.99in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Audit Objective</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Procedure</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded financial instruments exist, and Lane has the rights
+and obligations associated with ownership of the recorded financial
+instruments.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Confirm with the broker-dealer the name of the investee,
+the number of shares, whether the shares are pledged, and that Lane
+is the owner. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded financial instrument transactions occurred.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Inspect supporting documentation, such as trade confirmations
+or entries in the broker-dealer’s monthly statements.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>All the financial instruments that Lane owns and all its financial
+instrument transactions have been recorded.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test the reconciliation of the investment adviser’s
+information with the broker-dealer’s information.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Perform analytical procedures on dividends and realized
+and unrealized gains and losses.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The financial instruments are recorded at their fair value,
+determined by following the requirements of FASB ASC 320.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Obtain the per-share price quoted by the exchange
+at the balance sheet date, and compare the quoted price with the price
+Lane used.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Test the extension of the number of shares at the
+quoted price. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Realized and unrealized holding gains and losses are properly
+reported as earnings or other comprehensive income. </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Evaluate management’s considerations in ensuring that
+the requirements of FASB ASC 320 were satisfied.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Review journal entries for propriety.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The financial instruments are properly classified. </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Gather audit evidence about the classification of
+the financial instruments as available for sale. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Disclosures about financial instruments and financial instrument
+transactions are adequate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the financial statements, and compare the disclosures
+about financial instruments and financial instrument transactions
+with the requirements of FASB ASC 320-10-50.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi8_scenario_c" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Scenario C — Discretionary Investing Arrangement With
+One Service Organization: a Broker-Dealer</titleabbrev>
+      <title role="ps_main_heading">Scenario C — Discretionary Investing
+Arrangement With One Service Organization: a Broker-Dealer</title>
+    </sectioninfo>
+    <section id="aag-afi8_22" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>8.22</titleabbrev>
+        <title role="ps_para_number">8.22</title>
+      </sectioninfo>
+      <para role="ps_para_number">In this scenario, the broker-dealer initiates
+trades under a discretionary arrangement with Lane and also executes
+the trades and holds and services the financial instruments purchased.</para>
+    </section>
+    <section id="aag-afi_the_understanding_of_processes2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Understanding of Processes and Controls the Auditor
+Needs to Assess the Risks of Material Misstatements</titleabbrev>
+        <title role="ps_sub_heading">The Understanding of Processes and Controls
+the Auditor Needs to Assess the Risks of Material Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi8_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.23</titleabbrev>
+          <title role="ps_para_number">8.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">In order to plan the audit, the auditor
+obtains the following understanding of processes and controls:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The broker-dealer initiates trades within parameters
+set by Lane and also executes the trades.</para>
+          </listitem>
+          <listitem>
+            <para>The broker-dealer sends a confirmation of each trade
+to Lane, which Lane usually receives within three business days.</para>
+          </listitem>
+          <listitem>
+            <para>Lane records the trade in the applicable general ledger
+accounts when it receives the trade confirmation.</para>
+          </listitem>
+          <listitem>
+            <para>Monthly, the broker-dealer sends Lane a statement
+that includes trades, servicing transactions, a description of the
+financial instruments held, and the fair value of each of those financial
+instruments.</para>
+          </listitem>
+          <listitem>
+            <para>Monthly, Lane compares the information about trades
+and the components of its financial instruments’ portfolio that are
+shown in its accounting records with the broker-dealer’s monthly statement
+and investigates significant differences.</para>
+          </listitem>
+          <listitem>
+            <para>Monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi8_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.24</titleabbrev>
+          <title role="ps_para_number">8.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">Following the guidance in AU-C section
+402B, the auditor concludes the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Initiating trades, servicing financial instruments,
+and providing fair value information are broker-dealer services that
+are part of Lane’s information system.</para>
+          </listitem>
+          <listitem>
+            <para>The broker-dealer’s execution of trades and holding
+of securities are not part of Lane’s information system.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi8_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.25</titleabbrev>
+          <title role="ps_para_number">8.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">With respect to whether obtaining an understanding
+of the broker-dealer’s controls is necessary to plan the audit, the
+auditor concludes one of the following:</para>
+        <para role="ps_indent_2">
+          Based on available information, the auditor
+believes the broker-dealer has such controls.
+          <footnote id="aag-afi8_fn5" label="fn 5" role="number">
+            <para>To help plan the audit, the auditor may gather information about
+broker-dealer controls over existence and completeness assertions
+from a variety of sources. Examples are a service auditor’s type 1
+or type 2 SOC 1 report, manuals provided by the broker-dealer, and
+inquiries of broker-dealer personnel.</para>
+          </footnote>
+        </para>
+        <para role="ps_indent_2">Accordingly, obtaining an understanding of
+the broker-dealer’s controls over those services is not necessary
+to plan the audit.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Because the broker-dealer initiates and executes trades,
+all the information about trades that is available to Lane comes from
+the broker-dealer. Accordingly, the broker-dealer’s controls over
+the initiation of trades are significant to Lane’s internal control
+over financial instrument transactions. Information about the manner
+in which trades are initiated by the broker-dealer, as well as the
+broker-dealer’s controls over that process, is needed to plan the
+audit. The auditor decides that an effective broker-dealer control
+over initiation of trades would be both of the following:</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Establishing independent departments that provide
+the investment advisory services and the holding and servicing of
+financial instruments</para>
+          </listitem>
+          <listitem>
+            <para>Reconciling the information about the financial instruments
+that is provided by each department</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The broker-dealer’s controls over servicing financial
+instruments and providing fair value information are not significant
+to Lane’s internal control over financial instrument transactions
+because Lane does both of the following:</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Compares broker-dealer information about servicing
+and fair values with its expectations based on published information</para>
+          </listitem>
+          <listitem>
+            <para>Investigates significant differences</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_assessment_of2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Assessment of Control Risk</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Assessment of Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi8_26" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.26</titleabbrev>
+          <title role="ps_para_number">8.26</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          As discussed in paragraph .A7 of AU-C
+section 402B, the significance of the controls at the service organization
+to the user entity’s internal control also depends on the degree of
+interaction between the service organization’s activities and those
+of the user entity. The degree of interaction refers to the extent
+to which a user entity is able to and elects to implement effective
+controls over the processing performed by the service organization.
+For example, a high degree of interaction exists between the activities
+of the user entity and those at the service organization when the
+user entity authorizes transactions, and the service organization
+processes and accounts for those transactions. In these circumstances,
+it may be practicable for the user entity to implement effective controls
+over those transactions. On the other hand, when the service organization
+initiates or initially records, processes, and accounts for the user
+entity’s transactions, a lower degree of interaction exists between
+the two organizations. In these circumstances, the user entity may
+be unable to or may elect not to implement effective controls over
+these transactions at the user entity and may rely on controls at
+the service organization. In this arrangement, when the broker-dealer
+both initiates and executes trades, the broker-dealer provides all
+the information about trades that is available to the auditor. In
+addition, the broker-dealer’s initiation and execution services are
+largely provided electronically. Accordingly, the auditor concludes
+that audit risk cannot be limited sufficiently without obtaining the
+following audit evidence about the operating effectiveness of the
+broker-dealer’s controls:
+          <footnote id="aag-afi8_fn6" label="fn 6" role="number">
+            <para>As a practical matter, Lane’s management should view information
+about the operating effectiveness of the broker-dealer’s controls
+as an important part of its risk management considerations.</para>
+          </footnote>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Establishing independent departments that provide
+the investment advisory services and the holding and servicing of
+financial instruments</para>
+          </listitem>
+          <listitem>
+            <para>Reconciling the information about the financial instruments
+that is provided by each department</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi8_27" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.27</titleabbrev>
+          <title role="ps_para_number">8.27</title>
+        </sectioninfo>
+        <para role="ps_para_number">If the audit evidence about the operating
+effectiveness of these controls supports an assessment of control
+risk as low or moderate, the auditor may be able to reduce the number
+of trades tested. The resulting audit efficiencies will become more
+noticeable as the number of trades increases.</para>
+      </section>
+    </section>
+    <section id="aag-afi_the_auditors_design_of2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>The Auditor’s Design of Procedures</titleabbrev>
+        <title role="ps_sub_heading">The Auditor’s Design of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi8_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.28</titleabbrev>
+          <title role="ps_para_number">8.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          The auditor gathers audit evidence that
+the broker-dealer has implemented the controls described in  and that those controls
+are operating effectively. The auditor then identifies the objectives for the audit
+of assertions about financial instruments and financial instrument
+transactions and designs related procedures:
+          <olink targetptr="aag-afi8_23">paragraph 8.23</olink>
+          <footnote id="aag-afi8_fn7" label="fn 7" role="number">
+            <para>The audit evidence can be obtained a variety of ways, such as
+a type 2 service auditor’s report or special procedures performed
+by the broker-dealer’s internal or external auditors.</para>
+          </footnote>
+          <footnote id="aag-afi8_fn8" label="fn 8" role="number">
+            <para>
+              In  and , the auditor
+concludes that audit risk can be reduced to an acceptable level without
+identifying controls placed in operation and gathering evidential
+matter about their operating effectiveness. In this scenario, however,
+the auditor concludes that identifying broker-dealer controls over
+the existence and completeness assertions and gathering evidential
+matter about their operating effectiveness is necessary to reduce
+audit risk to an acceptable level. The only difference in the nature
+of substantive procedures is that in this scenario, analytical procedures
+are the only procedures performed to determine whether all the securities
+that Lane owns and all its securities transactions have been recorded.
+However, in  and , reconciliation
+procedures are also performed.
+              <olink targetptr="aag-afi8_scenario_a">scenarios A</olink>
+              <olink targetptr="aag-afi8_scenario_b">B</olink>
+              <olink targetptr="aag-afi8_scenario_a">scenarios A</olink>
+              <olink targetptr="aag-afi8_scenario_b">B</olink>
+            </para>
+          </footnote>
+        </para>
+        <table frame="all" id="aag-afi8_table3" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.97in"/>
+            <colspec colname="c3" colwidth="2.99in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Audit Objective </emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Procedure</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded securities exist, and Lane has the rights and obligations
+associated with ownership of the recorded financial instruments.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Confirm with the broker-dealer the name of the investee,
+the number of shares, whether the shares are pledged, and that Lane
+is the owner.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The recorded financial instrument transactions occurred.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Inspect supporting documentation, such as trade confirmations
+or entries in the broker-dealer’s monthly statements.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>All the financial instruments that Lane owns and all its financial
+instrument transactions have been recorded.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Perform analytical procedures on dividends and realized
+and unrealized gains and losses.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The financial instruments are recorded at their fair value,
+determined by following the requirements of FASB ASC 320.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Obtain the per-share price quoted by the exchange
+at the balance sheet date and compare the quoted price with the price
+that Lane used.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Test the extension of the number of shares at the
+quoted price.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Realized and unrealized holding gains and losses are properly
+reported as earnings or other comprehensive income.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Evaluate management’s considerations in ensuring that
+the requirements of FASB ASC 320 were satisfied.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Review journal entries for propriety.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The financial instruments are properly classified.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Gather audit evidence about the classification of
+the financial instruments as available for sale.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Disclosures about financial instruments and financial instrument
+transactions are adequate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the financial statements, and compare the disclosures
+about financial instruments and financial instrument transactions
+with the requirements of FASB ASC 320-10-50.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi_performing_audit_procedures_in" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Performing Audit Procedures in Response to Assessed Risk</titleabbrev>
+        <title role="ps_sub_heading">Performing Audit Procedures in Response
+to Assessed Risk</title>
+      </sectioninfo>
+      <section id="aag-afi8_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.29</titleabbrev>
+          <title role="ps_para_number">8.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">External confirmation procedures frequently
+may be relevant when addressing assertions associated with account
+balances and their elements but need not be restricted to these items.
+For example, the auditor may request external confirmation of the
+terms of agreements, contracts, or transactions between an entity
+and other parties. External confirmation procedures also may be performed
+to obtain audit evidence about the absence of certain conditions.
+For example, a request may specifically seek confirmation that no
+side agreement exists that may be relevant to an entity’s revenue
+cut-off assertion.</para>
+      </section>
+    </section>
+    <section id="aag-afi_audit_considerations_relating_to" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Audit Considerations Relating to an Entity Using a Service
+Organization</titleabbrev>
+        <title role="ps_sub_heading">Audit Considerations Relating to an Entity
+Using a Service Organization</title>
+      </sectioninfo>
+      <section id="aag-afi8_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.30</titleabbrev>
+          <title role="ps_para_number">8.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">In determining the nature and extent of
+audit evidence to be obtained for financial statement balances representing
+assets held or transactions processed by a service organization for
+a user entity, the following procedures may be considered by the user
+auditor:</para>
+        <para role="ps_indent_hang_2">
+          . The reliability
+of this source of evidence is determined by the nature and extent
+of the accounting records and supporting documentation retained by
+the user entity. In some cases, the user entity may not maintain independent
+detailed records or documentation of specific transactions undertaken
+on its behalf. 
+          <emphasis role="italic">
+            a.Inspecting
+records and documents held by the user entity
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          .
+The user auditor’s access to the records of the service organization
+may be established as part of the contractual arrangements between
+the user entity and service organization. The user auditor may also
+use another auditor on its behalf to gain access to the user entity’s
+records maintained by the service organization or may ask the service
+organization through the user entity for access to the user entity’s
+records maintained by the service organization.
+          <emphasis role="italic">
+            b.Inspecting
+records and documents held by the service organization
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          . When the user entity maintains independent records of balances
+and transactions, confirmation from the service organization corroborating
+those records usually constitutes reliable audit evidence concerning
+the existence of the transactions and assets concerned. For example,
+when multiple service organizations are used, such as an investment
+manager and a custodian, and these service organizations maintain
+independent records, the user auditor may confirm balances with these
+organizations in order to compare this information with the independent
+records of the user entity. If the user entity does not maintain independent
+records, information obtained in confirmations from the service organization
+is merely a statement of what is reflected in the records maintained
+by the service organization. Therefore, such confirmations do not,
+taken alone, constitute reliable audit evidence. In these circumstances,
+the user auditor may consider whether an alternative source of independent
+evidence can be identified.
+          <emphasis role="italic">
+            c.Obtaining
+confirmations of balances and transactions from the service organization
+            <tab/>
+          </emphasis>
+          <footnote id="aag-afi8_fn9" label="fn 9" role="number">
+            <para>
+              Paragraph .A27 of AU-C section 402B, .
+              <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service Organization</emphasis>
+            </para>
+          </footnote>
+        </para>
+        <para role="ps_indent_hang_2">
+          . The effectiveness of analytical procedures is likely to vary by
+assertion and will be affected by the extent and detail of information
+available.
+          <emphasis role="italic">
+            d.Performing
+analytical procedures on the records maintained by the user entity
+or on the reports received from the service organization
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi_audit_evidence_specific_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Audit Evidence — Specific Considerations for Selected
+Items</titleabbrev>
+      <title role="ps_main_heading">Audit Evidence — Specific Considerations
+for Selected Items</title>
+    </sectioninfo>
+    <section id="aag-afi_investments_in_financial_instruments" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Investments in Financial Instruments When Valuations
+Are Based on Cost</titleabbrev>
+        <title role="ps_sub_heading">Investments in Financial Instruments
+When Valuations Are Based on Cost</title>
+      </sectioninfo>
+      <section id="aag-afi8_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>8.31</titleabbrev>
+          <title role="ps_para_number">8.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Procedures to obtain evidence about the
+valuation of financial instruments that are recorded at cost may include
+inspection of documentation of the purchase price, confirmation with
+the issuer or holder, and testing discount or premium amortization
+either by recomputation or through the use of analytical procedures.
+          <footnote id="aag-afi8_fn10" label="fn 10" role="number">
+            <para>
+              Paragraph .A3 of AU-C section 501B, .
+              <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </section>
+    </section>
+  </section>
+</root>

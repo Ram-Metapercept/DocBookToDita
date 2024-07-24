@@ -1,0 +1,50 @@
+<root id="aag-afi1_54" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.54</titleabbrev>
+    <title role="ps_para_number">1.54</title>
+  </sectioninfo>
+  <para role="ps_para_number">Disparities may exist between price indicators
+from different sources. Understanding how the price indicators were
+derived and investigating these disparities assists management in
+corroborating the evidence used in developing its valuation of financial
+instruments in order to evaluate whether the valuation is reasonable.
+Simply taking the average of the quotes provided without doing further
+research may not be appropriate because one price in the range may
+be the most representative of fair value, and this may not be the
+average. To evaluate whether its valuations of financial instruments
+are reasonable, management may</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>consider whether actual transactions represent forced
+transactions rather than transactions between willing buyers and sellers.
+This may invalidate the price as a comparison.</para>
+    </listitem>
+    <listitem>
+      <para>analyze the expected future cash flows of the instrument.
+This could be performed as an indicator of the most relevant pricing
+data.</para>
+    </listitem>
+    <listitem>
+      <para>depending on the nature of what is unobservable, extrapolate
+from observed prices to unobserved ones (for example, there may be
+observed prices for maturities up to 10 years but not longer, but
+the 10-year price curve may be capable of being extrapolated beyond
+10 years as an indicator). Care is needed to ensure that extrapolation
+is not carried so far beyond the observable curve that its link to
+observable prices becomes too tenuous to be reliable.</para>
+    </listitem>
+    <listitem>
+      <para>compare prices within a portfolio of financial instruments
+with each other to make sure they are consistent among similar financial
+instruments.</para>
+    </listitem>
+    <listitem>
+      <para>use more than one model to corroborate the results
+from each one, considering the data and assumptions used in each.</para>
+    </listitem>
+    <listitem>
+      <para>evaluate movements in the prices for related hedging
+instruments and collateral.</para>
+    </listitem>
+  </itemizedlist>
+</root>

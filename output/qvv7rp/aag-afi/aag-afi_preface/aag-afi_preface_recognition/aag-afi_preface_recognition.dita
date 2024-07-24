@@ -1,0 +1,41 @@
+<root id="aag-afi_preface_recognition" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Recognition</titleabbrev>
+    <title role="ps_main_heading">Recognition</title>
+  </sectioninfo>
+  <para role="ps_center">
+    <emphasis role="bold"/>
+  </para>
+  <para role="ps_center">
+    <emphasis role="bold">Auditing Standards Board</emphasis>
+  </para>
+  <para role="ps_center">
+    Tracy Harding, 
+    <emphasis role="italic">Chair</emphasis>
+  </para>
+  <para role="ps_indent_0">The AICPA gratefully acknowledges those who
+reviewed or otherwise contributed to the development of the content
+in this guide: William Fellows, Lisa Openshaw, and Andrew Pidgeon.</para>
+  <para role="ps_center">
+    <emphasis role="bold">AICPA Staff</emphasis>
+  </para>
+  <para role="ps_center">
+    Robert BoothProduct Management &amp; Development
+    <newline/>
+    <newline/>
+    <emphasis role="italic">Manager</emphasis>
+  </para>
+  <para role="ps_center">
+    Hiram HastyAudit and Attest Standards,
+AICPA
+    <newline/>
+    <newline/>
+    <emphasis role="italic">Associate Director</emphasis>
+  </para>
+  <para role="ps_center">
+    Daniel NollAccounting Standards, AICPA
+    <newline/>
+    <newline/>
+    <emphasis role="italic">Senior Director</emphasis>
+  </para>
+</root>

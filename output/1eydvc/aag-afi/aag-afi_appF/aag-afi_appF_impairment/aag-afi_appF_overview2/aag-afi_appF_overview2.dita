@@ -1,0 +1,125 @@
+<root id="aag-afi_appF_overview2" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Overview</titleabbrev>
+    <title role="ps_sub_heading">Overview</title>
+  </sectioninfo>
+  <para role="ps_indent_0">On June 16, 2016, FASB issued ASU No. 2016-13
+to provide financial statement users with more decision-useful information
+about the expected credit losses on financial instruments and other
+commitments to extend credit held by a reporting entity at each reporting
+date. Upon the effective date of this ASU, the incurred loss impairment
+methodology in current generally accepted accounting principles (GAAP)
+is replaced with a methodology that reflects expected credit losses
+and requires consideration of a broader range of reasonable and supportable
+information to inform credit loss estimates. </para>
+  <section id="aag-afi_appF_assets_measured_at_amortized" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Assets Measured at Amortized Cost</titleabbrev>
+      <title role="ps_subsub_heading">Assets Measured at Amortized Cost</title>
+    </sectioninfo>
+    <para role="ps_indent_0">ASU No. 2016-13 eliminates the probable initial
+recognition threshold under current GAAP and requires entities that
+measure financial assets (or a group of financial assets) at amortized
+cost basis to present such assets at the net amount expected to be
+collected. The amendments in this ASU broaden the information that
+an entity must consider in developing its expected credit loss estimate
+for assets measured either collectively or individually. In addition
+to past events and current conditions, entities should also consider
+reasonable and supportable forecasts that affect the collectibility
+of the reported amount. However, an entity may revert to historical
+loss information that is reflective of the contractual term (considering
+the effect of prepayments) for periods that are beyond the time frame
+for which the entity is able to develop reasonable and supportable
+forecasts. </para>
+    <para role="ps_indent_0">An entity may apply any method for measuring
+expected credit losses as long as the entity’s method reasonably reflects
+its expectations of the credit loss estimate. </para>
+  </section>
+  <section id="aag-afi_appF_purchased_financial_assets_with" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Purchased Financial Assets With Credit Deterioration</titleabbrev>
+      <title role="ps_subsub_heading">Purchased Financial Assets With Credit
+Deterioration</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      ASU No. 2016-13 defines  (PCD
+assets) as acquired individual financial assets (or acquired groups
+of financial assets with similar risk characteristics) that as of
+the date of acquisition have experienced a more-than-insignificant
+deterioration in credit quality since origination, as determined by
+the acquirer’s assessment. The allowance for credit losses for PCD
+assets that are measured at amortized cost basis is determined in
+a similar manner to other financial assets measured at amortized cost
+basis. The initial allowance for credit losses is added to the purchase
+price, rather than being reported as a credit loss expense. Entities
+record only subsequent changes in the allowance for credit losses
+as a credit loss expense for PCD assets. Furthermore, an entity should
+recognize interest income for PCD assets based on the effective interest
+rate, excluding the discount embedded in the purchase price that is
+attributable to the acquirer’s assessment of credit losses at acquisition. 
+      <emphasis role="italic">purchased financial assets with credit deterioration</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi_appF_disclosures1" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Disclosures</titleabbrev>
+      <title role="ps_subsub_heading">Disclosures</title>
+    </sectioninfo>
+    <para role="ps_indent_0">In an effort to increase users’ understanding
+of underwriting standards and credit quality trends, ASU No. 2016-13
+requires the current disclosure on credit quality indicators in relation
+to the amortized cost of financing receivables to be further disaggregated
+by year of origination (or vintage). Entities that are not public
+business entities are not required to disclose the disaggregation
+by year of origination. </para>
+  </section>
+  <section id="aag-afi_appF_available_for_sale_debt" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Available-for-Sale Debt Securities</titleabbrev>
+      <title role="ps_subsub_heading">Available-for-Sale Debt Securities</title>
+    </sectioninfo>
+    <para role="ps_indent_0">Entities will now be required to present
+credit losses on available-for-sale debt securities as an allowance,
+rather than as a permanent write-down. </para>
+    <para role="ps_indent_0">An entity will now be able to record reversals
+of credit losses on debt securities (in situations in which the estimate
+of credit declines) in current period net income, thus aligning the
+income statement recognition of credit losses with the reporting period
+in which changes occur. However, an entity may not record an allowance
+for credit losses exceeding the amount by which fair value is below
+amortized cost.</para>
+  </section>
+  <section id="aag-afi_appF_purchased_debt_securities_with" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Purchased Debt Securities With Credit Deterioration</titleabbrev>
+      <title role="ps_subsub_heading">Purchased Debt Securities With Credit
+Deterioration</title>
+    </sectioninfo>
+    <para role="ps_indent_0">The allowance for credit losses for purchased
+available-for-sale debt securities with a more-than-insignificant
+amount of credit deterioration since origination is also determined
+in a similar manner to other available-for-sale debt securities. However,
+ASU No. 2016-13 requires an entity to add the initial allowance for
+credit losses to the purchase price, rather than reporting it as a
+credit loss expense. Entities record only subsequent changes in the
+allowance for credit losses as a credit loss expense. Furthermore,
+an entity should recognize interest income based on the effective
+interest rate, excluding the discount embedded in the purchase price
+that is attributable to the acquirer’s assessment of credit losses
+at acquisition.</para>
+  </section>
+  <section id="aag-afi_appF_troubled_debt_restructurings" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Troubled Debt Restructurings </titleabbrev>
+      <title role="ps_subsub_heading">Troubled Debt Restructurings </title>
+    </sectioninfo>
+    <para role="ps_indent_0">The ASU does not change the definition or
+derecognition guidelines for troubled debt restructurings (TDRs),
+but rather changes the impairment recognized on restructuring. Credit
+losses for TDRs now will be measured using the current expected credit
+loss model. The ASU eliminates the current GAAP requirement to use
+a discounted cash flow technique. Credit losses, including concessions
+given to a borrower under a TDR, will be recognized through an allowance
+account.</para>
+  </section>
+</root>

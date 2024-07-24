@@ -1,0 +1,601 @@
+<root id="aag-afi4_assessing_the_risks_of" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Assessing the Risks of Material Misstatement</titleabbrev>
+    <title role="ps_main_heading">Assessing the Risks of Material Misstatement</title>
+  </sectioninfo>
+  <section id="aag-afi4_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.01</titleabbrev>
+      <title role="ps_para_number">4.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The auditor’s assessment of the identified
+risks at the assertion level in accordance with AU-C section 315B, , includes evaluating
+the design and implementation of internal control. It provides a basis for considering the appropriate audit
+approach for designing and performing further audit procedures in
+accordance with AU-C section 330B, , including both substantive procedures
+and tests of controls. The approach taken is influenced by the auditor’s
+understanding of internal control relevant to the audit, including
+the strength of the control environment and any risk management function,
+the size and complexity of the entity’s operations, and whether the
+auditor’s assessment of the risks of material misstatement include
+an expectation that controls are operating effectively. 
+      <emphasis role="italic">Understanding the Entity and Its Environment and Assessing
+the Risks of Material Misstatement</emphasis>
+      <emphasis role="italic">Performing
+Audit Procedures in Response to Assessed Risks and Evaluating the
+Audit Evidence Obtained</emphasis>
+      <footnote id="aag-afi4_fn2" label="fn 2" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi4_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.02</titleabbrev>
+      <title role="ps_para_number">4.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s assessment of the risk of
+material misstatement at the assertion level may change during the
+course of the audit as additional information is obtained. Remaining
+alert during the audit (for example, when inspecting records or documents)
+may assist the auditor in identifying arrangements or other information
+that may indicate the existence of financial instruments that management
+has not previously identified or disclosed to the auditor. Such records
+and documents may include, for example</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>minutes of meetings of those charged with governance.</para>
+      </listitem>
+      <listitem>
+        <para>specific invoices from, and correspondence with, the
+entity’s professional advisers.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_overall_considerations_relating_to" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Overall Considerations Relating to Financial Instruments</titleabbrev>
+      <title role="ps_sub_heading">Overall Considerations Relating to Financial
+Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi4_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.03</titleabbrev>
+        <title role="ps_para_number">4.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Paragraph .02 of AU-C section 540B, , explains
+that the degree of estimation uncertainty affects the risk of material
+misstatement of accounting estimates. The use of more complex financial
+instruments, such as those that have a high level of uncertainty and
+variability of future cash flows, may lead to an increased risk of
+material misstatement, particularly regarding valuation. Other matters
+affecting the risk of material misstatement include the
+        <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value
+Accounting Estimates, and Related Disclosures</emphasis>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>volume of financial instruments to which the entity
+is exposed.</para>
+        </listitem>
+        <listitem>
+          <para>terms of the financial instrument, including whether
+the financial instrument itself includes other financial instruments.</para>
+        </listitem>
+        <listitem>
+          <para>nature of the financial instruments.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi4_the_use_of_assertions" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>The Use of Assertions</titleabbrev>
+      <title role="ps_sub_heading">The Use of Assertions</title>
+    </sectioninfo>
+    <section id="aag-afi4_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.04</titleabbrev>
+        <title role="ps_para_number">4.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Assertions used by the auditor to consider
+the different types of potential misstatements that may occur fall
+into the following three categories and may take the following forms:
+        <footnote id="aag-afi4_fn3" label="fn 3" role="number">
+          <para>
+            Paragraph .A114 of AU-C section 315B, .
+            <emphasis role="italic">Understanding the Entity and Its Environment and Assessing the Risks
+of Material Misstatement</emphasis>
+          </para>
+        </footnote>
+      </para>
+      <para role="ps_indent_hang_2">
+        Assertions about classes of transactions and events for the period
+under audit, such as the following:
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        i.. Transactions and events that have been recorded have occurred and
+pertain to the entity.
+        <tab/>
+        <emphasis role="italic">Occurrence</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        ii.. All transactions and events that should have been recorded have
+been recorded.
+        <tab/>
+        <emphasis role="italic">Completeness</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iii.. Amounts and other data relating to recorded transactions and events
+have been recorded appropriately.
+        <tab/>
+        <emphasis role="italic">Accuracy</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iv.. Transactions and events have been recorded in the correct accounting
+period.
+        <tab/>
+        <emphasis role="italic">Cutoff</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        v.. Transactions and events have been recorded in the proper accounts.
+        <tab/>
+        <emphasis role="italic">Classification</emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Assertions about account balances at period-end, such as the following:
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        i.. Assets, liabilities, and equity interests exist.
+        <tab/>
+        <emphasis role="italic">Existence</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        ii.. The entity holds or controls the rights
+to assets, and liabilities are the obligations of the entity.
+        <tab/>
+        <emphasis role="italic">Rights
+and obligations</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iii.. All assets, liabilities, and equity interests that should have
+been recorded have been recorded.
+        <tab/>
+        <emphasis role="italic">Completeness</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iv.. Assets, liabilities, and equity interests
+are included in the financial statements at appropriate amounts, and
+any resulting valuation or allocation adjustments are appropriately
+recorded.
+        <tab/>
+        <emphasis role="italic">Valuation
+and allocation</emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Assertions about presentation and disclosure, such as the following:
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        i.. Disclosed events, transactions,
+and other matters have occurred and pertain to the entity.
+        <tab/>
+        <emphasis role="italic">Occurrence
+and rights and obligations</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        ii.. All disclosures that should have been included in the financial
+statements have been included.
+        <tab/>
+        <emphasis role="italic">Completeness</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iii.. Financial information is appropriately
+presented and described, and disclosures are clearly expressed.
+        <tab/>
+        <emphasis role="italic">Classification
+and understandability</emphasis>
+      </para>
+      <para role="ps_indent_hang_4">
+        iv.. Financial and other information is disclosed
+fairly and in appropriate amounts.
+        <tab/>
+        <emphasis role="italic">Accuracy
+and valuation</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi4_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.05</titleabbrev>
+        <title role="ps_para_number">4.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Paragraph .A41 of AU-C section 200B, , states that the risks of material misstatement
+at the assertion level consist of two components: inherent risk and
+control risk. The following exhibit summarizes the examples of considerations
+that might affect the auditor’s assessment of the inherent risk for
+assertions about financial instruments.
+        <emphasis role="italic">Overall Objectives of the Independent Auditor and the
+Conduct of an Audit in Accordance With Generally Accepted Auditing
+Standards</emphasis>
+      </para>
+      <para id="aag-afi4_exhibit_4-1" role="ps_sub_heading">
+        <emphasis role="bold">Exhibit 4-1 — Characteristics That Might Affect Inherent
+Risk</emphasis>
+      </para>
+      <table frame="all" id="aag-afi4_table1" role="ps_table_center">
+        <tgroup align="left" cols="4" colsep="1" rowsep="1">
+          <colspec colname="c1" colsep="0" colwidth="1.36in"/>
+          <colspec colname="c3" colwidth="1.49in"/>
+          <colspec colname="c5" colwidth="1.52in"/>
+          <colspec colname="c7" colwidth="1.27in"/>
+          <thead>
+            <row rowsep="0">
+              <entry align="center" nameend="c7" namest="c1" role="shade" rowsep="1" valign="bottom">
+                <para>
+                  <emphasis role="italic">Indications of</emphasis>
+                </para>
+              </entry>
+            </row>
+            <row rowsep="1" valign="bottom">
+              <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                <para>
+                  <emphasis role="italic">Characteristic</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                <para>
+                  <emphasis role="italic">Higher Risk</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                <para>
+                  <emphasis role="italic">Lower Risk</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="0" role="shade" rowsep="1" valign="bottom">
+                <para>
+                  <emphasis role="italic">Related Assertion</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colsep="1">
+                <para>Management’s objective</para>
+              </entry>
+              <entry colsep="1">
+                <para>Financial instruments used as hedges</para>
+              </entry>
+              <entry colsep="1">
+                <para>Financial instruments held as investments</para>
+              </entry>
+              <entry colsep="0">
+                <para>Rights and obligations, valuation, and presentation and disclosure </para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Management’s intent and ability</para>
+              </entry>
+              <entry colsep="1">
+                <para>Accounting treatment based on management’s intent and ability</para>
+              </entry>
+              <entry colsep="1">
+                <para>Accounting treatment based on objective criteria</para>
+              </entry>
+              <entry colsep="0">
+                <para>Valuation and presentation and disclosure</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Complexity of financial instruments</para>
+              </entry>
+              <entry colsep="1">
+                <para>More complex instrument (for example, futures contracts, swaps,
+or stock appreciation rights)</para>
+                <para>Collaterized mortgage obligations</para>
+                <para>Stock warrants</para>
+              </entry>
+              <entry colsep="1">
+                <para>Less complex instrument (for example, common stock traded on
+an exchange or U.S government agency debt)</para>
+                <para>U.S. Treasury securities</para>
+                <para>Common stock</para>
+              </entry>
+              <entry colsep="1">
+                <para>Rights and obligations, valuation, and presentation and disclosure</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Relationship of the derivative to the hedged item or underlying
+security</para>
+              </entry>
+              <entry colsep="1">
+                <para>Low degree of correlation</para>
+              </entry>
+              <entry colsep="1">
+                <para>High degree of correlation</para>
+              </entry>
+              <entry colsep="0">
+                <para>Valuation and presentation and disclosure</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Exchange of cash at inception</para>
+              </entry>
+              <entry colsep="1">
+                <para>No exchange of cash at inception</para>
+              </entry>
+              <entry colsep="1">
+                <para>Cash exchanged at inception</para>
+              </entry>
+              <entry>
+                <para>Completeness and presentation and disclosure</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Freestanding versus embedded</para>
+              </entry>
+              <entry colsep="1">
+                <para>Embedded derivative</para>
+              </entry>
+              <entry colsep="1">
+                <para>Freestanding derivative</para>
+              </entry>
+              <entry>
+                <para>Completeness and presentation and disclosure</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Credit risk</para>
+              </entry>
+              <entry colsep="1">
+                <para>High counterparty credit risk</para>
+                <para>High nonpayment risk</para>
+              </entry>
+              <entry colsep="1">
+                <para>Low counterparty credit risk</para>
+                <para>Low nonpayment risk</para>
+              </entry>
+              <entry>
+                <para>Valuation</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Market risk</para>
+              </entry>
+              <entry colsep="1">
+                <para>Volatile values or interest rates</para>
+              </entry>
+              <entry colsep="1">
+                <para>Stable values or interest rates</para>
+              </entry>
+              <entry>
+                <para>Valuation</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Nature of security and related accounting principles</para>
+              </entry>
+              <entry colsep="1">
+                <para>Rapidly evolving</para>
+              </entry>
+              <entry colsep="1">
+                <para>Relatively stable</para>
+              </entry>
+              <entry>
+                <para>All</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="1">
+                <para>Assumptions about future conditions</para>
+              </entry>
+              <entry>
+                <para>Significant subjective assumptions</para>
+              </entry>
+              <entry>
+                <para>Relatively few, objective, and verifiable assumptions</para>
+              </entry>
+              <entry>
+                <para>All</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </section>
+  <section id="aag-afi4_fraud_risk_factors" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Fraud Risk Factors</titleabbrev>
+      <title role="ps_sub_heading">
+        Fraud Risk Factors
+        <footnote id="aag-afi4_fn4" label="fn 4" role="number">
+          <para>
+            AU-C section 240B, , addresses fraud risk
+factors.
+            <emphasis role="italic">Consideration of
+Fraud in a Financial Statement Audit</emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi4_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.06</titleabbrev>
+        <title role="ps_para_number">4.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">Incentives for fraudulent financial reporting
+by employees may exist when compensation arrangements are dependent
+on returns made from the use of financial instruments. Understanding
+how an entity’s compensation policies interact with its risk appetite
+and the incentives this may create for its management and traders
+may be important in assessing the risk of fraud.</para>
+    </section>
+    <section id="aag-afi4_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.07</titleabbrev>
+        <title role="ps_para_number">4.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">Difficult financial market conditions
+may give rise to increased incentives for management or employees
+to engage in fraudulent financial reporting to, for example</para>
+      <para role="ps_indent_0">For example, at times of market instability,
+unexpected losses may arise from extreme fluctuations in market prices,
+from unanticipated declines in asset prices, through trading misjudgments,
+or for other reasons. In addition, financing difficulties create pressures
+on management concerned about the solvency of the business.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>protect personal bonuses.</para>
+        </listitem>
+        <listitem>
+          <para>hide employee or management fraud or error.</para>
+        </listitem>
+        <listitem>
+          <para>avoid breaching regulatory, liquidity, or borrowing
+limits.</para>
+        </listitem>
+        <listitem>
+          <para>avoid reporting losses. </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.08</titleabbrev>
+        <title role="ps_para_number">4.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">Misappropriation of assets and fraudulent
+financial reporting may often involve override of controls that otherwise
+may appear to be operating effectively. This may include override
+of controls over data, assumptions, and detailed process controls
+that allow losses and theft to be hidden. For example, difficult market
+conditions may increase pressure to conceal or offset trades as management
+attempts to recover losses.</para>
+    </section>
+  </section>
+  <section id="aag-afi4_factors_to_consider_in" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Factors to Consider in Determining Whether and to What
+Extent to Test the Operating Effectiveness of Controls </titleabbrev>
+      <title role="ps_sub_heading">Factors to Consider in Determining Whether
+and to What Extent to Test the Operating Effectiveness of Controls </title>
+    </sectioninfo>
+    <section id="aag-afi4_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.09</titleabbrev>
+        <title role="ps_para_number">4.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">An expectation that controls are operating
+effectively may be more common when dealing with an entity with well-established
+controls; therefore, testing controls may be an effective means of
+obtaining audit evidence. When an entity has a trading function, substantive
+procedures alone may not provide sufficient appropriate audit evidence
+due to the volume of contracts and the different systems used. Tests
+of controls, however, will not be sufficient on their own because
+the auditor is required by paragraph .18 of AU-C section 330B to design
+and perform substantive procedures for all relevant assertions related
+to each material class of transactions, account balance, and disclosure.</para>
+    </section>
+    <section id="aag-afi4_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.10</titleabbrev>
+        <title role="ps_para_number">4.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">Entities with a high volume of trading
+and use of financial instruments may have more sophisticated controls
+and an effective risk management function; therefore, the auditor
+may be more likely to test controls in obtaining evidence about the
+following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The occurrence, completeness, valuation, accuracy,
+and cutoff of the transactions</para>
+        </listitem>
+        <listitem>
+          <para>The existence, rights and obligations, and completeness
+of account balances</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.11</titleabbrev>
+        <title role="ps_para_number">4.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">In those entities with relatively few
+financial instrument transactions</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>management and those charged with governance may have
+only a limited understanding of financial instruments and how they
+affect the business.</para>
+        </listitem>
+        <listitem>
+          <para>the entity may only have a few different types of
+instruments, with little or no interaction between them.</para>
+        </listitem>
+        <listitem>
+          <para>
+            there is unlikely to be a complex control environment
+(for example, the controls described in , "Internal Control," of this guide may not be in
+place at the entity).
+            <olink targetptr="aag-afi3">chapter 3</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>management may use pricing information from third-party
+pricing sources to value their instruments.</para>
+        </listitem>
+        <listitem>
+          <para>controls over the use of pricing information from
+third-party pricing sources may be less sophisticated.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.12</titleabbrev>
+        <title role="ps_para_number">4.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">When an entity has relatively few transactions
+involving financial instruments, it may be relatively easy for the
+auditor to obtain an understanding of the entity’s objectives for
+using the financial instruments and the characteristics of the instruments.
+In such circumstances, much of the audit evidence is likely to be
+substantive in nature; the auditor may perform the majority of the
+audit work at year-end; and third-party confirmations are likely to
+provide evidence in relation to the completeness, accuracy, and existence
+of the transactions. </para>
+    </section>
+  </section>
+</root>

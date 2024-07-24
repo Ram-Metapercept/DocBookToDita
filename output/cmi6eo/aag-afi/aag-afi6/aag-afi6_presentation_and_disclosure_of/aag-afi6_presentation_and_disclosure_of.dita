@@ -1,0 +1,520 @@
+<root id="aag-afi6_presentation_and_disclosure_of" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Presentation and Disclosure of Financial Instruments</titleabbrev>
+    <title role="ps_main_heading">Presentation and Disclosure of Financial
+Instruments</title>
+  </sectioninfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi6_update_6-2">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+6-2 : Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 540), which supersedes , , and amends the following AU-C
+sections: 
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540A</olink>
+      <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+            <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+            <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance </emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+            <emphasis role="italic">Written Representations</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+            <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements.
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+    </para>
+    <para>
+      This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi6_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.05</titleabbrev>
+      <title role="ps_para_number">6.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Management’s responsibilities include
+the preparation and fair presentation of the financial statements
+in accordance with the applicable financial reporting framework. Financial reporting frameworks often require disclosures
+in the financial statements to enable users of the financial statements
+to make meaningful assessments of the effects of the entity’s financial
+instrument activities, including the risks and uncertainties associated
+with these financial instruments. The importance of disclosures regarding
+the basis of measurement increases as the measurement uncertainty
+of the financial instruments increases and is also affected by the
+level of the fair value hierarchy.
+      <footnote id="aag-afi6_fn5" label="fn 5" role="number">
+        <para>
+          See paragraphs .04 and .A2 of AU-C section 200B, .
+          <emphasis role="italic">Overall Objectives of the Independent Auditor and the
+Conduct of an Audit in Accordance With Generally Accepted Auditing
+Standards</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi6_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.06</titleabbrev>
+      <title role="ps_para_number">6.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">In representing that the financial statements
+are in accordance with the applicable financial reporting framework,
+management implicitly or explicitly makes assertions regarding the
+presentation and disclosure of the various elements of financial statements
+and related disclosures. Assertions about presentation and disclosure
+encompass</para>
+    <para role="ps_indent_0">The auditor’s procedures around auditing
+disclosures are designed in consideration of these assertions.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>occurrence and rights and obligations. Disclosed events,
+transactions, and other matters have occurred and pertain to the entity.</para>
+      </listitem>
+      <listitem>
+        <para>completeness. All disclosures that should have been
+included in the financial statements have been included.</para>
+      </listitem>
+      <listitem>
+        <para>classification and understandability. Financial information
+is appropriately presented and described, and disclosures are clearly
+expressed.</para>
+      </listitem>
+      <listitem>
+        <para>accuracy and valuation. Financial and other information
+are disclosed fairly and at appropriate amounts.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi6_assertions_about_financial_instruments" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Assertions About Financial Instruments Based on Management’s
+Intent and Ability</titleabbrev>
+      <title role="ps_sub_heading">Assertions About Financial Instruments
+Based on Management’s Intent and Ability</title>
+    </sectioninfo>
+    <section id="aag-afi6_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.07</titleabbrev>
+        <title role="ps_para_number">6.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">Financial reporting frameworks may require
+that management’s intent and ability be considered in valuing certain
+financial instruments, as follows:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Whether debt securities are classified as held to
+maturity and reported at their cost depends on management’s intent
+and ability to hold them to their maturity, as well as management’s
+assessment of whether it is more likely than not that they will be
+required to sell the security before the recovery of its amortized
+cost basis.</para>
+        </listitem>
+        <listitem>
+          <para>Whether equity securities are reported using the equity
+method depends on management’s ability to significantly influence
+the investee.</para>
+        </listitem>
+        <listitem>
+          <para>Whether equity securities are classified as trading
+or available for sale depends on management’s intent and objectives
+in investing in the financial instruments.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi6_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.08</titleabbrev>
+        <title role="ps_para_number">6.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">In evaluating management’s intent and
+ability, the auditor might</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>obtain an understanding of the process used by management
+to classify financial instruments as trading, available for sale,
+or held to maturity.</para>
+        </listitem>
+        <listitem>
+          <para>for an investment accounted for using the equity method,
+inquire of management regarding whether the entity has the ability
+to exercise significant influence over the operating and financial
+policies of the investee and evaluate the attendant circumstances
+that serve as a basis for management’s conclusions.</para>
+        </listitem>
+        <listitem>
+          <para>if the entity accounts for the investment contrary
+to the presumption established by the applicable financial reporting
+framework for use of the equity method, obtain sufficient appropriate
+audit evidence about whether that presumption has been overcome and
+whether appropriate disclosure is made regarding the reasons for not
+accounting for the investment in keeping with that presumption.</para>
+        </listitem>
+        <listitem>
+          <para>consider whether management’s activities corroborate
+or conflict with its stated intent. For example, the auditor might
+evaluate an assertion that management intends to hold debt securities
+to their maturity by examining evidence such as documentation of management’s
+strategies and sales and other historical activities with respect
+to those financial instruments and similar financial instruments.</para>
+        </listitem>
+        <listitem>
+          <para>
+            determine whether the applicable financial reporting
+framework requires management to document its intentions and specify
+the content and timeliness of that documentation. The auditor might inspect the documentation and obtain
+audit evidence about its timeliness. Unlike the formal documentation
+required for hedging activities, audit evidence supporting the classification
+of debt and equity securities may be more informal.
+            <footnote id="aag-afi6_fn6" label="fn 6" role="number">
+              <para>
+                Paragraphs 1–2 of FASB  (ASC) 320-10-25 require an investor to classify
+and document the classification of debt securities into one of three
+categories at their acquisition: held to maturity, available for sale,
+or trading.
+                <emphasis role="italic">Accounting Standards
+Codification</emphasis>
+              </para>
+            </footnote>
+            <footnote id="aag-afi6_fn7" label="fn 7" role="number">
+              <para>
+                FASB ASC 825-10-05-5 permits entities to choose to measure many
+financial instruments and certain other items at fair value that are
+not currently required to be measured at fair value. FASB ASC 825-10-50
+also establishes presentation and disclosure requirements designed
+to facilitate comparisons between entities that choose different measurement
+attributes for similar types of assets and liabilities. FASB ASC 825-10-50
+does not eliminate disclosure requirements included in other accounting
+standards, including requirements for disclosures about fair value
+measurements included in FASB ASC 820, .
+                <emphasis role="italic">Fair
+Value Measurement</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>determine whether management’s activities, contractual
+agreements, or the entity’s financial condition provide evidence of
+its ability, as follows:</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>The entity’s financial position, working capital needs,
+operating results, debt agreements, guarantees, alternate sources
+of liquidity, and other relevant contractual obligations, as well
+as laws and regulations, may provide evidence about an entity’s ability
+to hold debt financial instruments to their maturity.</para>
+        </listitem>
+        <listitem>
+          <para>Management’s cash flow projections may suggest that
+it does not have the ability to hold debt financial instruments to
+their maturity.</para>
+        </listitem>
+        <listitem>
+          <para>Management’s inability to obtain information from
+an investee may suggest that it does not have the ability to significantly
+influence the investee.</para>
+        </listitem>
+        <listitem>
+          <para>If the entity asserts that it maintains effective
+control over financial instruments transferred under a repurchase
+agreement, the contractual agreement may be such that the entity actually
+surrendered control over the financial instruments and, therefore,
+should account for the transfer as a sale instead of a secured borrowing.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi6_procedures_relating_to_the" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Procedures Relating to the Presentation and Disclosure
+of Financial Instruments</titleabbrev>
+      <title role="ps_sub_heading">Procedures Relating to the Presentation
+and Disclosure of Financial Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi6_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.09</titleabbrev>
+        <title role="ps_para_number">6.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">In relation to the presentation and disclosures
+of financial instruments, areas of particular importance include the
+following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Financial reporting frameworks generally require additional
+disclosures regarding estimates and related risks and uncertainties
+to supplement and explain assets, liabilities, income, and expenses.
+The auditor’s focus may need to be on the disclosures relating to
+risks and sensitivity analysis. Information obtained during the auditor’s
+risk assessment procedures and testing of control activities may provide
+evidence in order for the auditor to conclude whether the disclosures
+in the financial statements are in accordance with the requirements
+of the applicable financial reporting framework, such as the following:</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>The entity’s objectives and strategies for using financial
+instruments, including the entity’s stated accounting policies</para>
+        </listitem>
+        <listitem>
+          <para>The entity’s control framework for managing its risks
+associated with financial instruments</para>
+        </listitem>
+        <listitem>
+          <para>The risks and uncertainties associated with the financial
+instruments</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Information may come from systems outside traditional
+financial reporting systems, such as risk systems. Examples of procedures
+that the auditor may choose to perform in responding to assessed risks
+relative to disclosures include testing the</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>process used to derive the disclosed information.</para>
+        </listitem>
+        <listitem>
+          <para>operating effectiveness of the controls over the data
+used in the preparation of disclosures.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            In relation to financial instruments having significant
+risk, even when the disclosures are in accordance with the applicable
+financial reporting framework, the auditor may conclude that the disclosure
+of estimation uncertainty is inadequate in light of the circumstances
+and facts involved, and accordingly, the financial statements may
+not achieve fair presentation. AU-C section 705B, , provides guidance on the implications for the auditor’s
+opinion when the auditor believes management’s disclosures in the
+financial statements are inadequate or misleading.
+            <footnote id="aag-afi6_fn8" label="fn 8" role="number">
+              <para>Paragraph .20 of AU-C section 540B requires the auditor to perform
+further procedures on disclosures relating to accounting estimates
+that give rise to significant risks to evaluate the adequacy of the
+disclosure of estimation uncertainty in the financial statements in
+the context of the applicable financial reporting framework.</para>
+            </footnote>
+            <emphasis role="italic">Modifications to the Opinion in the Independent Auditor’s
+Report</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Auditors may also consider whether the disclosures
+are complete and understandable. (For example, all relevant information
+may be included in the financial statements [or accompanying reports],
+but it may be insufficiently drawn together to enable users of the
+financial statements to obtain an understanding of the position, or
+there may not be enough qualitative disclosure to give context to
+the amounts recorded in the financial statements). For example, even
+when an entity has included sensitivity analysis disclosures, the
+disclosure may not fully describe the risks and uncertainties that
+may arise because of changes in valuation, possible effects on debt
+covenants, collateral requirements, and the entity’s liquidity. Paragraph
+.12 of AU-C section 260B, , contains requirements
+and guidance about communicating with those charged with governance,
+including the auditor’s views about qualitative aspects of the entity’s
+significant accounting practices, including accounting policies, accounting
+estimates, and financial statement disclosures.
+            <emphasis role="italic">The Auditor’s Communication
+With Those Charged With Governance</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi6_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.10</titleabbrev>
+        <title role="ps_para_number">6.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">Consideration of the appropriateness of
+presentation (for example, on short-term and long-term classification)
+in substantive testing of financial instruments is relevant to the
+auditor’s evaluation of the presentation and disclosure.</para>
+    </section>
+  </section>
+  <section id="aag-afi6_additional_considerations_about_hedging" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Additional Considerations About Hedging Activities</titleabbrev>
+      <title role="ps_sub_heading">Additional Considerations About Hedging
+Activities</title>
+    </sectioninfo>
+    <section id="aag-afi6_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.11</titleabbrev>
+        <title role="ps_para_number">6.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        To account for a derivative as a hedge,
+FASB  (ASC) 815 requires management, at the inception of the hedge, to
+designate the derivative as a hedge and contemporaneously formally
+document the hedging relationship, the entity’s risk management
+objective and strategy for undertaking the hedge, and the method of
+assessing the effectiveness of the hedge. In addition, to qualify
+for hedge accounting, FASB ASC 815 requires that management have an
+expectation, both at the inception of the hedge and on an ongoing
+basis, that the hedging relationship will be highly effective in achieving
+the hedging strategy.
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+        <footnote id="aag-afi6_fn9" label="fn 9" role="number">
+          <para>FASB ASC 815-20-25 requires formal documentation of prescribed
+aspects of hedging relationships at the inception of the hedge.</para>
+        </footnote>
+        <footnote id="aag-afi6_fn10" label="fn 10" role="number">
+          <para>
+            FASB ASC 815, , requires management to periodically reassess the effectiveness
+of hedging relationships whenever financial statements or earnings
+are reported and at least every three months. It also requires that
+all assessments of effectiveness be consistent with the risk management
+strategy documented for the particular hedging relationship.
+            <emphasis role="italic">Derivatives and Hedging</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi6_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.12</titleabbrev>
+        <title role="ps_para_number">6.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor may gather audit evidence
+to determine whether management complied with the hedge accounting
+requirements of FASB ASC 815, including designation and documentation
+requirements. In addition, the auditor may gather audit evidence to
+support management’s expectation at the inception of the hedge that
+the hedging relationship will be highly effective and management’s
+periodic assessment of the ongoing effectiveness of the hedging relationship
+as required by FASB ASC 815. </para>
+    </section>
+    <section id="aag-afi6_13" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.13</titleabbrev>
+        <title role="ps_para_number">6.13</title>
+      </sectioninfo>
+      <para role="ps_para_number">When the entity designates a derivative
+as a fair value hedge, FASB ASC 815-25 requires that the entity adjust
+the carrying amount of the hedged item for the change in the hedged
+item’s fair value that is attributable to the hedged risk. The auditor
+may gather audit evidence supporting the recorded change in the hedged
+item’s fair value that is attributable to the hedged risk. Additionally,
+the auditor may gather audit evidence to determine whether management
+has properly applied FASB ASC 815-25 to the hedged item.</para>
+    </section>
+    <section id="aag-afi6_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.14</titleabbrev>
+        <title role="ps_para_number">6.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">For a cash flow hedge of a forecasted
+transaction, FASB ASC 815-20 requires management to determine that
+the forecasted transaction is probable of occurring. Those principles
+require that the likelihood the transaction will take place not be
+based solely on management’s intent. Instead, the transaction’s probability
+should be supported by observable facts and the attendant circumstances,
+such as the</para>
+      <para role="ps_indent_0">Paragraph .26 of AU-C section 330B requires
+the auditor to perform audit procedures to evaluate whether the overall
+presentation of the financial statements, including the related disclosures,
+is in accordance with the applicable financial reporting framework.
+This includes evaluating management’s determination of whether a forecasted
+transaction is probable.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>frequency of similar past transactions.</para>
+        </listitem>
+        <listitem>
+          <para>financial and operational ability of the entity to
+carry out the transaction.</para>
+        </listitem>
+        <listitem>
+          <para>extent of loss that could result if the transaction
+does not occur.</para>
+        </listitem>
+        <listitem>
+          <para>likelihood that transactions with substantially different
+characteristics might be used to achieve the same business purpose.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+</root>

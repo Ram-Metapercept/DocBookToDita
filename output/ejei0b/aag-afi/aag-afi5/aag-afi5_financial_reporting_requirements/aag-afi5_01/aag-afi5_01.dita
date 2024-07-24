@@ -1,0 +1,23 @@
+<root id="aag-afi5_01" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.01</titleabbrev>
+    <title role="ps_para_number">5.01</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Fair presentation financial reporting
+frameworks often use fair value hierarchies (for example, those used
+in accounting principles generally accepted in the United States of
+America and International Financial Reporting Standards). This usually
+means that the volume and detail of the required disclosures increases
+as the level of measurement uncertainty increases. The distinction
+between the levels in the hierarchy may require judgment. 
+    <footnote id="aag-afi5_fn2" label="fn 2" role="number">
+      <para>
+         of this
+guide describes the classification of the different levels (Level
+1, Level 2, and Level 3 inputs).
+        <olink targetptr="aag-afi1_26">Paragraph 1.26</olink>
+      </para>
+    </footnote>
+  </para>
+</root>

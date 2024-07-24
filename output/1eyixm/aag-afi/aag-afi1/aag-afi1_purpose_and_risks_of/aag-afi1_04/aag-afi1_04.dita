@@ -1,0 +1,38 @@
+<root id="aag-afi1_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.04</titleabbrev>
+    <title role="ps_para_number">1.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">Financial instruments may be used for</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>hedging purposes (for example, to change an existing
+risk profile to which an entity is exposed). This includes</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>the forward purchase or sale of currency to fix a
+future exchange rate.</para>
+    </listitem>
+    <listitem>
+      <para>converting future interest rates to fixed rates or
+floating rates through the use of swaps.</para>
+    </listitem>
+    <listitem>
+      <para>the purchase of option contracts to provide an entity
+with protection against a particular price movement, including contracts
+that may contain embedded derivatives.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>trading purposes (for example, to enable an entity
+to take a risk position to benefit from short-term market movements).</para>
+    </listitem>
+    <listitem>
+      <para>investment purposes (for example, to enable an entity
+to benefit from long-term investment returns).</para>
+    </listitem>
+  </itemizedlist>
+</root>

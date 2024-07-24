@@ -1,0 +1,240 @@
+<root id="aag-afi3_the_entitys_control_activities" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Entity’s Control Activities</titleabbrev>
+    <title role="ps_sub_heading">The Entity’s Control Activities</title>
+  </sectioninfo>
+  <section id="aag-afi3_27" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.27</titleabbrev>
+      <title role="ps_para_number">3.27</title>
+    </sectioninfo>
+    <para role="ps_para_number">Control activities over financial instrument
+transactions are designed to prevent or detect problems that hinder
+an entity from achieving its objectives. These objectives may be operational,
+financial reporting, or compliance in nature. Control activities over
+financial instruments are designed relative to the complexity and
+volume of transactions of financial instruments and will generally
+include an appropriate authorization process, adequate segregation
+of duties, and other policies and procedures designed to ensure that
+the entity’s control objectives are met. Process flow charts may assist
+in identifying an entity’s controls and lack of controls.</para>
+  </section>
+  <section id="aag-afi3_authorization" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Authorization</titleabbrev>
+      <title role="ps_subsub_heading">Authorization</title>
+    </sectioninfo>
+    <section id="aag-afi3_28" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.28</titleabbrev>
+        <title role="ps_para_number">3.28</title>
+      </sectioninfo>
+      <para role="ps_para_number">Authorization can affect the financial
+statement assertions both directly and indirectly. For example, even
+if a transaction is executed outside an entity’s policies, it nonetheless
+may be recorded and accounted for accurately. However, unauthorized
+transactions could significantly increase risk to the entity, thereby
+significantly increasing the risk of material misstatement because
+they would be undertaken outside the system of internal control. To
+mitigate this risk, an entity will often establish a clear policy
+regarding what transactions can be traded by whom, and adherence to
+this policy will then be monitored by an entity’s administrative and
+support services. Monitoring trading activities of individuals (for
+example, by reviewing unusually high volumes or significant gains
+or losses incurred) will assist management in ensuring compliance
+with the entity’s policies, including the authorization of new types
+of transactions, and evaluating whether fraud has occurred.</para>
+    </section>
+    <section id="aag-afi3_29" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.29</titleabbrev>
+        <title role="ps_para_number">3.29</title>
+      </sectioninfo>
+      <para role="ps_para_number">The function of an entity’s deal initiation
+records is to identify clearly the nature and purpose of individual
+transactions and the rights and obligations arising under each financial
+instrument contract, including the enforceability of the contracts.
+In addition to the basic financial information, such as a notional
+amount, complete and accurate records, at a minimum, typically include
+the</para>
+      <para role="ps_indent_hang_2">
+        identity of the dealer.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        identity of the person recording the transaction (if not the dealer),
+when the transaction was initiated (including the date and time of
+the transaction), and how it was recorded in the entity’s information
+systems.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        nature and purpose of the transaction, including whether it is intended
+to hedge an underlying commercial exposure.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi3_segregation_of_duties" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Segregation of Duties</titleabbrev>
+      <title role="ps_subsub_heading">Segregation of Duties</title>
+    </sectioninfo>
+    <section id="aag-afi3_30" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.30</titleabbrev>
+        <title role="ps_para_number">3.30</title>
+      </sectioninfo>
+      <para role="ps_para_number">Segregation of duties and the assignment
+of personnel is an important control activity, particularly when exposed
+to financial instruments. Financial instrument activities may be segregated
+into a number of functions, including the following:</para>
+      <para role="ps_indent_hang_2">
+        Executing the transaction (dealing). In entities with a high volume
+of financial instrument transactions, this may be done by the sales
+function.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Initiating cash payments and accepting cash receipts (settlements).
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Sending out trade confirmations and reconciling the differences between
+the entity’s records and replies from counterparties, if any.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Recording correctly all transactions in the accounting records.
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Monitoring risk limits. In entities with a high volume of financial
+instrument transactions, this may be performed by the risk management
+function.
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Monitoring positions and valuing financial instruments.
+        <emphasis role="italic">
+          f.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_31" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.31</titleabbrev>
+        <title role="ps_para_number">3.31</title>
+      </sectioninfo>
+      <para role="ps_para_number">Many organizations choose to segregate
+the duties of those investing in financial instruments, those valuing
+financial instruments, those settling financial instruments, and those
+accounting for the financial instruments. </para>
+    </section>
+    <section id="aag-afi3_32" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.32</titleabbrev>
+        <title role="ps_para_number">3.32</title>
+      </sectioninfo>
+      <para role="ps_para_number">When an entity is too small to achieve
+proper segregation of duties, the role of management and those charged
+with governance in monitoring financial instrument activities is of
+particular importance.</para>
+    </section>
+    <section id="aag-afi3_33" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.33</titleabbrev>
+        <title role="ps_para_number">3.33</title>
+      </sectioninfo>
+      <para role="ps_para_number">A feature of some entities’ internal control
+is an independent price verification (IPV) function. This department
+is responsible for separately verifying the price of some financial
+instruments and may use alternative data sources, methodologies, and
+assumptions. The IPV provides an objective look at the pricing that
+has been developed in another part of the entity. </para>
+    </section>
+    <section id="aag-afi3_34" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.34</titleabbrev>
+        <title role="ps_para_number">3.34</title>
+      </sectioninfo>
+      <para role="ps_para_number">Ordinarily, the risk management function
+establishes policies on valuation and other functions (for example,
+administrative and support services) and may be responsible for ensuring
+adherence to the policy. Entities with a greater use of financial
+instruments may perform daily valuations of their financial instrument
+portfolio and examine the contribution to profit or loss of individual
+financial instrument valuations as a test of the reasonableness of
+valuations.</para>
+    </section>
+    <section id="aag-afi3_35" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.35</titleabbrev>
+        <title role="ps_para_number">3.35</title>
+      </sectioninfo>
+      <para role="ps_para_number">Regular reconciliation of the entity’s
+records to external banks’ and custodians’ records enables the entity
+to ensure transactions are properly recorded. Appropriate segregation
+of duties between those transacting the trades and those reconciling
+them is important, as is a rigorous process for reviewing reconciliations
+and clearing reconciling items.</para>
+    </section>
+    <section id="aag-afi3_36" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.36</titleabbrev>
+        <title role="ps_para_number">3.36</title>
+      </sectioninfo>
+      <para role="ps_para_number">Controls may also be established that
+require traders to identify whether a complex financial instrument
+may have unique features (for example, embedded derivatives). In such
+circumstances, there may be a separate function that evaluates complex
+financial instrument transactions at their initiation (which may be
+known as a product control group) working in connection with an accounting
+policy group to ensure that the transaction is accurately recorded.
+Although smaller entities may not have product control groups, an
+entity may have a process in place relating to the review of complex
+financial instrument contracts at the point of origination in order
+to ensure that they are accounted for appropriately in accordance
+with the applicable financial reporting framework.</para>
+    </section>
+    <section id="aag-afi3_37" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.37</titleabbrev>
+        <title role="ps_para_number">3.37</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        , "Examples of Control Objectives, Related Controls, and
+Illustrative Tests of Controls for Financial Instruments," of this
+guide provides examples of control objectives, related controls, and
+illustrative tests of controls for financial instruments.
+        <olink targetptr="aag-afi_appC">Appendix
+C</olink>
+      </para>
+    </section>
+  </section>
+</root>

@@ -1,0 +1,36 @@
+<root id="aag-afi6_14" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.14</titleabbrev>
+    <title role="ps_para_number">6.14</title>
+  </sectioninfo>
+  <para role="ps_para_number">For a cash flow hedge of a forecasted
+transaction, FASB ASC 815-20 requires management to determine that
+the forecasted transaction is probable of occurring. Those principles
+require that the likelihood the transaction will take place not be
+based solely on management’s intent. Instead, the transaction’s probability
+should be supported by observable facts and the attendant circumstances,
+such as the</para>
+  <para role="ps_indent_0">Paragraph .26 of AU-C section 330B requires
+the auditor to perform audit procedures to evaluate whether the overall
+presentation of the financial statements, including the related disclosures,
+is in accordance with the applicable financial reporting framework.
+This includes evaluating management’s determination of whether a forecasted
+transaction is probable.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>frequency of similar past transactions.</para>
+    </listitem>
+    <listitem>
+      <para>financial and operational ability of the entity to
+carry out the transaction.</para>
+    </listitem>
+    <listitem>
+      <para>extent of loss that could result if the transaction
+does not occur.</para>
+    </listitem>
+    <listitem>
+      <para>likelihood that transactions with substantially different
+characteristics might be used to achieve the same business purpose.</para>
+    </listitem>
+  </itemizedlist>
+</root>

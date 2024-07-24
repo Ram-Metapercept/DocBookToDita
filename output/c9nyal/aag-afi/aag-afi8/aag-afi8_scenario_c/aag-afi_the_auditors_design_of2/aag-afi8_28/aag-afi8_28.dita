@@ -1,0 +1,173 @@
+<root id="aag-afi8_28" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.28</titleabbrev>
+    <title role="ps_para_number">8.28</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The auditor gathers audit evidence that
+the broker-dealer has implemented the controls described in  and that those controls
+are operating effectively. The auditor then identifies the objectives for the audit
+of assertions about financial instruments and financial instrument
+transactions and designs related procedures:
+    <olink targetptr="aag-afi8_23">paragraph 8.23</olink>
+    <footnote id="aag-afi8_fn7" label="fn 7" role="number">
+      <para>The audit evidence can be obtained a variety of ways, such as
+a type 2 service auditor’s report or special procedures performed
+by the broker-dealer’s internal or external auditors.</para>
+    </footnote>
+    <footnote id="aag-afi8_fn8" label="fn 8" role="number">
+      <para>
+        In  and , the auditor
+concludes that audit risk can be reduced to an acceptable level without
+identifying controls placed in operation and gathering evidential
+matter about their operating effectiveness. In this scenario, however,
+the auditor concludes that identifying broker-dealer controls over
+the existence and completeness assertions and gathering evidential
+matter about their operating effectiveness is necessary to reduce
+audit risk to an acceptable level. The only difference in the nature
+of substantive procedures is that in this scenario, analytical procedures
+are the only procedures performed to determine whether all the securities
+that Lane owns and all its securities transactions have been recorded.
+However, in  and , reconciliation
+procedures are also performed.
+        <olink targetptr="aag-afi8_scenario_a">scenarios A</olink>
+        <olink targetptr="aag-afi8_scenario_b">B</olink>
+        <olink targetptr="aag-afi8_scenario_a">scenarios A</olink>
+        <olink targetptr="aag-afi8_scenario_b">B</olink>
+      </para>
+    </footnote>
+  </para>
+  <table frame="all" id="aag-afi8_table3" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.97in"/>
+      <colspec colname="c3" colwidth="2.99in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Audit Objective </emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Procedure</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The recorded securities exist, and Lane has the rights and obligations
+associated with ownership of the recorded financial instruments.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Confirm with the broker-dealer the name of the investee,
+the number of shares, whether the shares are pledged, and that Lane
+is the owner.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The recorded financial instrument transactions occurred.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Inspect supporting documentation, such as trade confirmations
+or entries in the broker-dealer’s monthly statements.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>All the financial instruments that Lane owns and all its financial
+instrument transactions have been recorded.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Perform analytical procedures on dividends and realized
+and unrealized gains and losses.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The financial instruments are recorded at their fair value,
+determined by following the requirements of FASB ASC 320.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Obtain the per-share price quoted by the exchange
+at the balance sheet date and compare the quoted price with the price
+that Lane used.</para>
+              </listitem>
+              <listitem>
+                <para>Test the extension of the number of shares at the
+quoted price.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Realized and unrealized holding gains and losses are properly
+reported as earnings or other comprehensive income.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Evaluate management’s considerations in ensuring that
+the requirements of FASB ASC 320 were satisfied.</para>
+              </listitem>
+              <listitem>
+                <para>Review journal entries for propriety.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>The financial instruments are properly classified.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Gather audit evidence about the classification of
+the financial instruments as available for sale.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Disclosures about financial instruments and financial instrument
+transactions are adequate.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <itemizedlist mark="bullet" role="ps_indent_0">
+              <listitem>
+                <para>Read the financial statements, and compare the disclosures
+about financial instruments and financial instrument transactions
+with the requirements of FASB ASC 320-10-50.</para>
+              </listitem>
+            </itemizedlist>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

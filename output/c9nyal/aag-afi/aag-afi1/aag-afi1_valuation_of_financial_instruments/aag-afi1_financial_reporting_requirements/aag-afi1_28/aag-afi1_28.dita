@@ -1,0 +1,60 @@
+<root id="aag-afi1_28" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.28</titleabbrev>
+    <title role="ps_para_number">1.28</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Paragraphs 5–20 of FASB ASC 820-10-55
+describe the use of present value techniques to measure fair value.
+Those paragraphs neither prescribe the use of a single specific present
+value technique nor limit the use of present value techniques to measure
+fair value to the techniques discussed therein.  (that is, an application of the income approach)
+is a tool used to link future amounts to a present amount using a
+discount rate. A fair value measurement of an asset or a liability
+using a present value technique captures all of the following elements
+from the perspective of market participants at the measurement date:
+    <emphasis role="italic">Present value</emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    An estimate of future cash flows for the asset or liability
+being measured.
+    <emphasis role="italic">a.</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    Expectations about possible variations in the amount and timing
+of the cash flows representing the uncertainty inherent in the cash
+flows.
+    <emphasis role="italic">b.</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    The time value of money, represented by the rate on risk-free
+monetary assets that have maturity dates or durations that coincide
+with the period covered by the cash flows and pose neither uncertainty
+in timing nor risk of default to the holder (that is, a risk-free
+interest rate). For present value computations denominated in nominal
+U.S. dollars, the yield curve for U.S. Treasury securities determines
+the appropriate risk-free interest rate.
+    <emphasis role="italic">c.</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    The price for bearing the uncertainty inherent in the cash
+flows (that is, a risk premium).
+    <emphasis role="italic">d.</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    Other factors that market participants would take into account
+in the circumstances.
+    <emphasis role="italic">e.</emphasis>
+    <tab/>
+  </para>
+  <para role="ps_indent_hang_2">
+    For a liability, the nonperformance risk relating to that liability,
+including the reporting entity’s (obligor’s) own credit risk.
+    <emphasis role="italic">f.</emphasis>
+    <tab/>
+  </para>
+</root>

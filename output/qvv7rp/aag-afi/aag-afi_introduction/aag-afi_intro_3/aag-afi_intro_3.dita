@@ -1,0 +1,28 @@
+<root id="aag-afi_intro_3" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>I.3</titleabbrev>
+    <title role="ps_para_number">I.3</title>
+  </sectioninfo>
+  <para role="ps_para_number">The purpose of this Audit Guide is to
+provide</para>
+  <para role="ps_indent_0">Audit Guides provide practical assistance
+to auditors and material that accounting firms can use in developing
+their training programs and internal guidance.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        background information about financial instruments.
+(See , "Gaining an Understanding
+About Financial Instruments.")
+        <olink targetptr="aag-afi1">chapter 1</olink>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        discussion of audit considerations relating to financial
+instruments. (See .)
+        <olink targetptr="aag-afi2">chapters 2–11</olink>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,34 @@
+<root id="aag-afi4_26" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.26</titleabbrev>
+    <title role="ps_para_number">4.26</title>
+  </sectioninfo>
+  <para role="ps_para_number">When designing confirmations for financial
+instruments, auditors might consider confirming the following attributes,
+as applicable:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The name of the issuer</para>
+    </listitem>
+    <listitem>
+      <para>The description of the financial instruments</para>
+    </listitem>
+    <listitem>
+      <para>The name of the owner of the financial instruments
+or the parties to the financial instrument</para>
+    </listitem>
+    <listitem>
+      <para>The terms of the financial instrument</para>
+    </listitem>
+    <listitem>
+      <para>Any evidence of pledging or restrictions on disposal</para>
+    </listitem>
+    <listitem>
+      <para>The investment certificate numbers on the documents</para>
+    </listitem>
+    <listitem>
+      <para>The number of shares of stock or face amount of debt
+securities</para>
+    </listitem>
+  </itemizedlist>
+</root>

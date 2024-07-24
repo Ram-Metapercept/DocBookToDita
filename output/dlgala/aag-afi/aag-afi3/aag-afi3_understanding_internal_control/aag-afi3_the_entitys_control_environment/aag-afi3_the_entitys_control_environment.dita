@@ -1,0 +1,288 @@
+<root id="aag-afi3_the_entitys_control_environment" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Entity’s Control Environment</titleabbrev>
+    <title role="ps_sub_heading">The Entity’s Control Environment</title>
+  </sectioninfo>
+  <section id="aag-afi3_commitment_to_competence" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Commitment to Competence </titleabbrev>
+      <title role="ps_subsub_heading">Commitment to Competence </title>
+    </sectioninfo>
+    <section id="aag-afi3_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.07</titleabbrev>
+        <title role="ps_para_number">3.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">The degree of complexity of some financial
+instrument activities may mean that only a few individuals within
+the entity fully understand those activities or have the expertise
+necessary to value the instruments on an ongoing basis. Use of financial
+instruments without relevant expertise within the entity increases
+the risk of material misstatement.</para>
+    </section>
+  </section>
+  <section id="aag-afi3_participation_by_those_charged" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Participation by Those Charged With Governance</titleabbrev>
+      <title role="ps_subsub_heading">Participation by Those Charged With
+Governance</title>
+    </sectioninfo>
+    <section id="aag-afi3_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.08</titleabbrev>
+        <title role="ps_para_number">3.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">Paragraph .A79 of AU-C section 315B addresses
+elements of the control environment that may be relevant when obtaining
+an understanding of the control environment and identifies the following
+attributes of those charged with governance:</para>
+      <para role="ps_indent_hang_2">
+        their independence from management.
+        <emphasis role="italic">a.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        their experience and stature.
+        <emphasis role="italic">b.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        the extent of their involvement and the information they receive
+and the scrutiny of activities.
+        <emphasis role="italic">c.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        the appropriateness of their actions, including the degree
+to which difficult questions are raised and pursued with management.
+        <emphasis role="italic">d.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        their interaction with internal and external auditors.
+        <emphasis role="italic">e.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_0">Those charged with governance oversee and
+concur with management’s establishment of the entity’s overall risk
+appetite and provide oversight over the entity’s financial instrument
+activities. An entity’s policies for the purchase, sale, and holding
+of financial instruments are aligned with its attitude toward risk
+and the expertise of those involved in financial instrument activities.
+In addition, an entity may establish governance structures and control
+processes aimed at</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>communicating investment decisions and assessments
+of all material measurement uncertainty to those charged with governance,
+as well as </para>
+        </listitem>
+        <listitem>
+          <para>evaluating the entity’s overall risk appetite when
+engaging in financial instrument transactions.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi3_organizational_structure" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Organizational Structure</titleabbrev>
+      <title role="ps_subsub_heading">Organizational Structure</title>
+    </sectioninfo>
+    <section id="aag-afi3_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.09</titleabbrev>
+        <title role="ps_para_number">3.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">Financial instrument activities may be
+operated on either a centralized or decentralized basis. Such activities
+and related decision making depend heavily on the flow of accurate,
+reliable, and timely management information. The difficulty of collecting
+and aggregating such information increases with the number of locations
+and businesses in which an entity is involved. The risks of material
+misstatement associated with financial instrument activities may increase
+with greater decentralization of control activities. This may especially
+be true when an entity is based in different locations or, perhaps,
+other countries.</para>
+    </section>
+  </section>
+  <section id="aag-afi3_assignment_of_authority_and" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Assignment of Authority and Responsibility</titleabbrev>
+      <title role="ps_subsub_heading">Assignment of Authority and Responsibility</title>
+    </sectioninfo>
+    <section id="aag-afi3_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.10</titleabbrev>
+        <title role="ps_para_number">3.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">Providing direction through clearly stated
+policies approved by those charged with governance for the purchase,
+sale, and holding of financial instruments enables management to establish
+an effective approach to taking and managing business risks. These
+policies are most clear when they state the entity’s objectives with
+regard to its risk management activities and the financial instrument
+and hedging alternatives available to meet these objectives and when
+they reflect the following:</para>
+      <para role="ps_indent_hang_2">
+        Level of management’s expertise
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Sophistication of the entity’s internal control and monitoring systems
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Entity’s asset and liability structure
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Entity’s capacity to maintain liquidity and absorb losses of capital
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Types of financial instruments that management believes will meet
+its objectives
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Uses of financial instruments that management believes will meet
+its objectives (for example, whether derivatives may be used for speculative
+purposes or only for hedging purposes)
+        <emphasis role="italic">
+          f.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.11</titleabbrev>
+        <title role="ps_para_number">3.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">Management may design policies aligned
+with its valuation capabilities and establish controls to ensure that
+these policies are adhered to by those employees responsible for the
+entity’s valuation. These may include</para>
+      <para role="ps_indent_hang_2">
+        processes for the design and validation of methodologies used to
+produce valuations, including how measurement uncertainty is addressed.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        policies regarding maximizing the use of observable inputs and the
+types of information to be gathered to support valuations of financial
+instruments.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.12</titleabbrev>
+        <title role="ps_para_number">3.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">In smaller entities, dealing in financial
+instruments may be rare, and management’s knowledge and experience
+may be limited. Nevertheless, establishing policies over financial
+instruments helps an entity determine its risk appetite and consider
+whether investing in particular financial instruments achieves a stated
+objective.</para>
+    </section>
+  </section>
+  <section id="aag-afi3_human_resource_policies_and" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Human Resource Policies and Practices</titleabbrev>
+      <title role="ps_subsub_heading">Human Resource Policies and Practices</title>
+    </sectioninfo>
+    <section id="aag-afi3_13" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.13</titleabbrev>
+        <title role="ps_para_number">3.13</title>
+      </sectioninfo>
+      <para role="ps_para_number">Entities may establish policies requiring
+key employees, both sales function and administrative and support
+services, to take mandatory time off from their duties. This type
+of control is used as a means of preventing and detecting fraud, in
+particular if those engaged in trading activities are creating false
+trades or inaccurately recording transactions.</para>
+    </section>
+  </section>
+  <section id="aag-afi3_use_of_service_organizations" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Use of Service Organizations</titleabbrev>
+      <title role="ps_subsub_heading">Use of Service Organizations</title>
+    </sectioninfo>
+    <section id="aag-afi3_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.14</titleabbrev>
+        <title role="ps_para_number">3.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Entities may use service organizations
+(for example, asset managers) to initiate the purchase or sale of
+financial instruments, maintain records of transactions for the entity,
+or value financial instruments. Some entities may be dependent on
+these service organizations to provide the basis of reporting for
+the financial instruments held. However, if management does not have
+an understanding about the controls in place at a service organization,
+the auditor may not be able to obtain sufficient appropriate audit
+evidence to rely on controls at that service organization. AU-C section
+402B, , establishes requirements
+for the auditor to obtain sufficient appropriate audit evidence when
+an entity uses the services of one or more service organizations.  provide further
+guidance about the use of a service organization.
+        <emphasis role="italic">Audit Considerations Relating to an
+Entity Using a Service Organization</emphasis>
+        <olink targetptr="aag-afi3_40">Paragraphs 3.40–.54</olink>
+      </para>
+    </section>
+    <section id="aag-afi3_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.15</titleabbrev>
+        <title role="ps_para_number">3.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">The use of service organizations may strengthen
+or weaken the control environment for financial instruments. For example,
+a service organization’s personnel may have more experience with financial
+instruments than the entity’s management or more robust internal control
+over financial reporting. The use of the service organization also
+may allow for greater segregation of duties. On the other hand, the
+service organization may have a poor control environment. </para>
+    </section>
+    <section id="aag-afi3_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.16</titleabbrev>
+        <title role="ps_para_number">3.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        , "Illustrative Questions About the Entity’s Controls Over
+Its Financial Instrument Activities," of this guide provides an illustration
+of questions that may be helpful to the auditor in obtaining an understanding
+of an entity’s controls over its financial instrument activities.
+        <olink targetptr="aag-afi_appB">Appendix
+B</olink>
+      </para>
+    </section>
+  </section>
+</root>

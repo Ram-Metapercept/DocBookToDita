@@ -1,0 +1,247 @@
+<root id="aag-afi6_other_relevant_audit_considerations" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Other Relevant Audit Considerations</titleabbrev>
+    <title role="ps_sub_heading">Other Relevant Audit Considerations</title>
+  </sectioninfo>
+  <section id="aag-afi6_written_representations" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Written Representations</titleabbrev>
+      <title role="ps_subsub_heading">Written Representations</title>
+    </sectioninfo>
+    <section id="aag-afi6_29" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.29</titleabbrev>
+        <title role="ps_para_number">6.29</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Paragraph .16 of AU-C section 580B, , requires the auditor
+to obtain written representations from management and, when appropriate,
+those charged with governance about whether they believe significant
+assumptions used in making accounting estimates are reasonable. AU-C
+section 580B also states that written representations from management
+do not provide sufficient appropriate audit evidence on their own
+about any of the matters with which they deal. If the auditor is otherwise
+unable to obtain sufficient appropriate audit evidence, this may constitute
+a limitation on the scope of the audit that may have implications
+for the auditor’s report. (See AU-C section 705B.) 
+        <emphasis role="italic">Written Representations</emphasis>
+        <footnote id="aag-afi6_fn14" label="fn 14" role="number">
+          <para>
+            See .
+            <olink role="footnote" targetptr="aag-afi6_fn13">footnote
+13</olink>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi6_30" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.30</titleabbrev>
+        <title role="ps_para_number">6.30</title>
+      </sectioninfo>
+      <para role="ps_para_number">Paragraph .19 of AU-C section 580B requires
+that if, in addition to such required representations, the auditor
+determines it is necessary to obtain one or more written representations
+to support other audit evidence relevant to the financial statements
+or one or more specific assertions in the financial statements, the
+auditor should request such other written representations. Depending
+on the volume and degree of complexity of financial instrument activities,
+written representations to support other evidence obtained about financial
+instruments may also include</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>management’s objectives with respect to financial
+instruments (for example, whether they are used for hedging, asset
+or liability management, or investment purposes).</para>
+        </listitem>
+        <listitem>
+          <para>representations about the appropriateness of the presentation
+of the financial statements (for example, the recording of financial
+instrument transactions as sales or financing transactions).</para>
+        </listitem>
+        <listitem>
+          <para>representations about the financial statement disclosures
+concerning financial instruments (for example, that the records reflect
+all financial instrument transactions, and all embedded derivative
+instruments have been identified).</para>
+        </listitem>
+        <listitem>
+          <para>whether all transactions have been conducted at arm’s
+length and market value.</para>
+        </listitem>
+        <listitem>
+          <para>the terms of transactions.</para>
+        </listitem>
+        <listitem>
+          <para>the appropriateness of the valuations of financial
+instruments.</para>
+        </listitem>
+        <listitem>
+          <para>whether any side agreements associated with any financial
+instruments exist.</para>
+        </listitem>
+        <listitem>
+          <para>whether the entity has entered into any written options.</para>
+        </listitem>
+        <listitem>
+          <para>
+            management’s intent and ability to carry out certain
+actions. 
+            <footnote id="aag-afi6_fn15" label="fn 15" role="number">
+              <para>Paragraph .A82 of AU-C section 540B provides examples of procedures
+that may be appropriate in the circumstances.</para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>whether subsequent events require adjustment to the
+valuations and disclosures included in the financial statements.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi6_communication_with_those_charged" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Communication With Those Charged With Governance and
+Others</titleabbrev>
+      <title role="ps_subsub_heading">Communication With Those Charged With
+Governance and Others</title>
+    </sectioninfo>
+    <section id="aag-afi6_31" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.31</titleabbrev>
+        <title role="ps_para_number">6.31</title>
+      </sectioninfo>
+      <para role="ps_para_number">Because of the uncertainties associated
+with the valuation of financial instruments, the potential effects
+on the financial statements of any significant risks are likely to
+be of governance interest. The auditor may communicate the nature
+and consequences of significant assumptions used in fair value measurements,
+the degree of subjectivity involved in the development of the assumptions,
+and the relative materiality of the items being measured at fair value
+to the financial statements as a whole. In addition, the need for
+appropriate controls over commitments to enter into financial instrument
+contracts and the subsequent measurement processes are matters that
+may give rise to the need for communication with those charged with
+governance.</para>
+    </section>
+    <section id="aag-afi6_32" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.32</titleabbrev>
+        <title role="ps_para_number">6.32</title>
+      </sectioninfo>
+      <para role="ps_para_number">AU-C section 260B addresses the auditor’s
+responsibility to communicate with those charged with governance in
+an audit of financial statements. With respect to financial instruments,
+matters to be communicated to those charged with governance may include</para>
+      <para role="ps_indent_0">The appropriate timing for communications
+will vary with the circumstances of the engagement; however, it may
+be appropriate to communicate significant difficulties encountered
+during the audit as soon as practicable if those charged with governance
+are able to assist the auditor to overcome the difficulty or if it
+is likely to lead to a modified opinion.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>a lack of management understanding of the nature or
+extent of the financial instrument activities or the risks associated
+with such activities.</para>
+        </listitem>
+        <listitem>
+          <para>
+            significant deficiencies or material weaknesses in
+the design or operation of the system of internal control relating
+to the entity’s financial instrument activities that the auditor has
+identified during the audit.
+            <footnote id="aag-afi6_fn16" label="fn 16" role="number">
+              <para>
+                AU-C section 265B, , addresses
+the auditor’s responsibility to communicate to those charged with
+governance and management deficiencies in internal control that the
+auditor has identified in an audit of financial statements. It explains
+that deficiencies in internal control may be identified during the
+auditor’s risk assessment procedures, in accordance with AU-C section
+315B, , or at
+any other stage of the audit.
+                <emphasis role="italic">Communicating Internal
+Control Related Matters Identified in an Audit</emphasis>
+                <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>significant difficulties encountered when obtaining
+sufficient appropriate audit evidence relating to valuations performed
+by management or management’s specialist (for example, when management
+is unable to obtain an understanding of the valuation methodology,
+assumptions, and data used by management’s specialists, and such information
+is not made available to the auditor by management’s specialist).</para>
+        </listitem>
+        <listitem>
+          <para>significant differences in judgments between the auditor
+and management or management’s specialist regarding valuations.</para>
+        </listitem>
+        <listitem>
+          <para>the potential effects on the entity’s financial statements
+of material risks and exposures required to be disclosed in the financial
+statements, including the measurement uncertainty associated with
+financial instruments.</para>
+        </listitem>
+        <listitem>
+          <para>the auditor’s views about the appropriateness of the
+selection of accounting policies and presentation of financial instrument
+transactions in the financial statements.</para>
+        </listitem>
+        <listitem>
+          <para>the auditor’s views about the qualitative aspects
+of the entity’s accounting practices and financial reporting for financial
+instruments.</para>
+        </listitem>
+        <listitem>
+          <para>a lack of comprehensive and clearly stated policies
+for the purchase, sale, and holding of financial instruments, including
+operational controls, procedures for designating financial instruments
+as hedges, and monitoring exposures.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi6_communications_with_regulators_and" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Communications With Regulators and Others</titleabbrev>
+      <title role="ps_subsub_heading">Communications With Regulators and
+Others</title>
+    </sectioninfo>
+    <section id="aag-afi6_33" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.33</titleabbrev>
+        <title role="ps_para_number">6.33</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        In some cases, auditors may be required, or may consider it appropriate, to communicate directly
+with regulators or others, in addition to those charged with governance,
+regarding matters relating to financial instruments. Such communication
+may be useful throughout the audit. For example, when required to
+communicate with banking regulators, such regulators may share information
+with the auditor about the operation and application of controls over
+financial instrument activities, challenges in valuing financial instruments
+in inactive markets, and compliance with regulations. This sharing
+of information may be helpful to the auditor in identifying risks
+of material misstatement.
+        <footnote id="aag-afi6_fn17" label="fn 17" role="number">
+          <para>
+            For example, AU-C section 250B, , requires auditors to determine whether there is a responsibility
+to report identified or suspected noncompliance with laws and regulations
+to parties outside the entity. In addition, requirements concerning
+the auditor’s communication to banking supervisors and others may
+be established in many countries by law, supervisory requirement,
+or formal agreement or protocol.
+            <emphasis role="italic">Consideration
+of Laws and Regulations in an Audit of Financial Statements</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+  </section>
+</root>

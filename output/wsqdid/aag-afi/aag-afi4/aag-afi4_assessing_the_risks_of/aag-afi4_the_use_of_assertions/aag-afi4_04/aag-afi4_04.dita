@@ -1,0 +1,123 @@
+<root id="aag-afi4_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.04</titleabbrev>
+    <title role="ps_para_number">4.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Assertions used by the auditor to consider
+the different types of potential misstatements that may occur fall
+into the following three categories and may take the following forms:
+    <footnote id="aag-afi4_fn3" label="fn 3" role="number">
+      <para>
+        Paragraph .A114 of AU-C section 315B, .
+        <emphasis role="italic">Understanding the Entity and Its Environment and Assessing the Risks
+of Material Misstatement</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <para role="ps_indent_hang_2">
+    Assertions about classes of transactions and events for the period
+under audit, such as the following:
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    i.. Transactions and events that have been recorded have occurred and
+pertain to the entity.
+    <tab/>
+    <emphasis role="italic">Occurrence</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    ii.. All transactions and events that should have been recorded have
+been recorded.
+    <tab/>
+    <emphasis role="italic">Completeness</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iii.. Amounts and other data relating to recorded transactions and events
+have been recorded appropriately.
+    <tab/>
+    <emphasis role="italic">Accuracy</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iv.. Transactions and events have been recorded in the correct accounting
+period.
+    <tab/>
+    <emphasis role="italic">Cutoff</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    v.. Transactions and events have been recorded in the proper accounts.
+    <tab/>
+    <emphasis role="italic">Classification</emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Assertions about account balances at period-end, such as the following:
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    i.. Assets, liabilities, and equity interests exist.
+    <tab/>
+    <emphasis role="italic">Existence</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    ii.. The entity holds or controls the rights
+to assets, and liabilities are the obligations of the entity.
+    <tab/>
+    <emphasis role="italic">Rights
+and obligations</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iii.. All assets, liabilities, and equity interests that should have
+been recorded have been recorded.
+    <tab/>
+    <emphasis role="italic">Completeness</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iv.. Assets, liabilities, and equity interests
+are included in the financial statements at appropriate amounts, and
+any resulting valuation or allocation adjustments are appropriately
+recorded.
+    <tab/>
+    <emphasis role="italic">Valuation
+and allocation</emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    Assertions about presentation and disclosure, such as the following:
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    i.. Disclosed events, transactions,
+and other matters have occurred and pertain to the entity.
+    <tab/>
+    <emphasis role="italic">Occurrence
+and rights and obligations</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    ii.. All disclosures that should have been included in the financial
+statements have been included.
+    <tab/>
+    <emphasis role="italic">Completeness</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iii.. Financial information is appropriately
+presented and described, and disclosures are clearly expressed.
+    <tab/>
+    <emphasis role="italic">Classification
+and understandability</emphasis>
+  </para>
+  <para role="ps_indent_hang_4">
+    iv.. Financial and other information is disclosed
+fairly and in appropriate amounts.
+    <tab/>
+    <emphasis role="italic">Accuracy
+and valuation</emphasis>
+  </para>
+</root>

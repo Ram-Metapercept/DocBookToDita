@@ -1,0 +1,30 @@
+<root id="aag-afi1_brokers_providing_broker_quotes" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Brokers Providing Broker Quotes</titleabbrev>
+    <title role="ps_subsub_heading">Brokers Providing Broker Quotes</title>
+  </sectioninfo>
+  <section id="aag-afi1_51" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.51</titleabbrev>
+      <title role="ps_para_number">1.51</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Because brokers provide quotes only as
+an incidental service for their clients, quotes they provide differ
+in many respects from prices obtained in pricing services. Brokers
+may be unwilling to provide information about the process used to
+develop their quote but may have access to information on transactions
+about which a pricing service may not be aware. Broker quotes may
+be executable or indicative.  are a broker’s best estimate of fair value, whereas an executable
+quote shows that the broker is willing to transact at this price.
+Executable quotes are strong evidence of fair value. Indicative quotes
+are less so because of the lack of transparency into the methods used
+by the broker to establish the quote. In addition the rigor of controls
+over the brokers’ quote often will differ depending on whether the
+broker also holds the same security in his or her own portfolio. Broker
+quotes are often used for financial instruments with level 3 inputs
+and sometimes may be the only external information available.
+      <emphasis role="italic">Indicative quotes</emphasis>
+    </para>
+  </section>
+</root>

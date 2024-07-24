@@ -1,0 +1,26 @@
+<root id="aag-afi6_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.02</titleabbrev>
+    <title role="ps_para_number">6.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Based on the audit evidence obtained,
+the auditor may conclude that the evidence points to an accounting
+estimate that differs from management’s point estimate. When the audit
+evidence supports a point estimate, the difference between the auditor’s
+point estimate and management’s point estimate constitutes a misstatement.
+When the auditor has concluded that using the auditor’s range provides
+sufficient appropriate audit evidence, a management point estimate
+that lies outside the auditor’s range would not be supported by audit
+evidence. In such cases, the misstatement is no less than the difference
+between management’s point estimate and the nearest point of the auditor’s
+range.
+    <footnote id="aag-afi6_fn3" label="fn 3" role="number">
+      <para>
+        Paragraph .A122 of AU-C section 540B, .
+        <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

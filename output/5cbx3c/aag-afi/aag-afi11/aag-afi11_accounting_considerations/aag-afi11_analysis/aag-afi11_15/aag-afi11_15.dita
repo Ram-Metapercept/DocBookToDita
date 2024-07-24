@@ -1,0 +1,42 @@
+<root id="aag-afi11_15" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.15</titleabbrev>
+    <title role="ps_para_number">11.15</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Among other criteria, FASB ASC 815-20-25-15(b)
+requires that the forecasted transaction (in this case, the foreign
+currency-denominated sale) be , as the term is used in FASB ASC 450, . The mere intent of management is not sufficient support for the
+conclusion that the forecasted transaction is probable. Rather, the
+transaction’s probability should be supported by observable facts
+and the attendant circumstances, such as the following:
+    <emphasis role="italic">probable</emphasis>
+    <emphasis role="italic">Contingencies</emphasis>
+  </para>
+  <para role="ps_indent_0">Additionally, the length of time until a
+forecasted transaction is expected to occur and the quantity of the
+forecasted transaction that is expected to occur are considerations
+in determining probability. Austin-Jhanes has a history of foreign
+sales that are similar to the one it is hedging. The forecasted sale
+is imminent and expected to take place in six months, on March 31,
+20X2. The management of Austin-Jhanes believes its assessment of probability
+is supportable.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The frequency of similar past transactions</para>
+    </listitem>
+    <listitem>
+      <para>The financial and operational ability of the entity
+to carry out the transaction</para>
+    </listitem>
+    <listitem>
+      <para>The extent of loss that could result if the transaction
+does not occur</para>
+    </listitem>
+    <listitem>
+      <para>The likelihood that transactions with substantially
+different characteristics might be used to achieve the same business
+purposes</para>
+    </listitem>
+  </itemizedlist>
+</root>

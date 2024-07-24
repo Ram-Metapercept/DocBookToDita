@@ -1,0 +1,95 @@
+<root id="aag-afi_appF_applicability_and_effective_date1" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Applicability and Effective Date</titleabbrev>
+    <title role="ps_sub_heading">Applicability and Effective Date</title>
+  </sectioninfo>
+  <para role="ps_indent_0">ASU No. 2016-01 affects all entities that
+hold financial assets or have financial liabilities and is effective
+as follows:</para>
+  <para role="ps_indent_0">All nonpublic business entities may adopt
+the amendments in this ASU earlier as of the fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years.</para>
+  <para role="ps_indent_0">Early adoption by public business entities
+to financial statements of fiscal years or interim periods that have
+not yet been issued or, by all other entities, that have not yet been
+made available for issuance of the following amendments in this ASU
+are permitted as of the beginning of the fiscal year of adoption:</para>
+  <para role="ps_indent_0">Except for as stated in this guidance, early
+adoption of the amendments in this ASU is not permitted.</para>
+  <table frame="all" id="aag-afi_appF_table1" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="1.92in"/>
+      <colspec colname="c2" colwidth="2.17in"/>
+      <colspec colname="c3" colwidth="1.92in"/>
+      <thead>
+        <row>
+          <entry align="center" role="shade" valign="bottom">
+            <para/>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>
+            <para>Public business entities </para>
+          </entry>
+          <entry>
+            <para>December 15, 2017</para>
+          </entry>
+          <entry>
+            <para>December 15, 2017</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>All other entities, including not-for-profit entities and employee
+benefit plans within the scope of FASB ASC 960 through FASB ASC 965
+on plan accounting</para>
+          </entry>
+          <entry>
+            <para>December 15, 2018</para>
+          </entry>
+          <entry>
+            <para>December 15, 2019</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>An entity should present separately in OCI the portion
+of the total change in the fair value of a liability resulting from
+a change in the instrument-specific credit risk if the entity has
+elected to measure the liability at fair value in accordance with
+the fair value option for financial instruments.</para>
+    </listitem>
+    <listitem>
+      <para>
+        Nonpublic business entities are not required to apply
+the fair value of financial instruments disclosure guidance in the
+"General" subsection of FASB  (ASC) 825-10-50.
+        <emphasis role="italic">Accounting Standards
+Codification</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

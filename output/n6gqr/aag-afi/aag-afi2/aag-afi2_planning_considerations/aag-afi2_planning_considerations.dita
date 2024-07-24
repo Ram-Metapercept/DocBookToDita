@@ -1,0 +1,53 @@
+<root id="aag-afi2_planning_considerations" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Planning Considerations</titleabbrev>
+    <title role="ps_main_heading">
+      Planning Considerations
+      <footnote id="aag-afi2_fn3" label="fn 3" role="number">
+        <para>
+          AU-C section 300B, , addresses the auditor’s responsibility to plan an audit of financial
+statements.
+          <emphasis role="italic">Planning an Audit</emphasis>
+        </para>
+      </footnote>
+    </title>
+  </sectioninfo>
+  <section id="aag-afi2_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.04</titleabbrev>
+      <title role="ps_para_number">2.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor’s focus in planning the audit
+procedures related to financial instruments is primarily on</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>understanding the accounting and disclosure requirements.</para>
+      </listitem>
+      <listitem>
+        <para>understanding the financial instruments to which the
+entity is exposed and their purpose and risks.</para>
+      </listitem>
+      <listitem>
+        <para>determining whether specialized skills and knowledge
+are needed in the audit.</para>
+      </listitem>
+      <listitem>
+        <para>understanding and evaluating the system of internal
+control in light of the entity’s financial instrument transactions
+and the information systems that fall within the scope of the audit.</para>
+      </listitem>
+      <listitem>
+        <para>understanding the nature, role, and activities of
+the internal audit function.</para>
+      </listitem>
+      <listitem>
+        <para>understanding management’s process for valuing financial
+instruments, including whether management has used a pricing source,
+valuation specialist or service organization.</para>
+      </listitem>
+      <listitem>
+        <para>assessing and responding to the risk of material misstatement.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

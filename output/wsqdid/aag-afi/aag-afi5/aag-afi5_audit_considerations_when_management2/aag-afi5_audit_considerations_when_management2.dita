@@ -1,0 +1,177 @@
+<root id="aag-afi5_audit_considerations_when_management2" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Audit Considerations When Management Estimates Fair Values
+Using a Model</titleabbrev>
+    <title role="ps_main_heading">Audit Considerations When Management
+Estimates Fair Values Using a Model</title>
+  </sectioninfo>
+  <section id="aag-afi5_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.17</titleabbrev>
+      <title role="ps_para_number">5.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .13 of AU-C section 540B requires the auditor, if testing management’s
+process of making the accounting estimate, to evaluate whether the
+method of measurement used is appropriate in the circumstances and
+the assumptions used by management are reasonable in light of the
+measurement objectives of the applicable financial reporting framework
+and whether the data on which the estimate is based is sufficiently
+reliable for the auditor’s purposes.
+      <emphasis role="italic">b</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi5_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.18</titleabbrev>
+      <title role="ps_para_number">5.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">Whether management has used a third-party
+pricing source or is undertaking its own valuation, models are often
+used to value financial instruments, particularly when using inputs
+at Levels 2 and 3 of the fair value hierarchy. In determining the
+nature, timing, and extent of audit procedures on models, the auditor
+may consider the methodology, assumptions, and data used in the model.
+When considering more complex financial instruments, such as those
+using Level 3 inputs, testing all three may be a useful source of
+audit evidence. However, when the model is both simple and generally
+accepted, such as some bond price calculations, audit evidence obtained
+from focusing on the assumptions and data used in the model may be
+a more useful source of evidence. </para>
+  </section>
+  <section id="aag-afi5_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.19</titleabbrev>
+      <title role="ps_para_number">5.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">Testing a model can be accomplished by
+the following two main approaches:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The auditor can test management’s model by considering
+the appropriateness of the model used by management, the reasonableness
+of the assumptions and data used, and the mathematical accuracy.</para>
+      </listitem>
+      <listitem>
+        <para>The auditor can develop his or her own estimate and
+then compare the auditor’s valuation with that of the entity.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_20" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.20</titleabbrev>
+      <title role="ps_para_number">5.20</title>
+    </sectioninfo>
+    <para role="ps_para_number">When valuation of financial instruments
+is based on unobservable inputs (that is, Level 3 inputs), matters
+the auditor may consider include, for example, how management supports
+the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The identification and characteristics of marketplace
+participants relevant to the financial instrument</para>
+      </listitem>
+      <listitem>
+        <para>How unobservable inputs are determined on initial
+recognition</para>
+      </listitem>
+      <listitem>
+        <para>Modifications the auditor has made to his or her own
+assumptions to reflect the auditor’s view of assumptions that marketplace
+participants would use</para>
+      </listitem>
+      <listitem>
+        <para>Whether he or she has incorporated the best input
+information available in the circumstances</para>
+      </listitem>
+      <listitem>
+        <para>When applicable, how his or her assumptions take account
+of comparable transactions</para>
+      </listitem>
+      <listitem>
+        <para>Sensitivity analysis of models when unobservable inputs
+are used and whether adjustments have been made to address measurement
+uncertainty</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_21" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.21</titleabbrev>
+      <title role="ps_para_number">5.21</title>
+    </sectioninfo>
+    <para role="ps_para_number">In addition, the auditor’s industry knowledge,
+knowledge of market trends, and understanding of other entities’ valuations
+(giving consideration to confidentiality) and other relevant price
+indicators informs the auditor’s testing of the valuations and the
+consideration of whether the valuations appear reasonable overall.
+If the valuations appear to be consistently overly aggressive or conservative,
+this may be an indicator of possible management bias.</para>
+  </section>
+  <section id="aag-afi5_22" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.22</titleabbrev>
+      <title role="ps_para_number">5.22</title>
+    </sectioninfo>
+    <para role="ps_para_number">When there is a lack of observable external
+evidence, it is particularly important that those charged with governance
+have been appropriately engaged to understand the subjectivity of
+management’s valuations and the evidence that has been obtained to
+support these valuations. In such cases, it may be necessary for the
+auditor to evaluate whether there has been a thorough review and consideration
+of the issues, including any documentation, at all appropriate management
+levels within the entity, including with those charged with governance.</para>
+  </section>
+  <section id="aag-afi5_23" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.23</titleabbrev>
+      <title role="ps_para_number">5.23</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      When markets become inactive or dislocated
+or inputs are unobservable, management’s valuations may be more judgmental
+and less verifiable and, as result, less reliable. In such circumstances,
+the auditor may test the model by a combination of testing controls
+operated by the entity, evaluating the design and operation of the
+model, testing the assumptions and data used in the model, and comparing
+its output to a point estimate or range developed by the auditor or
+to other third-party valuation techniques.
+      <footnote id="aag-afi5_fn8" label="fn 8" role="number">
+        <para>
+          Paragraph .13 of AU-C section
+540B describes requirements when the auditor develops a range to evaluate
+management’s point estimate. Valuation techniques developed by third
+parties and used by the auditor may, in some circumstances, be considered
+the work of an auditor’s specialist and subject to the requirements
+in AU-C section 620B, .
+          <emphasis role="italic">d</emphasis>
+          <emphasis role="italic">Using the Work of an
+Auditor’s Specialist</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi5_24" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.24</titleabbrev>
+      <title role="ps_para_number">5.24</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      It is likely that in testing the inputs
+used in an entity’s valuation methodology (for example, when such inputs are categorized in the
+fair value hierarchy), the auditor will also be obtaining evidence
+to support the disclosures required by the applicable financial reporting
+framework. For example, the auditor’s substantive procedures to evaluate
+whether the inputs used in an entity’s valuation technique (that is,
+Level 1, Level 2, and Level 3 inputs) are appropriate and tests of
+an entity’s sensitivity analysis, if any, will be relevant to the
+auditor’s evaluation of whether the disclosures achieve fair presentation.
+      <footnote id="aag-afi5_fn9" label="fn 9" role="number">
+        <para>See, for example, paragraph .15 of AU-C section 540B for requirements
+relative to the auditor’s evaluation of management’s assumption regarding
+significant risks.</para>
+      </footnote>
+    </para>
+  </section>
+</root>

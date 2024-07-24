@@ -1,0 +1,45 @@
+<root id="aag-afi1_27" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.27</titleabbrev>
+    <title role="ps_para_number">1.27</title>
+  </sectioninfo>
+  <para role="ps_para_number">Certain financial reporting frameworks
+may require or permit the entity to adjust for measurement uncertainties
+in order to adjust for risks that a market participant would make
+in the pricing to take account of the uncertainties of the risks associated
+with the pricing or cash flows of the financial instrument. Some examples
+are as follows:</para>
+  <para role="ps_indent_0">
+    Adjustments are not appropriate if they adjust
+the measurement and valuation of the financial instrument away from , as defined by the applicable
+financial reporting framework (for example, for conservatism).
+    <emphasis role="italic">fair value</emphasis>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Model adjustments. Some models may have a known deficiency,
+or the result of calibration may highlight the deficiency for the
+fair value measurement in accordance with the financial reporting
+framework.</para>
+    </listitem>
+    <listitem>
+      <para>Credit-risk adjustments. Some models do not take into
+account credit risk, including counterparty risk or own credit risk.</para>
+    </listitem>
+    <listitem>
+      <para>Liquidity adjustments. Some models calculate a midmarket
+price, even though the financial reporting framework may require use
+of a liquidity-adjusted amount, such as a bid-offer spread. Another,
+more judgmental liquidity adjustment recognizes that some financial
+instruments are illiquid, which affects the valuation.</para>
+    </listitem>
+    <listitem>
+      <para>Other risk adjustments. A value measured using a model
+that does not take into account all other factors that market participants
+would consider in pricing the financial instrument may not represent
+fair value on the measurement date and, therefore, may need to be
+adjusted separately to comply with the applicable financial reporting
+framework.</para>
+    </listitem>
+  </itemizedlist>
+</root>

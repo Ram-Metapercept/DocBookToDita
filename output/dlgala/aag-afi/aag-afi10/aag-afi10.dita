@@ -1,0 +1,1280 @@
+<root id="aag-afi10" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 10 — Case Study of the Use of an Interest Rate
+Swap to Hedge Existing Debt</titleabbrev>
+    <title role="ps_section_heading">Chapter 10</title>
+    <subtitle role="ps_section_title">Case Study of the Use of an Interest
+Rate Swap to Hedge Existing Debt</subtitle>
+  </chapterinfo>
+  <para role="ps_box_shade">
+    <emphasis role="italic">Gray shaded text
+in this chapter reflects guidance issued but not yet effective as
+of the date of this guide, September 1, 2020, but becoming effective
+on or prior to December 31, 2020, exclusive of any option to early
+adopt ahead of the mandatory effective date. Unless otherwise indicated,
+all unshaded text reflects guidance that was already effective as
+of the date of this guide.</emphasis>
+  </para>
+  <section id="aag-afi10_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.01</titleabbrev>
+      <title role="ps_para_number">10.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">In this case study, the entity has issued
+a fixed-rate bond and is exposed to the risk that changes in the benchmark
+interest rate will change the bond’s fair value. In order to mitigate
+this risk, the entity enters into an interest rate swap that effectively
+converts the fixed-rate liability into a variable-rate liability.</para>
+  </section>
+  <section id="aag-afi10_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.02</titleabbrev>
+      <title role="ps_para_number">10.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Under FASB  (ASC) 815, , the change in the fair value
+of a derivative designated as a fair value hedge is recognized in
+earnings together with the change in the fair value of the hedged
+item that is attributable to the risk being hedged. In this case study,
+the change in the fair value of the interest rate swap will be offset
+by the change in the fair value of the obligation under the bond that
+is attributable to changes in the benchmark interest rate. The changes
+have opposite effects on earnings. For example, if the change in the
+fair value of the obligation under the bond from a change in the benchmark
+interest rate creates a gain, the change in the fair value of the
+swap will create a loss. 
+      <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+      <emphasis role="italic">Derivatives and Hedging</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi10_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.03</titleabbrev>
+      <title role="ps_para_number">10.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The hedging instrument in this case study
+is an interest rate swap.  are contracts to exchange, for a period of time, the investment
+performance of one underlying instrument for the investment performance
+of another instrument without exchanging the instruments themselves.
+The interest rate swap used in this case study involves the swap of
+interest at a variable rate based on a designated benchmark interest
+rate (in this case study, 90-day London Interbank Offered Rate [LIBOR])
+multiplied by a notional principal amount for interest at a fixed
+rate multiplied by that same notional principal amount. 
+      <emphasis role="italic">Swaps</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi10_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.04</titleabbrev>
+      <title role="ps_para_number">10.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">Under the agreement in this case study,
+the entity effectively pays interest under the swap at a variable
+rate and receives interest under the swap at a fixed rate (although
+the entity actually pays or receives only the net amount under the
+swap). In this particular case, the notional amount of the swap is
+the same as the principal outstanding under the entity’s bond, and
+the fixed rate received under the swap is the same as the bond’s rate.
+Accordingly, the amount of fixed-rate interest received under the
+swap equals the amount of interest paid on the bond, and the net amount
+of interest paid equals the interest paid under the swap at the variable
+rate. The swap therefore enables the entity to pay a variable rate
+of interest on the amount of principal outstanding under the bond,
+thus effectively converting the bond from a fixed-rate to variable-rate
+instrument.</para>
+  </section>
+  <section id="aag-afi10_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.05</titleabbrev>
+      <title role="ps_para_number">10.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The "" section illustrates accounting for a fair value hedge when the
+hedging instrument is an interest rate swap. When certain conditions
+are met, the entity may assume that an interest rate swap will be
+perfectly effective in hedging interest rate risk and may use the
+shortcut method to account for the hedging activity. In this case
+study, those conditions are not met, so the example demonstrates the
+accounting entries that should be made when the shortcut method is
+not available. The "" section illustrates the application of the guidance contained in
+AU-C section 501B, .
+      <olink targetptr="aag-afi10_accounting_considerations">Accounting Considerations</olink>
+      <olink targetptr="aag-afi10_accounting_considerations">Auditing Considerations</olink>
+      <emphasis role="italic">Audit Evidence — Specific
+Considerations for Selected Items</emphasis>
+      <footnote id="aag-afi10_fn1" label="fn 1" role="number">
+        <para>
+          All AU-C sections can be found in AICPA .
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+      <footnote id="aag-afi10_fn2" label="fn 2" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi10_accounting_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Accounting Considerations</titleabbrev>
+      <title role="ps_main_heading">
+        Accounting Considerations
+        <footnote id="aag-afi10_fn3" label="fn 3" role="number">
+          <para>For simplicity, this case study ignores income tax consequences.</para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi10_description_of_the_transaction" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Transaction</titleabbrev>
+        <title role="ps_sub_heading">Description of the Transaction</title>
+      </sectioninfo>
+      <section id="aag-afi10_06" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.06</titleabbrev>
+          <title role="ps_para_number">10.06</title>
+        </sectioninfo>
+        <para role="ps_para_number">JLM manufactures windows and doors for
+residential sale and is a SEC registrant that operates under a fiscal
+year-end of December 31. JLM has experienced a tremendous growth rate
+during the past 2 years. As a result, it has entered into an expansion
+and equipment upgrade project at its plant. In order to keep up with
+demands, JLM has increased its workforce by 25%.</para>
+      </section>
+      <section id="aag-afi10_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.07</titleabbrev>
+          <title role="ps_para_number">10.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">On January 1, 20X1, JLM issued a 5-year,
+$1 million, BB-rated bond obligation. The interest rate on the bond
+obligation was fixed at 8%, payable on a quarterly basis. On February
+1, 20X1, to hedge its exposure to changes in LIBOR (that is, the designated
+benchmark interest rate risk being hedged), JLM entered into a 5-year
+interest rate swap with a notional amount of $1 million to receive
+a fixed rate of 8% and pay a variable rate equal to 90-day LIBOR (at
+the end of each quarter) plus 2%, payable on a quarterly basis, with
+the first payment due March 31, 20X1.</para>
+      </section>
+    </section>
+    <section id="aag-afi10_accounting_for_the_transaction" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Accounting for the Transaction</titleabbrev>
+        <title role="ps_sub_heading">
+          Accounting for the Transaction
+          <footnote id="aag-afi10_fn4" label="fn 4" role="number">
+            <para>
+              <emphasis role="shade">
+                In August 2017, FASB issued Accounting
+Standards Update (ASU) No. 2017-12, , to simplify the application of hedge accounting
+by aligning it with an entity’s risk management activities in their
+financial statements. For public business entities, the guidance was
+effective for fiscal years beginning after December 15, 2018, including
+interim periods within those fiscal years. For entities other than
+public business entities, ASU No. 2017-12 is effective for fiscal
+years beginning after December 15, 2020, and interim periods within
+fiscal years beginning after December 15, 2021; these effective dates
+reflect amendments from ASU No. 2019-10, , which delayed
+the effective dates of several major updates in response to feedback
+FASB received from stakeholders. Early application is permitted in
+any interim period after the date this ASU was issued.
+                <emphasis role="italic">Derivatives
+and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging
+Activities</emphasis>
+                <emphasis role="italic">Financial
+Instruments — Credit Losses (Topic 326), Derivatives and Hedging (Topic
+815), and Leases (Topic 842): Effective Dates</emphasis>
+              </emphasis>
+            </para>
+          </footnote>
+        </title>
+      </sectioninfo>
+      <section id="aag-afi10_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.08</titleabbrev>
+          <title role="ps_para_number">10.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">In order to meet the criteria for hedge
+accounting, the hedge must be highly effective. When certain conditions
+are met, the entity may assume that an interest rate swap will be
+completely effective in hedging benchmark interest rate risk. In that
+situation, the entity may elect to use the shortcut method discussed
+in paragraphs 102–117 of FASB ASC 815-20-25, thereby avoiding the
+need to formally assess hedging effectiveness at inception and on
+a continuing basis. In this case study, one of those conditions is
+not met because the interest rate swap matures one month later than
+the bond obligation.</para>
+      </section>
+      <section id="aag-afi10_09" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.09</titleabbrev>
+          <title role="ps_para_number">10.09</title>
+        </sectioninfo>
+        <para role="ps_para_number">Because the expiration date of the interest
+rate swap is different than the maturity date of the debt obligation,
+fluctuations in the benchmark interest rate may have varying effects
+on the fair values of the bond obligation and interest rate swap.
+Accordingly, JLM may not assume that the changes in fair value of
+the interest rate swap are, and will continue to be, completely effective
+at offsetting the changes in fair value of the bond obligation attributable
+to changes in the benchmark interest rate.</para>
+      </section>
+      <section id="aag-afi10_10" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.10</titleabbrev>
+          <title role="ps_para_number">10.10</title>
+        </sectioninfo>
+        <para role="ps_para_number">JLM assessed hedge effectiveness by comparing
+the change in the fair value of the interest rate swap with the portion
+of the change in the fair value of the bond obligation attributable
+to changes in the benchmark interest rate. The change in the bond
+obligation’s fair value attributable to changes in the benchmark interest
+rate for a specific period is determined as the difference between
+two present value calculations as of the end of the period that exclude
+or include, respectively, the effect of the changes in the benchmark
+interest rate during the period. The discount rates used for those
+present value calculations would be, respectively, the discount rate
+equal to the coupon rate for the bond obligation (assuming no changes
+in JLM’s creditworthiness) at the inception of the hedge adjusted
+(up or down) for changes in the</para>
+        <para role="ps_indent_hang_2">
+          benchmark rate (designated as the interest rate risk being hedged)
+from the inception of the hedge to the beginning date of the period
+for which the change in fair value is being calculated.
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          designated benchmark rate from the inception of the hedge to the
+ending date of the period for which the change in fair value is being
+calculated.
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_0">
+          <emphasis role="shade">Consistent with “Pending
+Content” in FASB ASC 815-25-55-55, JLM assessed hedge effectiveness
+by comparing the change in the fair value of the interest rate swap
+with the portion of the change in the fair value of the bond obligation
+attributable to changes in the benchmark interest rate. The change
+in the bond obligation’s fair value attributable to changes in the
+benchmark interest rate for a specific period is determined as the
+difference between two present value calculations that use the remaining
+cash flows as of the end of the period and reflect in the discount
+rate the effect of the changes in the benchmark interest rate during
+the period.</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi10_11" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.11</titleabbrev>
+          <title role="ps_para_number">10.11</title>
+        </sectioninfo>
+        <para role="ps_para_number">Both present value calculations are computed
+using the estimated future cash flows for the hedged item (which typically
+would be its remaining contractual cash flows). Hedge ineffectiveness
+will occur if changes in the fair value of the obligation under the
+bond attributable to changes in the benchmark interest rate do not
+equal changes in the fair value of the swap. </para>
+        <para role="ps_indent_0">
+          <emphasis role="shade">Consistent with “Pending
+Content” in FASB ASC 815-25-55-56, both present value calculations
+are computed using the estimated future cash flows for the hedged
+item, which would be either its remaining contractual coupon cash
+flows or the LIBOR benchmark rate component of the remaining contractual
+coupon cash flows determined at hedge inception. Hedge ineffectiveness
+will occur if changes in the fair value of the obligation under the
+bond attributable to changes in the benchmark interest rate do not
+equal changes in the fair value of the swap.</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi10_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.12</titleabbrev>
+          <title role="ps_para_number">10.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">Additional facts that impact the accounting
+for this transaction include the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              The basis adjustments recognized in earnings related
+to the bond obligation should be equal to the changes in the fair
+value of the bond obligation attributable to changes in the benchmark
+interest rate.
+              <footnote id="aag-afi10_fn5" label="fn 5" role="number">
+                <para>
+                  In calculating the change in the hedged item’s fair value attributable
+to changes in the benchmark interest rate, FASB  (ASC) 815-25-35-13 requires that
+the estimated cash flows used in calculating fair value be based on
+all the contractual cash flows of the entire hedged item.
+                  <emphasis>Accounting
+Standards Codification</emphasis>
+                </para>
+                <para>
+                  <emphasis role="shade">Consistent with “Pending Content” in
+FASB ASC 815-25-35-13, in calculating the change in the hedged item’s
+fair value attributable to changes in the benchmark interest rate,
+the estimated coupon cash flows used in calculating fair value should
+be based on either the full contractual coupon cash flows or the benchmark
+rate component of the contractual coupon cash flows of the hedged
+item determined at hedge inception. FASB ASC 815-25-35-13B addresses
+partial-term hedges of interest rate risk. </emphasis>
+                </para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>The interest rate swap was issued at the market rate
+on February 1, 20X1; therefore, no cash was exchanged at inception
+of the contract, and no entries related to the time value of money
+were required.</para>
+          </listitem>
+          <listitem>
+            <para>All the hedge accounting criteria contained in FASB
+ASC 815-20-25 were met. Hedge effectiveness was achieved at the inception
+of the contract.</para>
+          </listitem>
+          <listitem>
+            <para>The bond’s 8% stated interest rate is the market rate
+on January 1, 20X1, when the bond was issued. The benchmark interest
+rate on February 1, 20X1, was 5%. </para>
+          </listitem>
+          <listitem>
+            <para>During 20X1, the fair values of the interest rate
+swap and JLM’s bond obligation (after cash settlements), excluding
+current period swap accruals and interest accruals, were as follows:</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>LIBOR plus 2% equaled 8.25% and 8.50% at March 31
+and June 30, 20X1, respectively.</para>
+          </listitem>
+        </itemizedlist>
+        <table frame="none" id="aag-afi10_table1" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="4" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="1.87in"/>
+            <colspec colname="c2" colwidth="0.87in"/>
+            <colspec colname="c3" colwidth="0.75in"/>
+            <colspec colname="c4" colwidth="0.75in"/>
+            <thead>
+              <row>
+                <entry colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">February 1</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">March 31</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">June 30</emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Interest rate swap</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> $ —</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$(20,000)</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$(35,000) </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>JLM bond obligation</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 1,005,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 980,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 965,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Change in fair value of interest rate swap</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> $ —</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>(20,000)</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>(15,000)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Change in fair value of JLM bond obligation</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> $ —</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>25,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>15,000</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi10_journal_entries" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Journal Entries</titleabbrev>
+        <title role="ps_sub_heading">Journal Entries</title>
+      </sectioninfo>
+      <section id="aag-afi10_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.13</titleabbrev>
+          <title role="ps_para_number">10.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">The journal entries JLM made are as follows:</para>
+        <table frame="none" id="aag-afi10_table2" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="4.36in"/>
+            <colspec colname="c2" colwidth="0.87in"/>
+            <colspec colname="c3" colwidth="0.89in"/>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" nameend="c3" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">February 1, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c3" namest="c1" rowsep="0" valign="bottom">
+                  <para>JLM made a memorandum entry documenting the existence of the
+hedging relationship. The financial records of JLM were not otherwise
+affected as of this date because the interest rate swap was issued
+at the market rate; therefore, no cash changed hands.</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c3" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">March 31, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Interest expense</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record interest expense on the bond obligation — ($1,000,000
+× 8.00%) × 3/12 = $20,000.</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Interest expense</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$417</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$417</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the net cash payment on the interest rate swap as
+an increase in interest expense — [($1,000,000 × 8%) × 2/12 = $13,333
+received] less [($1,000,000 × 8.25%) × 2/12 = $13,750 paid]. </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Unrealized loss on interest rate swap</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Obligation under interest rate swap
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the reduction in the fair value of the interest rate
+swap as a liability, with an offsetting charge to earnings. </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Bond obligation</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$25,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Unrealized gain on bond obligation
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$25,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the reduction in the fair value of the bond obligation
+due to a change in the benchmark interest rate, with an offsetting
+credit to earnings.</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="1" nameend="c3" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">June 30, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Interest expense</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record interest expense on the bond obligation — ($1,000,000
+× 8.00%) × 3/12 = $20,000.</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Interest expense</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$1,250</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$1,250</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the net cash payment on the interest rate swap as
+an increase in interest expense — [($1,000,000 × 8%) × 3/12 = $20,000
+received] less [($1,000,000 × 8.5%) × 3/12 = $21,250 paid].</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Unrealized loss on interest rate swap</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$15,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Obligation under interest rate swap
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$15,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the increase in the fair value of the liability under
+the swap agreement, with an offsetting charge to earnings.</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Bond obligation</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$15,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para/>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Unrealized gain on bond obligation
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$15,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the reduction in the fair value of the bond obligation
+due to a change in the benchmark interest rate, with an offsetting
+credit to earnings.</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi10_observations" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Observations</titleabbrev>
+        <title role="ps_sub_heading">Observations</title>
+      </sectioninfo>
+      <section id="aag-afi10_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.14</titleabbrev>
+          <title role="ps_para_number">10.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">JLM’s fixed-rate bond obligation together
+with the interest rate swap it entered into is economically equal
+to a variable-rate obligation as a result of entering into the interest
+rate swap. For example, interest expense for the quarter ended June
+30, 20X1, was $21,250, consisting of $20,000 paid under the bond plus
+$1,250 paid under the swap. This equals interest on the bond at the
+variable rate of 8.5% ($1,000,000 × 8.5% × 3/12 = $21,250). Due to
+the fact that the benchmark interest rate increased during the first
+5 months of the hedging relationship, the fair value of the interest
+rate swap decreased, resulting in JLM making net interest cash payments
+on the settlement dates. </para>
+      </section>
+      <section id="aag-afi10_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.15</titleabbrev>
+          <title role="ps_para_number">10.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">The fair value of the bond obligation
+decreased as a result of the increase in the benchmark interest rate.
+The decrease in the fair value of the bond created unrealized gain
+that was partially offset by the unrealized loss from the decrease
+in the fair value of the swap (which resulted in recognizing a liability).
+The fair value change in the bond obligation was compared with the
+change in the fair value of the interest rate swap to determine hedge
+effectiveness (that is, within 80% to 125% of each other). Once determined,
+the change in the fair value of the bond obligation attributable to
+changes in the benchmark interest rate was recognized in earnings
+as an offset to the change in fair value of the interest rate swap.</para>
+      </section>
+      <section id="aag-afi10_16" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.16</titleabbrev>
+          <title role="ps_para_number">10.16</title>
+        </sectioninfo>
+        <para role="ps_para_number">The results were that at March 31 and
+June 30, the changes in fair value of the interest rate swap were
+highly effective in offsetting the changes in fair value of the bond
+obligation attributable to changes in the benchmark interest rate.
+Furthermore, the hedge ineffectiveness (that is, $5,000 at March 31)
+was recognized currently in earnings. </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi10_auditing_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Auditing Considerations</titleabbrev>
+      <title role="ps_main_heading">Auditing Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi_description_of_the_entity" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Entity</titleabbrev>
+        <title role="ps_sub_heading">Description of the Entity</title>
+      </sectioninfo>
+      <section id="aag-afi10_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.17</titleabbrev>
+          <title role="ps_para_number">10.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">Key factors in assessing JLM’s control
+environment are the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>JLM’s management and board of directors instill high
+integrity and ethical values throughout all aspects of the entity.</para>
+          </listitem>
+          <listitem>
+            <para>JLM has in place a corporate compliance program specifically
+prohibiting fraud against the entity that states the penalties for
+fraud and requires employees to report fraud. In addition, a process
+exists to identify high-risk areas of potential fraud exposure for
+the entity.</para>
+          </listitem>
+          <listitem>
+            <para>JLM has in place a quality information system that
+provides system-generated information that gives management the ability
+to make appropriate decisions in managing and controlling the entity’s
+activities and to prepare reliable financial reports.</para>
+          </listitem>
+          <listitem>
+            <para>The board of directors is independent from management
+and holds frequent, timely meetings with the CFO, accounting officer,
+internal auditors, and external auditors.</para>
+          </listitem>
+          <listitem>
+            <para>Management provides sufficient, timely information
+to allow monitoring of management’s financing objectives and strategies
+and JLM’s financial position and operating results.</para>
+          </listitem>
+          <listitem>
+            <para>Management consults with the board of directors on
+all business risks. Such business risks are accepted only after the
+board of directors’ study and approval. The board of directors approves
+all transactions that involve derivatives.</para>
+          </listitem>
+          <listitem>
+            <para>JLM’s organizational structure is appropriate to the
+entity’s size and activities and has the ability to provide information
+appropriate to manage the entity’s activities. The knowledge and experience
+of key managers are appropriate to their responsibilities.</para>
+          </listitem>
+          <listitem>
+            <para>Assignment of responsibility and delegation of authority
+are appropriate for the entity, given its size and the nature and
+complexity of activities. Authority has been delegated to deal with
+organizational goals and objectives, operating functions, and regulatory
+requirements, including responsibility for information systems and
+authorization for changes.</para>
+          </listitem>
+          <listitem>
+            <para>JLM’s investing and financing activities are monitored
+closely by the board of directors.</para>
+          </listitem>
+          <listitem>
+            <para>Management and the board of directors have a high
+commitment to competence when hiring employees. The investing and
+financing function is staffed with individuals who are knowledgeable
+about accounting for derivatives.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi10_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.18</titleabbrev>
+          <title role="ps_para_number">10.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">Although the volume of derivatives transactions
+is low, the entity has established controls over them. Some of JLM’s
+key controls include the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Overall, controls over financial reporting of derivatives
+transactions adequately provide segregation of duties and management
+oversight.</para>
+          </listitem>
+          <listitem>
+            <para>JLM has in place written policies regarding derivatives
+transactions that were approved by the board of directors.</para>
+          </listitem>
+          <listitem>
+            <para>The board of directors approves all derivatives transactions. </para>
+          </listitem>
+          <listitem>
+            <para>Controls are in place to ensure that derivatives designated
+as hedges meet the criteria for hedge accounting, both at inception
+and on an ongoing basis. </para>
+          </listitem>
+          <listitem>
+            <para>JLM’s CFO prepares an analysis for review by the board
+of directors that identifies</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>the objective of the hedge and the strategy for accomplishing
+the objective.</para>
+          </listitem>
+          <listitem>
+            <para>the nature of the risk being hedged.</para>
+          </listitem>
+          <listitem>
+            <para>the derivative hedging instrument.</para>
+          </listitem>
+          <listitem>
+            <para>the hedged item.</para>
+          </listitem>
+          <listitem>
+            <para>how the entity will assess hedge effectiveness. </para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>JLM’s investing and financing function maintains proper
+segregation of duties among dealing (committing JLM to the transaction),
+settlement (initiating cash payments and accepting cash receipts),
+and accounting (recording all transactions and the valuation of the
+derivative).</para>
+          </listitem>
+          <listitem>
+            <para>The board has approved a list of top-tier investment
+brokers that management may utilize for investment services.</para>
+          </listitem>
+          <listitem>
+            <para>JLM has put in place controls and procedures for the
+prevention or detection of errors, including the following:</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Accounting entries for derivatives transactions are
+reviewed by senior management of the investing and financing function
+and subject to periodic review by the CFO.</para>
+          </listitem>
+          <listitem>
+            <para>Fair values are obtained from a broker-dealer and
+reviewed on a monthly basis.</para>
+          </listitem>
+          <listitem>
+            <para>Adjustments to financial instruments’ general ledger
+accounts are reviewed and approved by the controller.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi10_summary_of_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Summary of Accounting</titleabbrev>
+        <title role="ps_sub_heading">Summary of Accounting</title>
+      </sectioninfo>
+      <section id="aag-afi10_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.19</titleabbrev>
+          <title role="ps_para_number">10.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">Because no cash is required to enter into
+the interest rate swap, no entry is required at its inception. The
+swap should subsequently be adjusted to its fair value. Because the
+swap is designated as a fair value hedge, the entire change in its
+fair value should be recognized in earnings. In addition, changes
+in the fair value of the bond obligation due to changes in the benchmark
+interest rate should be recognized in earnings. The basis of the bond
+obligation should be adjusted accordingly.</para>
+      </section>
+    </section>
+    <section id="aag-afi10_types_of_potential_misstatements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Types of Potential Misstatements</titleabbrev>
+        <title role="ps_sub_heading">Types of Potential Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi10_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.20</titleabbrev>
+          <title role="ps_para_number">10.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">The types of potential misstatements are</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>failure to identify the swap.</para>
+          </listitem>
+          <listitem>
+            <para>failure to properly document the hedge and the expectation
+of hedge effectiveness.</para>
+          </listitem>
+          <listitem>
+            <para>the hedge does not remain highly effective on an ongoing
+basis so that hedge accounting does not continue to be appropriate.</para>
+          </listitem>
+          <listitem>
+            <para>the assessment of hedge effectiveness is not consistent
+with the risk management strategy documented for the particular hedging
+relationship.</para>
+          </listitem>
+          <listitem>
+            <para>JLM does not assess hedge effectiveness for similar
+hedging strategies in a similar manner, and such differences are not
+documented. </para>
+          </listitem>
+          <listitem>
+            <para>incorrect determination of the fair value of the swap
+and bonds.</para>
+          </listitem>
+          <listitem>
+            <para>incorrect computation and recording of interest and
+accrued interest on the bonds. </para>
+          </listitem>
+          <listitem>
+            <para>inadequate financial statement presentation and disclosure.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi10_inherent_risk_factors_to" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatement</titleabbrev>
+        <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatement</title>
+      </sectioninfo>
+      <section id="aag-afi10_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.21</titleabbrev>
+          <title role="ps_para_number">10.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">The inherent risk factors are</para>
+        <para role="ps_indent_0">Based on the preceding factors, the auditor
+determines inherent risk to be high.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>this transaction requires no initial cash outlay;
+therefore, detection of the derivative may be difficult (although
+it is unlikely that management would attempt to conceal the transaction).</para>
+          </listitem>
+          <listitem>
+            <para>management does not have a valuation model capable
+of valuing the interest rate swap and relies on the broker-dealer
+who arranged the transaction for the valuation of the swap.</para>
+          </listitem>
+          <listitem>
+            <para>credit risk related to the swap is moderate and primarily
+related to the risk of nonperformance by the counterparty.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi10_control_risk" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Control Risk</titleabbrev>
+        <title role="ps_sub_heading">Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi10_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.22</titleabbrev>
+          <title role="ps_para_number">10.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">Control risk has been assessed as high;
+accordingly, a substantive approach will be taken when auditing JLM’s
+derivatives transactions. Although JLM has put in place adequate controls
+over its derivatives, due to the limited number of derivatives transactions
+it has entered into, the auditor deems a substantive approach more
+efficient and effective.</para>
+      </section>
+    </section>
+    <section id="aag-afi10_timing_of_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Timing of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Timing of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi10_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.23</titleabbrev>
+          <title role="ps_para_number">10.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">Based on the assessment of control risk
+as high and JLM’s inexperience in applying FASB ASC 815, the relevant
+assertions associated with this transaction will be substantively
+tested at year-end. </para>
+      </section>
+    </section>
+    <section id="aag-afi10_materiality" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Materiality</titleabbrev>
+        <title role="ps_sub_heading">Materiality</title>
+      </sectioninfo>
+      <section id="aag-afi10_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.24</titleabbrev>
+          <title role="ps_para_number">10.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">The transaction is considered material.</para>
+      </section>
+    </section>
+    <section id="aag-afi10_design_of_the_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Design of the Procedures</titleabbrev>
+        <title role="ps_sub_heading">Design of the Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi10_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>10.25</titleabbrev>
+          <title role="ps_para_number">10.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about the interest
+rate swap:</para>
+        <table frame="all" id="aag-afi10_table3" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.81in"/>
+            <colspec colname="c3" colwidth="3.14in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Audit Objective </emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Procedure</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>All derivatives JLM has entered into are reported in its statement
+of financial position. </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read minutes of the board of directors for approval
+of derivatives transactions.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Confirm at year-end the existence, rights, and obligations
+and description of the swap with the broker-dealer. </para>
+                    </listitem>
+                    <listitem>
+                      <para>Examine broker-dealer’s advice evidencing purchase
+or issuance in JLM’s name.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Derivatives transactions are approved in accordance with JLM’s
+investment policy.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read JLM’s investment policy, and compare the interest
+rate swap with the policy to determine if the swap’s terms are within
+the policy’s guidelines.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Read minutes of the board of directors to determine
+if approval to enter into the swap was obtained.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The fair values of the swap and bond are reasonable.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Obtain an understanding, and evaluate the relationship
+between the broker-dealer and JLM.</para>
+                    </listitem>
+                    <listitem>
+                      <para>
+                        Obtain an understanding of the methodology behind
+the broker-dealer’s valuation. Alternatively, use a valuation consultant
+to assist in evaluating the reasonableness of the estimate of fair
+value, taking into consideration the requirements of AU-C section
+620B, .
+                        <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The designation of the interest rate swap as a hedge meets the
+applicable criteria for hedge accounting at inception and ongoing,
+including the documentation requirement.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the board of directors’ minutes that document
+the formal designation of the swap as a hedge of the fair value of
+the bond obligation.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Confirm (in the management representation letter)
+the designation of the swap as a hedge at the date of inception and
+each subsequent measurement date.</para>
+                    </listitem>
+                    <listitem>
+                      <para>
+                        Examine documentation that supports the designation,
+documentation, and risk management requirements of FASB  (ASC) 815, .
+                        <emphasis role="italic">Accounting Standards Codification</emphasis>
+                        <emphasis role="italic">Derivatives and Hedging</emphasis>
+                      </para>
+                    </listitem>
+                    <listitem>
+                      <para>Recompute JLM’s calculation of hedge effectiveness
+using the methodology prescribed by management, noting whether the
+hedge effectiveness is assessed in a similar manner to other hedging
+strategies of JLM.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Read board of directors’ minutes for documentation
+of the board’s periodic review of hedging effectiveness.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The journal entries required to record the effect of the interest
+rate swap are appropriate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Review journal entries in relation to supporting documentation,
+including the broker-dealer’s advice and cancelled checks for interest
+payments made on the bond obligation and interest rate swap.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Presentation is appropriate and disclosure adequate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the financial statements, and compare the presentation
+and disclosure with the requirements of FASB ASC 815.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+</root>

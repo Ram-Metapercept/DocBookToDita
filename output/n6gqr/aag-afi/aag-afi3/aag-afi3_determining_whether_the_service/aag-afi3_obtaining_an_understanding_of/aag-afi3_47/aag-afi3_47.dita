@@ -1,0 +1,23 @@
+<root id="aag-afi3_47" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.47</titleabbrev>
+    <title role="ps_para_number">3.47</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The user auditor is required to evaluate
+the design and implementation of relevant controls at the user entity
+that relate to the service provided by a service organization. If there is a high degree of interaction between the user
+entity and service organization, the user entity may be able to implement
+effective controls over the services provided by the service organization,
+and the user auditor may not need to obtain information about controls
+at the service organization. If the user entity has not implemented
+effective controls over the service organization’s services, and the
+transactions processed or accounts or financial reporting processes
+affected by the service organization are material to the user entity’s
+financial statements, the user auditor will need to gain an understanding
+of relevant controls at the service organization.
+    <footnote id="aag-afi3_fn6" label="fn 6" role="number">
+      <para>Paragraph .10 of AU-C section 402B.</para>
+    </footnote>
+  </para>
+</root>

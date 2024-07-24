@@ -1,0 +1,42 @@
+<root id="aag-afi1_42" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.42</titleabbrev>
+    <title role="ps_para_number">1.42</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The following describes how models may
+be applied to value a common financial instrument, known as an asset-backed
+security. Because asset-backed securities are often valued based
+on level 2 or level 3 inputs, they are frequently valued using models
+and involve understanding the
+    <footnote id="aag-afi1_fn6" label="fn 6" role="number">
+      <para>
+        An  is
+a financial instrument that is backed by a pool of underlying assets
+(known as the collateral, such as credit card receivables or vehicle
+loans) and that derives value and income from those underlying assets.
+        <emphasis role="italic">asset-backed security</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>type of security, considering the underlying collateral
+and the terms of the security. The underlying collateral is used to
+estimate the timing and amounts of cash flows, such as mortgage or
+credit card interest and principal payments.</para>
+    </listitem>
+    <listitem>
+      <para>terms of the security. This includes evaluating contractual
+cash flow rights, such as the order of repayment, and any default
+events. The order of repayment, often known as seniority, refers to
+terms that require that some classes of security holders (senior debt)
+are repaid before others (subordinated debt). The rights of each class
+of security holder to the cash flows, frequently referred to as the
+cash flow "waterfall," together with assumptions of the timing and
+amount of cash flows, are used to derive a set of estimated cash flows
+for each class of security holder. The expected cash flows are then
+discounted to derive an estimated fair value.</para>
+    </listitem>
+  </itemizedlist>
+</root>

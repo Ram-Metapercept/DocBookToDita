@@ -1,0 +1,46 @@
+<root id="aag-afi1_other_controls_over_completeness" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Other Controls Over Completeness, Accuracy, and Existence</titleabbrev>
+    <title role="ps_main_heading">Other Controls Over Completeness, Accuracy,
+and Existence</title>
+  </sectioninfo>
+  <section id="aag-afi1_21" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.21</titleabbrev>
+      <title role="ps_para_number">1.21</title>
+    </sectioninfo>
+    <para role="ps_para_number">The complexity inherent in some financial
+instruments means it will not always be obvious how they should be
+recorded in the entity’s systems. In such cases, management may set
+up control processes to monitor policies that prescribe how particular
+types of transactions are measured, recorded, and accounted for. These
+policies are typically established and reviewed in advance by suitably
+qualified personnel who are capable of understanding the full effects
+of the financial instruments being booked.</para>
+  </section>
+  <section id="aag-afi1_22" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.22</titleabbrev>
+      <title role="ps_para_number">1.22</title>
+    </sectioninfo>
+    <para role="ps_para_number">Some transactions may be cancelled or
+amended after initial execution. Application of appropriate controls
+relating to cancellation or amendment can mitigate the risks of material
+misstatement due to fraud or error. In addition, an entity may have
+a process in place to reconfirm trades that are cancelled or amended.</para>
+  </section>
+  <section id="aag-afi1_23" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.23</titleabbrev>
+      <title role="ps_para_number">1.23</title>
+    </sectioninfo>
+    <para role="ps_para_number">In financial institutions with a high
+volume of trading, a senior employee typically reviews daily profits
+and losses on individual traders’ books to evaluate whether they are
+reasonable based on the employee’s knowledge of the market. Doing
+so may enable management to determine that particular trades were
+not completely or accurately recorded or may identify fraud by a particular
+trader. It is important that transaction authorization procedures
+exist that support the more senior review.</para>
+  </section>
+</root>

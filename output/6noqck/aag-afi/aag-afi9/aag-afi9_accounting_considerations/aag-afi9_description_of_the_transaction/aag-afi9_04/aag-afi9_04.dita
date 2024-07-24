@@ -1,0 +1,34 @@
+<root id="aag-afi9_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.04</titleabbrev>
+    <title role="ps_para_number">9.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The convertible bonds are hybrid financial
+instruments that are a combination of straight interest-bearing bonds
+and a conversion option. Because the option affects the value of the
+bonds in a manner similar to a derivative, Martin must analyze the
+hybrid instrument against the three criteria set out in FASB ASC 815-15-25-1. If the bond meets all the criteria, the option is an embedded
+derivative that must be accounted for separately from the straight
+bonds. The straight bonds are considered to be the host contracts
+for the embedded derivative. , "Martin, Inc., Comparison of the Conversion
+Option in the Larson Enterprises’ Bonds With the Criteria in FASB  815-15-25-1
+for Separately Accounting for an Embedded Derivative," compares the
+option contained in the Larson convertible bonds with the three criteria.
+    <footnote id="aag-afi9_fn5" label="fn 5" role="number">
+      <para>
+        Because Larson’s equity securities are publicly traded, the
+option that requires physical delivery of those shares would generally
+be considered net settleable because the shares are readily convertible
+into cash. As discussed in FASB ASC 815-10-15-18, if the shares were
+not readily convertible into cash (for example, because they are privately
+held), the option would not be considered net settleable and, therefore,
+would not be a derivative instrument subject to the requirements of
+FASB ASC 815, , if freestanding.
+        <emphasis role="italic">Derivatives and Hedging</emphasis>
+      </para>
+    </footnote>
+    <olink targetptr="aag-afi9_exhibit_9-1">Exhibit 9-1</olink>
+    <emphasis role="italic">Accounting Standards Codification</emphasis>
+  </para>
+</root>

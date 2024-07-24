@@ -1,0 +1,18 @@
+<root id="aag-afi10_03" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.03</titleabbrev>
+    <title role="ps_para_number">10.03</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The hedging instrument in this case study
+is an interest rate swap.  are contracts to exchange, for a period of time, the investment
+performance of one underlying instrument for the investment performance
+of another instrument without exchanging the instruments themselves.
+The interest rate swap used in this case study involves the swap of
+interest at a variable rate based on a designated benchmark interest
+rate (in this case study, 90-day London Interbank Offered Rate [LIBOR])
+multiplied by a notional principal amount for interest at a fixed
+rate multiplied by that same notional principal amount. 
+    <emphasis role="italic">Swaps</emphasis>
+  </para>
+</root>

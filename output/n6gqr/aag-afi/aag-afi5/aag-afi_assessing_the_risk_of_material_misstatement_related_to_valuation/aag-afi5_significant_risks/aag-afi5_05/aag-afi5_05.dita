@@ -1,0 +1,51 @@
+<root id="aag-afi5_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.05</titleabbrev>
+    <title role="ps_para_number">5.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">The auditor’s risk assessment process
+may lead the auditor to identify one or more significant risks relating
+to the valuation of financial instruments when any of the following
+circumstances exist:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        High measurement uncertainty related to the valuation
+of financial instruments (for example, those with unobservable inputs)
+        <footnote id="aag-afi5_fn4" label="fn 4" role="number">
+          <para>
+            When the auditor determines that the high estimation uncertainty
+related to the valuation of complex financial instruments gives rise
+to a significant risk, AU-C section 540B, , requires the auditor to perform
+substantive procedures and evaluate the adequacy of the disclosure
+of his or her estimation uncertainty. See paragraphs .11, .15, and
+.20 of AU-C section 540B.
+            <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+    <listitem>
+      <para>Lack of sufficient evidence to support management’s
+valuation of its financial instruments</para>
+    </listitem>
+    <listitem>
+      <para>Lack of management understanding of its financial
+instruments or expertise necessary to value such instruments properly,
+including the ability to determine whether valuation adjustments are
+needed</para>
+    </listitem>
+    <listitem>
+      <para>Lack of management understanding of complex requirements
+in the applicable financial reporting framework relating to measurement
+and disclosure of financial instruments and the inability of management
+to make the judgments required to properly apply those requirements</para>
+    </listitem>
+    <listitem>
+      <para>The significance of valuation adjustments made to
+valuation technique outputs when the applicable financial reporting
+framework requires or permits such adjustments.</para>
+    </listitem>
+  </itemizedlist>
+</root>

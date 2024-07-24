@@ -1,0 +1,170 @@
+<root id="aag-afi7_08" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.08</titleabbrev>
+    <title role="ps_para_number">7.08</title>
+  </sectioninfo>
+  <para role="ps_para_number">The $150,000 unrealized holding loss related
+to the bond at the time of the reclassification would continue to
+be reported in accumulated other comprehensive income. Each year,
+BEV will receive $48,000 in cash from the issuer of the bond, which
+is 6% of the bond’s $800,000 face amount. An effective interest rate
+of 11.08393% would discount 5 annual payments of $48,000 and an $800,000
+principal payment at the end of the fifth year to the bond’s $650,000
+carrying amount when the classification is changed. Accordingly, the
+difference between the result of applying this rate to the bond’s
+carrying amount and the $48,000 stated interest should be recorded
+as amortization of the discount. As the following table illustrates,
+the substance of the accounting is that each year, cash increases
+$48,000; the bond’s carrying amount increases by the discount amortization;
+and equity increases by the result of applying 11.08393% to the carrying
+amount of the bond at the beginning of the year:</para>
+  <table frame="none" id="aag-afi7_table2" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="5" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="0.62in"/>
+      <colspec colname="c3" colwidth="1.00in"/>
+      <colspec colname="c5" colwidth="1.00in"/>
+      <colspec colname="c7" colwidth="1.00in"/>
+      <colspec colname="c9" colwidth="1.00in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="0" valign="bottom">
+            <para>
+              <emphasis role="italic">Year</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" valign="bottom">
+            <para>
+              <emphasis role="italic">Carrying Amount of the Bond</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" valign="bottom">
+            <para>
+              <emphasis role="italic">Cash Received</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" valign="bottom">
+            <para>
+              <emphasis role="italic">Discount Amortization</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" valign="bottom">
+            <para>
+              <emphasis role="italic">Total Increase in Equity</emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>1</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$650,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$48,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$24,046</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$72,046</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>2</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 674,046</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 48,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 26,711</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 74,711</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>3</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 700,757</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 48,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 29,671</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 77,671</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>4</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 730,428</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 48,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 32,960</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 80,960</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="center" colsep="0" rowsep="0" valign="bottom">
+            <para>5</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 763,388</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>48,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 36,612</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="1" valign="bottom">
+            <para> 84,612</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$800,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$240,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$150,000</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$390,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="0" nameend="c9" namest="c1" rowsep="0" valign="bottom">
+            <para>The $390,000 cumulative increase in equity over the 5 remaining
+years the bond is outstanding equals the $240,000 interest received
+plus the amortization of the $150,000 unrealized loss at the date
+of reclassification.</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

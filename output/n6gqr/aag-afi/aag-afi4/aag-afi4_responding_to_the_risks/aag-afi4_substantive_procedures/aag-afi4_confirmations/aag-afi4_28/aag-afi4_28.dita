@@ -1,0 +1,47 @@
+<root id="aag-afi4_28" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.28</titleabbrev>
+    <title role="ps_para_number">4.28</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    When an electronic confirmation process
+or system is used, the auditor’s consideration of the risks includes
+the consideration of risks that the electronic confirmation process
+is not secure or is improperly controlled. An electronic confirmation system or process that creates
+a secure confirmation environment may mitigate the risks of interception
+or alteration. Creating a secure confirmation environment depends
+on the process or mechanism used by the auditor and respondent to
+minimize the possibility that the results will be compromised because
+of interception or alteration of the confirmation. If the auditor
+is satisfied that such a system or process is secure and properly
+controlled, evidence provided by responses received using the system
+or process may be considered reliable. Various means might be used
+to validate the source of the electronic information. For example,
+the use of encryption, electronic digital signatures, and procedures
+to verify website authenticity may improve the security of the electronic
+confirmation system or process. If a system or process that facilitates
+electronic confirmation between the auditor and respondent is in place,
+and the auditor plans to rely on the controls over such a system or
+process, an assurance trust services report (for example, Systrust)
+or another assurance report on that system or process may assist the
+auditor in assessing the design and operating effectiveness of the
+electronic and manual controls with respect to that system or process.
+Such an assurance report may address the risks described in paragraph
+.A13 of AU-C section 505B. If these risks are not adequately addressed
+in such a report, the auditor may perform additional procedures to
+address those risks. For example, the auditor may determine that it is appropriate
+to address such risks by directly contacting the purported sender
+(for example, by telephone) to validate the identity of the sender
+of the response and to validate that the information received by the
+auditor corresponds to what was transmitted by the sender.
+    <footnote id="aag-afi4_fn7" label="fn 7" role="number">
+      <para>
+        Paragraph .A13 of AU-C section 505B, .
+        <emphasis role="italic">External Confirmations</emphasis>
+      </para>
+    </footnote>
+    <footnote id="aag-afi4_fn8" label="fn 8" role="number">
+      <para>Paragraph .A15 of AU-C section 505B.</para>
+    </footnote>
+  </para>
+</root>

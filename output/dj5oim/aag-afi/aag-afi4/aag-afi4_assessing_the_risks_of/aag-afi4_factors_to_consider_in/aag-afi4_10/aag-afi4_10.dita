@@ -1,0 +1,21 @@
+<root id="aag-afi4_10" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.10</titleabbrev>
+    <title role="ps_para_number">4.10</title>
+  </sectioninfo>
+  <para role="ps_para_number">Entities with a high volume of trading
+and use of financial instruments may have more sophisticated controls
+and an effective risk management function; therefore, the auditor
+may be more likely to test controls in obtaining evidence about the
+following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The occurrence, completeness, valuation, accuracy,
+and cutoff of the transactions</para>
+    </listitem>
+    <listitem>
+      <para>The existence, rights and obligations, and completeness
+of account balances</para>
+    </listitem>
+  </itemizedlist>
+</root>

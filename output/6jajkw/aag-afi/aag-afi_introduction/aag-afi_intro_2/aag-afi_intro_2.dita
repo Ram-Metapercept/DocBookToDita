@@ -1,0 +1,63 @@
+<root id="aag-afi_intro_2" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>I.2</titleabbrev>
+    <title role="ps_para_number">I.2</title>
+  </sectioninfo>
+  <para role="ps_para_number">The following AU-C sections are particularly
+relevant to audits of financial instruments:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        AU-C section 540B, , addresses the auditor’s responsibilities relating to auditing
+accounting estimates, including accounting estimates related to financial
+instruments measured at fair value.
+        <emphasis role="italic">Auditing
+Accounting Estimates, Including Fair Value Accounting Estimates, and
+Related Disclosures</emphasis>
+        <footnote id="aag-afi_introduction_fn1" label="fn 1" role="number">
+          <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of SAS Nos. 134–140 or or the amendments to other
+SASs made by SAS Nos. 134–140 and subsequently issued SASs.</para>
+          <para>
+            All AU-C sections can be found in AICPA .
+            <tab/>
+            <olink targetdoc="ps" targetptr="ps">
+              <emphasis role="italic">Professional
+Standards</emphasis>
+            </olink>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        AU-C section 315B, , and AU-C section 330B, , address identifying and assessing
+risks of material misstatement and responding to those risks.
+        <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement </emphasis>
+        <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        AU-C section 500B, , explains what constitutes audit evidence and addresses the auditor’s
+responsibility to design and perform audit procedures to obtain sufficient
+appropriate audit evidence to be able to draw reasonable conclusions
+on which to base the auditor’s opinion.
+        <emphasis role="italic">Audit Evidence</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        AU-C section 501B, , addresses
+certain specific aspects relating to auditing the valuation of investments
+in securities and derivative instruments. 
+        <emphasis role="italic">Audit Evidence
+— Specific Considerations for Selected Items</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,1078 @@
+<root id="aag-afi_index_of_pronouncements" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Index of Pronouncements and Other Technical Guidance</titleabbrev>
+    <title role="ps_section_title">Index of Pronouncements and Other Technical
+Guidance</title>
+  </chapterinfo>
+  <section id="aag-afi_index_of_pronouncements_a" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>A</titleabbrev>
+      <title role="ps_main_heading">A</title>
+    </sectioninfo>
+    <table frame="all" id="aag-afi_index_of_pronouncements_table1" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="6in"/>
+        <colspec colname="c2" colwidth="3in"/>
+        <thead>
+          <row>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Title</emphasis>
+              </para>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Paragraphs</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>AT-C Section </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                315, 
+                <emphasis role="italic">Compliance Attestation</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                320, 
+                <emphasis role="italic">Reporting on
+an Examination of Controls at a Service Organization Relevant to User
+Entities’ Internal Control Over Financial Reporting</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_49">3.49</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>AU-C Section</para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                200B, 
+                <emphasis role="italic">Overall Objectives
+of the Independent Auditor and the Conduct of an Audit in Accordance
+With Generally Accepted Auditing Standards</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi4_05">4.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                220B, 
+                <emphasis role="italic">Quality Control
+for an Engagement Conducted in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi2_09">2.09</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                260B, 
+                <emphasis role="italic">The Auditor’s
+Communication With Those Charged With Governance</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , 
+                <olink targetptr="aag-afi6_09">6.09</olink>
+                <olink targetptr="aag-afi6_32">6.32</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                315B, 
+                <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , 
+                <olink targetptr="aag-afi3_01">3.01–.03</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi7_20">7.20</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                330B, 
+                <emphasis role="italic">Performing
+Audit Procedures in Response to Assessed Risks and Evaluation the
+Audit Evidence Obtained</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , , 
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi4_09">4.09</olink>
+                <olink targetptr="aag-afi4_13">4.13</olink>
+                <olink targetptr="aag-afi5_06">5.06</olink>
+                <olink targetptr="aag-afi6_03">6.03</olink>
+                <olink targetptr="aag-afi6_14">6.14</olink>
+                <olink targetptr="aag-afi11_38">11.38</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                402B, 
+                <emphasis role="italic">Audit Considerations
+Relating to an Entity Using a Service Organization</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , 
+                <olink targetptr="aag-afi3_14">3.14</olink>
+                <olink targetptr="aag-afi3_40">3.40–.41</olink>
+                <olink targetptr="aag-afi8_12">8.12</olink>
+                <olink targetptr="aag-afi8_24">8.24</olink>
+                <olink targetptr="aag-afi8_26">8.26</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                450B, 
+                <emphasis role="italic">Evaluation
+of Misstatements Identified During the Audit</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi6_04">6.04</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                500B, 
+                <emphasis role="italic">Audit Evidence</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , 
+                <olink targetptr="aag-afi4_13">4.13</olink>
+                <olink targetptr="aag-afi5_12">5.12</olink>
+                <olink targetptr="aag-afi5_46">5.46</olink>
+                <olink targetptr="aag-afi_appD">Appendix D</olink>
+                <olink targetptr="aag-afi_appE">Appendix E</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                501B, 
+                <emphasis role="italic">Audit Evidence
+— Specific Considerations for Selected Items</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , 
+                <olink targetptr="aag-afi5_42">5.42</olink>
+                <olink targetptr="aag-afi9_02">9.02</olink>
+                <olink targetptr="aag-afi10_05">10.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                505B, 
+                <emphasis role="italic">External Confirmations</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , 
+                <olink targetptr="aag-afi4_24">4.24–.25</olink>
+                <olink targetptr="aag-afi4_27">4.27–.28</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                540B, 
+                <emphasis role="italic">Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , , , , , , 
+                <olink targetptr="aag-afi2_05">2.05</olink>
+                <olink targetptr="aag-afi3_57">3.57</olink>
+                <olink targetptr="aag-afi4_03">4.03</olink>
+                <olink targetptr="aag-afi5_03">5.03</olink>
+                <olink targetptr="aag-afi5_06">5.06</olink>
+                <olink targetptr="aag-afi5_09">5.09</olink>
+                <olink targetptr="aag-afi5_17">5.17</olink>
+                <olink targetptr="aag-afi5_27">5.27</olink>
+                <olink targetptr="aag-afi5_48">5.48</olink>
+                <olink targetptr="aag-afi6_01">6.01</olink>
+                <olink targetptr="aag-afi6_23">6.23</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                580B, 
+                <emphasis role="italic">Written Representations</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi6_29">6.29–.30</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                600B, 
+                <emphasis role="italic">Special Considerations
+— Audits of Group Financial Statements</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi5_33">5.33–.39</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                620B, 
+                <emphasis role="italic">Using the Work
+of an Auditor’s Specialist</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                 at 10.25
+                <olink targetptr="aag-afi10_table1">Table</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                705B, 
+                <emphasis role="italic">Modifications
+to the Opinion in the Independent Auditor’s Report</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , 
+                <olink targetptr="aag-afi3_54">3.54</olink>
+                <olink targetptr="aag-afi5_49">5.49</olink>
+                <olink targetptr="aag-afi6_09">6.09</olink>
+                <olink targetptr="aag-afi6_17">6.17</olink>
+                <olink targetptr="aag-afi6_18">6.18</olink>
+                <olink targetptr="aag-afi6_21">6.21</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                706B, 
+                <emphasis role="italic">Emphasis-of-Matter
+Paragraphs and Other-Matter Paragraphs in the Independent Auditor’s
+Report</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , 
+                <olink targetptr="aag-afi6_15">6.15</olink>
+                <olink targetptr="aag-afi6_27">6.27</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                708B, 
+                <emphasis role="italic">Consistency
+of Financial Statements</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi5_35">5.35</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                720B, 
+                <emphasis role="italic">Other Information
+in Documents Containing Audited Financial Statements</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi6_28">6.28</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                725B, 
+                <emphasis role="italic">Supplementary
+Information in Relation to the Financial Statements as a Whole</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi6_25">6.25–.27</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                805B, 
+                <emphasis role="italic">Special Considerations
+— Audits of Single Financial Statements and Specific Elements, Accounts,
+or Items of a Financial Statement</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi6_24">6.24</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                Audit and Accounting Guide 
+                <emphasis role="italic">Service Organizations:
+Reporting on Controls at a Service Organization Relevant to User Entities’
+Internal Control Over Financial Reporting</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_51">3.51</olink>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <section id="aag-afi_index_of_pronouncements_f" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>F</titleabbrev>
+      <title role="ps_main_heading">F</title>
+    </sectioninfo>
+    <table frame="all" id="aag-afi_index_of_pronouncements_table2" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="6in"/>
+        <colspec colname="c2" colwidth="3in"/>
+        <thead>
+          <row>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">TItle</emphasis>
+              </para>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Paragraphs</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>FASB ASC </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                320, 
+                <emphasis role="italic">Investments
+— Debt and Equity Securities</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , ,  at 7.25,  at 8.15,  at 8.21
+                <olink targetptr="aag-afi7_05">7.05</olink>
+                <olink targetptr="aag-afi7_14">7.14</olink>
+                <olink targetptr="aag-afi7_18">7.18</olink>
+                <olink targetptr="aag-afi8_28">8.28</olink>
+                <olink targetptr="aag-afi9_15">9.15–.16</olink>
+                <olink targetptr="aag-afi7_table1">Table</olink>
+                <olink targetptr="aag-afi8_table1">Table</olink>
+                <olink targetptr="aag-afi8_table2">Table</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">320-10</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , ,  at 9.06,  at 8.15,  at 8.21
+                <olink targetptr="aag-afi7_05">7.05</olink>
+                <olink targetptr="aag-afi7_10">7.10</olink>
+                <olink targetptr="aag-afi8_28">8.28</olink>
+                <olink targetptr="aag-afi9_exhibit_9-1">Exhibit 9-1</olink>
+                <olink targetptr="aag-afi8_table1">Table</olink>
+                <olink targetptr="aag-afi8_table2">Table</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                321, 
+                <emphasis role="italic">Investments
+— Equity Securities</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi8_04">8.04</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                326, 
+                <emphasis role="italic">Credit Losses</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">326-20</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , 
+                <olink targetptr="aag-afi7_05">7.05</olink>
+                <olink targetptr="aag-afi7_16">7.16</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                450, 
+                <emphasis role="italic">Accounting for
+Contingencies</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi11_15">11.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                470, 
+                <emphasis role="italic">Debt</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">470-50</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi9_05">9.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                815, 
+                <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , , ,  at 9.06,  at 10.25,  at 11.40
+                <olink targetptr="aag-afi6_11">6.11–.12</olink>
+                <olink targetptr="aag-afi9_02">9.02</olink>
+                <olink targetptr="aag-afi9_06">9.06</olink>
+                <olink targetptr="aag-afi9_15">9.15–.16</olink>
+                <olink targetptr="aag-afi10_23">10.23</olink>
+                <olink targetptr="aag-afi11_35">11.35–.36</olink>
+                <olink targetptr="aag-afi11_38">11.38</olink>
+                <olink targetptr="aag-afi9_exhibit_9-1">Exhibit 9-1</olink>
+                <olink targetptr="aag-afi10_table1">Table</olink>
+                <olink targetptr="aag-afi11_table1">Table</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">815-10</para>
+            </entry>
+            <entry align="right">
+              <para>
+                 at
+9.06
+                <olink targetptr="aag-afi9_exhibit_9-1">Exhibit 9-1</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">815-15</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , ,  at 9.22
+                <olink targetptr="aag-afi9_02">9.02</olink>
+                <olink targetptr="aag-afi9_04">9.04–.06</olink>
+                <olink targetptr="aag-afi9_table1">Table</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">815-20</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , , 
+                <olink targetptr="aag-afi6_14">6.14</olink>
+                <olink targetptr="aag-afi10_08">10.08</olink>
+                <olink targetptr="aag-afi10_12">10.12</olink>
+                <olink targetptr="aag-afi11_08">11.08</olink>
+                <olink targetptr="aag-afi11_14">11.14–.15</olink>
+                <olink targetptr="aag-afi11_17">11.17</olink>
+                <olink targetptr="aag-afi11_18">11.18</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">815-25</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , 
+                <olink targetptr="aag-afi6_13">6.13</olink>
+                <olink targetptr="aag-afi10_10">10.10</olink>
+                <olink targetptr="aag-afi10_11">10.11</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">815-30</para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , 
+                <olink targetptr="aag-afi11_14">11.14</olink>
+                <olink targetptr="aag-afi11_16">11.16</olink>
+                <olink targetptr="aag-afi11_18">11.18</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                820, 
+                <emphasis role="italic">Fair Value Measurement
+and Disclosures</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , 
+                <olink targetptr="aag-afi1_62">1.62</olink>
+                <olink targetptr="aag-afi7_13">7.13</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">820-10</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi1_62">1.62–.64</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                825, 
+                <emphasis role="italic">Financial Instruments</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_2">825-10</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi9_05">9.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>FASB ASU</para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 2018-13, 
+                <emphasis role="italic">Fair
+Value Measurement (Topic 820): Disclosure Framework — Changes to the
+Disclosure Requirements for Fair Value Measurement</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi1_63">1.63</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 2019-04, 
+                <emphasis role="italic">Codification
+Improvements to Topic 326, Financial Instruments — Credit Losses,
+Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi7_05">7.05</olink>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <section id="aag-afi_index_of_pronouncements_q" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Q</titleabbrev>
+      <title role="ps_main_heading">Q</title>
+    </sectioninfo>
+    <table frame="all" id="aag-afi_index_of_pronouncements_table3" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="6in"/>
+        <colspec colname="c2" colwidth="3in"/>
+        <thead>
+          <row>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Title</emphasis>
+              </para>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Paragraphs</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>Q&amp;A Section</para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">2220.18, "Applicability of Practical Expedient"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi4_37">4.37</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">8200.17, "Obtaining an Understanding of Business
+Processes Relevant to Financial Reporting and Communication"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_05">3.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">8200.18, "Obtaining an Understanding of the
+Internal Control Relevant to the Audit"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_05">3.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">8200.19, "Obtaining an Understanding of the
+Controls Relevant to the Audit"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_05">3.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">8200.20, "Control Activities That Are Always
+Relevant to the Audit"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_05">3.05</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">8200.21, "Control Activities That May Be
+Relevant to the Audit"</para>
+            </entry>
+            <entry align="right">
+              <para>
+                <olink targetptr="aag-afi3_05">3.05</olink>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <section id="aag-afi_index_of_pronouncements_s" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>S</titleabbrev>
+      <title role="ps_main_heading">S</title>
+    </sectioninfo>
+    <table frame="all" id="aag-afi_index_of_pronouncements_table4" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="6in"/>
+        <colspec colname="c2" colwidth="3in"/>
+        <thead>
+          <row>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Title</emphasis>
+              </para>
+            </entry>
+            <entry align="center" role="shade" valign="bottom">
+              <para>
+                <emphasis role="italic">Paragraphs</emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>SAS </para>
+            </entry>
+            <entry align="right">
+              <para/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 134, 
+                <emphasis role="italic">Auditor
+Reporting and Amendments, Including Amendments Addressing Disclosures
+in the Audit of Financial Statements</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 135, 
+                <emphasis role="italic">Omnibus
+Statement on Auditing Standards — 2019</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para role="ps_indent_1">
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 136, 
+                <emphasis role="italic">Forming
+an Opinion and Reporting on Financial Statements of Employee Benefit
+Plans Subject to ERISA</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 137, 
+                <emphasis role="italic">The Auditor’s
+Responsibilities Relating to Other Information Included in Annual
+Reports</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 138, 
+                <emphasis role="italic">Amendments
+to the Description of the Concept of Materiality</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 139, 
+                <emphasis role="italic">Amendments
+to AU-C Sections 800, 805, and 810 to Incorporate Auditor Reporting
+Changes From SAS No. 134</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 140, 
+                <emphasis role="italic">Amendments
+to AU-C Sections 725, 730, 930, 935, and 940 to Incorporate Auditor
+Reporting Changes From SAS Nos. 134 and 137</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 141, 
+                <emphasis role="italic">Amendment
+to the Effective Date of SAS Nos. 134–140</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , 
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi6_15">6.15</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 142, 
+                <emphasis role="italic">Audit Evidence</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , 
+                <olink targetptr="aag-afi2_01">2.01</olink>
+                <olink targetptr="aag-afi3_01">3.01</olink>
+                <olink targetptr="aag-afi5_01">5.01</olink>
+                <olink targetptr="aag-afi8_01">8.01</olink>
+                <olink targetptr="aag-afi9_13">9.13</olink>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para role="ps_indent_1">
+                No. 143, 
+                <emphasis role="italic">Auditing
+Accounting Estimates and Related Disclosures</emphasis>
+              </para>
+            </entry>
+            <entry align="right">
+              <para>
+                , , , , , , , 
+                <olink targetptr="aag-afi2_01">2.01</olink>
+                <olink targetptr="aag-afi4_01">4.01</olink>
+                <olink targetptr="aag-afi5_41">5.41</olink>
+                <olink targetptr="aag-afi6_01">6.01</olink>
+                <olink targetptr="aag-afi6_05">6.05</olink>
+                <olink targetptr="aag-afi7_12">7.12</olink>
+                <olink targetptr="aag-afi8_01">8.01</olink>
+                <olink targetptr="aag-afi9_13">9.13</olink>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+</root>

@@ -1,0 +1,19 @@
+<root id="aag-afi11_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.04</titleabbrev>
+    <title role="ps_para_number">11.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The value of an option during its life
+has two components: the intrinsic value and time value. The term  is defined in the FASB ASC
+glossary as the amount by which fair value of the underlying stock
+exceeds the exercise price of an option (or the difference between
+the underlying spot price and option exercise price, which would be
+the strike rate, in this case study) if that difference is positive
+for the option holder. Intrinsic value is the net amount that would
+be realized upon immediate exercise of the option and sale of the
+underlying instrument (foreign currency, in this case study), and
+it can never be negative for the option holder.
+    <emphasis role="italic">intrinsic value</emphasis>
+  </para>
+</root>

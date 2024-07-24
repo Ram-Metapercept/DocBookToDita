@@ -1,0 +1,34 @@
+<root id="aag-afi1_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.02</titleabbrev>
+    <title role="ps_para_number">1.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">Financial instruments vary in complexity,
+though the complexity of the financial instrument can come from different
+sources, such as</para>
+  <para role="ps_indent_0">The higher the variability of cash flows
+to changes in market conditions, the more likely the complexity and
+uncertainty of the fair value measurement of the financial instrument.
+In addition, sometimes, financial instruments that, ordinarily, are
+relatively easy to value become complex to value because of particular
+circumstances (for example, instruments for which the market has become
+inactive or that have lengthy contractual terms). Derivatives and
+structured products become more complex when they are a combination
+of individual financial instruments. </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>a very high volume of individual cash flows in which
+a lack of homogeneity requires analysis of each one or a large number
+of grouped cash flows to evaluate (for example, collateralized debt
+obligations).</para>
+    </listitem>
+    <listitem>
+      <para>complex formulas for determining the cash flows.</para>
+    </listitem>
+    <listitem>
+      <para>uncertainty or variability of future cash flows, such
+as that arising from credit risk, volatility associated with option
+contracts, or financial instruments with lengthy contractual terms.</para>
+    </listitem>
+  </itemizedlist>
+</root>

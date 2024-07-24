@@ -1,0 +1,59 @@
+<root id="aag-afi1_41" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.41</titleabbrev>
+    <title role="ps_para_number">1.41</title>
+  </sectioninfo>
+  <para role="ps_para_number">Depending on the circumstances, matters
+that the entity may address when establishing or validating a model
+for a financial instrument include whether</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the model is validated prior to usage, with periodic
+reviews to ensure that it is still suitable for its intended use.
+The entity’s validation process may include evaluation of the</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>methodology’s theoretical soundness and mathematical
+integrity, including the appropriateness of parameters and sensitivities.</para>
+    </listitem>
+    <listitem>
+      <para>consistency and completeness of the model’s inputs
+with market practices and whether the appropriate inputs are available
+for use in the model.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>appropriate change control policies, procedures, and
+security controls over the model exist.</para>
+    </listitem>
+    <listitem>
+      <para>the model is appropriately changed or adjusted on
+a timely basis for changes in market conditions.</para>
+    </listitem>
+    <listitem>
+      <para>the model is periodically calibrated, reviewed, and
+tested for validity by a separate and objective function. Doing so
+is a means of ensuring that the model’s output is a fair representation
+of the value that marketplace participants would ascribe to a financial
+instrument.</para>
+    </listitem>
+    <listitem>
+      <para>the model maximizes the use of relevant observable
+inputs and minimizes the use of unobservable inputs.</para>
+    </listitem>
+    <listitem>
+      <para>adjustments are made to the output of the model to
+reflect the assumptions that marketplace participants would use in
+similar circumstances.</para>
+    </listitem>
+    <listitem>
+      <para>the model is adequately documented, including the
+model’s intended applications and limitations and its key parameters,
+required data, results of any validation analysis performed, and any
+adjustments made to the output of the model.</para>
+    </listitem>
+  </itemizedlist>
+</root>

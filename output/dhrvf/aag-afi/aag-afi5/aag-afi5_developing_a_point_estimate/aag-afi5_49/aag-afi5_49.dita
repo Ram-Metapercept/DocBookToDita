@@ -1,0 +1,31 @@
+<root id="aag-afi5_49" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.49</titleabbrev>
+    <title role="ps_para_number">5.49</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    In some cases, the auditor may conclude
+that sufficient evidence cannot be obtained from the auditor’s attempts
+to obtain an understanding of management’s assumptions or methodology
+(for example, when a third-party pricing source uses internally developed
+models and software and does not allow access to relevant information).
+In such cases, the auditor may not be able to obtain sufficient appropriate
+audit evidence about the valuation if the auditor is unable to perform
+other procedures to respond to the risks of material misstatement,
+such as developing a point estimate or range to evaluate management’s
+point estimate, as discussed in . AU-C section 705B, , describes
+the implications of the auditor’s inability to obtain sufficient appropriate
+audit evidence.
+    <olink targetptr="aag-afi5_47">paragraph
+5.47</olink>
+    <footnote id="aag-afi5_fn13" label="fn 13" role="number">
+      <para>
+        Paragraph .13 of AU-C section
+540B.
+        <emphasis role="italic">d</emphasis>
+      </para>
+    </footnote>
+    <emphasis role="italic">Modifications
+to the Opinion in the Independent Auditor’s Report</emphasis>
+  </para>
+</root>

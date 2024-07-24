@@ -1,0 +1,24 @@
+<root id="aag-afi3_14" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.14</titleabbrev>
+    <title role="ps_para_number">3.14</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Entities may use service organizations
+(for example, asset managers) to initiate the purchase or sale of
+financial instruments, maintain records of transactions for the entity,
+or value financial instruments. Some entities may be dependent on
+these service organizations to provide the basis of reporting for
+the financial instruments held. However, if management does not have
+an understanding about the controls in place at a service organization,
+the auditor may not be able to obtain sufficient appropriate audit
+evidence to rely on controls at that service organization. AU-C section
+402B, , establishes requirements
+for the auditor to obtain sufficient appropriate audit evidence when
+an entity uses the services of one or more service organizations.  provide further
+guidance about the use of a service organization.
+    <emphasis role="italic">Audit Considerations Relating to an
+Entity Using a Service Organization</emphasis>
+    <olink targetptr="aag-afi3_40">Paragraphs 3.40–.54</olink>
+  </para>
+</root>

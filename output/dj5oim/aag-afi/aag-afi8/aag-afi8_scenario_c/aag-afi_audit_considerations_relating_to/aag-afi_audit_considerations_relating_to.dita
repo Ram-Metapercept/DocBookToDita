@@ -1,0 +1,86 @@
+<root id="aag-afi_audit_considerations_relating_to" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Audit Considerations Relating to an Entity Using a Service
+Organization</titleabbrev>
+    <title role="ps_sub_heading">Audit Considerations Relating to an Entity
+Using a Service Organization</title>
+  </sectioninfo>
+  <section id="aag-afi8_30" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.30</titleabbrev>
+      <title role="ps_para_number">8.30</title>
+    </sectioninfo>
+    <para role="ps_para_number">In determining the nature and extent of
+audit evidence to be obtained for financial statement balances representing
+assets held or transactions processed by a service organization for
+a user entity, the following procedures may be considered by the user
+auditor:</para>
+    <para role="ps_indent_hang_2">
+      . The reliability
+of this source of evidence is determined by the nature and extent
+of the accounting records and supporting documentation retained by
+the user entity. In some cases, the user entity may not maintain independent
+detailed records or documentation of specific transactions undertaken
+on its behalf. 
+      <emphasis role="italic">
+        a.Inspecting
+records and documents held by the user entity
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      .
+The user auditor’s access to the records of the service organization
+may be established as part of the contractual arrangements between
+the user entity and service organization. The user auditor may also
+use another auditor on its behalf to gain access to the user entity’s
+records maintained by the service organization or may ask the service
+organization through the user entity for access to the user entity’s
+records maintained by the service organization.
+      <emphasis role="italic">
+        b.Inspecting
+records and documents held by the service organization
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      . When the user entity maintains independent records of balances
+and transactions, confirmation from the service organization corroborating
+those records usually constitutes reliable audit evidence concerning
+the existence of the transactions and assets concerned. For example,
+when multiple service organizations are used, such as an investment
+manager and a custodian, and these service organizations maintain
+independent records, the user auditor may confirm balances with these
+organizations in order to compare this information with the independent
+records of the user entity. If the user entity does not maintain independent
+records, information obtained in confirmations from the service organization
+is merely a statement of what is reflected in the records maintained
+by the service organization. Therefore, such confirmations do not,
+taken alone, constitute reliable audit evidence. In these circumstances,
+the user auditor may consider whether an alternative source of independent
+evidence can be identified.
+      <emphasis role="italic">
+        c.Obtaining
+confirmations of balances and transactions from the service organization
+        <tab/>
+      </emphasis>
+      <footnote id="aag-afi8_fn9" label="fn 9" role="number">
+        <para>
+          Paragraph .A27 of AU-C section 402B, .
+          <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service Organization</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para role="ps_indent_hang_2">
+      . The effectiveness of analytical procedures is likely to vary by
+assertion and will be affected by the extent and detail of information
+available.
+      <emphasis role="italic">
+        d.Performing
+analytical procedures on the records maintained by the user entity
+or on the reports received from the service organization
+        <tab/>
+      </emphasis>
+    </para>
+  </section>
+</root>

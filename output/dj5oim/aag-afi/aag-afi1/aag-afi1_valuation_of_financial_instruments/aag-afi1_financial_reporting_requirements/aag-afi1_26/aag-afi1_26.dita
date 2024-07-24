@@ -1,0 +1,81 @@
+<root id="aag-afi1_26" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.26</titleabbrev>
+    <title role="ps_para_number">1.26</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Some financial reporting frameworks establish
+a fair value hierarchy to develop increased consistency and comparability
+in fair value measurements and related disclosures. The inputs may be classified into different levels, such
+as
+    <footnote id="aag-afi1_fn5" label="fn 5" role="number">
+      <para>FASB ASC 820-10-35-37 notes that the fair value hierarchy categorizes
+into three levels the inputs to valuation techniques used to measure
+fair value. The fair value hierarchy gives the highest priority to
+quoted prices (unadjusted) in active markets for identical assets
+or liabilities and the lowest priority to unobservable inputs. </para>
+    </footnote>
+  </para>
+  <para role="ps_indent_0">In general, measurement uncertainty increases
+as a financial instrument moves from level 1 to level 2 or level 2
+to level 3. Also, within level 2, there may be a wide range of measurement
+uncertainty depending on the observability of inputs, the complexity
+and valuation of the financial instrument, and other factors.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        ,
+which are quoted prices (unadjusted) in active markets for identical
+financial assets or liabilities that the entity can access at the
+measurement date.
+        <emphasis role="italic">level 1 inputs</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        ,
+which are inputs other than quoted prices included within level 1
+that are observable for the financial asset or liability either directly
+or indirectly. If the financial asset or liability has a specified
+(contractual) term, a level 2 input must be observable for substantially
+the full term of the financial asset or liability. Level 2 inputs
+include the following:
+        <emphasis role="italic">level 2 inputs</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>Quoted prices for similar financial assets or liabilities
+in active markets</para>
+    </listitem>
+    <listitem>
+      <para>Quoted prices for identical or similar financial assets
+or liabilities in markets that are not active</para>
+    </listitem>
+    <listitem>
+      <para>Inputs other than quoted prices that are observable
+for the financial asset or liability (for example, interest rates
+and yield curves observable at commonly quoted intervals, implied
+volatilities, and credit spreads)</para>
+    </listitem>
+    <listitem>
+      <para>Inputs that are derived principally from, or corroborated
+by, observable market data by correlation or other means (market-corroborated
+inputs)</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        ,
+which are unobservable inputs for the financial asset or liability.
+Unobservable inputs are used to measure fair value to the extent that
+relevant observable inputs are not available, thereby allowing for
+situations in which there is little, if any, market activity for the
+financial asset or liability at the measurement date.
+        <emphasis role="italic">level 3 inputs</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

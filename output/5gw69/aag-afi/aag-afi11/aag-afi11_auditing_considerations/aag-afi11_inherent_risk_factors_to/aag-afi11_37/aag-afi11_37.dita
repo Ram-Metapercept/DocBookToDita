@@ -1,0 +1,27 @@
+<root id="aag-afi11_37" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.37</titleabbrev>
+    <title role="ps_para_number">11.37</title>
+  </sectioninfo>
+  <para role="ps_para_number">The following inherent risk factors have
+been identified:</para>
+  <para role="ps_indent_0">Based on the preceding factors, the auditor
+determines inherent risk to be high.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Because small amounts of cash are required to enter
+into the options, there is an increased inherent risk that the options
+will not be identified.</para>
+    </listitem>
+    <listitem>
+      <para>The complexity of accounting for the put options and
+hedging activities leads to an increased inherent risk that the transactions
+will not be accounted for in conformity with the applicable financial
+reporting framework.</para>
+    </listitem>
+    <listitem>
+      <para>The options are not exchange traded, which increases
+the inherent risk that valuations will be inappropriate.</para>
+    </listitem>
+  </itemizedlist>
+</root>

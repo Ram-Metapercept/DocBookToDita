@@ -1,0 +1,71 @@
+<root id="pra-sqcs_1_relevant_ethical_requirements" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Relevant Ethical Requirements</titleabbrev>
+    <title role="ps_main_heading">Relevant Ethical Requirements</title>
+  </sectioninfo>
+  <section id="pra-sqcs_1_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.10</titleabbrev>
+      <title role="ps_para_number">1.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">The purpose of the relevant ethical requirements
+element of a system of quality control is to provide the firm with
+reasonable assurance that the firm and its personnel comply with relevant
+ethical requirements when discharging professional responsibilities.
+Relevant ethical requirements include independence, integrity, and
+objectivity. Establishing and maintaining policies such as the following
+assist the firm in obtaining this assurance:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Require that personnel adhere to relevant ethical
+requirements such as those in regulations, interpretations, and rules
+of the AICPA, state CPA societies, state boards of accountancy, state
+statutes, the U.S. Government Accountability Office, and any other
+applicable regulators.</para>
+      </listitem>
+      <listitem>
+        <para>Establish procedures to communicate independence requirements
+to firm personnel and, where applicable, others subject to them.</para>
+      </listitem>
+      <listitem>
+        <para>Establish procedures to identify and evaluate possible
+threats to independence and objectivity, including the familiarity
+threat that may be created by using the same senior personnel on an
+audit or attest engagement over a long period of time, and to take
+appropriate action to eliminate those threats or reduce them to an
+acceptable level by applying safeguards.</para>
+      </listitem>
+      <listitem>
+        <para>Require that the firm withdraw from the engagement
+if effective safeguards to reduce threats to independence to an acceptable
+level cannot be applied.</para>
+      </listitem>
+      <listitem>
+        <para>Require written confirmation, at least annually, of
+compliance with the firm’s policies and procedures on independence
+from all firm personnel required to be independent by relevant requirements.</para>
+      </listitem>
+      <listitem>
+        <para>
+          Establish procedures for confirming the independence
+of another firm or firm personnel in associated member firms who perform
+part of the engagement. This would apply to national firm personnel,
+foreign firm personnel, and foreign-associated firms.
+          <footnote id="pra-sqcs_1_fn2" label="fn 2">
+            <para>
+              A  is a firm domiciled outside of the United States and its territories
+that is a member of, correspondent with, or similarly associated with
+an international firm or international association of firms.
+              <emphasis role="italic">foreign-associated firm</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>Require the rotation of personnel for audit or attest
+engagements where regulatory or other authorities require such rotation
+after a specified period.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

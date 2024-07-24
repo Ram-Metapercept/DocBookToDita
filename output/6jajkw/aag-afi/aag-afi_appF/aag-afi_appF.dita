@@ -1,0 +1,1732 @@
+<root id="aag-afi_appF" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Appendix F — Accounting for Financial Instruments</titleabbrev>
+    <title role="ps_section_heading">Appendix F</title>
+    <subtitle role="ps_section_title">Accounting for Financial Instruments</subtitle>
+  </chapterinfo>
+  <para role="ps_indent_0">
+    <emphasis role="italic">This appendix is
+nonauthoritative and is included for informational purposes only.</emphasis>
+  </para>
+  <section id="aag-afi_appF_overall_project_objective" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Overall Project Objective</titleabbrev>
+      <title role="ps_main_heading">Overall Project Objective</title>
+    </sectioninfo>
+    <para role="ps_indent_0">The objective of FASB’s Accounting for Financial
+Instruments project is to significantly improve the decision usefulness
+of financial instrument reporting for users of financial statements.
+The project was initiated to reconsider recognition and measurement
+of financial instruments, address issues related to impairment of
+financial instruments and hedge accounting, and increase convergence
+in accounting for financial instruments. In replacing existing financial
+instruments standards, an expected outcome is the simplification of
+accounting requirements for financial instruments. The project was
+split into three phases: classification and measurement, impairment,
+and hedge accounting. This appendix focuses on the latest developments
+in each of these phases.</para>
+  </section>
+  <section id="aag-afi_appF_classification_and_measurement" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Classification and Measurement</titleabbrev>
+      <title role="ps_main_heading">Classification and Measurement</title>
+    </sectioninfo>
+    <section id="aag-afi_appF_overview1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Overview</titleabbrev>
+        <title role="ps_sub_heading">Overview</title>
+      </sectioninfo>
+      <para role="ps_indent_0">
+        On January 5, 2016, FASB issued Accounting
+Standards Update (ASU) No. 2016-01, , to enhance
+the reporting model for financial instruments and to provide users
+of financial statements with more decision-useful information. Amendments
+in the ASU are intended to improve certain aspects of recognition,
+measurement, presentation, and disclosure of financial instruments. 
+        <emphasis role="italic">Financial
+Instruments — Overall (Subtopic 825-10): Recognition and Measurement
+of Financial Assets and Financial Liabilities</emphasis>
+      </para>
+      <para role="ps_indent_0">The new guidance will accomplish the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require equity investments (except those accounted
+for under the equity method of accounting or those that result in
+consolidation of the investee) to be measured at fair value with changes
+in fair value recognized in net income.</para>
+        </listitem>
+        <listitem>
+          <para>Replace the impairment model for equity investments
+without readily determinable fair values with a qualitative impairment
+assessment.</para>
+        </listitem>
+        <listitem>
+          <para>Eliminate the requirement to disclose the fair values
+of financial assets and financial liabilities measured at amortized
+cost for nonpublic business entities.</para>
+        </listitem>
+        <listitem>
+          <para>Eliminate the requirement for public business entities
+to disclose the methods and significant assumptions used to estimate
+fair value currently required to be disclosed for financial assets
+and financial liabilities measured at amortized cost on the balance
+sheet.</para>
+        </listitem>
+        <listitem>
+          <para>Require public business entities to use the exit price
+notion when measuring the fair value of financial instruments for
+disclosure purposes.</para>
+        </listitem>
+        <listitem>
+          <para>Require an entity to present separately in other comprehensive
+income (OCI) the portion of the total change in the fair value of
+a liability resulting from a change in instrument-specific credit
+risk when the entity has elected to measure the liability at fair
+value in accordance with the fair value option for financial instruments. </para>
+        </listitem>
+        <listitem>
+          <para>Require separate presentation of financial assets
+and financial liabilities by measurement category and form of financial
+asset (that is, securities or loans and receivables) on the balance
+sheet or in accompanying notes to the financial statements.</para>
+        </listitem>
+        <listitem>
+          <para>Clarify that an entity should evaluate the need for
+a valuation allowance on a deferred tax asset related to available-for-sale
+debt securities in combination with an entity’s other deferred tax
+assets.</para>
+        </listitem>
+        <listitem>
+          <para>Eliminate an entity’s ability to estimate the disclosed
+fair values of financial assets and financial liabilities on the basis
+of entry prices.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi_appF_applicability_and_effective_date1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Applicability and Effective Date</titleabbrev>
+        <title role="ps_sub_heading">Applicability and Effective Date</title>
+      </sectioninfo>
+      <para role="ps_indent_0">ASU No. 2016-01 affects all entities that
+hold financial assets or have financial liabilities and is effective
+as follows:</para>
+      <para role="ps_indent_0">All nonpublic business entities may adopt
+the amendments in this ASU earlier as of the fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years.</para>
+      <para role="ps_indent_0">Early adoption by public business entities
+to financial statements of fiscal years or interim periods that have
+not yet been issued or, by all other entities, that have not yet been
+made available for issuance of the following amendments in this ASU
+are permitted as of the beginning of the fiscal year of adoption:</para>
+      <para role="ps_indent_0">Except for as stated in this guidance, early
+adoption of the amendments in this ASU is not permitted.</para>
+      <table frame="all" id="aag-afi_appF_table1" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="1.92in"/>
+          <colspec colname="c2" colwidth="2.17in"/>
+          <colspec colname="c3" colwidth="1.92in"/>
+          <thead>
+            <row>
+              <entry align="center" role="shade" valign="bottom">
+                <para/>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>Public business entities </para>
+              </entry>
+              <entry>
+                <para>December 15, 2017</para>
+              </entry>
+              <entry>
+                <para>December 15, 2017</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>All other entities, including not-for-profit entities and employee
+benefit plans within the scope of FASB ASC 960 through FASB ASC 965
+on plan accounting</para>
+              </entry>
+              <entry>
+                <para>December 15, 2018</para>
+              </entry>
+              <entry>
+                <para>December 15, 2019</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>An entity should present separately in OCI the portion
+of the total change in the fair value of a liability resulting from
+a change in the instrument-specific credit risk if the entity has
+elected to measure the liability at fair value in accordance with
+the fair value option for financial instruments.</para>
+        </listitem>
+        <listitem>
+          <para>
+            Nonpublic business entities are not required to apply
+the fair value of financial instruments disclosure guidance in the
+"General" subsection of FASB  (ASC) 825-10-50.
+            <emphasis role="italic">Accounting Standards
+Codification</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi_appF_latest_developments1" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Latest Developments</titleabbrev>
+        <title role="ps_sub_heading">Latest Developments</title>
+      </sectioninfo>
+      <section id="aag-afi_appF_fasb_asu_no__201803" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2018-03, Technical Corrections and Improvements
+to Financial Instruments — Overall (Subtopic 825-10): Recognition
+and Measurement of Financial Assets and Financial Liabilities</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2018-03, Technical Corrections
+and Improvements to Financial Instruments — Overall (Subtopic 825-10):
+Recognition and Measurement of Financial Assets and Financial Liabilities</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In February 2018, FASB issued ASU No. 2018-03
+to clarify certain aspects of the guidance issued in ASU No. 2016-01
+as follows: </para>
+        <para role="ps_indent_0">ASU No. 2018-03 is effective as follows:</para>
+        <para role="ps_indent_0">Public business entities with fiscal years
+beginning between December 15, 2017 and June 15, 2018 are not required
+to adopt these amendments until the interim period beginning after
+June 15, 2018, and public business entities with fiscal years beginning
+between June 15, 2018 and December 15, 2018 are not required to adopt
+these amendments before adopting the amendments in ASU No. 2016-01.
+All entities may early adopt these amendments for fiscal years beginning
+after December 15, 2017, including interim periods within those fiscal
+years, as long as they have adopted ASU No. 2016-01.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+               The
+amendments in this ASU clarify that an entity measuring an equity
+security using the measurement alternative may change its measurement
+approach to a fair value method in accordance with FASB ASC 820, , through an irrevocable
+election that would apply to that security and all identical or similar
+investments of the same issuer. Once an entity makes this election,
+the entity should measure all future purchases of identical or similar
+investments of the same issuer using a fair value method in accordance
+with FASB ASC 820.
+              <emphasis role="italic">Equity securities without
+a readily determinable fair value — discontinuation.</emphasis>
+              <emphasis role="italic">Fair Value Measurement</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment
+in this ASU clarifies that adjustments made under the measurement
+alternative are intended to reflect the fair value of the security
+as of the date that the observable transaction for a similar security
+took place.
+              <emphasis role="italic">Equity securities without
+a readily determinable fair value — adjustments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment clarifies that remeasuring the  value of forward contracts and purchased
+options is required when observable transactions occur on the underlying
+equity securities.
+              <emphasis role="italic">Forward contracts and purchased
+options.</emphasis>
+              <emphasis role="italic">entire</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment
+clarifies that when the fair value option is elected for a financial
+liability, the guidance in paragraph 5 of ASC 825-10-45 should be
+applied, regardless of whether the fair value option was elected under
+either FASB ASC 815-15 or 825-10.
+              <emphasis role="italic">Presentation requirements
+for certain fair value option liabilities.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify
+that for financial liabilities for which the fair value option is
+elected, the amount of change in fair value that relates to the instrument-specific
+credit risk should first be measured in the currency of denomination
+when presented separately from the total change in fair value of the
+financial liability. Then, both components of the change in the fair
+value of the liability should be remeasured into the functional currency
+of the reporting entity using end-of-period spot rates.
+              <emphasis role="italic">Fair value option liabilities
+denominated in a foreign currency.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The
+amendment clarifies that the prospective transition approach for equity
+securities without a readily determinable fair value in the amendments
+in ASU No. 2016-01 is meant only for instances in which the measurement
+alternative is applied. An insurance entity subject to the guidance
+in FASB ASC 944, , should apply a prospective transition method when applying the
+amendments related to equity securities without readily determinable
+fair values. An insurance entity should apply the selected prospective
+transition method consistently to the entity’s entire population of
+equity securities for which the measurement alternative is elected.
+              <emphasis role="italic">Transition guidance for equity
+securities without a readily determinable fair value.</emphasis>
+              <emphasis role="italic">Financial Services — Insurance</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+        <table frame="all" id="aag-afi_appF_table2" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="1.92in"/>
+            <colspec colname="c2" colwidth="2.17in"/>
+            <colspec colname="c3" colwidth="1.92in"/>
+            <thead>
+              <row>
+                <entry align="center" role="shade" valign="bottom">
+                  <para/>
+                </entry>
+                <entry align="center" role="shade" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" role="shade" valign="bottom">
+                  <para>
+                    <emphasis role="italic">
+                      <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <para>Public business entities </para>
+                </entry>
+                <entry>
+                  <para>December 15, 2017</para>
+                </entry>
+                <entry>
+                  <para>June 15, 2018</para>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <para>All other entities</para>
+                </entry>
+                <entry>
+                  <para>December 15, 2018</para>
+                </entry>
+                <entry>
+                  <para>December 15, 2019</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi_appF_fasbasu_no__201904" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2019-04, Codification Improvements to Topic
+326, Financial Instruments — Credit Losses, Topic 815, Derivatives
+and Hedging, and Topic 825, Financial Instruments</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2019-04, Codification
+Improvements to Topic 326, Financial Instruments — Credit Losses,
+Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments</title>
+        </sectioninfo>
+        <para role="ps_indent_0">
+          In April 2019, FASB issued ASU No. 2019-04
+to clarify, correct, and improve various aspects of the guidance in
+ASU Nos. 2016-01, 2016-13, , and 2017-12, , related to financial instruments. The discussion
+herein will only address those amendments related to ASU No. 2016-01.
+Amendments related to ASU Nos. 2016-13 and ASU No. 2017-12 will be
+addressed in subsequent sections of this appendix.
+          <emphasis role="italic">Financial Instruments
+— Credit Losses (Topic 326): Measurement of Credit Losses on Financial
+Instruments</emphasis>
+          <emphasis role="italic">Derivatives
+and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging
+Activities</emphasis>
+        </para>
+        <para role="ps_indent_0">ASU No. 2019-04 clarifies certain aspects
+of the amendments in ASU No. 2016-01 as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+               The amendments clarify
+the scope of FASB ASC 320-10 and FASB ASC 321-10 by specifically naming
+health and welfare plans accounted for in accordance with FASB ASC
+965,  in the paragraphs limiting the scope of
+those subtopics.
+              <emphasis role="italic">Scope clarifications for FASB
+ASC 320-10 and FASB ASC 321-10.</emphasis>
+              <emphasis role="italic">Plan Accounting — Health and Welfare
+Benefit Plans,</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments to the disclosure
+requirements addressed in FASB ASC 320-10-50-5 and FASB ASC 942-320-50-3
+and the additions of paragraphs 5A–5B of FASB ASC 320-10-50 and paragraph
+3A of FASB ASC 942-320-50 clarify FASB’s intent to exempt entities
+other than public business entities from fair value disclosure requirements
+for financial instruments not measured at fair value on the balance
+sheet. 
+              <emphasis role="italic">Held-to-maturity debt securities
+fair value disclosures.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments specifically
+require that an entity remeasure an equity security without readily
+determinable fair value at fair value when an orderly transaction
+is identified for an identical or similar investment of the same issuer
+in accordance with FASB ASC 820. That is, the amendments clarify that
+the measurement alternative is a nonrecurring fair value measurement.
+Additionally, the amendments clarify that an entity should adhere
+to the applicable disclosure requirements in FASB ASC 820 for a nonrecurring
+fair value measurement.
+              <emphasis role="italic">Applicability of FASB ASC
+820 to the measurement alternative.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that
+equity securities without readily determinable fair values accounted
+for under the measurement alternative in accordance with FASB ASC
+321-10-35-2 are required to follow FASB ASC 830-10-45-18, which requires
+remeasurement at historical exchange rates. In addition, the amendments
+clarify that the rate used should be the historical exchange rate
+as of the later of the acquisition date or the most recent date on
+which the equity security was adjusted to fair value in accordance
+with paragraphs 2–3 of FASB ASC 321-10-35, if applicable. In addition,
+the amendments to FASB ASC 830-10-45-18 are not intended to change
+items that should be remeasured at historical exchange rates. 
+              <emphasis role="italic">Remeasurement of equity securities
+at historical exchange rates.</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_effective_date1" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Effective Date</titleabbrev>
+          <title role="ps_subsub_heading">Effective Date</title>
+        </sectioninfo>
+        <para role="ps_indent_0">The amendments in ASU No. 2019-04 related
+to No. 2016-01 are effective for fiscal years beginning after December
+15, 2019, including interim periods within those fiscal years. Early
+adoption is permitted in any interim period following the issuance
+of ASU No. 2019-04 as long as the entity has adopted all of the amendments
+in ASU No. 2016-01.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi_appF_impairment" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Impairment</titleabbrev>
+      <title role="ps_main_heading">Impairment</title>
+    </sectioninfo>
+    <section id="aag-afi_appF_overview2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Overview</titleabbrev>
+        <title role="ps_sub_heading">Overview</title>
+      </sectioninfo>
+      <para role="ps_indent_0">On June 16, 2016, FASB issued ASU No. 2016-13
+to provide financial statement users with more decision-useful information
+about the expected credit losses on financial instruments and other
+commitments to extend credit held by a reporting entity at each reporting
+date. Upon the effective date of this ASU, the incurred loss impairment
+methodology in current generally accepted accounting principles (GAAP)
+is replaced with a methodology that reflects expected credit losses
+and requires consideration of a broader range of reasonable and supportable
+information to inform credit loss estimates. </para>
+      <section id="aag-afi_appF_assets_measured_at_amortized" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Assets Measured at Amortized Cost</titleabbrev>
+          <title role="ps_subsub_heading">Assets Measured at Amortized Cost</title>
+        </sectioninfo>
+        <para role="ps_indent_0">ASU No. 2016-13 eliminates the probable initial
+recognition threshold under current GAAP and requires entities that
+measure financial assets (or a group of financial assets) at amortized
+cost basis to present such assets at the net amount expected to be
+collected. The amendments in this ASU broaden the information that
+an entity must consider in developing its expected credit loss estimate
+for assets measured either collectively or individually. In addition
+to past events and current conditions, entities should also consider
+reasonable and supportable forecasts that affect the collectibility
+of the reported amount. However, an entity may revert to historical
+loss information that is reflective of the contractual term (considering
+the effect of prepayments) for periods that are beyond the time frame
+for which the entity is able to develop reasonable and supportable
+forecasts. </para>
+        <para role="ps_indent_0">An entity may apply any method for measuring
+expected credit losses as long as the entity’s method reasonably reflects
+its expectations of the credit loss estimate. </para>
+      </section>
+      <section id="aag-afi_appF_purchased_financial_assets_with" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Purchased Financial Assets With Credit Deterioration</titleabbrev>
+          <title role="ps_subsub_heading">Purchased Financial Assets With Credit
+Deterioration</title>
+        </sectioninfo>
+        <para role="ps_indent_0">
+          ASU No. 2016-13 defines  (PCD
+assets) as acquired individual financial assets (or acquired groups
+of financial assets with similar risk characteristics) that as of
+the date of acquisition have experienced a more-than-insignificant
+deterioration in credit quality since origination, as determined by
+the acquirer’s assessment. The allowance for credit losses for PCD
+assets that are measured at amortized cost basis is determined in
+a similar manner to other financial assets measured at amortized cost
+basis. The initial allowance for credit losses is added to the purchase
+price, rather than being reported as a credit loss expense. Entities
+record only subsequent changes in the allowance for credit losses
+as a credit loss expense for PCD assets. Furthermore, an entity should
+recognize interest income for PCD assets based on the effective interest
+rate, excluding the discount embedded in the purchase price that is
+attributable to the acquirer’s assessment of credit losses at acquisition. 
+          <emphasis role="italic">purchased financial assets with credit deterioration</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi_appF_disclosures1" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Disclosures</titleabbrev>
+          <title role="ps_subsub_heading">Disclosures</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In an effort to increase users’ understanding
+of underwriting standards and credit quality trends, ASU No. 2016-13
+requires the current disclosure on credit quality indicators in relation
+to the amortized cost of financing receivables to be further disaggregated
+by year of origination (or vintage). Entities that are not public
+business entities are not required to disclose the disaggregation
+by year of origination. </para>
+      </section>
+      <section id="aag-afi_appF_available_for_sale_debt" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Available-for-Sale Debt Securities</titleabbrev>
+          <title role="ps_subsub_heading">Available-for-Sale Debt Securities</title>
+        </sectioninfo>
+        <para role="ps_indent_0">Entities will now be required to present
+credit losses on available-for-sale debt securities as an allowance,
+rather than as a permanent write-down. </para>
+        <para role="ps_indent_0">An entity will now be able to record reversals
+of credit losses on debt securities (in situations in which the estimate
+of credit declines) in current period net income, thus aligning the
+income statement recognition of credit losses with the reporting period
+in which changes occur. However, an entity may not record an allowance
+for credit losses exceeding the amount by which fair value is below
+amortized cost.</para>
+      </section>
+      <section id="aag-afi_appF_purchased_debt_securities_with" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Purchased Debt Securities With Credit Deterioration</titleabbrev>
+          <title role="ps_subsub_heading">Purchased Debt Securities With Credit
+Deterioration</title>
+        </sectioninfo>
+        <para role="ps_indent_0">The allowance for credit losses for purchased
+available-for-sale debt securities with a more-than-insignificant
+amount of credit deterioration since origination is also determined
+in a similar manner to other available-for-sale debt securities. However,
+ASU No. 2016-13 requires an entity to add the initial allowance for
+credit losses to the purchase price, rather than reporting it as a
+credit loss expense. Entities record only subsequent changes in the
+allowance for credit losses as a credit loss expense. Furthermore,
+an entity should recognize interest income based on the effective
+interest rate, excluding the discount embedded in the purchase price
+that is attributable to the acquirer’s assessment of credit losses
+at acquisition.</para>
+      </section>
+      <section id="aag-afi_appF_troubled_debt_restructurings" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Troubled Debt Restructurings </titleabbrev>
+          <title role="ps_subsub_heading">Troubled Debt Restructurings </title>
+        </sectioninfo>
+        <para role="ps_indent_0">The ASU does not change the definition or
+derecognition guidelines for troubled debt restructurings (TDRs),
+but rather changes the impairment recognized on restructuring. Credit
+losses for TDRs now will be measured using the current expected credit
+loss model. The ASU eliminates the current GAAP requirement to use
+a discounted cash flow technique. Credit losses, including concessions
+given to a borrower under a TDR, will be recognized through an allowance
+account.</para>
+      </section>
+    </section>
+    <section id="aag-afi_appF_applicability_and_effective_date2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Applicability and Effective Date</titleabbrev>
+        <title role="ps_sub_heading">Applicability and Effective Date</title>
+      </sectioninfo>
+      <para role="ps_indent_0">ASU No. 2016-13 affects entities holding
+financial assets and net investment in leases that are not accounted
+for at fair value through net income. It also affects loans, debt
+securities, trade receivables, net investments in leases, off-balance
+sheet credit exposures, reinsurance receivables, and any other financial
+assets not excluded from the scope that have the contractual right
+to receive cash.</para>
+      <para role="ps_indent_0">Because there is diversity in practice in
+applying the incurred loss methodology, ASU No. 2016-13 will affect
+entities to varying degrees depending on the credit quality of the
+assets held by the entities, their duration, and how the entity applies
+current GAAP. </para>
+      <para role="ps_indent_0">
+        ASU No. 2016-13 is effective (as amended
+by FASB ASU No. 2019-10, ) as follows:
+        <emphasis role="italic">Financial Instruments
+— Credit Losses (Topic 326), Derivatives and Hedging (Topic 815),
+and Leases (Topic 842): Effective Dates</emphasis>
+      </para>
+      <para role="ps_indent_0">All entities may adopt the amendments in
+this ASU earlier as of the fiscal years beginning after December 15,
+2018, including interim periods within those fiscal years.</para>
+      <table frame="all" id="aag-afi_appF_table3" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="1.92in"/>
+          <colspec colname="c2" colwidth="2.17in"/>
+          <colspec colname="c3" colwidth="1.92in"/>
+          <thead>
+            <row>
+              <entry align="center" role="shade" valign="bottom">
+                <para/>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>
+                  Public business entities that meet the definition of SEC filers,
+excluding entities eligible to be smaller reporting companies as defined
+by the SEC 
+                  <emphasis role="superscript">1</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>December 15, 2019</para>
+              </entry>
+              <entry>
+                <para>December 15, 2019</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>All other entities</para>
+              </entry>
+              <entry>
+                <para>December 15, 2022</para>
+              </entry>
+              <entry>
+                <para>December 15, 2022</para>
+              </entry>
+            </row>
+            <row>
+              <entry nameend="c3" namest="c1">
+                <para>
+                   The one-time
+determination of whether an entity is eligible to be a smaller reporting
+company should be based on an entity’s most recent determination as
+of November 15, 2019, in accordance with SEC regulations.
+                  <tab/>
+                  <emphasis role="superscript">1</emphasis>
+                </para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi_appF_transition_resource_group" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Transition Resource Group</titleabbrev>
+        <title role="ps_sub_heading">Transition Resource Group</title>
+      </sectioninfo>
+      <para role="ps_indent_0">Due to the potential for significant changes
+that may result from the issuance of the new standard, FASB formed
+the Transition Resource Group (TRG) for Credit Losses to </para>
+      <para role="ps_indent_0">
+        The TRG will meet to discuss and share its
+views on potential implementation issues raised by concerned parties
+and, subsequent to each meeting, FASB will determine what actions,
+if any, will be taken on each issue. Refer to the page "" on FASB’s website
+for more information on this group and the status of its efforts,
+including meeting materials and meeting summaries.
+        <ulink url="https://www.fasb.org/jsp/FASB/Page/LandingPage&amp;cid=1176168063992">Transition Resource Group for Credit Losses</ulink>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>solicit, analyze, and discuss stakeholder issues arising
+from implementation of the new guidance;</para>
+        </listitem>
+        <listitem>
+          <para>inform FASB about those implementation issues, which
+will help FASB determine what, if any, action will be needed to address
+those issues;</para>
+        </listitem>
+        <listitem>
+          <para>provide a forum for stakeholders to learn about the
+new guidance from others involved with implementation.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi_appF_latest_developments2" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Latest Developments</titleabbrev>
+        <title role="ps_sub_heading">Latest Developments</title>
+      </sectioninfo>
+      <section id="aag-afi_appF_fasb_asu_no__201819" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2018-19, Codification Improvements to Topic
+326, Financial Instruments — Credit Losses</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2018-19, Codification
+Improvements to Topic 326, Financial Instruments — Credit Losses</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In November 2018, FASB issued ASU No. 2018-19
+to amend the transition and effective date for nonpublic business
+entities as well as clarify guidance surrounding operating receivables. </para>
+        <para role="ps_indent_0">
+          The amendments in ASU No. 2018-19 mitigate
+transition complexity by requiring that for nonpublic business entities,
+the amendments in ASU No. 2016-13 are effective for fiscal years beginning
+after December 15, 2021, including interim periods within those fiscal
+years. In addition, the amendments clarify that receivables arising
+from operating leases are not with the scope of FASB ASC 326-20. Instead,
+impairment of receivables arising from operating leases should be
+accounted for in accordance with FASB ASC 842, .
+          <emphasis role="italic">Leases</emphasis>
+        </para>
+        <para role="ps_indent_0">The effective date and transition requirements
+for ASU No. 2018-19 are the same as the effective dates and transition
+requirements in ASU No. 2016-13, as amended by ASU No. 2018-19.</para>
+      </section>
+      <section id="aag-afi_appF_fasb_asu_no_201904" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2019-04</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2019-04</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In April 2019, FASB issued ASU No. 2019-04
+to clarify, correct, and improve various aspects of the guidance in
+ASU Nos. 2016-01, 2016-13, and 2017-12 related to financial instruments.
+The discussion herein will only address those amendments related to
+ASU No. 2016-13. Amendments related to ASU No. 2016-01 and ASU No.
+2017-12 will be addressed in separate sections of this appendix.</para>
+        <para role="ps_indent_0">ASU No. 2019-04 clarifies certain aspects
+of the amendments in ASU No. 2016-13 as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              . The amendments to FASB ASC 326-20 allow an entity to do the following:
+              <emphasis role="italic">Accrued interest</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Measure the allowance for credit losses on accrued
+interest receivable balances separately from other components of the
+amortized cost basis of associated financial assets.</para>
+          </listitem>
+          <listitem>
+            <para>Make an accounting policy election not to measure
+an allowance for credit losses on accrued interest receivable amounts
+if an entity writes off the uncollectible accrued interest receivable
+balance in a timely manner and makes certain disclosures.</para>
+          </listitem>
+          <listitem>
+            <para>Make an accounting policy election to write off accrued
+interest amounts by reversing interest income or recognizing credit
+loss expense, or a combination of both. The entity also is required
+to make certain disclosures.</para>
+          </listitem>
+          <listitem>
+            <para>Make an accounting policy election to present accrued
+interest receivable balances and the related allowance for credit
+losses for those accrued interest receivable balances separately from
+the associated financial assets on the balance sheet. If the accrued
+interest receivable balances and the related allowance for credit
+losses are not presented as a separate line item on the balance sheet,
+an entity should disclose the amount of accrued interest receivable
+balances and the related allowance for credit losses and where the
+balance is presented.</para>
+          </listitem>
+          <listitem>
+            <para>Elect a practical expedient to disclose separately
+the total amount of accrued interest included in the amortized cost
+basis as a single balance to meet certain disclosure requirements.</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+               The amendments
+require that an entity reverse in earnings any allowance for credit
+losses or valuation allowance previously measured on a loan or debt
+security, reclassify and transfer the loan or debt security to the
+new classification or category, and apply the applicable measurement
+guidance in accordance with the new classification or category.
+              <emphasis role="italic">Transfers between classification
+or categories for loans and debt securities.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The
+amendments clarify that an entity should include recoveries when estimating
+the allowance for credit losses. In addition, expected recoveries
+of amounts previously written off and expected to be written off should
+be included in the valuation account and should not exceed the aggregate
+of amounts previously written off and expected to be written off by
+the entity. For collateral-dependent financial assets, an allowance
+for credit losses that is added to the amortized cost basis of the
+financial assets should not exceed amounts previously written off.
+              <emphasis role="italic">Recoveries.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               Correction of incorrect cross-referencing and further clarification
+surrounding the equity method losses allocation guidance.
+              <emphasis role="italic">Conforming amendments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The
+amendment clarifies FASB’s intent to include all reinsurance recoverables
+within the scope of FASB ASC 944 within the scope of FASB ASC 326-20,
+regardless of the measurement basis of those recoverables.
+              <emphasis role="italic">Clarification that reinsurance
+recoverables are within the scope of FASB ASC 326-20.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The
+amendments clarify FASB’s intent to provide flexibility in determining
+the allowance for credit losses by removing the prohibition of using
+projections of future interest rate environments when using a discounted
+cash flow method to measure expected credit losses on variable-rate
+financial instruments. Furthermore, an entity that uses projections
+or expectations of future interest rate environments in estimating
+expected cash flows should use the same assumptions in determining
+the effective interest rate used to discount those expected cash flows.
+The amendments also clarify that if an entity uses projections of
+future interest rate environments when using a discounted cash flow
+method to measure expected credit losses on variable-rate financial
+instruments, it also should adjust the effective interest rate to
+consider the timing (and changes in the timing) of expected cash flows
+resulting from expected prepayments.
+              <emphasis role="italic">Projections of interest rate
+environments for variable-rate financial instruments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments
+permit an entity to make an accounting policy election to adjust the
+effective interest rate used to discount expected future cash flows
+for expected prepayments on financial assets within the scope of FASB
+ASC 326-20 and on available-for-sale debt securities within the scope
+of FASB ASC 326-20 to appropriately isolate credit risk in determining
+the allowance for credit losses. Furthermore, an entity should not
+adjust the effective interest rate used to discount expected cash
+flows for subsequent changes in expected prepayment if the financial
+asset is restructured in a TDR.
+              <emphasis role="italic">Consideration of prepayments
+in determining the effective interest rate.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments
+clarify the guidance in FASB ASC 326-20-35-4 by specifically requiring
+that an entity consider the estimated costs to sell if it intends
+to sell rather than operate the collateral when the entity determines
+that foreclosure on a financial asset is probable. Additionally, when
+an entity adjusts the fair value of collateral for the estimated costs
+to sell, the estimated costs to sell should be undiscounted if the
+entity intends to sell rather than operate the collateral.
+              <emphasis role="italic">Consideration of estimated
+costs to sell when foreclosure is probable.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments require
+that an entity present the amortized cost basis of line-of-credit
+arrangements that are converted to term loans in a separate column.
+              <emphasis role="italic">Vintage disclosures — line-of-credit
+arrangements converted to term loans.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that an entity should
+consider extension or renewal options (excluding those that are accounted
+for as derivatives in accordance with FASB ASC 815, ) that are included
+in the original or modified contract at the reporting date and are
+not unconditionally cancellable by the entity.
+              <emphasis role="italic">Contractual extensions and
+renewals.</emphasis>
+              <emphasis role="italic">Derivatives and Hedging</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_effective_date2" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Effective Date</titleabbrev>
+          <title role="ps_subsub_heading">Effective Date</title>
+        </sectioninfo>
+        <para role="ps_indent_0">For entities that have not yet adopted the
+amendments in ASU No. 2016-13, the effective dates and transition
+requirements for the amendments related to ASU No. 2019-04 are the
+same as the effective dates and transition requirements in ASU No.
+2016-13. The transition adjustment includes adjustments made as a
+result of an entity developing or amending its accounting policy upon
+adoption of the amendments in ASU No. 2019-04 for determining when
+accrued interest receivables are deemed uncollectible and written
+off.</para>
+        <para role="ps_indent_0">For entities that have adopted the amendments
+in ASU No. 2016-13, the amendments in ASU No. 2019-04 are effective
+for fiscal years beginning after December 15, 2019, including interim
+periods within those fiscal years. Early adoption is permitted in
+any interim period after issuance of ASU No. 2019-04 as long as the
+entity has adopted the amendments in ASU No. 2016-13.</para>
+      </section>
+      <section id="aag-afi_appF_fasb_asu_no__201905" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2019-05, Financial Instruments — Credit
+Losses (Topic 326): Targeted Transition Relief</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2019-05, Financial Instruments
+— Credit Losses (Topic 326): Targeted Transition Relief</title>
+        </sectioninfo>
+        <para role="ps_indent_0">
+          In May 2019, FASB issued ASU No. 2019-05,
+to provide entities that have certain instruments within the scope
+of FASB ASC 326-20 with an option to irrevocably elect the fair value
+option applied on an instrument-by-instrument basis for certain financial
+assets upon the adoption of FASB ASC 326, . The fair value
+option election does not apply to held-to-maturity debt securities.
+An entity that elects the fair value option should subsequently apply
+the guidance in FASB ASC 820-10 and 825-10. 
+          <emphasis role="italic">Financial Instruments — Credit Losses</emphasis>
+        </para>
+        <para role="ps_indent_0">For entities that have not yet adopted the
+amendments in ASU No. 2016-13, the effective date and transition methodology
+for the amendments in ASU No. 2019-05 are the same as in ASU No. 2016-13.</para>
+        <para role="ps_indent_0">For entities that have adopted the amendments
+in ASU No. 2016-13, the amendments in ASU No. 2019-05 are effective
+for fiscal years beginning after December 15, 2019, including interim
+periods within those fiscal years. Early adoption is permitted in
+any interim period after the issuance of ASU No. 2019-05, as long
+as an entity has adopted the amendments in ASU No. 2016-13.</para>
+      </section>
+      <section id="aag-afi_appF_fasb_asu_no__201911" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2019-11, Codification Improvements to Topic
+326, Financial Instruments — Credit Losses</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2019-11, Codification
+Improvements to Topic 326, Financial Instruments — Credit Losses</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In November 2019, FASB issued ASU No. 2019-11
+to clarify, correct errors in, or improve the codification.</para>
+        <para role="ps_indent_0">ASU No. 2019-04 clarifies certain aspects
+of the amendments in ASU No. 2016-13 as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_4">
+          <listitem>
+            <para>
+              . The amendments clarify that the allowance for credit
+losses for PCD assets should include in the allowance for credit losses
+expected recoveries of amounts previously written off and expected
+to be written off by the entity and should not exceed the aggregate
+of amounts of the amortized cost basis previously written off and
+expected to be written off by an entity.
+              <emphasis role="italic">Expected recoveries for PCD
+assets</emphasis>
+            </para>
+            <para>In addition,
+the amendments clarify that when a method other than a discounted
+cash flow method is used to estimate expected credit losses, expected
+recoveries should not include any amounts that result in an acceleration
+of the noncredit discount. An entity may include increases in expected
+cash flows after acquisition.</para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments provide transition relief by permitting entities
+an accounting policy election to adjust the effective interest rate
+on existing TDRs using prepayment assumptions on the date of adoption
+of FASB ASC 326 rather than the prepayment assumptions in effect immediately
+before the restructuring.
+              <emphasis role="italic">Transition relief for TDRs.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments extend the disclosure
+relief for accrued interest receivable balances to additional relevant
+disclosures involving amortized cost basis.
+              <emphasis role="italic">Disclosures related to accrued
+interest receivables.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify
+that an entity should assess whether it reasonably expects the borrower
+will be able to continually replenish collateral securing the financial
+asset to apply the practical expedient.
+              <emphasis role="italic">Financial assets secured by
+collateral maintenance provisions.</emphasis>
+            </para>
+            <para>The amendments
+clarify that an entity applying the practical expedient should estimate
+expected credit losses for any difference between the amount of the
+amortized cost basis that is greater than the fair value of the collateral
+securing the financial asset (that is, the unsecured portion of the
+amortized cost basis). An entity may determine that the expectation
+of nonpayment for the amount of the amortized cost basis equal to
+the fair value of the collateral securing the financial asset is zero.</para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment to FASB ASC 805-20 clarifies
+the guidance by removing the cross-reference to FASB ASC 310-30 in
+FASB ASC 805-20-50-1 and replacing it with a cross-reference to the
+guidance on PCD assets in FASB ASC 326-20.
+              <emphasis role="italic">Conforming amendment to FASB
+ASC 805-20.</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_effective_date0" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Effective Date</titleabbrev>
+          <title role="ps_subsub_heading">Effective Date</title>
+        </sectioninfo>
+        <para role="ps_indent_0">For entities that have not yet adopted the
+amendments in ASU No. 2016-13 as of the issuance date of this ASU,
+the effective dates and transition requirements for the amendments
+are the same as the effective dates and transition requirements in
+ASU No. 2016-13.</para>
+        <para role="ps_indent_0">For entities that have adopted the amendments
+in ASU No. 2016-13, the amendments in this ASU are effective for fiscal
+years beginning after December 15, 2019, including interim periods
+within those fiscal years. Early adoption is permitted in any interim
+period after issuance of this ASU as long as the entity has adopted
+the amendments in ASU No. 2016-13.</para>
+      </section>
+      <section id="aag-afi_appF_asu_no__202003" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2020-03, Codification Improvements to Financial
+Instruments</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2020-03, Codification
+Improvements to Financial Instruments</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In March 2020, FASB issued ASU No. 2020-03
+to clarify or improve the codification.</para>
+        <para role="ps_indent_0">ASU No. 2020-03 clarifies or addresses specific
+issues as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              . The amendments clarify that all entities are
+required to provide the fair value option disclosures in paragraphs
+24–32 of FASB ASC 825-10-50.
+              <emphasis role="italic">Fair value option disclosures
+(issue 1)</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               FASB ASC 820-10-35-2A(g) and FASB ASC 820-10-35-18L are amended
+to include the phrase nonfinancial items accounted for as derivatives
+under FASB ASC 815 to be consistent with the previous amendments to
+FASB ASC 820-10-35 that were made by ASU No. 2018-09, .
+              <emphasis role="italic">Applicability of portfolio
+exception in FASB ASC 820 to nonfinancial items (issue 2).</emphasis>
+              <emphasis role="italic">Codification Improvements</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify
+that the disclosure requirements in FASB ASC 320 apply to the disclosure
+requirements in FASB ASC 942,  for depository and lending institutions.
+              <emphasis role="italic">Disclosures for depository
+and lending institutions (issue 3).</emphasis>
+              <emphasis role="italic">Financial Services
+— Depository and Lending</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments improve the understandability of the
+guidance.
+              <emphasis role="italic">Cross-reference to line-of-credit
+or revolving-debt arrangements guidance in FASB ASC 470-50 (issue
+4).</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments improve the understandability of the guidance.
+              <emphasis role="italic">Cross-reference to new asset
+value practical expedient in FASB ASC 820-10 (issue 5).</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              . The amendments clarify that
+the contractual term of a new investment in a lease determined in
+accordance with FASB ASC 842 should be the contractual term used to
+measure expected credit losses under FASB ASC 326.
+              <emphasis role="italic">Interaction of FASB ASC 842
+and FASB ASC 326 (issue 6)</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              . The amendments to FASB ASC
+860-20 clarify that when an entity regains control of financial assets
+sold, an allowance for credit losses should be recorded in accordance
+with FASB ASC 326.
+              <emphasis role="italic">Interaction of FASB ASC 326
+and FASB ASC 860-20 (issue 7)</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_effective_date7" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Effective Date</titleabbrev>
+          <title role="ps_subsub_heading">Effective Date</title>
+        </sectioninfo>
+        <para role="ps_indent_0">
+           The amendments related to
+issues 1, 2, 4, and 5 are conforming amendments. For public business
+entities, the amendments are effective upon issuance of this ASU.
+For all other entities, the amendments are effective for fiscal years
+beginning after December 15, 2019, and interim periods within those
+fiscal years beginning after December 15, 2020. Early application
+is permitted.
+          <emphasis role="italic">Issues 1, 2, 3, 4,
+and 5: Conforming amendments.</emphasis>
+        </para>
+        <para role="ps_indent_0">The amendment related to issue 3 is a conforming
+amendment that affects the guidance in the amendments in ASU No. 2019-04.
+That guidance relates to the amendments in ASU No. 2016-01. The effective
+date of ASU No. 2019-04 for the amendments to ASU No. 2016-01 is for
+fiscal years beginning after December 15, 2019, including interim
+periods within those fiscal years.</para>
+        <para role="ps_indent_0">
+          . The amendments related to issues 6
+and 7 affect the guidance in the amendments in ASU No. 2016-13. The
+effective date of ASU No. 2016-13 varies depending on the type of
+entity. For entities that have not yet adopted the guidance in ASU
+No. 2016-13, the effective dates and the transition requirements for
+these amendments are the same as the effective date and transition
+requirements in ASU No. 2016-13.
+          <emphasis role="italic">Issues 6 and 7: Amendments
+to ASU No. 2016-13</emphasis>
+        </para>
+        <para role="ps_indent_0">For entities that have adopted the guidance
+in ASU No. 2016-13, the amendments are effective for fiscal years
+beginning after December 15, 2019, including interim periods within
+those fiscal years.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi_appF_hedge_accounting" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Hedge Accounting</titleabbrev>
+      <title role="ps_main_heading">Hedge Accounting</title>
+    </sectioninfo>
+    <section id="aag-afi_appF_overview3" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Overview</titleabbrev>
+        <title role="ps_sub_heading">Overview</title>
+      </sectioninfo>
+      <para role="ps_indent_0">In August 2017, FASB issued ASU No. 2017-12
+to better align an entity’s risk management activities and financial
+reporting for hedging relationships through changes to both the designation
+and measurement guidance for qualifying hedging relationships and
+the presentation of hedge results. To meet that objective, the amendments
+expand and refine hedge accounting for both nonfinancial and financial
+risk components and align the recognition and presentation of the
+effects of the hedging instrument and the hedged item in the financial
+statements.</para>
+      <para role="ps_indent_0">The amendments in this ASU also make certain
+targeted improvements to simplify the application of hedge accounting
+guidance and ease the administrative burden of hedge documentation
+requirements and assessing hedge effectiveness.</para>
+      <section id="aag-afi_appF_risk_component_hedging" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Risk Component Hedging</titleabbrev>
+          <title role="ps_subsub_heading">Risk Component Hedging</title>
+        </sectioninfo>
+        <para role="ps_indent_0">Current GAAP contains limitations on how
+an entity can designate the hedged risk in certain cash flow and fair
+value hedging relationships. To address those current limitations,
+the amendments in this ASU permit hedge accounting for risk components
+in hedging relationships involving nonfinancial risk and interest
+rate risk as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>For a cash flow hedge of a forecasted purchase or
+sale of a nonfinancial asset, an entity could designate as the hedged
+risk the variability in cash flows attributable to changes in a contractually
+specified component stated in the contract. The amendments remove
+the requirement in current GAAP that only the overall variability
+in cash flows or variability related to foreign currency risk could
+be designated as the hedged risk in a cash flow hedge of a nonfinancial
+asset.</para>
+          </listitem>
+          <listitem>
+            <para>For a cash flow hedge of interest rate risk of a variable-rate
+financial instrument, an entity could designate as the hedged risk
+the variability in cash flows attributable to the contractually specified
+interest rate. By eliminating the concept of benchmark interest rates
+for hedges of variable-rate instruments in current GAAP, the amendments
+remove the requirement to designate only the overall variability in
+cash flows as the hedged risk in a cash flow hedge of a variable-rate
+instrument indexed to a non-benchmark interest rate.</para>
+          </listitem>
+          <listitem>
+            <para>For a fair value hedge of interest rate risk, the
+amendments add the Securities Industry and Financial Markets Association
+(SIFMA) Municipal Swap Rate as an eligible benchmark interest rate
+in the United States in addition to those already permitted under
+current GAAP (the U.S. Treasury Rate, the London Interbank Offered
+Rate Swap Rate, and the Fed Funds Effective Swap Rate [or Overnight
+Index Swap Rate]). This allows an entity that issues or invests in
+fixed-rate tax-exempt financial instruments to designate as the hedged
+risk changes in fair value attributable to interest rate risk related
+to the SIFMA Municipal Swap Rate rather than overall changes in fair
+value.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_accounting_for_the_hedged" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Accounting for the Hedged Item in Fair Value Hedges of
+Interest Rate Risk</titleabbrev>
+          <title role="ps_subsub_heading">Accounting for the Hedged Item in
+Fair Value Hedges of Interest Rate Risk</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In some cases, current GAAP contains limitations
+on how an entity can designate the hedged item in a fair value hedge
+of interest rate risk. In other cases, current GAAP contains limitations
+on how an entity can measure changes in fair value of the hedged item
+attributable to interest rate risk in certain fair value hedging relationships.
+Those limitations may not align with an entity’s risk management strategies
+or the way in which interest rate risk can be hedged in the cash flow
+hedging model. To resolve those issues, the amendments in this ASU
+change the guidance for designating fair value hedges of interest
+rate risk and for measuring the change in fair value of the hedged
+item in fair value hedges of interest rate risk. Specifically, the
+amendments:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Permit an entity to measure the change in fair value
+of the hedged item on the basis of the benchmark rate component of
+the contractual coupon cash flows determined at hedge inception, rather
+than on the full contractual coupon cash flows as required by current
+GAAP.</para>
+          </listitem>
+          <listitem>
+            <para>Permit an entity to measure the hedged item in a partial-term
+fair value hedge of interest rate risk by assuming the hedged item
+has a term that reflects only the designated cash flows being hedged.
+Current GAAP does not allow this methodology when calculating the
+change in the fair value of the hedged item attributable to interest
+rate risk.</para>
+          </listitem>
+          <listitem>
+            <para>For prepayable financial instruments, permit an entity
+to consider only how changes in the benchmark interest rate affect
+a decision to settle a debt instrument before its scheduled maturity
+in calculating the change in the fair value of the hedged item attributable
+to interest rate risk.</para>
+          </listitem>
+          <listitem>
+            <para>For a closed portfolio of prepayable financial assets
+or one or more beneficial interests secured by a portfolio of prepayable
+financial instruments, permit an entity to designate an amount that
+is not expected to be affected by prepayments, defaults, and other
+events affecting the timing and amount of cash flows (the "last-of-layer"
+method). Under this designation, prepayment risk is not incorporated
+into the measurement of the hedged item.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_recognition_and_presentation_of" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Recognition and Presentation of the Effects of Hedging
+Instruments</titleabbrev>
+          <title role="ps_subsub_heading">Recognition and Presentation of the
+Effects of Hedging Instruments</title>
+        </sectioninfo>
+        <para role="ps_indent_0">The amendments in this ASU also align the
+recognition and presentation of the effects of the hedging instrument
+and the hedged item in the financial statements to increase the understandability
+of the results of an entity’s intended hedging strategies.</para>
+        <para role="ps_indent_0">The amendments in this ASU require an entity
+to present the earnings effect of the hedging instrument in the same
+income statement line item in which the earnings effect of the hedged
+item is reported. This presentation enables users of financial statements
+to better understand the results and costs of an entity’s hedging
+program. Also, relative to current GAAP, this approach simplifies
+the financial statement reporting for qualifying hedging relationships.
+The amendments in this ASU require the following recognition and presentation
+guidance for qualifying hedges:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>For fair value hedges, the entire change in the fair
+value of the hedging instrument included in the assessment of hedge
+effectiveness is presented in the same income statement line that
+is used to present the earnings effect of the hedged item. The timing
+of recognition of the change in fair value of a hedging instrument
+included in the assessment of hedge effectiveness is the same as under
+current GAAP, but the presentation of hedge results could change because
+current GAAP does not specify a required presentation of the change
+in fair value of the hedging instrument.</para>
+          </listitem>
+          <listitem>
+            <para>For cash flow and net investment hedges, the entire
+change in the fair value of the hedging instrument included in the
+assessment of hedge effectiveness is recorded in other comprehensive
+income (for cash flow hedges) or in the currency translation adjustment
+section of other comprehensive income (for net investment hedges).
+Those amounts are reclassified to earnings in the same income statement
+line item that is used to present the earnings effect of the hedged
+item when the hedged item affects earnings. The timing of recognition
+of the change in fair value of a hedging instrument could change relative
+to current GAAP because hedge ineffectiveness no longer is recognized
+currently in earnings. The presentation of hedge results also could
+change because current GAAP does not specify a required presentation
+of the change in fair value of the hedging instrument in the income
+statement.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_amounts_excluded_from_the" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Amounts Excluded from the Assessment of Hedge Effectiveness</titleabbrev>
+          <title role="ps_subsub_heading">Amounts Excluded from the Assessment
+of Hedge Effectiveness</title>
+        </sectioninfo>
+        <para role="ps_indent_0">Current GAAP permits an entity to exclude
+option premiums and forward points from the assessment of hedge effectiveness.
+The amendments in this ASU continue to allow an entity to exclude
+those components of a hedging instrument’s change in fair value from
+the assessment of hedge effectiveness. Additionally, the amendments
+permit an entity to exclude the portion of the change in fair value
+of a currency swap that is attributable to a cross-currency basis
+spread from the assessment of hedge effectiveness.</para>
+        <para role="ps_indent_0">For all types of hedges, if an entity excludes
+certain portions of a hedging instrument’s change in fair value from
+the assessment of hedge effectiveness (excluded component), the amendments
+permit an entity to recognize in earnings the initial value of the
+excluded component using a systematic and rational method over the
+life of the hedging instrument. If an entity elects this method, any
+difference between the change in fair value of the excluded component
+and amounts recognized under the systematic and rational method is
+recognized in other comprehensive income, whereas for net investment
+hedges, the difference is recognized in the cumulative translation
+adjustment section of other comprehensive income. An entity also may
+elect to recognize all fair value changes in an excluded component
+currently in earnings, consistent with current GAAP.</para>
+        <para role="ps_indent_0">For fair value and cash flow hedges, an entity
+should present amounts related to excluded components that are recognized
+in earnings in the same income statement line item that is used to
+present the earnings effect of the hedged item. For net investment
+hedges, the amendments do not specify a required presentation for
+excluded components.</para>
+      </section>
+      <section id="aag-afi_appF_other_simplifications_of_hedge" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Other Simplifications of Hedge Accounting Guidance</titleabbrev>
+          <title role="ps_subsub_heading">Other Simplifications of Hedge Accounting
+Guidance</title>
+        </sectioninfo>
+        <para role="ps_indent_0">The amendments alter effectiveness testing
+as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>In instances in which initial quantitative testing
+is required, an entity may perform subsequent assessments of hedge
+effectiveness qualitatively. An entity that makes this election is
+required to verify and document on a quarterly basis that the facts
+and circumstances related to the hedging relationship have not changed
+such that the entity can assert qualitatively that the hedging relationship
+was and continues to be highly effective. An entity may elect to perform
+qualitative assessments on a hedge-by-hedge basis.</para>
+          </listitem>
+          <listitem>
+            <para>For purposes of assessing whether the qualifying criteria
+for the critical terms match method are met for a group of forecasted
+transactions, an entity may assume that the hedging derivative matures
+at the same time as the forecasted transactions if both the derivative
+maturity and the forecasted transactions occur within the same 31-day
+period or fiscal month.</para>
+          </listitem>
+          <listitem>
+            <para>Entities will be able to perform the initial prospective
+quantitative assessment of hedge effectiveness at any time after hedge
+designation, but no later than the first quarterly effectiveness testing
+date, using data applicable as of the date of hedge inception.</para>
+          </listitem>
+          <listitem>
+            <para>To provide additional relief on the timing of hedge
+documentation, private companies that are not financial institutions
+and not-for-profit entities (except for not-for-profit entities that
+have issued, or are a conduit bond obligor for, securities that are
+traded, listed, or quoted on an exchange or an over-the-counter market)
+may select the method of assessing hedge effectiveness, and perform
+the initial quantitative effectiveness assessment and all quarterly
+hedge effectiveness assessments before the date on which the next
+interim (if applicable) or annual financial statements are available
+to be issued. This incremental relief does not affect the simplified
+hedge accounting approach for private companies.</para>
+          </listitem>
+          <listitem>
+            <para>If an entity that applies the shortcut method determines
+that use of that method was not or no longer is appropriate, the entity
+may apply a long-haul method for assessing hedge effectiveness as
+long as the hedge is highly effective and the entity documents at
+inception which long-haul methodology it will use.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_disclosures2" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Disclosures</titleabbrev>
+          <title role="ps_subsub_heading">Disclosures</title>
+        </sectioninfo>
+        <para role="ps_indent_0">The amendments in this ASU require a tabular
+disclosure related to the effect on the income statement of fair value
+and cash flow hedges and eliminate the requirement to disclose the
+ineffective portion of the change in fair value of hedging instruments.
+The amendments also require new tabular disclosures related to cumulative
+basis adjustments for fair value hedges.</para>
+      </section>
+    </section>
+    <section id="aag-afi_appF_applicability_and_effective_date3" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Applicability and Effective Date</titleabbrev>
+        <title role="ps_sub_heading">Applicability and Effective Date</title>
+      </sectioninfo>
+      <para role="ps_indent_0">ASU No. 2017-12 applies to any entity that
+elects to apply hedge accounting in accordance with current GAAP and
+is effective (as amended by FASB ASU No. 2019-10) as follows:</para>
+      <para role="ps_indent_0">Early application is permitted in any interim
+period after issuance of this ASU. All transition requirements and
+elections should be applied to hedging relationships existing (that
+is, hedging relationships in which the hedging instrument has not
+expired, been sold, terminated, or exercised or the entity has not
+removed the designation of the hedging relationship) on the date of
+adoption. The effect of adoptions should be reflected as of the beginning
+of the fiscal year of adoption (that is, the initial application date). </para>
+      <table frame="all" id="aag-afi_appF_table4" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="1.92in"/>
+          <colspec colname="c2" colwidth="2.17in"/>
+          <colspec colname="c3" colwidth="1.92in"/>
+          <thead>
+            <row>
+              <entry align="center" role="shade" valign="bottom">
+                <para/>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+              <entry align="center" role="shade" valign="bottom">
+                <para>
+                  <emphasis role="italic">
+                    <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+                  </emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>Public business entities </para>
+              </entry>
+              <entry>
+                <para>December 15, 2018</para>
+              </entry>
+              <entry>
+                <para>December 15, 2018</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>All other entities </para>
+              </entry>
+              <entry>
+                <para>December 15, 2020</para>
+              </entry>
+              <entry>
+                <para>December 15, 2021</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi_appF_latest_developments3" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Latest Developments</titleabbrev>
+        <title role="ps_sub_heading">Latest Developments</title>
+      </sectioninfo>
+      <section id="aag-afi_appF_fasb_asu_no__2019_04" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>FASB ASU No. 2019-04</titleabbrev>
+          <title role="ps_subsub_heading">FASB ASU No. 2019-04</title>
+        </sectioninfo>
+        <para role="ps_indent_0">In April 2019, FASB issued ASU No. 2019-04
+to clarify, correct, and improve various aspects of the guidance in
+ASU Nos. 2016-01, 2016-13, and 2017-12 related to financial instruments.
+The discussion herein will only address those amendments related to
+ASU No. 2017-12. Amendments related to ASU Nos. 2016-01 and ASU No.
+2016-13 were addressed in previous sections of this appendix.</para>
+        <para role="ps_indent_0">ASU No. 2019-04 clarifies certain aspects
+of the amendments in ASU No. 2017-12 as follows:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+               The amendments clarify that an entity
+may measure the change in fair value of a hedged item using an assumed
+term only for changes attributable to interest rate risk. They also
+clarify that an entity may measure the change in the fair value of
+the hedged item attributable to interest rate risk using an assumed
+term when the hedged item is designated in a hedge of both interest
+rate risk and foreign exchange risk. In that instance, the change
+in carrying value of the hedged item attributable to foreign exchange
+risk must continue to be measured based on changes in the spot exchange
+rate in accordance with FASB ASC 815-25-35-18. In addition, the amendments
+clarify that one or more separately designated partial-term fair value
+hedging relationships of a single financial instrument can be outstanding
+at the same time, and for forward-starting partial-term fair value
+hedges, the issuance of the hedged item is assumed to occur on the
+date in which the first hedged cash flow begins to accrue.
+              <emphasis role="italic">Partial-term fair value hedges
+of interest rate risk.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that an
+entity may, but is not required to, begin to amortize a fair value
+hedge basis adjustment before the fair value hedging relationship
+is discontinued. If an entity elects to amortize the basis adjustment
+during an outstanding partial-term hedge, that basis adjustment should
+be fully amortized by the hedged item’s assumed maturity date in accordance
+with FASB ASC 815-25-35-13B.
+              <emphasis role="italic">Amortization of fair value
+hedge basis adjustments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that available-for-sale
+debt securities should be disclosed at their amortized cost and that
+fair value hedge basis adjustments related to foreign exchange risk
+should be excluded from the disclosures required by FASB ASC 815-10-50-4EE.
+              <emphasis role="italic">Disclosure of fair value hedge
+basis adjustments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment clarifies that an entity should consider
+the contractually specified interest rate being hedged when applying
+the hypothetical derivative method.
+              <emphasis role="italic">Consideration of the hedged
+contractually specified interest rate under the hypothetical derivative
+method.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that a not-for-profit entity that does not
+separately report earnings may not elect the amortization approach
+for amounts excluded from the assessment of effectiveness for fair
+value hedging relationships. 
+              <emphasis role="italic">Scope for not-for-profit entities.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that a private company that is not a financial
+institution as described in FASB ASC 942-320-50-1 should document
+the analysis supporting a last-of-layer hedge designation concurrently
+with hedge inception. Not-for-profit entities (except for not-for-profit
+entities that have issued, or are a conduit bond obligor for, securities
+that are traded, listed, or quoted on an exchange or an over-the-counter
+market) qualify for the same subsequent quarterly hedge effectiveness
+assessment timing relief for which certain private companies qualify
+in accordance with FASB ASC 815-20-25-142.
+              <emphasis role="italic">Hedge accounting provisions
+applicable to certain private companies and not-for-profit entities.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendments clarify that the application
+of the first-payments-received cash flow hedging technique to changes
+in overall cash flows on a group of variable interest payments continues
+to be permitted.
+              <emphasis role="italic">Application of a first-payments-received
+cash flow hedging technique to overall cash flows on a group of variable
+interest payments.</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+               The amendment to FASB ASC 815-20-65-3(e)(1) clarifies that transition
+adjustments to amend the measurement methodology of the hedged item
+in a fair value hedge of interest rate risk should be made as of the
+date of initial application of ASU No. 2017-12. The date of initial
+application differs from the date of adoption if an entity adopts
+the amendments in ASU No. 2017-12 in an interim period. The amendments
+also clarify the following:
+              <emphasis role="italic">Transition guidance update.</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>An entity may rebalance its fair value hedging relationships
+of interest rate risk when it modifies the measurement methodology
+used for the hedged item from total contractual coupon cash flows
+to the benchmark rate component of the contractual coupon cash flows
+by any combination of increasing or decreasing the designated notional
+of the hedging instrument or increasing or decreasing the designated
+proportion of the hedged item. However, the entity may not add new
+hedged items or hedging instruments to the hedging relationship. </para>
+          </listitem>
+          <listitem>
+            <para>An entity may transition from a quantitative method
+of hedge effectiveness assessment to a method comparing the hedging
+relationship’s critical terms in accordance with paragraphs 84 and
+85 of FASB ASC 815-20-25 or paragraphs 129–129A of FASB ASC 815-20-25
+without dedesignating the existing hedging relationship if the guidance
+in those paragraphs is met.</para>
+          </listitem>
+          <listitem>
+            <para>A debt security reclassified from held-to-maturity
+to available-for-sale in accordance with FASB ASC 815-20-65-3(e)(7)
+does not call into question an entity’s assertion to hold to maturity
+those debt securities that continue to be classified as held-to-maturity,
+is not required to be designated in a last-of-layer hedging relationship,
+and may be sold by an entity after reclassification.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi_appF_effective_date3" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Effective Date</titleabbrev>
+          <title role="ps_subsub_heading">Effective Date</title>
+        </sectioninfo>
+        <para role="ps_indent_0">For entities that have not yet adopted the
+amendments in ASU No. 2017-12 as of the issuance date of ASU No. 2019-04,
+the effective dates and transition requirements for the amendments
+to FASB ASC 815 are the same as the effective dates and transition
+requirements in ASU No. 2017-12.</para>
+        <para role="ps_indent_0">For entities that have adopted the amendments
+in ASU No. 2017-12 as of the issuance date of ASU No. 2019-04, the
+effective date is as of the beginning of the first annual period beginning
+after the issuance date of ASU No. 2019-04. For those entities, early
+adoption is permitted, including adoption on any date on or after
+the issuance of ASU No. 2019-04.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi_appF_conclusion" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Conclusion</titleabbrev>
+      <title role="ps_main_heading">Conclusion</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      The extent of the effect of the new financial
+instruments standards will depend upon the relative significance of
+financial instruments to an entity’s operations and financial positon
+as well as the entity’s business strategy. To provide CPAs with guidance
+during this time of transition, the AICPA’s  offers invaluable resources on the topic. In
+addition, the FRC includes a list of conferences, webcasts, and products
+to keep you informed on the latest developments in accounting for
+financial instruments. 
+      <ulink url="https://www.aicpa.org/interestareas/frc.html">Financial Reporting
+Center (FRC)</ulink>
+    </para>
+  </section>
+</root>

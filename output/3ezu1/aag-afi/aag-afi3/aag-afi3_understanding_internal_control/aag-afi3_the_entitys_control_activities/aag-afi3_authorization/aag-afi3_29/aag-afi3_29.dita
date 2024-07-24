@@ -1,0 +1,38 @@
+<root id="aag-afi3_29" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.29</titleabbrev>
+    <title role="ps_para_number">3.29</title>
+  </sectioninfo>
+  <para role="ps_para_number">The function of an entity’s deal initiation
+records is to identify clearly the nature and purpose of individual
+transactions and the rights and obligations arising under each financial
+instrument contract, including the enforceability of the contracts.
+In addition to the basic financial information, such as a notional
+amount, complete and accurate records, at a minimum, typically include
+the</para>
+  <para role="ps_indent_hang_2">
+    identity of the dealer.
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    identity of the person recording the transaction (if not the dealer),
+when the transaction was initiated (including the date and time of
+the transaction), and how it was recorded in the entity’s information
+systems.
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    nature and purpose of the transaction, including whether it is intended
+to hedge an underlying commercial exposure.
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

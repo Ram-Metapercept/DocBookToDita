@@ -1,0 +1,33 @@
+<root id="aag-afi3_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.02</titleabbrev>
+    <title role="ps_para_number">3.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">AU-C section 315B requires the auditor
+to obtain a sufficient understanding of internal control by performing
+risk assessment procedures to</para>
+  <para role="ps_indent_0">The auditor is required to use this knowledge
+to</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>evaluate the design of controls relevant to an audit
+of financial statements.</para>
+    </listitem>
+    <listitem>
+      <para>determine whether they have been implemented.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>identify types of potential misstatements.</para>
+    </listitem>
+    <listitem>
+      <para>consider factors that affect the risks of material
+misstatement.</para>
+    </listitem>
+    <listitem>
+      <para>design tests of controls, when applicable, and substantive
+procedures.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,333 @@
+<root id="aag-afi_appC" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Appendix C — Examples of Control Objectives, Related
+Controls, and Illustrative Tests of Controls for Financial Instruments
+(Ref: par. 3.37)</titleabbrev>
+    <title role="ps_section_heading">Appendix C</title>
+    <subtitle role="ps_section_title">
+      Examples of Control Objectives,
+Related Controls, and Illustrative Tests of Controls for Financial
+Instruments (Ref: )
+      <olink targetptr="aag-afi3_37">par. 3.37</olink>
+    </subtitle>
+  </chapterinfo>
+  <para role="ps_indent_0">
+    <emphasis role="italic">This appendix is
+nonauthoritative and is included for informational purposes only.</emphasis>
+  </para>
+  <para role="ps_indent_0">The following table provides examples of
+control objectives, related controls, and illustrative tests of controls
+for financial instruments. The illustrative tests of controls may
+contain multiple tests addressing the same related controls. It is
+not necessarily intended that all illustrative tests would be performed
+for each related control; rather, they are included for example purposes.</para>
+  <table frame="all" id="aag-afi_appC_table1" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colsep="1" colwidth="1.81in"/>
+      <colspec colname="c2" colwidth="2.32in"/>
+      <colspec colname="c3" colwidth="1.98in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Control Objective</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Related Controls</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="0" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Illustrative Tests
+of Controls</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Financial instrument transactions are initiated in accordance
+with management’s established policies and procedures.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Guidelines have been prescribed for acceptable risk and rate
+of return levels for the entity’s financial instruments. Financial
+instrument personnel must obtain approval to purchase financial instruments
+that do not conform with the prescribed guidelines. Supervisory personnel
+monitor financial instrument purchases to determine whether approval
+was obtained to purchase financial instruments that do not conform
+with the prescribed guidelines.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the monitoring by supervisory personnel
+to determine whether approval was obtained to purchase financial instruments
+that do not conform with the prescribed guidelines and testing some
+of the purchases the supervisory personnel reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Lists of authorized financial instrument dealers are maintained
+and updated periodically, and supervisory personnel periodically review
+documentation of financial instrument transactions to determine whether
+only authorized dealers were used.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel
+of financial instrument transactions to determine whether only authorized
+dealers were used and testing some of the transactions the supervisory
+personnel reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Those charged with governance, generally through their finance,
+asset or liability, investment, or other committee, review reports
+of financial instrument transactions to determine whether the entity’s
+guidelines for financial instrument transactions are being complied
+with.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting minutes of meetings of those charged with governance
+or the finance, asset or liability, investment, or other committee
+for evidence of review of reports of financial instrument transactions
+and evidence of approval of changes in financial instrument policies.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top"/>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Those charged with governance, generally through their finance,
+asset or liability, investment, or other committee, must approve changes
+in financial instrument policies, and approval must be documented.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Inspecting minutes of meetings of those charged with governance
+or the finance, asset or liability, investment, or other committee
+for evidence of review of reports of financial instrument transactions
+and evidence of approval of changes in financial instrument policies.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Information relating to financial instruments and financial
+instrument transactions is complete and accurate.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Duties among those who initiate financial instrument transactions,
+have access to financial instruments, and post or reconcile related
+accounting records are appropriately segregated, and supervisory personnel
+regularly review reconciliations of information provided by individuals
+performing these functions.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel
+of reconciliations of information about financial instrument transactions
+provided by the segregated functions and testing some of the reconciliations
+they reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Supervisory personnel periodically review documentation supporting
+the acquisition and transfer of financial instruments to ensure that
+classification of the financial instruments was made and documented
+at acquisition (and date of transfer, if applicable) and is in accordance
+with the entity’s financial instrument policies, management’s intent,
+and the applicable financial reporting framework.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel
+of the documentation supporting the acquisition and transfer of financial
+instruments and inspecting a sample of the documentation they reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Supervisory personnel periodically review accounting entries
+supporting financial instrument transactions.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel
+of accounting entries and testing a sample of the entries they reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Supervisory personnel periodically review trader (sales function)
+to operations (administrative and support services) reconciliations
+for open positions and profit and loss.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel
+of accounting entries and testing a sample of the entries they reviewed.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top"/>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Supervisory personnel periodically analyze recorded interest
+and dividend income, including comparing actual yields during the
+period with expected yields based on previous results and current
+market trends, and investigate significant differences from the expected
+results.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Inspecting documentation of the analysis by supervisory personnel
+of recorded interest and dividend income and testing the resolution
+of significant differences from their expectations.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Derivatives accounted for as hedges meet the designation, documentation,
+and assessment requirements of the applicable financial reporting
+framework.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Hedge documentation is prepared contemporaneous with the hedging
+transactions and reviewed by supervisory personnel for compliance
+with the requirements of the applicable financial reporting framework.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Obtaining hedge documentation prepared by the entity and all
+related contracts and agreements for the transaction. Compare the
+documentation to the applicable financial reporting framework requirements,
+noting contemporaneous preparation with the transaction and evidence
+of the review by supervisory personnel.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Financial instruments are on hand or held in custody or for
+safekeeping by others.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Supervisory personnel periodically review recorded financial
+instruments, compare them with safekeeping ledgers and timely custodial
+confirmations, and investigate significant differences.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel.</para>
+            <para>Comparing reconciliations to custodial confirmations and general
+ledger accounts.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>The carrying amount of debt, equity securities, and financial
+instruments is adjusted to fair value, when applicable, and changes
+in the fair value of those financial instruments are accounted for
+in conformity with the applicable financial reporting framework.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Duties of those committing the entity to underlying transactions
+are segregated from those responsible for undertaking the valuations
+of financial instruments.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Obtaining an understanding of the entity’s controls over the
+initiation of financial instrument transactions and the valuation
+of the financial instruments recorded by the transactions.</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Supervisory personnel periodically review the recorded fair
+values of financial instruments and investigate significant differences
+from the amounts expected.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inspecting documentation of the review by supervisory personnel.</para>
+            <para>Testing their investigation of significant differences.</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Service organizations are utilized for pricing services or other
+fair value determinations.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Obtaining an understanding of the role of the service organization
+in the calculation of fair value of financial instruments.</para>
+            <para>Inspecting documentation of management’s review of the activities
+performed by the service organization.</para>
+            <para>Obtaining and evaluating a report on the service organization
+controls.</para>
+          </entry>
+        </row>
+        <row>
+          <entry rowsep="0"/>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Specialists are engaged to determine fair value measurements.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Determining the nature, timing, and extent of the audit procedures
+to be performed in auditing the work of an auditor’s specialists.</para>
+            <para>Evaluating the competence, capabilities, and objectivity of
+the auditor’s specialist.</para>
+            <para>Obtaining an understanding of the field of expertise of the
+auditor’s specialists.</para>
+            <para>Obtaining an agreement with the auditor’s specialists.</para>
+            <para>Evaluating the adequacy of the work of the auditor’s specialists.</para>
+            <para>Inspecting documentation of management’s and, when appropriate,
+those charged with governance’s review and approval of fair value
+measurements (estimates) determined by specialists.</para>
+          </entry>
+        </row>
+        <row>
+          <entry/>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Supervisory personnel monitor realized gains and losses to determine
+that appropriate amounts have been reclassified from accumulated other
+comprehensive income.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>Testing a sample of financial instruments by agreeing published
+price quotations in an active market to fair value calculations utilized
+by the entity.</para>
+            <para>Recalculating the amounts of the reclassifications.</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Financial instruments are monitored on an ongoing basis to recognize
+and measure events affecting related financial statement assertions. </para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Supervisory personnel regularly review recorded financial instruments
+to determine that events affecting their presentation and disclosure
+are considered, such as factors indicating impairment, loans of the
+financial instruments to other entities, or pledging financial instruments
+as collateral.</para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="0" valign="top">
+            <para>Inquiring of supervisory personnel about whether financial instrument
+portfolios and related transactions, including impairments, are being
+monitored on a timely basis.</para>
+            <para>Inspecting documentation of the review of recorded financial
+instruments and testing a sample of the financial instruments that
+supervisory personnel reviewed.</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

@@ -1,0 +1,47 @@
+<root id="aag-afi_appF_risk_component_hedging" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Risk Component Hedging</titleabbrev>
+    <title role="ps_subsub_heading">Risk Component Hedging</title>
+  </sectioninfo>
+  <para role="ps_indent_0">Current GAAP contains limitations on how
+an entity can designate the hedged risk in certain cash flow and fair
+value hedging relationships. To address those current limitations,
+the amendments in this ASU permit hedge accounting for risk components
+in hedging relationships involving nonfinancial risk and interest
+rate risk as follows:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>For a cash flow hedge of a forecasted purchase or
+sale of a nonfinancial asset, an entity could designate as the hedged
+risk the variability in cash flows attributable to changes in a contractually
+specified component stated in the contract. The amendments remove
+the requirement in current GAAP that only the overall variability
+in cash flows or variability related to foreign currency risk could
+be designated as the hedged risk in a cash flow hedge of a nonfinancial
+asset.</para>
+    </listitem>
+    <listitem>
+      <para>For a cash flow hedge of interest rate risk of a variable-rate
+financial instrument, an entity could designate as the hedged risk
+the variability in cash flows attributable to the contractually specified
+interest rate. By eliminating the concept of benchmark interest rates
+for hedges of variable-rate instruments in current GAAP, the amendments
+remove the requirement to designate only the overall variability in
+cash flows as the hedged risk in a cash flow hedge of a variable-rate
+instrument indexed to a non-benchmark interest rate.</para>
+    </listitem>
+    <listitem>
+      <para>For a fair value hedge of interest rate risk, the
+amendments add the Securities Industry and Financial Markets Association
+(SIFMA) Municipal Swap Rate as an eligible benchmark interest rate
+in the United States in addition to those already permitted under
+current GAAP (the U.S. Treasury Rate, the London Interbank Offered
+Rate Swap Rate, and the Fed Funds Effective Swap Rate [or Overnight
+Index Swap Rate]). This allows an entity that issues or invests in
+fixed-rate tax-exempt financial instruments to designate as the hedged
+risk changes in fair value attributable to interest rate risk related
+to the SIFMA Municipal Swap Rate rather than overall changes in fair
+value.</para>
+    </listitem>
+  </itemizedlist>
+</root>

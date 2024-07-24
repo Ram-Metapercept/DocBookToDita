@@ -1,0 +1,35 @@
+<root id="aag-afi1_13" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.13</titleabbrev>
+    <title role="ps_para_number">1.13</title>
+  </sectioninfo>
+  <para role="ps_para_number">The nature of risks often differs between
+entities with a high volume and variety of financial instruments and
+those with only a few financial instrument transactions. This results
+in different approaches to internal control:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Often, an institution with a high volume of financial
+instruments will have a dealing room-type environment in which there
+are specialist traders and segregation of duties between those traders
+and the administrative and support services (which refers to the operations
+function that data checks trades that have been conducted, ensuring
+that they are not erroneous and transacting the required transfers).
+In such environments, the traders will often initiate contracts verbally
+over the phone or via an electronic trading platform. Capturing relevant
+transactions and accurately recording financial instruments in such
+an environment is significantly more challenging than for an entity
+with only a few financial instruments whose existence and completeness
+often can be confirmed with a bank confirmation to a few banks.</para>
+    </listitem>
+    <listitem>
+      <para>On the other hand, entities with only a small number
+of financial instruments often do not have segregation of duties,
+and access to the market is limited. In such cases, although it may
+be easier to identify financial instrument transactions, a risk exists
+that management may rely on a limited number of personnel, which may
+increase the risk that unauthorized transactions may be initiated,
+or transactions may not be recorded.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,80 @@
+<root id="aag-afi_preface_guidance_considered_in_this" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Guidance Considered in This Edition</titleabbrev>
+    <title role="ps_main_heading">Guidance Considered in This Edition</title>
+  </sectioninfo>
+  <para role="ps_indent_0">This edition of the guide has been modified
+by AICPA staff to include certain changes necessary due to the issuance
+of authoritative guidance since the guide was originally issued, and
+other revisions as deemed appropriate. Authoritative guidance issued
+through September 1, 2020, has been considered in the development
+of this edition of the guide. However, this guide does not include
+all audit, accounting, reporting, regulatory, and other requirements
+applicable to an entity or a particular engagement. This guide is
+intended to be used in conjunction with all applicable sources of
+relevant guidance.</para>
+  <para role="ps_indent_0">Relevant guidance that is issued and effective
+on or before September 1, 2020, is incorporated directly in the text
+of this guide. Relevant guidance issued but not yet effective as of
+September 1, 2020, but becoming effective on or before December 31,
+2020, is also presented directly in the text of the guide, but shaded
+gray and accompanied by a footnote indicating the effective date of
+the new guidance. The distinct presentation of this content is intended
+to aid the reader in differentiating content that may not be effective
+for the reader’s purposes (as part of the guide’s “dual guidance”
+treatment of applicable new guidance).</para>
+  <para role="ps_indent_0">Relevant guidance issued but not yet effective
+as of the date of the guide and not becoming effective until after
+December 31, 2020 is referenced in a “guidance update” box, that is,
+a gray shaded box that contains summary information on the guidance
+issued but not yet effective.</para>
+  <para role="ps_indent_0">In updating this guide, all guidance issued
+up to and including the following was considered, but not necessarily
+incorporated, as determined based on applicability:</para>
+  <para role="ps_indent_0">Users of this guide should consider guidance
+issued subsequent to those items listed previously to determine their
+effect, if any, on entities and engagements covered by this guide.
+In determining the applicability of recently issued guidance, its
+effective date should also be considered.</para>
+  <para role="ps_indent_0">
+    The changes made to this edition of the guide
+are identified in , “Schedule of Changes Made to the Text From the Previous Edition.”
+The changes do not include all those that might be considered necessary
+if the guide were subjected to a comprehensive review and revision.
+    <olink targetptr="aag-afi_appG">appendix G</olink>
+  </para>
+  <para role="ps_indent_0">
+    FASB standards quoted are from the FASB  ©2020,
+Financial Accounting Foundation. All rights reserved. Used by permission.
+    <emphasis role="italic">Accounting Standards Codification</emphasis>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        FASB Accounting Standards Update (ASU) No. 2020-06, 
+        <emphasis role="italic">Debt — Debt with Conversion and Other Options (Subtopic
+470-20) and Derivatives and Hedging — Contracts in Entity’s Own Equity
+(Subtopic 815-40): Accounting for Convertible Instruments and Contracts
+in an Entity’s Own Equity</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        ,  (AU-C sec. 540)
+        <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+        <emphasis role="italic">Auditing Accounting Estimates and Related
+Disclosures</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        ,
+“Communicating Critical Audit Matters When Reporting on Audits Conducted
+in Accordance With Auditing Standards Generally Accepted in the United
+States of America and the Standards of the PCAOB,” of AU-C section
+9700.
+        <olink targetdoc="ps" targetptr="ad_9700_interpretation5">Interpretation No. 5</olink>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

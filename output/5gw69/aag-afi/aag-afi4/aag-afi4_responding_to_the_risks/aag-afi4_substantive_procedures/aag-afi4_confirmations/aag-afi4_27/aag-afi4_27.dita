@@ -1,0 +1,23 @@
+<root id="aag-afi4_27" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.27</titleabbrev>
+    <title role="ps_para_number">4.27</title>
+  </sectioninfo>
+  <para role="ps_para_number">Paragraph .12 of AU-C section 505B states
+that in the case of each nonresponse, the auditor should perform alternative
+audit procedures to obtain relevant and reliable audit evidence. Examples
+include the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Examining source documents, such as invoices or broker’s
+statements</para>
+    </listitem>
+    <listitem>
+      <para>Inspecting executed agreements</para>
+    </listitem>
+    <listitem>
+      <para>Examining cash receipts, disbursements, and trade
+confirmations subsequent to year-end</para>
+    </listitem>
+  </itemizedlist>
+</root>

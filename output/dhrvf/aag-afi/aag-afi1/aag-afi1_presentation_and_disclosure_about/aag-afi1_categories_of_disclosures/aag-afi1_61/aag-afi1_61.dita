@@ -1,0 +1,28 @@
+<root id="aag-afi1_61" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.61</titleabbrev>
+    <title role="ps_para_number">1.61</title>
+  </sectioninfo>
+  <para role="ps_para_number">Financial reporting frameworks may require
+disclosure of information that enables users of the financial statements
+to evaluate the nature and extent of the risks arising from financial
+instruments to which the entity is exposed at the reporting date.
+The extent of disclosure depends on the extent of the entity’s exposure
+to risks arising from financial instruments. This includes qualitative
+disclosures about</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the exposures to risk and how they arise, including
+the possible effects on an entity’s future liquidity and collateral
+requirements.</para>
+    </listitem>
+    <listitem>
+      <para>the entity’s objectives, policies, and processes for
+managing the risk and the methods used to measure the risk.</para>
+    </listitem>
+    <listitem>
+      <para>any changes in exposures to risk or objectives, policies,
+or processes for managing risk from the previous period.</para>
+    </listitem>
+  </itemizedlist>
+</root>

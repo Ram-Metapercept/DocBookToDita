@@ -1,0 +1,45 @@
+<root id="aag-afi1_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.06</titleabbrev>
+    <title role="ps_para_number">1.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Business risk and the risk of material misstatement increase when management
+and those charged with governance
+    <footnote id="aag-afi1_fn2" label="fn 2" role="number">
+      <para>
+         is defined
+in paragraph .04 of AU-C section 315B, .
+        <emphasis role="italic">Business risk</emphasis>
+        <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+      </para>
+      <para>
+        All AU-C sections can be found in AICPA .
+        <tab/>
+        <emphasis role="italic">
+          <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+        </emphasis>
+      </para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>do not fully understand the risks of using financial
+instruments and have insufficient skills and experience to manage
+those risks.</para>
+    </listitem>
+    <listitem>
+      <para>do not have the expertise to value them appropriately
+in accordance with the applicable financial reporting framework.</para>
+    </listitem>
+    <listitem>
+      <para>do not have sufficient controls in place over financial
+instrument activities.</para>
+    </listitem>
+    <listitem>
+      <para>inappropriately hedge risks or speculate.</para>
+    </listitem>
+  </itemizedlist>
+</root>

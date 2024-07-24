@@ -1,0 +1,61 @@
+<root id="aag-afi2_professional_skepticism" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Professional Skepticism</titleabbrev>
+    <title role="ps_main_heading">
+      Professional Skepticism
+      <footnote id="aag-afi2_fn2" label="fn 2" role="number">
+        <para>
+          Paragraph .17 of AU-C section 200B, .
+          <emphasis role="italic">Overall Objectives of the Independent Auditor and the Conduct of
+an Audit in Accordance With Generally Accepted Auditing Standards</emphasis>
+        </para>
+      </footnote>
+    </title>
+  </sectioninfo>
+  <section id="aag-afi2_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.02</titleabbrev>
+      <title role="ps_para_number">2.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">Professional skepticism is necessary to
+the critical assessment of audit evidence and assists the auditor
+in remaining alert for possible indications of management bias. This
+includes questioning contradictory audit evidence and the reliability
+of documents, responses to inquiries, and other information obtained
+from management and those charged with governance. It also includes
+being alert to conditions that may indicate possible misstatement
+due to error or fraud and considering the sufficiency and appropriateness
+of audit evidence obtained in light of the circumstances.</para>
+  </section>
+  <section id="aag-afi2_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.03</titleabbrev>
+      <title role="ps_para_number">2.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">Exercising professional skepticism is
+required in all circumstances, and the need for professional skepticism
+increases with the complexity of financial instruments, such as with
+regard to the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Evaluating whether sufficient appropriate audit evidence
+has been obtained, which can be particularly challenging when models
+are used or in determining if markets are inactive</para>
+      </listitem>
+      <listitem>
+        <para>Evaluating management’s judgments and the potential
+for management bias in applying the entity’s applicable financial
+reporting framework, in particular management’s choice of valuation
+techniques, use of assumptions in valuation techniques, and addressing
+circumstances in which the auditor’s judgments and management’s judgments
+differ</para>
+      </listitem>
+      <listitem>
+        <para>Drawing conclusions based on the audit evidence obtained
+(for example assessing the reasonableness of valuations prepared by
+management’s specialists and evaluating whether disclosures in the
+financial statements achieve fair presentation).</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

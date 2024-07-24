@@ -1,0 +1,27 @@
+<root id="aag-afi4_37" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.37</titleabbrev>
+    <title role="ps_para_number">4.37</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    These alternative investments include
+investments that are not listed on national exchanges or OTC markets
+or for which quoted market prices are not available from sources such
+as financial publications, the exchanges, or NASDAQ. These investments,
+as discussed in , “Applicability of Practical
+Expedient,” include hedge funds, private equity funds, real estate
+funds, venture capital funds, commodity funds, offshore fund vehicles,
+and funds of funds. Alternative investments may be structured as limited
+partnerships, limited liability corporations, trusts, or corporations.
+    <olink targetdoc="tpa" targetptr="tis_2220_18">Technical
+Questions and Answers section 2220.18</olink>
+    <footnote id="aag-afi_fn9" label="fn 9" role="number">
+      <para>
+        All Q&amp;A sections can be found in .
+        <emphasis role="italic">
+          <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+        </emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

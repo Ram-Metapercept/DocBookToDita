@@ -1,0 +1,75 @@
+<root id="aag-afi1_categories_of_disclosures" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Categories of Disclosures</titleabbrev>
+    <title role="ps_sub_heading">Categories of Disclosures</title>
+  </sectioninfo>
+  <section id="aag-afi1_59" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.59</titleabbrev>
+      <title role="ps_para_number">1.59</title>
+    </sectioninfo>
+    <para role="ps_para_number">Disclosure requirements include</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>quantitative disclosures that are derived from the
+amounts included in the financial statements (for example, categories
+of financial assets and liabilities).</para>
+      </listitem>
+      <listitem>
+        <para>quantitative disclosures that require significant
+judgment (for example, sensitivity analysis for each type of market
+risk to which the entity is exposed).</para>
+      </listitem>
+      <listitem>
+        <para>qualitative disclosures (for example, those that describe
+the entity’s governance over financial instruments; objectives; controls,
+policies, and processes for managing each type of risk arising from
+financial instruments; and the methods used to measure the risks).</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_60" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.60</titleabbrev>
+      <title role="ps_para_number">1.60</title>
+    </sectioninfo>
+    <para role="ps_para_number">The more sensitive the valuation to movements
+in a particular variable, the more likely it is that disclosure will
+be necessary to indicate the uncertainties surrounding the valuation.
+Financial reporting frameworks may also require disclosure of sensitivity
+analyses, including the effects of changes in assumptions used in
+the entity’s valuation techniques. For example, the additional disclosures
+required for financial instruments with fair value measurements that
+are categorized within level 3 inputs of the fair value hierarchy
+are aimed at informing users of financial statements about the effects
+of those fair value measurements that use the most subjective inputs.</para>
+  </section>
+  <section id="aag-afi1_61" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.61</titleabbrev>
+      <title role="ps_para_number">1.61</title>
+    </sectioninfo>
+    <para role="ps_para_number">Financial reporting frameworks may require
+disclosure of information that enables users of the financial statements
+to evaluate the nature and extent of the risks arising from financial
+instruments to which the entity is exposed at the reporting date.
+The extent of disclosure depends on the extent of the entity’s exposure
+to risks arising from financial instruments. This includes qualitative
+disclosures about</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>the exposures to risk and how they arise, including
+the possible effects on an entity’s future liquidity and collateral
+requirements.</para>
+      </listitem>
+      <listitem>
+        <para>the entity’s objectives, policies, and processes for
+managing the risk and the methods used to measure the risk.</para>
+      </listitem>
+      <listitem>
+        <para>any changes in exposures to risk or objectives, policies,
+or processes for managing risk from the previous period.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

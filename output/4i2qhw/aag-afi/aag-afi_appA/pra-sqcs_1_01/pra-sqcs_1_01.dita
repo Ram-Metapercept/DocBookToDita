@@ -1,0 +1,34 @@
+<root id="pra-sqcs_1_01" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.01</titleabbrev>
+    <title role="ps_para_number">1.01</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The objectives of a system of quality
+control are to provide a CPA firm with reasonable assurance that the firm and its personnel comply with professional
+standards and applicable regulatory and legal requirements, and that
+the firm or engagement partners issue reports that are appropriate
+in the circumstances. ,  (AICPA, ), addresses a CPA firm’s responsibilities for its system of quality
+control for its accounting and auditing practice. That section is
+to be read in conjunction with the  and other relevant ethical requirements.
+    <footnote id="pra-sqcs_1_fn1" label="fn 1">
+      <para>
+        The term , which is defined as a high, but not absolute, level of assurance,
+is used because absolute assurance cannot be attained.  of QM section
+10A,  (AICPA, ), states, "Any system of quality control has inherent limitations
+that can reduce its effectiveness."
+        <emphasis role="italic">reasonable assurance</emphasis>
+        <emphasis role="italic">A Firm’s System of Quality Control</emphasis>
+        <emphasis role="italic">Professional Standards</emphasis>
+        <olink targetdoc="ps" targetptr="qm_10a_53">Paragraph .53</olink>
+      </para>
+    </footnote>
+    <olink targetdoc="ps" targetptr="qm_10a">QM
+section 10A</olink>
+    <olink targetdoc="ps" targetptr="code_of_professional_conduct_revised">AICPA Code of Professional
+Conduct</olink>
+    <emphasis role="italic">A Firm’s System of Quality
+Control</emphasis>
+    <emphasis role="italic">Professional Standards</emphasis>
+  </para>
+</root>

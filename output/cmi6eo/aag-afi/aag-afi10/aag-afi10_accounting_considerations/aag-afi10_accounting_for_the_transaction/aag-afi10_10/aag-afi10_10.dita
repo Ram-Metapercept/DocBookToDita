@@ -1,0 +1,50 @@
+<root id="aag-afi10_10" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.10</titleabbrev>
+    <title role="ps_para_number">10.10</title>
+  </sectioninfo>
+  <para role="ps_para_number">JLM assessed hedge effectiveness by comparing
+the change in the fair value of the interest rate swap with the portion
+of the change in the fair value of the bond obligation attributable
+to changes in the benchmark interest rate. The change in the bond
+obligation’s fair value attributable to changes in the benchmark interest
+rate for a specific period is determined as the difference between
+two present value calculations as of the end of the period that exclude
+or include, respectively, the effect of the changes in the benchmark
+interest rate during the period. The discount rates used for those
+present value calculations would be, respectively, the discount rate
+equal to the coupon rate for the bond obligation (assuming no changes
+in JLM’s creditworthiness) at the inception of the hedge adjusted
+(up or down) for changes in the</para>
+  <para role="ps_indent_hang_2">
+    benchmark rate (designated as the interest rate risk being hedged)
+from the inception of the hedge to the beginning date of the period
+for which the change in fair value is being calculated.
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    designated benchmark rate from the inception of the hedge to the
+ending date of the period for which the change in fair value is being
+calculated.
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_0">
+    <emphasis role="shade">Consistent with “Pending
+Content” in FASB ASC 815-25-55-55, JLM assessed hedge effectiveness
+by comparing the change in the fair value of the interest rate swap
+with the portion of the change in the fair value of the bond obligation
+attributable to changes in the benchmark interest rate. The change
+in the bond obligation’s fair value attributable to changes in the
+benchmark interest rate for a specific period is determined as the
+difference between two present value calculations that use the remaining
+cash flows as of the end of the period and reflect in the discount
+rate the effect of the changes in the benchmark interest rate during
+the period.</emphasis>
+  </para>
+</root>

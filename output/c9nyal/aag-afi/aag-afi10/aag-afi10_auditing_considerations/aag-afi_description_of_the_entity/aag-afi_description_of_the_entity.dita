@@ -1,0 +1,155 @@
+<root id="aag-afi_description_of_the_entity" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Description of the Entity</titleabbrev>
+    <title role="ps_sub_heading">Description of the Entity</title>
+  </sectioninfo>
+  <section id="aag-afi10_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.17</titleabbrev>
+      <title role="ps_para_number">10.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">Key factors in assessing JLM’s control
+environment are the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>JLM’s management and board of directors instill high
+integrity and ethical values throughout all aspects of the entity.</para>
+      </listitem>
+      <listitem>
+        <para>JLM has in place a corporate compliance program specifically
+prohibiting fraud against the entity that states the penalties for
+fraud and requires employees to report fraud. In addition, a process
+exists to identify high-risk areas of potential fraud exposure for
+the entity.</para>
+      </listitem>
+      <listitem>
+        <para>JLM has in place a quality information system that
+provides system-generated information that gives management the ability
+to make appropriate decisions in managing and controlling the entity’s
+activities and to prepare reliable financial reports.</para>
+      </listitem>
+      <listitem>
+        <para>The board of directors is independent from management
+and holds frequent, timely meetings with the CFO, accounting officer,
+internal auditors, and external auditors.</para>
+      </listitem>
+      <listitem>
+        <para>Management provides sufficient, timely information
+to allow monitoring of management’s financing objectives and strategies
+and JLM’s financial position and operating results.</para>
+      </listitem>
+      <listitem>
+        <para>Management consults with the board of directors on
+all business risks. Such business risks are accepted only after the
+board of directors’ study and approval. The board of directors approves
+all transactions that involve derivatives.</para>
+      </listitem>
+      <listitem>
+        <para>JLM’s organizational structure is appropriate to the
+entity’s size and activities and has the ability to provide information
+appropriate to manage the entity’s activities. The knowledge and experience
+of key managers are appropriate to their responsibilities.</para>
+      </listitem>
+      <listitem>
+        <para>Assignment of responsibility and delegation of authority
+are appropriate for the entity, given its size and the nature and
+complexity of activities. Authority has been delegated to deal with
+organizational goals and objectives, operating functions, and regulatory
+requirements, including responsibility for information systems and
+authorization for changes.</para>
+      </listitem>
+      <listitem>
+        <para>JLM’s investing and financing activities are monitored
+closely by the board of directors.</para>
+      </listitem>
+      <listitem>
+        <para>Management and the board of directors have a high
+commitment to competence when hiring employees. The investing and
+financing function is staffed with individuals who are knowledgeable
+about accounting for derivatives.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi10_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.18</titleabbrev>
+      <title role="ps_para_number">10.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">Although the volume of derivatives transactions
+is low, the entity has established controls over them. Some of JLM’s
+key controls include the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Overall, controls over financial reporting of derivatives
+transactions adequately provide segregation of duties and management
+oversight.</para>
+      </listitem>
+      <listitem>
+        <para>JLM has in place written policies regarding derivatives
+transactions that were approved by the board of directors.</para>
+      </listitem>
+      <listitem>
+        <para>The board of directors approves all derivatives transactions. </para>
+      </listitem>
+      <listitem>
+        <para>Controls are in place to ensure that derivatives designated
+as hedges meet the criteria for hedge accounting, both at inception
+and on an ongoing basis. </para>
+      </listitem>
+      <listitem>
+        <para>JLM’s CFO prepares an analysis for review by the board
+of directors that identifies</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>the objective of the hedge and the strategy for accomplishing
+the objective.</para>
+      </listitem>
+      <listitem>
+        <para>the nature of the risk being hedged.</para>
+      </listitem>
+      <listitem>
+        <para>the derivative hedging instrument.</para>
+      </listitem>
+      <listitem>
+        <para>the hedged item.</para>
+      </listitem>
+      <listitem>
+        <para>how the entity will assess hedge effectiveness. </para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>JLM’s investing and financing function maintains proper
+segregation of duties among dealing (committing JLM to the transaction),
+settlement (initiating cash payments and accepting cash receipts),
+and accounting (recording all transactions and the valuation of the
+derivative).</para>
+      </listitem>
+      <listitem>
+        <para>The board has approved a list of top-tier investment
+brokers that management may utilize for investment services.</para>
+      </listitem>
+      <listitem>
+        <para>JLM has put in place controls and procedures for the
+prevention or detection of errors, including the following:</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>Accounting entries for derivatives transactions are
+reviewed by senior management of the investing and financing function
+and subject to periodic review by the CFO.</para>
+      </listitem>
+      <listitem>
+        <para>Fair values are obtained from a broker-dealer and
+reviewed on a monthly basis.</para>
+      </listitem>
+      <listitem>
+        <para>Adjustments to financial instruments’ general ledger
+accounts are reviewed and approved by the controller.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

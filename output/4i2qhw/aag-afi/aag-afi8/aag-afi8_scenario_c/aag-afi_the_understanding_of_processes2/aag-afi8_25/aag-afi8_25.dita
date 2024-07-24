@@ -1,0 +1,64 @@
+<root id="aag-afi8_25" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.25</titleabbrev>
+    <title role="ps_para_number">8.25</title>
+  </sectioninfo>
+  <para role="ps_para_number">With respect to whether obtaining an understanding
+of the broker-dealer’s controls is necessary to plan the audit, the
+auditor concludes one of the following:</para>
+  <para role="ps_indent_2">
+    Based on available information, the auditor
+believes the broker-dealer has such controls.
+    <footnote id="aag-afi8_fn5" label="fn 5" role="number">
+      <para>To help plan the audit, the auditor may gather information about
+broker-dealer controls over existence and completeness assertions
+from a variety of sources. Examples are a service auditor’s type 1
+or type 2 SOC 1 report, manuals provided by the broker-dealer, and
+inquiries of broker-dealer personnel.</para>
+    </footnote>
+  </para>
+  <para role="ps_indent_2">Accordingly, obtaining an understanding of
+the broker-dealer’s controls over those services is not necessary
+to plan the audit.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Because the broker-dealer initiates and executes trades,
+all the information about trades that is available to Lane comes from
+the broker-dealer. Accordingly, the broker-dealer’s controls over
+the initiation of trades are significant to Lane’s internal control
+over financial instrument transactions. Information about the manner
+in which trades are initiated by the broker-dealer, as well as the
+broker-dealer’s controls over that process, is needed to plan the
+audit. The auditor decides that an effective broker-dealer control
+over initiation of trades would be both of the following:</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>Establishing independent departments that provide
+the investment advisory services and the holding and servicing of
+financial instruments</para>
+    </listitem>
+    <listitem>
+      <para>Reconciling the information about the financial instruments
+that is provided by each department</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The broker-dealer’s controls over servicing financial
+instruments and providing fair value information are not significant
+to Lane’s internal control over financial instrument transactions
+because Lane does both of the following:</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>Compares broker-dealer information about servicing
+and fair values with its expectations based on published information</para>
+    </listitem>
+    <listitem>
+      <para>Investigates significant differences</para>
+    </listitem>
+  </itemizedlist>
+</root>

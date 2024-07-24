@@ -1,0 +1,36 @@
+<root id="aag-afi10_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.05</titleabbrev>
+    <title role="ps_para_number">10.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The "" section illustrates accounting for a fair value hedge when the
+hedging instrument is an interest rate swap. When certain conditions
+are met, the entity may assume that an interest rate swap will be
+perfectly effective in hedging interest rate risk and may use the
+shortcut method to account for the hedging activity. In this case
+study, those conditions are not met, so the example demonstrates the
+accounting entries that should be made when the shortcut method is
+not available. The "" section illustrates the application of the guidance contained in
+AU-C section 501B, .
+    <olink targetptr="aag-afi10_accounting_considerations">Accounting Considerations</olink>
+    <olink targetptr="aag-afi10_accounting_considerations">Auditing Considerations</olink>
+    <emphasis role="italic">Audit Evidence — Specific
+Considerations for Selected Items</emphasis>
+    <footnote id="aag-afi10_fn1" label="fn 1" role="number">
+      <para>
+        All AU-C sections can be found in AICPA .
+        <emphasis role="italic">
+          <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+        </emphasis>
+      </para>
+    </footnote>
+    <footnote id="aag-afi10_fn2" label="fn 2" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+    </footnote>
+  </para>
+</root>

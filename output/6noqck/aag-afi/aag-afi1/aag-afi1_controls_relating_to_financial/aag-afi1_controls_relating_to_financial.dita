@@ -1,0 +1,173 @@
+<root id="aag-afi1_controls_relating_to_financial" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Controls Relating to Financial Instruments</titleabbrev>
+    <title role="ps_main_heading">Controls Relating to Financial Instruments</title>
+  </sectioninfo>
+  <section id="aag-afi1_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.10</titleabbrev>
+      <title role="ps_para_number">1.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">The extent of an entity’s use of financial
+instruments and the degree of complexity of the instruments are important
+determinants of the necessary level of sophistication of the entity’s
+internal control. For example, smaller entities may use less structured
+products and simple processes and procedures to achieve their objectives.</para>
+  </section>
+  <section id="aag-afi1_11" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.11</titleabbrev>
+      <title role="ps_para_number">1.11</title>
+    </sectioninfo>
+    <para role="ps_para_number">Often, it is the role of those charged
+with governance to set the tone regarding, and approve and oversee
+the extent of, the use of financial instruments, but it is management’s
+role to manage and monitor the entity’s exposures to those risks.
+Management and, when appropriate, those charged with governance are
+also responsible for designing and implementing a system of internal
+control to enable the preparation and fair presentation of financial
+statements in accordance with the applicable financial reporting framework.
+An entity’s internal control over financial instruments is more likely
+to be effective when management and those charged with governance
+have</para>
+    <para role="ps_indent_2">
+      , "Internal Control," of this guide provides examples of controls
+that may exist in an entity that deals in a high volume of financial
+instrument transactions.
+      <olink targetptr="aag-afi3">Chapter 3</olink>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>established an appropriate control environment (for
+example, active participation by those charged with governance in
+controlling the use of financial instruments); a logical organizational
+structure with clear assignment of authority and responsibility; and
+appropriate human resource policies and procedures. In particular,
+clear rules are needed on the extent to which those responsible for
+financial instrument activities are permitted to act. Such rules take
+into account any legal or regulatory restrictions on using financial
+instruments. For example, certain public sector entities may not have
+the power to conduct business using derivatives.</para>
+      </listitem>
+      <listitem>
+        <para>established a risk management process relative to
+the size of the entity and the complexity of its financial instruments.
+(For example, in some entities, a formal risk management function
+may exist.)</para>
+      </listitem>
+      <listitem>
+        <para>established information systems that provide those
+charged with governance with an understanding of the nature of the
+financial instrument activities and the associated risks, including
+adequate documentation of transactions.</para>
+      </listitem>
+      <listitem>
+        <para>designed, implemented, and documented a system of
+internal control to</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>provide reasonable assurance that the entity’s use
+of financial instruments is within its risk management policies.</para>
+      </listitem>
+      <listitem>
+        <para>properly present financial instruments in the financial
+statements.</para>
+      </listitem>
+      <listitem>
+        <para>ensure that the entity is in compliance with applicable
+laws and regulations.</para>
+      </listitem>
+      <listitem>
+        <para>monitor risk.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>established appropriate accounting policies, including
+valuation policies, in accordance with the applicable financial reporting
+framework.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_12" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.12</titleabbrev>
+      <title role="ps_para_number">1.12</title>
+    </sectioninfo>
+    <para role="ps_para_number">Key elements of risk management processes
+and internal control relating to an entity’s financial instruments
+include</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>setting an approach to define the amount of risk exposure
+that the entity is willing to accept when engaging in financial instrument
+transactions (this may be referred to as its "risk appetite"), including
+policies for investing in financial instruments and the control framework
+in which the financial instrument activities are conducted.</para>
+      </listitem>
+      <listitem>
+        <para>establishing processes for the documentation and authorization
+of new types of financial instrument transactions that consider the
+accounting, regulatory, legal, financial, and operational risks that
+are associated with such instruments.</para>
+      </listitem>
+      <listitem>
+        <para>processing financial instrument transactions, including
+confirmation and reconciliation of cash and asset holdings to external
+statements and the payments process.</para>
+      </listitem>
+      <listitem>
+        <para>segregation of duties between those investing or trading
+in the financial instruments and those responsible for processing,
+valuing, and confirming such instruments. For example, a model development
+function that is involved in assisting in pricing deals is less objective
+than one that is functionally and organizationally separate from the
+sales function.</para>
+      </listitem>
+      <listitem>
+        <para>valuation processes and controls, including controls
+over data obtained from third-party pricing sources.</para>
+      </listitem>
+      <listitem>
+        <para>monitoring of controls.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_13" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.13</titleabbrev>
+      <title role="ps_para_number">1.13</title>
+    </sectioninfo>
+    <para role="ps_para_number">The nature of risks often differs between
+entities with a high volume and variety of financial instruments and
+those with only a few financial instrument transactions. This results
+in different approaches to internal control:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Often, an institution with a high volume of financial
+instruments will have a dealing room-type environment in which there
+are specialist traders and segregation of duties between those traders
+and the administrative and support services (which refers to the operations
+function that data checks trades that have been conducted, ensuring
+that they are not erroneous and transacting the required transfers).
+In such environments, the traders will often initiate contracts verbally
+over the phone or via an electronic trading platform. Capturing relevant
+transactions and accurately recording financial instruments in such
+an environment is significantly more challenging than for an entity
+with only a few financial instruments whose existence and completeness
+often can be confirmed with a bank confirmation to a few banks.</para>
+      </listitem>
+      <listitem>
+        <para>On the other hand, entities with only a small number
+of financial instruments often do not have segregation of duties,
+and access to the market is limited. In such cases, although it may
+be easier to identify financial instrument transactions, a risk exists
+that management may rely on a limited number of personnel, which may
+increase the risk that unauthorized transactions may be initiated,
+or transactions may not be recorded.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

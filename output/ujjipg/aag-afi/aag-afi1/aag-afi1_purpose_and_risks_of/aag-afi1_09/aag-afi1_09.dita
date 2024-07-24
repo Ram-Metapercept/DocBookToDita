@@ -1,0 +1,35 @@
+<root id="aag-afi1_09" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.09</titleabbrev>
+    <title role="ps_para_number">1.09</title>
+  </sectioninfo>
+  <para role="ps_para_number">Other considerations relevant to risks
+of using financial instruments include the risk</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>of fraud that may be increased if, for example, an
+employee in a position to perpetrate a financial fraud understands
+both the financial instruments and processes for accounting for them,
+but management and those charged with governance have a lesser degree
+of understanding.</para>
+    </listitem>
+    <listitem>
+      <para>
+        that master netting arrangements may not be properly reflected in the financial statements.
+        <footnote id="aag-afi1_fn4" label="fn 4" role="number">
+          <para>An entity that undertakes a number of financial instrument transactions
+with a single counterparty may enter into a master netting arrangement
+with that counterparty. Such an agreement provides for a single net
+settlement of all financial instruments covered by the agreement in
+the event of default of any one contract. See FASB ASC 815-10-45 for
+information on offsetting amounts related to derivative instruments. </para>
+        </footnote>
+      </para>
+    </listitem>
+    <listitem>
+      <para>that some financial instruments may change between
+being assets or liabilities during their term and that such change
+may occur rapidly.</para>
+    </listitem>
+  </itemizedlist>
+</root>

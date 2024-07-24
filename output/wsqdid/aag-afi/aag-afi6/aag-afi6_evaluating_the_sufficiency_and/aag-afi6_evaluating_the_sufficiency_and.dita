@@ -1,0 +1,123 @@
+<root id="aag-afi6_evaluating_the_sufficiency_and" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Evaluating the Sufficiency and Appropriateness of Audit
+Evidence</titleabbrev>
+    <title role="ps_main_heading">Evaluating the Sufficiency and Appropriateness
+of Audit Evidence</title>
+  </sectioninfo>
+  <section id="aag-afi6_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.01</titleabbrev>
+      <title role="ps_para_number">6.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .18 of AU-C section 540B, , requires
+the auditor to evaluate, based on the audit evidence, whether the
+accounting estimates in the financial statements are either reasonable
+in the context of the applicable financial reporting framework or
+misstated.
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value
+Accounting Estimates, and Related Disclosures</emphasis>
+      <footnote id="aag-afi6_fn2" label="fn 2" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi6_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.02</titleabbrev>
+      <title role="ps_para_number">6.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Based on the audit evidence obtained,
+the auditor may conclude that the evidence points to an accounting
+estimate that differs from management’s point estimate. When the audit
+evidence supports a point estimate, the difference between the auditor’s
+point estimate and management’s point estimate constitutes a misstatement.
+When the auditor has concluded that using the auditor’s range provides
+sufficient appropriate audit evidence, a management point estimate
+that lies outside the auditor’s range would not be supported by audit
+evidence. In such cases, the misstatement is no less than the difference
+between management’s point estimate and the nearest point of the auditor’s
+range.
+      <footnote id="aag-afi6_fn3" label="fn 3" role="number">
+        <para>
+          Paragraph .A122 of AU-C section 540B, .
+          <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi6_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.03</titleabbrev>
+      <title role="ps_para_number">6.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Further, paragraph .28 of AU-C section
+330B, , requires the auditor to conclude whether sufficient appropriate
+audit evidence has been obtained. In forming a conclusion, the auditor
+is required to consider all relevant audit evidence, regardless of
+whether it appears to corroborate or contradict the assertions in
+the financial statements.
+      <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence Obtained</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi6_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.04</titleabbrev>
+      <title role="ps_para_number">6.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The auditor’s professional judgment about
+what constitutes sufficient appropriate audit evidence is influenced
+by such factors as the
+      <footnote id="aag-afi6_fn4" label="fn 4" role="number">
+        <para>
+          Paragraph .A75 of AU-C section 330B, .
+          <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          significance of the potential misstatement in the
+relevant assertion and the likelihood of it having a material effect,
+individually or aggregated with other potential misstatements, on
+the financial statements. (See AU-C section 450B, .)
+          <emphasis role="italic">Evaluation of Misstatements Identified During the Audit</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>effectiveness of management’s responses and controls
+to address the risks.</para>
+      </listitem>
+      <listitem>
+        <para>experience gained during previous audits with respect
+to similar potential misstatements.</para>
+      </listitem>
+      <listitem>
+        <para>results of audit procedures performed, including whether
+such audit procedures identified specific instances of fraud or error.</para>
+      </listitem>
+      <listitem>
+        <para>source and reliability of the available information.</para>
+      </listitem>
+      <listitem>
+        <para>persuasiveness of the audit evidence.</para>
+      </listitem>
+      <listitem>
+        <para>understanding of the entity and its environment, including
+its internal control.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

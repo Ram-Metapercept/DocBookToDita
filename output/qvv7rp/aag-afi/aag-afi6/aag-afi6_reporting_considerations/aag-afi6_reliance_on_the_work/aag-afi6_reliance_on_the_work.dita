@@ -1,0 +1,66 @@
+<root id="aag-afi6_reliance_on_the_work" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Reliance on the Work of the Specialist</titleabbrev>
+    <title role="ps_sub_heading">Reliance on the Work of the Specialist</title>
+  </sectioninfo>
+  <section id="aag-afi6_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.15</titleabbrev>
+      <title role="ps_para_number">6.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The auditor should not refer to the work
+of an auditor’s specialist in an auditor’s report containing an unmodified
+opinion. Reference to the specialist might be misunderstood to
+be a modification of the auditor’s opinion or division of responsibility,
+neither of which is intended. 
+      <footnote id="aag-afi6_fn11" label="fn 11" role="number">
+        <para>
+          Paragraph .14 of AU-C section 620B, .
+          <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi6_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.16</titleabbrev>
+      <title role="ps_para_number">6.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Circumstances may arise as a result of
+the valuation report or findings of the specialist wherein the auditor
+decides to modify the auditor’s report on the financial statements.
+Reference to, and identification of, the specialist may be made in
+the auditor’s report if, in the auditor’s judgment, the reference
+will facilitate an understanding of the reason for the modified opinion.
+In that circumstance, the auditor is required to indicate in the auditor’s
+report that such reference does not reduce the auditor’s responsibility
+for that opinion.
+      <footnote id="aag-afi6_fn12" label="fn 12" role="number">
+        <para>Paragraph .15 of AU-C section 620B.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi6_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.17</titleabbrev>
+      <title role="ps_para_number">6.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Situations may arise in which an entity
+lacks the sophistication to perform its own valuation. For example,
+an acquiring entity may refuse to engage a valuation specialist and
+makes its own estimate of the fair value of the assets acquired and
+liabilities assumed. In those circumstances, the auditor may recommend
+that the acquiring entity engage a qualified independent valuation
+specialist. If, in the auditor’s judgment, the valuation is not properly
+prepared, it may not provide sufficient audit evidence in support
+of the amounts assigned to assets acquired and liabilities assumed.
+AU-C section 705B describes the implications of the auditor’s inability
+to obtain sufficient appropriate audit evidence. See  for additional
+guidance.
+      <olink targetptr="aag-afi6_18">paragraphs 6.18–.21</olink>
+    </para>
+  </section>
+</root>

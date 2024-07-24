@@ -1,0 +1,98 @@
+<root id="aag-afi5_13" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.13</titleabbrev>
+    <title role="ps_para_number">5.13</title>
+  </sectioninfo>
+  <para role="ps_para_number">The following matters may be relevant
+when management uses a third-party pricing source:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        . Some third-party pricing sources make more information
+available about their process. For example, a pricing service often
+provides information about its methodology, assumptions, and data
+in valuing financial instruments at the asset class level. By contrast,
+brokers often provide no, or only limited, information about the inputs
+and assumptions used in developing the quote.
+        <emphasis role="italic">The type of third-party pricing
+source</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . The reliability
+of prices from third-party pricing sources varies depending on the
+observability of inputs (and, accordingly, the level of inputs in
+the fair value hierarchy) and the complexity of the methodology for
+valuing a specific security or asset class. For example, the reliability
+of a price for an equity investment actively traded in a liquid market
+is higher than that of a corporate bond traded in a liquid market
+that has not traded on the measurement date, which, in turn, is more
+reliable than that of an asset-backed security that is valued using
+a discounted cash flow model.
+        <emphasis role="italic">The nature of inputs used
+and the complexity of the valuation technique</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . For example, a third-party
+pricing source may be experienced in a certain type of financial instrument
+and be recognized as such but may not be similarly experienced in
+other types of financial instruments. The auditor’s past experience
+with the third-party pricing source may also be relevant in this regard.
+        <emphasis role="italic">The reputation and experience
+of the third-party pricing source</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . For example, if a price obtained by management
+comes from a counterparty, such as the broker who sold the financial
+instrument to the entity, or an entity with a close relationship with
+the entity being audited, the price may not be reliable.
+        <emphasis role="italic">The objectivity of the third-party
+pricing source</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . The degree to which
+management has controls in place to assess the reliability of information
+from third-party pricing sources affects the reliability of the fair
+value measurement. For example, management may have controls in place
+to
+        <emphasis role="italic">The entity’s controls over
+the use of third-party pricing sources</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>review and approve the use of the third-party pricing
+source, including consideration of the reputation, experience, and
+objectivity of the third-party pricing source.</para>
+    </listitem>
+    <listitem>
+      <para>determine the completeness, relevance, and accuracy
+of the prices and pricing-related data.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        . The controls and processes over valuations for
+the asset classes are of interest to the auditor. For example, a third-party
+pricing source may have strong controls around how prices are developed.
+In addition, the third-party pricing source may include the use of
+a formalized process for customers, both buy and sell side, to challenge
+the prices received from the pricing service when supported by appropriate
+evidence. This enables the third-party pricing source to constantly
+correct prices to more fully reflect the information available to
+market participants.
+        <emphasis role="italic">The third-party pricing source’s
+controls</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

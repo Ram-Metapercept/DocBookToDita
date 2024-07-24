@@ -1,0 +1,109 @@
+<root id="aag-afi4_procedures_relating_to_completeness" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Procedures Relating to Completeness, Accuracy, Existence,
+Occurrence, and Rights and Obligations</titleabbrev>
+    <title role="ps_subsub_heading">Procedures Relating to Completeness,
+Accuracy, Existence, Occurrence, and Rights and Obligations</title>
+  </sectioninfo>
+  <section id="aag-afi4_inspection" role="ls_level_6">
+    <sectioninfo>
+      <titleabbrev>Inspection</titleabbrev>
+      <title role="ps_subsubsub_heading">Inspection</title>
+    </sectioninfo>
+    <section id="aag-afi4_21" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.21</titleabbrev>
+        <title role="ps_para_number">4.21</title>
+      </sectioninfo>
+      <para role="ps_para_number">Traded financial instruments typically
+are maintained in electronic form and street name and, accordingly,
+cannot be inspected. For example, even though stock certificates are
+on file at a depository (for example, the Depository Trust Company),
+those shares are allocated to broker-dealers, and the issuer has no
+record of who owns shares. The broker-dealers send documents such
+as proxy statements to stockholders. Confirmation of the security
+provides evidence about the existence of financial instruments. Evidence
+about existence also may be gathered by examining supporting documentation,
+such as</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>instructions to portfolio managers or directed custodians.</para>
+        </listitem>
+        <listitem>
+          <para>transaction confirmations.</para>
+        </listitem>
+        <listitem>
+          <para>agreements.</para>
+        </listitem>
+        <listitem>
+          <para>contracts.</para>
+        </listitem>
+        <listitem>
+          <para>minutes of investment committees.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_22" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.22</titleabbrev>
+        <title role="ps_para_number">4.22</title>
+      </sectioninfo>
+      <para role="ps_para_number">If the physical inspection of financial
+instruments is possible, the auditor might consider the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            . Typically, financial instruments would be inspected at the same
+time cash and other negotiable assets (for example, bearer bonds)
+are counted. If financial instruments, cash, and other negotiable
+assets cannot be counted at the same time, the auditor might use other
+means to prevent the substitution of one type of negotiable asset
+for another. For example, bags, boxes, safes, or whole rooms may be
+sealed and counted at a later time.
+            <emphasis role="italic">The timing of the inspection</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . The following attributes normally can be observed when inspecting
+financial instruments:
+            <emphasis role="italic">What to look for</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>The name of the issuer</para>
+        </listitem>
+        <listitem>
+          <para>The description of the security</para>
+        </listitem>
+        <listitem>
+          <para>The name of the owner of the security</para>
+        </listitem>
+        <listitem>
+          <para>Any evidence of pledging or restrictions on disposal
+shown on the certificate</para>
+        </listitem>
+        <listitem>
+          <para>The number of shares of stock or face amount of debt
+financial instruments</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_23" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.23</titleabbrev>
+        <title role="ps_para_number">4.23</title>
+      </sectioninfo>
+      <para role="ps_para_number">As previously stated, some financial instruments
+do not involve an initial exchange of cash. Also, derivatives may
+be embedded in agreements and difficult to identify. Finally, financial
+instruments may be donated to entities such as not-for-profit organizations.
+When inspecting documents such as minutes, agreements, and contracts,
+the auditor’s overriding objective is to identify financial instruments
+that may not have been recognized in the accounting records of the
+entity.</para>
+    </section>
+  </section>
+</root>

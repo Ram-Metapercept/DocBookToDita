@@ -1,0 +1,21 @@
+<root id="aag-afi4_35" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.35</titleabbrev>
+    <title role="ps_para_number">4.35</title>
+  </sectioninfo>
+  <para role="ps_para_number">Although the purpose of a test of controls
+is different from the purpose of a test of details, it may be efficient
+to perform both at the same time by, for example</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>performing a test of controls and test of details
+on the same transaction (for example, testing whether a signed contract
+has been maintained and whether the details of the financial instrument
+have been appropriately captured in a summary sheet).</para>
+    </listitem>
+    <listitem>
+      <para>testing controls when testing management’s process
+of making valuation estimates.</para>
+    </listitem>
+  </itemizedlist>
+</root>

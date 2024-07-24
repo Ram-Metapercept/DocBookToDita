@@ -1,0 +1,19 @@
+<root id="aag-afi1_46" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.46</titleabbrev>
+    <title role="ps_para_number">1.46</title>
+  </sectioninfo>
+  <para role="ps_para_number">For one or more of these reasons, most
+entities use third-party pricing sources when valuing financial instruments
+either as a primary source or a source of corroboration for their
+own valuations. Third-party pricing sources generally fall into the
+following categories:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Pricing services, including consensus pricing services</para>
+    </listitem>
+    <listitem>
+      <para>Brokers providing broker quotes</para>
+    </listitem>
+  </itemizedlist>
+</root>

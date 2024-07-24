@@ -1,0 +1,706 @@
+<root id="aag-afi6_reporting_considerations" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Reporting Considerations</titleabbrev>
+    <title role="ps_main_heading">Reporting Considerations</title>
+  </sectioninfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi6_update_6-3">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+6-3 : Auditor Reporting
+and Amendments, Including Amendments Addressing Disclosures in the
+Audit of Financial Statements
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In May 2019,
+the AICPA issued SAS No. 134, . This suite of auditor reporting
+standards includes a new (although not required)  and replaces the following
+AU-C sections in AICPA :
+      <emphasis role="italic">Auditor Reporting
+and Amendments, Including Amendments Addressing Disclosures in the
+Audit of Financial Statements</emphasis>
+      <emphasis role="italic">Professional Standards</emphasis>
+      <olink targetdoc="ps" targetptr="ad_701">AU-C section 701</olink>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_705">Section 705</olink>
+            <emphasis role="italic">Modifications to the Opinion in the Independent
+Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_706">Section 706</olink>
+            <emphasis role="italic">Emphasis-of-Matter Paragraphs and Other-Matter
+Paragraphs in the Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>SAS No. 134, which also amends various
+other AU-C sections, addresses the auditor’s responsibility to form
+an opinion on the financial statements and the form and content of
+the auditor’s report issued as a result of an audit of financial statements.
+It also addresses the auditor’s responsibilities, and the form and
+content of the auditor’s report, when the auditor concludes that a
+modification to the auditor’s opinion on the financial statements
+is necessary, and when additional communications are necessary in
+the auditor’s report.</para>
+    <para>
+      At the time SAS No. 134 was originally
+issued, the amendments were intended to become effective for audits
+of financial statements for periods ending on or after December 15,
+2020 and early implementation was not permitted; however, in May 2020,
+the AICPA issued SAS No. 141, .
+      <emphasis role="italic">Amendment to
+the Effective Dates of SAS Nos. 134–140</emphasis>
+    </para>
+    <para>SAS
+No. 141 delays the effective dates of SAS Nos. 134–140, and the amendments
+to other SASs made by SAS Nos. 134–140, from December 15, 2020 to
+December 15, 2021, in order to provide more time for firms to implement
+these SASs in light of the effect of the coronavirus pandemic. SAS
+Nos. 134, 136–137, and 139–140, as originally issued, do not permit
+early implementation; however, SAS No. 141 amends these SASs to no
+longer preclude early implementation. </para>
+    <para>SAS Nos. 134 and
+136–140 are interrelated because the Auditing Standards Board (ASB)
+amended the auditor reporting model adopted in SAS No. 134 with the
+issuance of the subsequent SASs. The effective dates were aligned
+so that these SASs would be implemented as a suite, primarily to accommodate
+the amendments to the auditor reporting model. Accordingly, the ASB
+recommends that all of these SASs be implemented concurrently. SAS
+No. 141 was effective upon issuance.</para>
+  </paraBlock>
+  <section id="aag-afi6_reliance_on_the_work" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Reliance on the Work of the Specialist</titleabbrev>
+      <title role="ps_sub_heading">Reliance on the Work of the Specialist</title>
+    </sectioninfo>
+    <section id="aag-afi6_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.15</titleabbrev>
+        <title role="ps_para_number">6.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The auditor should not refer to the work
+of an auditor’s specialist in an auditor’s report containing an unmodified
+opinion. Reference to the specialist might be misunderstood to
+be a modification of the auditor’s opinion or division of responsibility,
+neither of which is intended. 
+        <footnote id="aag-afi6_fn11" label="fn 11" role="number">
+          <para>
+            Paragraph .14 of AU-C section 620B, .
+            <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi6_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.16</titleabbrev>
+        <title role="ps_para_number">6.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Circumstances may arise as a result of
+the valuation report or findings of the specialist wherein the auditor
+decides to modify the auditor’s report on the financial statements.
+Reference to, and identification of, the specialist may be made in
+the auditor’s report if, in the auditor’s judgment, the reference
+will facilitate an understanding of the reason for the modified opinion.
+In that circumstance, the auditor is required to indicate in the auditor’s
+report that such reference does not reduce the auditor’s responsibility
+for that opinion.
+        <footnote id="aag-afi6_fn12" label="fn 12" role="number">
+          <para>Paragraph .15 of AU-C section 620B.</para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi6_17" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.17</titleabbrev>
+        <title role="ps_para_number">6.17</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Situations may arise in which an entity
+lacks the sophistication to perform its own valuation. For example,
+an acquiring entity may refuse to engage a valuation specialist and
+makes its own estimate of the fair value of the assets acquired and
+liabilities assumed. In those circumstances, the auditor may recommend
+that the acquiring entity engage a qualified independent valuation
+specialist. If, in the auditor’s judgment, the valuation is not properly
+prepared, it may not provide sufficient audit evidence in support
+of the amounts assigned to assets acquired and liabilities assumed.
+AU-C section 705B describes the implications of the auditor’s inability
+to obtain sufficient appropriate audit evidence. See  for additional
+guidance.
+        <olink targetptr="aag-afi6_18">paragraphs 6.18–.21</olink>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi6_modifications_to_the_auditors" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Modifications to the Auditor’s Report</titleabbrev>
+      <title role="ps_sub_heading">Modifications to the Auditor’s Report</title>
+    </sectioninfo>
+    <section id="aag-afi6_18" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>6.18</titleabbrev>
+        <title role="ps_para_number">6.18</title>
+      </sectioninfo>
+      <para role="ps_para_number">AU-C section 705B addresses how the form
+and content of the auditor’s report are affected when the auditor
+expresses a modified opinion (a qualified opinion, an adverse opinion,
+or a disclaimer of opinion).</para>
+    </section>
+    <section id="aag-afi6_scope_limitations" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Scope Limitations</titleabbrev>
+        <title role="ps_subsub_heading">Scope Limitations</title>
+      </sectioninfo>
+      <section id="aag-afi6_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.19</titleabbrev>
+          <title role="ps_para_number">6.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor’s objective is to obtain sufficient
+appropriate audit evidence to provide a reasonable basis for forming
+an opinion. There are often significant challenges to management obtaining
+sufficient information to support its assertions relevant to financial
+instruments, and auditors will face similar challenges in obtaining
+audit evidence and evaluating its sufficiency. The amounts and types
+of audit evidence necessary to support an opinion are matters for
+the auditor to determine in the exercise of his or her professional
+judgment after careful study of the particular circumstances. In evaluating
+audit evidence, the auditor may consider whether the specific audit
+objectives have been met. The consideration might include such factors
+as</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>the significance of the financial instruments for
+which neither the underlying detail nor audited financial statements
+were available as of the balance sheet date.</para>
+          </listitem>
+          <listitem>
+            <para>the adequacy of management’s process and related internal
+control.</para>
+          </listitem>
+          <listitem>
+            <para>timeliness of the estimated fair value of the underlying
+financial instruments.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi6_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.20</titleabbrev>
+          <title role="ps_para_number">6.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor’s justification for the expression
+of his or her opinion rests on the conformity of the audit with generally
+accepted auditing standards (GAAS). When a significant amount of financial
+instruments are stated at estimated fair value, the auditor may consider
+both the uncertainties inherent in the financial instrument valuations
+and the extent of audit evidence supporting those valuations. The
+assessment of reasonableness of valuations considers their effects
+on the financial statements as a whole, not solely the investment
+caption in the financial statements. If the auditor is unable to obtain
+sufficient appropriate audit evidence to support the financial statement
+assertions, it will be necessary to modify an opinion on the financial
+statements due to a scope limitation. </para>
+      </section>
+      <section id="aag-afi6_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.21</titleabbrev>
+          <title role="ps_para_number">6.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">Scope limitations related to sufficiency
+of evidence are different from situations in which the auditor concludes
+that the financial statements are materially misstated due to departures
+from the applicable financial reporting framework related to inadequate
+disclosure of uncertainties inherent in the financial instrument valuations,
+failure to apply a valuation method required by the applicable financial
+reporting framework, or valuations that are not supported or reasonable.
+If the potential effect of the applicable financial reporting framework
+departure is material to the investor entity’s financial statements
+as a whole, the auditor is required to issue a qualified opinion or
+an adverse opinion, as described in paragraph .09 of AU-C section
+705B.</para>
+      </section>
+    </section>
+    <section id="aag-afi6_departures_from_the_applicable" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Departures From the Applicable Financial Reporting Framework</titleabbrev>
+        <title role="ps_subsub_heading">Departures From the Applicable Financial
+Reporting Framework</title>
+      </sectioninfo>
+      <section id="aag-afi6_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.22</titleabbrev>
+          <title role="ps_para_number">6.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          After performing the audit procedures,
+including evaluating the findings of the valuation specialist, the
+auditor may conclude that management’s assertions in the financial
+statements about the identification or estimate of fair value are
+not presented or measured in accordance with applicable the financial
+reporting framework. This situation could arise from unresolved differences
+of opinion over the appropriateness of the valuation method or the
+reasonableness of the significant valuation assumptions. When financial
+statements are materially affected by a departure from the applicable
+financial reporting framework, and the auditor has performed an audit
+in accordance with GAAS, the auditor should issue a qualified or an
+adverse opinion on the financial statements.
+          <footnote id="aag-afi6_fn13" label="fn 13" role="number">
+            <para>
+              Paragraphs .08–.10 of AU-C section 705B, .
+              <emphasis role="italic">Modifications to the Opinion in the Independent Auditor’s Report</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi6_voluntary_disclosures_regarding_fair" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Voluntary Disclosures Regarding Fair Value Information</titleabbrev>
+      <title role="ps_sub_heading">Voluntary Disclosures Regarding Fair
+Value Information</title>
+    </sectioninfo>
+    <section id="aag-afi6_reporting_on_fair_value" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>
+          Reporting on Fair Value Information Not Required by FASB
+ASC 825, , Presented as
+a Complete Balance Sheet Presentation or a Specific Element of a Financial
+Statement
+          <emphasis>Financial Instruments</emphasis>
+        </titleabbrev>
+        <title role="ps_subsub_heading">
+          Reporting on Fair Value Information
+Not Required by FASB ASC 825, , Presented as a Complete Balance Sheet Presentation or a Specific
+Element of a Financial Statement
+          <emphasis>Financial Instruments</emphasis>
+        </title>
+      </sectioninfo>
+      <section id="aag-afi6_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.23</titleabbrev>
+          <title role="ps_para_number">6.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraph .19 of AU-C section 540B states
+that the auditor should obtain sufficient appropriate audit evidence
+about whether the disclosures in the financial statements related
+to accounting estimates are in accordance with the requirements of
+the applicable financial reporting framework. The presentation of
+financial statements in accordance with the applicable financial reporting
+framework includes adequate disclosure of material matters. The applicable
+financial reporting framework may permit or prescribe disclosures
+relating to accounting estimates, including fair value accounting
+estimates, and some entities may disclose voluntarily additional information
+in the notes to the financial statements. If such voluntary additional
+information is presented as part of the basic financial statements,
+in accordance with paragraph .59 of AU-C section 700B, , such information should be covered by the auditor’s opinion if
+it cannot be clearly differentiated.
+          <emphasis role="italic">Forming an Opinion and Reporting on Financial Statements</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi6_reporting_on_additional" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Reporting on Additional, Voluntary Fair Value Information
+Presented as a Complete Balance Sheet Presentation or a Specific Element
+of a Financial Statement </titleabbrev>
+        <title role="ps_subsub_heading">Reporting on Additional, Voluntary
+Fair Value Information Presented as a Complete Balance Sheet Presentation
+or a Specific Element of a Financial Statement</title>
+      </sectioninfo>
+      <section id="aag-afi6_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.24</titleabbrev>
+          <title role="ps_para_number">6.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Voluntary disclosures regarding fair value
+information may supplement required disclosures in such a manner as
+to constitute either a complete balance sheet (the fair value of all
+material items in the balance sheet) or a presentation of a specific
+element, account, or item (element) of a financial statement. In such
+cases, in conjunction with an engagement to audit the entity’s complete
+set of financial statements, the auditor may undertake an engagement
+to audit and report on a single financial statement or a specific
+element of a financial statement in accordance with AU-C section 805B, .
+          <emphasis role="italic">Special Considerations — Audits of Single Financial
+Statements and Specific Elements, Accounts, or Items of a Financial
+Statement</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi6_reporting_on_additonal_vol" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Reporting on Additional, Voluntary Fair Value Information
+Presented as Supplementary Information in Relation to the Financial
+Statements as a Whole </titleabbrev>
+        <title role="ps_subsub_heading">Reporting on Additional, Voluntary
+Fair Value Information Presented as Supplementary Information in Relation
+to the Financial Statements as a Whole </title>
+      </sectioninfo>
+      <section id="aag-afi6_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.25</titleabbrev>
+          <title role="ps_para_number">6.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Voluntary disclosures regarding fair value
+information also may be presented as supplementary information, and
+the auditor may be engaged to report on whether the additional fair
+value information is fairly stated, in all material respects, in relation
+to the financial statements as a whole in accordance with AU-C section
+725B, .
+          <emphasis role="italic">Supplementary Information in Relation
+to the Financial Statements as a Whole</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi6_26" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.26</titleabbrev>
+          <title role="ps_para_number">6.26</title>
+        </sectioninfo>
+        <para role="ps_para_number">In accordance with paragraph .05 of AU-C
+section 725B in order to opine as to whether the supplemental fair
+value information is fairly stated, in all material respects, in relation
+to the financial statements as a whole, the auditor should determine
+that all of the following conditions are met:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The supplementary information was derived from, and
+relates directly to, the underlying accounting and other records used
+to prepare the financial statements.</para>
+          </listitem>
+          <listitem>
+            <para>The supplementary information relates to the same
+period as the financial statements.</para>
+          </listitem>
+          <listitem>
+            <para>The auditor issued an audit report on the financial
+statements that contained neither an adverse opinion nor a disclaimer
+of opinion. (Paragraph .11 of AU-C section 725B addresses reporting
+while not opining on supplementary information when the report on
+the financial statements contains an adverse opinion or a disclaimer
+of opinion.)</para>
+          </listitem>
+          <listitem>
+            <para>The supplementary information will accompany the entity’s
+audited financial statements, or such audited financial statements
+will be made readily available by the entity.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi6_27" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.27</titleabbrev>
+          <title role="ps_para_number">6.27</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          AU-C section 725B requires the auditor
+to report on the additional fair value information in either () an other-matter paragraph in accordance
+with AU-C section 706B, , or () in a
+separate report on the voluntary information.
+          <emphasis role="italic">a</emphasis>
+          <emphasis role="italic">Emphasis-of-Matter
+Paragraphs and Other-Matter Paragraphs in the Independent Auditor’s
+Report</emphasis>
+          <emphasis role="italic">b</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi6_reporting_on_additional_fair" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Reporting on Additional, Fair Value Information Presented
+as Unaudited Information</titleabbrev>
+        <title role="ps_subsub_heading">Reporting on Additional, Fair Value
+Information Presented as Unaudited Information</title>
+      </sectioninfo>
+      <section id="aag-afi6_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.28</titleabbrev>
+          <title role="ps_para_number">6.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          In some cases, the auditor is not engaged
+to report on the voluntary disclosures regarding fair value information,
+and accordingly, such additional disclosures are ordinarily labeled
+as unaudited to clearly differentiate them from the audited financial
+statements. The auditor may, but is not required to, include an other-matter
+paragraph in the auditor’s report on the financial statements to disclaim
+an opinion on the additional fair value information in accordance
+with paragraph .A2 of AU-C section 720B, .
+          <emphasis role="italic">Other
+Information in Documents Containing Audited Financial Statements</emphasis>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi6_other_relevant_audit_considerations" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Other Relevant Audit Considerations</titleabbrev>
+      <title role="ps_sub_heading">Other Relevant Audit Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi6_written_representations" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Written Representations</titleabbrev>
+        <title role="ps_subsub_heading">Written Representations</title>
+      </sectioninfo>
+      <section id="aag-afi6_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.29</titleabbrev>
+          <title role="ps_para_number">6.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraph .16 of AU-C section 580B, , requires the auditor
+to obtain written representations from management and, when appropriate,
+those charged with governance about whether they believe significant
+assumptions used in making accounting estimates are reasonable. AU-C
+section 580B also states that written representations from management
+do not provide sufficient appropriate audit evidence on their own
+about any of the matters with which they deal. If the auditor is otherwise
+unable to obtain sufficient appropriate audit evidence, this may constitute
+a limitation on the scope of the audit that may have implications
+for the auditor’s report. (See AU-C section 705B.) 
+          <emphasis role="italic">Written Representations</emphasis>
+          <footnote id="aag-afi6_fn14" label="fn 14" role="number">
+            <para>
+              See .
+              <olink role="footnote" targetptr="aag-afi6_fn13">footnote
+13</olink>
+            </para>
+          </footnote>
+        </para>
+      </section>
+      <section id="aag-afi6_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.30</titleabbrev>
+          <title role="ps_para_number">6.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">Paragraph .19 of AU-C section 580B requires
+that if, in addition to such required representations, the auditor
+determines it is necessary to obtain one or more written representations
+to support other audit evidence relevant to the financial statements
+or one or more specific assertions in the financial statements, the
+auditor should request such other written representations. Depending
+on the volume and degree of complexity of financial instrument activities,
+written representations to support other evidence obtained about financial
+instruments may also include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>management’s objectives with respect to financial
+instruments (for example, whether they are used for hedging, asset
+or liability management, or investment purposes).</para>
+          </listitem>
+          <listitem>
+            <para>representations about the appropriateness of the presentation
+of the financial statements (for example, the recording of financial
+instrument transactions as sales or financing transactions).</para>
+          </listitem>
+          <listitem>
+            <para>representations about the financial statement disclosures
+concerning financial instruments (for example, that the records reflect
+all financial instrument transactions, and all embedded derivative
+instruments have been identified).</para>
+          </listitem>
+          <listitem>
+            <para>whether all transactions have been conducted at arm’s
+length and market value.</para>
+          </listitem>
+          <listitem>
+            <para>the terms of transactions.</para>
+          </listitem>
+          <listitem>
+            <para>the appropriateness of the valuations of financial
+instruments.</para>
+          </listitem>
+          <listitem>
+            <para>whether any side agreements associated with any financial
+instruments exist.</para>
+          </listitem>
+          <listitem>
+            <para>whether the entity has entered into any written options.</para>
+          </listitem>
+          <listitem>
+            <para>
+              management’s intent and ability to carry out certain
+actions. 
+              <footnote id="aag-afi6_fn15" label="fn 15" role="number">
+                <para>Paragraph .A82 of AU-C section 540B provides examples of procedures
+that may be appropriate in the circumstances.</para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>whether subsequent events require adjustment to the
+valuations and disclosures included in the financial statements.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi6_communication_with_those_charged" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Communication With Those Charged With Governance and
+Others</titleabbrev>
+        <title role="ps_subsub_heading">Communication With Those Charged With
+Governance and Others</title>
+      </sectioninfo>
+      <section id="aag-afi6_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.31</titleabbrev>
+          <title role="ps_para_number">6.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">Because of the uncertainties associated
+with the valuation of financial instruments, the potential effects
+on the financial statements of any significant risks are likely to
+be of governance interest. The auditor may communicate the nature
+and consequences of significant assumptions used in fair value measurements,
+the degree of subjectivity involved in the development of the assumptions,
+and the relative materiality of the items being measured at fair value
+to the financial statements as a whole. In addition, the need for
+appropriate controls over commitments to enter into financial instrument
+contracts and the subsequent measurement processes are matters that
+may give rise to the need for communication with those charged with
+governance.</para>
+      </section>
+      <section id="aag-afi6_32" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.32</titleabbrev>
+          <title role="ps_para_number">6.32</title>
+        </sectioninfo>
+        <para role="ps_para_number">AU-C section 260B addresses the auditor’s
+responsibility to communicate with those charged with governance in
+an audit of financial statements. With respect to financial instruments,
+matters to be communicated to those charged with governance may include</para>
+        <para role="ps_indent_0">The appropriate timing for communications
+will vary with the circumstances of the engagement; however, it may
+be appropriate to communicate significant difficulties encountered
+during the audit as soon as practicable if those charged with governance
+are able to assist the auditor to overcome the difficulty or if it
+is likely to lead to a modified opinion.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>a lack of management understanding of the nature or
+extent of the financial instrument activities or the risks associated
+with such activities.</para>
+          </listitem>
+          <listitem>
+            <para>
+              significant deficiencies or material weaknesses in
+the design or operation of the system of internal control relating
+to the entity’s financial instrument activities that the auditor has
+identified during the audit.
+              <footnote id="aag-afi6_fn16" label="fn 16" role="number">
+                <para>
+                  AU-C section 265B, , addresses
+the auditor’s responsibility to communicate to those charged with
+governance and management deficiencies in internal control that the
+auditor has identified in an audit of financial statements. It explains
+that deficiencies in internal control may be identified during the
+auditor’s risk assessment procedures, in accordance with AU-C section
+315B, , or at
+any other stage of the audit.
+                  <emphasis role="italic">Communicating Internal
+Control Related Matters Identified in an Audit</emphasis>
+                  <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+                </para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>significant difficulties encountered when obtaining
+sufficient appropriate audit evidence relating to valuations performed
+by management or management’s specialist (for example, when management
+is unable to obtain an understanding of the valuation methodology,
+assumptions, and data used by management’s specialists, and such information
+is not made available to the auditor by management’s specialist).</para>
+          </listitem>
+          <listitem>
+            <para>significant differences in judgments between the auditor
+and management or management’s specialist regarding valuations.</para>
+          </listitem>
+          <listitem>
+            <para>the potential effects on the entity’s financial statements
+of material risks and exposures required to be disclosed in the financial
+statements, including the measurement uncertainty associated with
+financial instruments.</para>
+          </listitem>
+          <listitem>
+            <para>the auditor’s views about the appropriateness of the
+selection of accounting policies and presentation of financial instrument
+transactions in the financial statements.</para>
+          </listitem>
+          <listitem>
+            <para>the auditor’s views about the qualitative aspects
+of the entity’s accounting practices and financial reporting for financial
+instruments.</para>
+          </listitem>
+          <listitem>
+            <para>a lack of comprehensive and clearly stated policies
+for the purchase, sale, and holding of financial instruments, including
+operational controls, procedures for designating financial instruments
+as hedges, and monitoring exposures.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi6_communications_with_regulators_and" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Communications With Regulators and Others</titleabbrev>
+        <title role="ps_subsub_heading">Communications With Regulators and
+Others</title>
+      </sectioninfo>
+      <section id="aag-afi6_33" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>6.33</titleabbrev>
+          <title role="ps_para_number">6.33</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          In some cases, auditors may be required, or may consider it appropriate, to communicate directly
+with regulators or others, in addition to those charged with governance,
+regarding matters relating to financial instruments. Such communication
+may be useful throughout the audit. For example, when required to
+communicate with banking regulators, such regulators may share information
+with the auditor about the operation and application of controls over
+financial instrument activities, challenges in valuing financial instruments
+in inactive markets, and compliance with regulations. This sharing
+of information may be helpful to the auditor in identifying risks
+of material misstatement.
+          <footnote id="aag-afi6_fn17" label="fn 17" role="number">
+            <para>
+              For example, AU-C section 250B, , requires auditors to determine whether there is a responsibility
+to report identified or suspected noncompliance with laws and regulations
+to parties outside the entity. In addition, requirements concerning
+the auditor’s communication to banking supervisors and others may
+be established in many countries by law, supervisory requirement,
+or formal agreement or protocol.
+              <emphasis role="italic">Consideration
+of Laws and Regulations in an Audit of Financial Statements</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </section>
+    </section>
+  </section>
+</root>

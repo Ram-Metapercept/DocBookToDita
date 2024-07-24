@@ -1,0 +1,33 @@
+<root id="aag-afi6_19" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.19</titleabbrev>
+    <title role="ps_para_number">6.19</title>
+  </sectioninfo>
+  <para role="ps_para_number">The auditor’s objective is to obtain sufficient
+appropriate audit evidence to provide a reasonable basis for forming
+an opinion. There are often significant challenges to management obtaining
+sufficient information to support its assertions relevant to financial
+instruments, and auditors will face similar challenges in obtaining
+audit evidence and evaluating its sufficiency. The amounts and types
+of audit evidence necessary to support an opinion are matters for
+the auditor to determine in the exercise of his or her professional
+judgment after careful study of the particular circumstances. In evaluating
+audit evidence, the auditor may consider whether the specific audit
+objectives have been met. The consideration might include such factors
+as</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the significance of the financial instruments for
+which neither the underlying detail nor audited financial statements
+were available as of the balance sheet date.</para>
+    </listitem>
+    <listitem>
+      <para>the adequacy of management’s process and related internal
+control.</para>
+    </listitem>
+    <listitem>
+      <para>timeliness of the estimated fair value of the underlying
+financial instruments.</para>
+    </listitem>
+  </itemizedlist>
+</root>

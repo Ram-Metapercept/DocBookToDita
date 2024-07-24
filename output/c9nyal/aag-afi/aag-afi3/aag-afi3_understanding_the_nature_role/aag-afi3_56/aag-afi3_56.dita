@@ -1,0 +1,36 @@
+<root id="aag-afi3_56" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.56</titleabbrev>
+    <title role="ps_para_number">3.56</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Areas where the work of the internal audit
+function may be particularly relevant are as follows:
+    <footnote id="aag-afi3_fn12" label="fn 12" role="number">
+      <para>Work performed by functions such as the risk management function,
+model review functions, and product control may also be relevant.</para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Developing a general overview of the extent of the
+use of financial instruments</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating the appropriateness of policies and procedures
+and management’s compliance with them</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating the operating effectiveness of financial
+instrument control activities</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating systems relevant to financial instrument
+activities</para>
+    </listitem>
+    <listitem>
+      <para>Assessing whether new risks relating to financial
+instruments are identified, assessed, and managed</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,52 @@
+<root id="aag-afi10_observations" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Observations</titleabbrev>
+    <title role="ps_sub_heading">Observations</title>
+  </sectioninfo>
+  <section id="aag-afi10_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.14</titleabbrev>
+      <title role="ps_para_number">10.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">JLM’s fixed-rate bond obligation together
+with the interest rate swap it entered into is economically equal
+to a variable-rate obligation as a result of entering into the interest
+rate swap. For example, interest expense for the quarter ended June
+30, 20X1, was $21,250, consisting of $20,000 paid under the bond plus
+$1,250 paid under the swap. This equals interest on the bond at the
+variable rate of 8.5% ($1,000,000 × 8.5% × 3/12 = $21,250). Due to
+the fact that the benchmark interest rate increased during the first
+5 months of the hedging relationship, the fair value of the interest
+rate swap decreased, resulting in JLM making net interest cash payments
+on the settlement dates. </para>
+  </section>
+  <section id="aag-afi10_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.15</titleabbrev>
+      <title role="ps_para_number">10.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">The fair value of the bond obligation
+decreased as a result of the increase in the benchmark interest rate.
+The decrease in the fair value of the bond created unrealized gain
+that was partially offset by the unrealized loss from the decrease
+in the fair value of the swap (which resulted in recognizing a liability).
+The fair value change in the bond obligation was compared with the
+change in the fair value of the interest rate swap to determine hedge
+effectiveness (that is, within 80% to 125% of each other). Once determined,
+the change in the fair value of the bond obligation attributable to
+changes in the benchmark interest rate was recognized in earnings
+as an offset to the change in fair value of the interest rate swap.</para>
+  </section>
+  <section id="aag-afi10_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.16</titleabbrev>
+      <title role="ps_para_number">10.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">The results were that at March 31 and
+June 30, the changes in fair value of the interest rate swap were
+highly effective in offsetting the changes in fair value of the bond
+obligation attributable to changes in the benchmark interest rate.
+Furthermore, the hedge ineffectiveness (that is, $5,000 at March 31)
+was recognized currently in earnings. </para>
+  </section>
+</root>

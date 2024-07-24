@@ -1,0 +1,20 @@
+<root id="aag-afi11_summary_of_accounting" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Summary of Accounting</titleabbrev>
+    <title role="ps_sub_heading">Summary of Accounting</title>
+  </sectioninfo>
+  <section id="aag-afi11_35" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.35</titleabbrev>
+      <title role="ps_para_number">11.35</title>
+    </sectioninfo>
+    <para role="ps_para_number">Transactions in derivatives are material
+to the entity’s financial statements. Austin-Jhanes uses foreign currency
+options to hedge forecasted foreign sales. Under FASB ASC 815, it
+must record the fair value of the options in its statement of financial
+position. Changes in the time value of the options are recorded currently
+in earnings. Changes in the options’ intrinsic value, to the extent
+they are effective as a hedge, are recorded in other comprehensive
+income.</para>
+  </section>
+</root>

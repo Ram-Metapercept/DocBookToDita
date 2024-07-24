@@ -1,0 +1,58 @@
+<root id="aag-afi1_third_party_pricing_sources" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Third-Party Pricing Sources</titleabbrev>
+    <title role="ps_subsub_heading">Third-Party Pricing Sources</title>
+  </sectioninfo>
+  <section id="aag-afi1_44" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.44</titleabbrev>
+      <title role="ps_para_number">1.44</title>
+    </sectioninfo>
+    <para role="ps_para_number">Entities may use third-party pricing sources
+in order to obtain fair value information. The preparation of an entity’s
+financial statements, including the valuation of financial instruments
+and the preparation of financial statement disclosures relating to
+these instruments, may require expertise that management does not
+possess. Entities may not be able to develop appropriate valuation
+techniques, including models that may be used in a valuation, and
+may use a third-party pricing source to arrive at a valuation or provide
+disclosures for the financial statements. This may particularly be
+the case in smaller entities or entities that do not engage in a high
+volume of financial instrument transactions (for example, nonfinancial
+institutions with treasury departments). Even though management has
+used a third-party pricing source, management is ultimately responsible
+for the valuation and establishing internal control over the valuation
+process.</para>
+  </section>
+  <section id="aag-afi1_45" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.45</titleabbrev>
+      <title role="ps_para_number">1.45</title>
+    </sectioninfo>
+    <para role="ps_para_number">Third-party pricing sources may also be
+used because the volume of financial instruments to price over a short
+time frame may not be possible by the entity. This is often the case
+for traded investment funds that must determine a net asset value
+each day. In other cases, management may have its own pricing process
+but use third-party pricing sources to corroborate its own valuations.</para>
+  </section>
+  <section id="aag-afi1_46" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.46</titleabbrev>
+      <title role="ps_para_number">1.46</title>
+    </sectioninfo>
+    <para role="ps_para_number">For one or more of these reasons, most
+entities use third-party pricing sources when valuing financial instruments
+either as a primary source or a source of corroboration for their
+own valuations. Third-party pricing sources generally fall into the
+following categories:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Pricing services, including consensus pricing services</para>
+      </listitem>
+      <listitem>
+        <para>Brokers providing broker quotes</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

@@ -1,0 +1,20 @@
+<root id="aag-afi3_40" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.40</titleabbrev>
+    <title role="ps_para_number">3.40</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Entities that engage in financial instrument
+transactions frequently outsource tasks related to those transactions
+to other entities (for example, broker-dealers, investment advisers,
+and custodians). AU-C section 402B refers to such entities as service
+organizations and defines a  as an organization or a segment of an organization that provides
+services to user entities that are relevant to those user entities’
+internal control over financial reporting. A  is defined as an entity that uses a service
+organization and whose financial statements are being audited. A  is defined as an auditor who
+audits and reports on the financial statements of a user entity.
+    <emphasis role="italic">service organization</emphasis>
+    <emphasis role="italic">user entity</emphasis>
+    <emphasis role="italic">user auditor</emphasis>
+  </para>
+</root>

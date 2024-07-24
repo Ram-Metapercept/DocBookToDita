@@ -1,0 +1,2043 @@
+<root id="aag-afi1" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 1 — Gaining an Understanding About Financial
+Instruments</titleabbrev>
+    <title role="ps_section_heading">Chapter 1</title>
+    <subtitle role="ps_section_title">Gaining an Understanding About Financial
+Instruments</subtitle>
+  </chapterinfo>
+  <para role="ps_box_shade">
+    <emphasis role="italic">Gray shaded text
+in this chapter reflects guidance issued but not yet effective as
+of the date of this guide, September 1, 2020, but becoming effective
+on or prior to December 31, 2020, exclusive of any option to early
+adopt ahead of the mandatory effective date. Unless otherwise indicated,
+all unshaded text reflects guidance that was already effective as
+of the date of this guide.</emphasis>
+  </para>
+  <section id="aag-afi1_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.01</titleabbrev>
+      <title role="ps_para_number">1.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Different definitions of  may exist among financial
+reporting frameworks. For example, accounting principles generally
+accepted in the United States of America define a  as cash, evidence of
+an ownership interest in an entity, or a contract that both
+      <emphasis role="italic">financial instruments</emphasis>
+      <emphasis role="italic">financial instrument</emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      imposes on one entity a contractual obligation to either
+      <emphasis role="italic">
+        a.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      i.deliver cash or another financial
+instrument to a second entity
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      ii.exchange other financial instruments
+on potentially unfavorable terms with a second entity
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_2">
+      conveys to that second entity a contractual right to either
+      <emphasis role="italic">
+        b.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_4">
+      i.receive cash or another financial
+instrument from the first entity or
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      ii.exchange other financial instruments
+on potentially favorable terms with the first entity.
+      <tab/>
+      <footnote id="aag-afi1_fn1" label="fn 1" role="number">
+        <para>
+          The FASB  Master Glossary.
+          <emphasis role="italic">Accounting Standards Codification</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para role="ps_indent_0">This definition encompasses a wide range
+of financial instruments, from simple loans and deposits to complex
+derivatives, structured products, and some commodity contracts.</para>
+  </section>
+  <section id="aag-afi1_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.02</titleabbrev>
+      <title role="ps_para_number">1.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">Financial instruments vary in complexity,
+though the complexity of the financial instrument can come from different
+sources, such as</para>
+    <para role="ps_indent_0">The higher the variability of cash flows
+to changes in market conditions, the more likely the complexity and
+uncertainty of the fair value measurement of the financial instrument.
+In addition, sometimes, financial instruments that, ordinarily, are
+relatively easy to value become complex to value because of particular
+circumstances (for example, instruments for which the market has become
+inactive or that have lengthy contractual terms). Derivatives and
+structured products become more complex when they are a combination
+of individual financial instruments. </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>a very high volume of individual cash flows in which
+a lack of homogeneity requires analysis of each one or a large number
+of grouped cash flows to evaluate (for example, collateralized debt
+obligations).</para>
+      </listitem>
+      <listitem>
+        <para>complex formulas for determining the cash flows.</para>
+      </listitem>
+      <listitem>
+        <para>uncertainty or variability of future cash flows, such
+as that arising from credit risk, volatility associated with option
+contracts, or financial instruments with lengthy contractual terms.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.03</titleabbrev>
+      <title role="ps_para_number">1.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">Another source of complexity is the volume
+of financial instruments held or traded. Although a "plain vanilla"
+interest rate swap may not be complex, an entity holding a large number
+of them may use a sophisticated information system to identify, value,
+and transact these instruments.</para>
+  </section>
+  <section id="aag-afi1_purpose_and_risks_of" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Purpose and Risks of Using Financial Instruments</titleabbrev>
+      <title role="ps_main_heading">Purpose and Risks of Using Financial
+Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi1_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.04</titleabbrev>
+        <title role="ps_para_number">1.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">Financial instruments may be used for</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>hedging purposes (for example, to change an existing
+risk profile to which an entity is exposed). This includes</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>the forward purchase or sale of currency to fix a
+future exchange rate.</para>
+        </listitem>
+        <listitem>
+          <para>converting future interest rates to fixed rates or
+floating rates through the use of swaps.</para>
+        </listitem>
+        <listitem>
+          <para>the purchase of option contracts to provide an entity
+with protection against a particular price movement, including contracts
+that may contain embedded derivatives.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>trading purposes (for example, to enable an entity
+to take a risk position to benefit from short-term market movements).</para>
+        </listitem>
+        <listitem>
+          <para>investment purposes (for example, to enable an entity
+to benefit from long-term investment returns).</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.05</titleabbrev>
+        <title role="ps_para_number">1.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">The use of financial instruments can reduce
+exposures to certain business risks (for example, changes in exchange
+rates, interest rates, and commodity prices or a combination of those
+risks). On the other hand, the inherent complexities of some financial
+instruments also may result in increased risk.</para>
+    </section>
+    <section id="aag-afi1_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.06</titleabbrev>
+        <title role="ps_para_number">1.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Business risk and the risk of material misstatement increase when management
+and those charged with governance
+        <footnote id="aag-afi1_fn2" label="fn 2" role="number">
+          <para>
+             is defined
+in paragraph .04 of AU-C section 315B, .
+            <emphasis role="italic">Business risk</emphasis>
+            <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+          </para>
+          <para>
+            All AU-C sections can be found in AICPA .
+            <tab/>
+            <emphasis role="italic">
+              <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+            </emphasis>
+          </para>
+        </footnote>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>do not fully understand the risks of using financial
+instruments and have insufficient skills and experience to manage
+those risks.</para>
+        </listitem>
+        <listitem>
+          <para>do not have the expertise to value them appropriately
+in accordance with the applicable financial reporting framework.</para>
+        </listitem>
+        <listitem>
+          <para>do not have sufficient controls in place over financial
+instrument activities.</para>
+        </listitem>
+        <listitem>
+          <para>inappropriately hedge risks or speculate.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.07</titleabbrev>
+        <title role="ps_para_number">1.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">Management’s failure to fully understand
+the risks inherent in a financial instrument can have a direct effect
+on management’s ability to manage these risks appropriately and may
+ultimately threaten the viability of the entity.</para>
+    </section>
+    <section id="aag-afi1_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.08</titleabbrev>
+        <title role="ps_para_number">1.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">The following are principal types of risk
+applicable to financial instruments. This list is not meant to be
+exhaustive, and different terminology may be used to describe these
+risks or classify the components of individual risks:</para>
+      <para role="ps_indent_hang_2">
+          is the
+risk that one party to a financial instrument will cause a financial
+loss to another party by failing to discharge an obligation, and it
+is often associated with default. Credit risk includes counterparty
+risk and settlement risk, which are defined as follows:
+        <emphasis role="bold">Credit (or counterparty)
+risk. </emphasis>
+        <emphasis role="italic">Credit risk</emphasis>
+        <footnote id="aag-afi1_fn3" label="fn 3" role="number">
+          <para>
+            See the FASB ASC Master Glossary for definitions of  for purposes of a hedged item
+in a fair value hedge and a hedged transaction in a cash flow hedge. 
+            <emphasis role="italic">credit risk</emphasis>
+          </para>
+        </footnote>
+      </para>
+      <para role="ps_indent_hang_2">
+          is the risk that
+the fair value or future cash flows of a financial instrument will
+fluctuate because of changes in market prices. Market risk comprises
+currency risk, interest rate risk, and other price risk.
+        <emphasis role="bold">Market risk. </emphasis>
+        <emphasis role="italic">Market risk</emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        Liquidity risk includes the risk of not being able to buy or sell
+a financial instrument at an appropriate price in a timely manner
+due to a lack of marketability for that financial instrument.
+        <emphasis role="bold">Liquidity risk. </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+         Operational risk relates to the specific processing required for
+financial instruments. Operational risk may increase as the complexity
+of a financial instrument increases, and poor management of operational
+risk may increase other types of risk. Operational risk includes the
+risk
+        <emphasis role="bold">Operational risk.</emphasis>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_4">
+        <listitem>
+          <para>
+            . Connotes the exposure to the aggregate credit risk posed by all
+transactions with one counterparty.
+            <emphasis role="italic">Counterparty risk</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . The related exposure that a counterparty may fail to perform under
+a contract after the end user has delivered funds or assets according
+to its obligations. Settlement risk relates almost solely to over-the-counter
+(OTC) contracts (that is, nonexchange-traded instruments). One method
+for minimizing settlement risk is to enter into a master netting agreement
+that allows the parties to offset all their related payable and receivable
+positions at settlement.
+            <emphasis role="italic">Settlement risk</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_4">
+        <listitem>
+          <para>that confirmation and reconciliation controls are
+inadequate, resulting in incomplete or inaccurate recording of financial
+instruments.</para>
+        </listitem>
+        <listitem>
+          <para>that inappropriate documentation of transactions and
+insufficient monitoring of these transactions exist.</para>
+        </listitem>
+        <listitem>
+          <para>that transactions are incorrectly recorded, processed,
+or risk managed and, therefore, do not reflect the economics of the
+overall trade.</para>
+        </listitem>
+        <listitem>
+          <para>that undue reliance is placed by staff on the accuracy
+of valuation techniques without adequate review, and transactions
+are, therefore, incorrectly valued, or their risk is improperly measured.</para>
+        </listitem>
+        <listitem>
+          <para>that the use of financial instruments is not adequately
+incorporated into the entity’s risk management policies and procedures.</para>
+        </listitem>
+        <listitem>
+          <para>of loss resulting from inadequate or failed internal
+processes and systems or from external events, including the risk
+of fraud from both internal and external sources.</para>
+        </listitem>
+        <listitem>
+          <para>that inadequate or nontimely maintenance of valuation
+techniques used to measure financial instruments exist.</para>
+        </listitem>
+        <listitem>
+          <para>that losses may result from a legal or regulatory
+action that invalidates or otherwise precludes performance by the
+end user or its counterparty under the terms of the contract or related
+netting arrangements (that is, legal risk, which is a component of
+operational risk). For example, legal risk could arise from insufficient
+or incorrect documentation for the contract, an inability to enforce
+a netting arrangement in bankruptcy, adverse changes in tax laws,
+or statutes that prohibit entities from investing in certain types
+of financial instruments.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.09</titleabbrev>
+        <title role="ps_para_number">1.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">Other considerations relevant to risks
+of using financial instruments include the risk</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>of fraud that may be increased if, for example, an
+employee in a position to perpetrate a financial fraud understands
+both the financial instruments and processes for accounting for them,
+but management and those charged with governance have a lesser degree
+of understanding.</para>
+        </listitem>
+        <listitem>
+          <para>
+            that master netting arrangements may not be properly reflected in the financial statements.
+            <footnote id="aag-afi1_fn4" label="fn 4" role="number">
+              <para>An entity that undertakes a number of financial instrument transactions
+with a single counterparty may enter into a master netting arrangement
+with that counterparty. Such an agreement provides for a single net
+settlement of all financial instruments covered by the agreement in
+the event of default of any one contract. See FASB ASC 815-10-45 for
+information on offsetting amounts related to derivative instruments. </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>that some financial instruments may change between
+being assets or liabilities during their term and that such change
+may occur rapidly.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_controls_relating_to_financial" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Controls Relating to Financial Instruments</titleabbrev>
+      <title role="ps_main_heading">Controls Relating to Financial Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi1_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.10</titleabbrev>
+        <title role="ps_para_number">1.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">The extent of an entity’s use of financial
+instruments and the degree of complexity of the instruments are important
+determinants of the necessary level of sophistication of the entity’s
+internal control. For example, smaller entities may use less structured
+products and simple processes and procedures to achieve their objectives.</para>
+    </section>
+    <section id="aag-afi1_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.11</titleabbrev>
+        <title role="ps_para_number">1.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">Often, it is the role of those charged
+with governance to set the tone regarding, and approve and oversee
+the extent of, the use of financial instruments, but it is management’s
+role to manage and monitor the entity’s exposures to those risks.
+Management and, when appropriate, those charged with governance are
+also responsible for designing and implementing a system of internal
+control to enable the preparation and fair presentation of financial
+statements in accordance with the applicable financial reporting framework.
+An entity’s internal control over financial instruments is more likely
+to be effective when management and those charged with governance
+have</para>
+      <para role="ps_indent_2">
+        , "Internal Control," of this guide provides examples of controls
+that may exist in an entity that deals in a high volume of financial
+instrument transactions.
+        <olink targetptr="aag-afi3">Chapter 3</olink>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>established an appropriate control environment (for
+example, active participation by those charged with governance in
+controlling the use of financial instruments); a logical organizational
+structure with clear assignment of authority and responsibility; and
+appropriate human resource policies and procedures. In particular,
+clear rules are needed on the extent to which those responsible for
+financial instrument activities are permitted to act. Such rules take
+into account any legal or regulatory restrictions on using financial
+instruments. For example, certain public sector entities may not have
+the power to conduct business using derivatives.</para>
+        </listitem>
+        <listitem>
+          <para>established a risk management process relative to
+the size of the entity and the complexity of its financial instruments.
+(For example, in some entities, a formal risk management function
+may exist.)</para>
+        </listitem>
+        <listitem>
+          <para>established information systems that provide those
+charged with governance with an understanding of the nature of the
+financial instrument activities and the associated risks, including
+adequate documentation of transactions.</para>
+        </listitem>
+        <listitem>
+          <para>designed, implemented, and documented a system of
+internal control to</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>provide reasonable assurance that the entity’s use
+of financial instruments is within its risk management policies.</para>
+        </listitem>
+        <listitem>
+          <para>properly present financial instruments in the financial
+statements.</para>
+        </listitem>
+        <listitem>
+          <para>ensure that the entity is in compliance with applicable
+laws and regulations.</para>
+        </listitem>
+        <listitem>
+          <para>monitor risk.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>established appropriate accounting policies, including
+valuation policies, in accordance with the applicable financial reporting
+framework.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.12</titleabbrev>
+        <title role="ps_para_number">1.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">Key elements of risk management processes
+and internal control relating to an entity’s financial instruments
+include</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>setting an approach to define the amount of risk exposure
+that the entity is willing to accept when engaging in financial instrument
+transactions (this may be referred to as its "risk appetite"), including
+policies for investing in financial instruments and the control framework
+in which the financial instrument activities are conducted.</para>
+        </listitem>
+        <listitem>
+          <para>establishing processes for the documentation and authorization
+of new types of financial instrument transactions that consider the
+accounting, regulatory, legal, financial, and operational risks that
+are associated with such instruments.</para>
+        </listitem>
+        <listitem>
+          <para>processing financial instrument transactions, including
+confirmation and reconciliation of cash and asset holdings to external
+statements and the payments process.</para>
+        </listitem>
+        <listitem>
+          <para>segregation of duties between those investing or trading
+in the financial instruments and those responsible for processing,
+valuing, and confirming such instruments. For example, a model development
+function that is involved in assisting in pricing deals is less objective
+than one that is functionally and organizationally separate from the
+sales function.</para>
+        </listitem>
+        <listitem>
+          <para>valuation processes and controls, including controls
+over data obtained from third-party pricing sources.</para>
+        </listitem>
+        <listitem>
+          <para>monitoring of controls.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_13" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.13</titleabbrev>
+        <title role="ps_para_number">1.13</title>
+      </sectioninfo>
+      <para role="ps_para_number">The nature of risks often differs between
+entities with a high volume and variety of financial instruments and
+those with only a few financial instrument transactions. This results
+in different approaches to internal control:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Often, an institution with a high volume of financial
+instruments will have a dealing room-type environment in which there
+are specialist traders and segregation of duties between those traders
+and the administrative and support services (which refers to the operations
+function that data checks trades that have been conducted, ensuring
+that they are not erroneous and transacting the required transfers).
+In such environments, the traders will often initiate contracts verbally
+over the phone or via an electronic trading platform. Capturing relevant
+transactions and accurately recording financial instruments in such
+an environment is significantly more challenging than for an entity
+with only a few financial instruments whose existence and completeness
+often can be confirmed with a bank confirmation to a few banks.</para>
+        </listitem>
+        <listitem>
+          <para>On the other hand, entities with only a small number
+of financial instruments often do not have segregation of duties,
+and access to the market is limited. In such cases, although it may
+be easier to identify financial instrument transactions, a risk exists
+that management may rely on a limited number of personnel, which may
+increase the risk that unauthorized transactions may be initiated,
+or transactions may not be recorded.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_completeness_accuracy_and_existence" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Completeness, Accuracy, and Existence</titleabbrev>
+      <title role="ps_main_heading">Completeness, Accuracy, and Existence</title>
+    </sectioninfo>
+    <section id="aag-afi1_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.14</titleabbrev>
+        <title role="ps_para_number">1.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+         describe controls and processes that may be in place
+in entities with a high volume of financial instrument transactions,
+including those with trading rooms. By contrast, an entity that does
+not have a high volume of financial instrument transactions may not
+have these controls and processes but may instead confirm its transactions
+with the counterparty or clearinghouse. Doing so may be relatively
+straightforward in that the entity may only transact with one or two
+counterparties.
+        <olink targetptr="aag-afi1_15">Paragraphs
+1.15–.23</olink>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi1_trade_confirmations_and_clearinghouses" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Trade Confirmations and Clearinghouses</titleabbrev>
+      <title role="ps_main_heading">Trade Confirmations and Clearinghouses</title>
+    </sectioninfo>
+    <section id="aag-afi1_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.15</titleabbrev>
+        <title role="ps_para_number">1.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">Generally, the terms of financial instruments
+are documented in legal agreements and confirmations exchanged between
+counterparties. Clearinghouses serve to monitor the exchange of confirmations
+by matching trades and settling them. A central clearinghouse is associated
+with an exchange, and entities that clear through clearinghouses typically
+have processes to manage the information delivered to the clearinghouse.</para>
+    </section>
+    <section id="aag-afi1_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.16</titleabbrev>
+        <title role="ps_para_number">1.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">Not all transactions are settled through
+such an exchange. In many other markets, an established practice of
+agreeing the terms of transactions exists before settlement begins.
+To be effective, this process needs to be run separately from those
+who trade the financial instruments to minimize the risk of fraud.
+In other markets, transactions are confirmed after settlement has
+begun, and sometimes, confirmation backlogs result in settlement beginning
+before all terms have been fully agreed. This presents additional
+risk because the transacting entities need to rely on alternative
+means of agreeing trades, such as the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Enforcing rigorous reconciliations between the records
+of those trading the financial instruments and those settling them
+(strong segregation of duties between the two are important), combined
+with strong supervisory controls over those trading the financial
+instruments to ensure the integrity of the transactions</para>
+        </listitem>
+        <listitem>
+          <para>Reviewing summary documentation from counterparties
+that highlights the key terms, even if the full terms have not been
+agreed</para>
+        </listitem>
+        <listitem>
+          <para>Thorough review of traders’ profits and losses to
+ensure that they reconcile to what the administrative and support
+services have calculated</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_reconciliations_with_banks_and" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Reconciliations With Banks and Custodians</titleabbrev>
+      <title role="ps_main_heading">Reconciliations With Banks and Custodians</title>
+    </sectioninfo>
+    <section id="aag-afi1_17" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.17</titleabbrev>
+        <title role="ps_para_number">1.17</title>
+      </sectioninfo>
+      <para role="ps_para_number">Some components of financial instruments,
+such as bonds and shares, may be held in separate depositories. In
+addition, most financial instruments result in payments of cash at
+some point, and often, these cash flows begin early in the contract’s
+life. These cash payments and receipts will pass through an entity’s
+bank account. Regular reconciliation of the entity’s records to external
+banks’ and custodians’ records enables the entity to ensure that transactions
+are properly recorded.</para>
+    </section>
+    <section id="aag-afi1_18" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.18</titleabbrev>
+        <title role="ps_para_number">1.18</title>
+      </sectioninfo>
+      <para role="ps_para_number">It should be noted that not all financial
+instruments result in a cash flow in the early stages of the contract’s
+life or are capable of being recorded with an exchange or a custodian.
+When this is the case, reconciliation processes will not identify
+an omitted or inaccurately recorded trade, and confirmation controls
+are more important. Even when such a cash flow is accurately recorded
+in the early stages of an instrument’s life, this does not ensure
+that all characteristics or terms of the instrument (for example,
+the maturity or an early termination option) have been recorded accurately.</para>
+    </section>
+    <section id="aag-afi1_19" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.19</titleabbrev>
+        <title role="ps_para_number">1.19</title>
+      </sectioninfo>
+      <para role="ps_para_number">In addition, cash movements may be quite
+small in the context of the overall size of the trade or the entity’s
+own balance sheet and, therefore, may be difficult to identify. The
+value of reconciliations is enhanced when finance or other administrative
+and support services staff review entries in all general ledger accounts
+to ensure that they are valid and supportable. This process will help
+identify if the other side-to-cash entries relating to financial instruments
+have not been properly recorded. Reviewing suspense and clearing accounts
+is important, regardless of the account balance, because there may
+be offsetting reconciling items in the account.</para>
+    </section>
+    <section id="aag-afi1_20" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.20</titleabbrev>
+        <title role="ps_para_number">1.20</title>
+      </sectioninfo>
+      <para role="ps_para_number">Reconciliation and confirmation controls
+may be automated, and if so, adequate IT controls need to be in place
+to support them. In particular, controls are needed to ensure that
+data is completely and accurately picked up from external sources
+(such as banks and custodians) and from the entity’s records and that
+it is not tampered with before or during reconciliation. Controls
+are also needed to ensure that the criteria on which entries are matched
+are sufficiently restrictive to prevent inaccurate clearance of reconciling
+items.</para>
+    </section>
+  </section>
+  <section id="aag-afi1_other_controls_over_completeness" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Other Controls Over Completeness, Accuracy, and Existence</titleabbrev>
+      <title role="ps_main_heading">Other Controls Over Completeness, Accuracy,
+and Existence</title>
+    </sectioninfo>
+    <section id="aag-afi1_21" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.21</titleabbrev>
+        <title role="ps_para_number">1.21</title>
+      </sectioninfo>
+      <para role="ps_para_number">The complexity inherent in some financial
+instruments means it will not always be obvious how they should be
+recorded in the entity’s systems. In such cases, management may set
+up control processes to monitor policies that prescribe how particular
+types of transactions are measured, recorded, and accounted for. These
+policies are typically established and reviewed in advance by suitably
+qualified personnel who are capable of understanding the full effects
+of the financial instruments being booked.</para>
+    </section>
+    <section id="aag-afi1_22" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.22</titleabbrev>
+        <title role="ps_para_number">1.22</title>
+      </sectioninfo>
+      <para role="ps_para_number">Some transactions may be cancelled or
+amended after initial execution. Application of appropriate controls
+relating to cancellation or amendment can mitigate the risks of material
+misstatement due to fraud or error. In addition, an entity may have
+a process in place to reconfirm trades that are cancelled or amended.</para>
+    </section>
+    <section id="aag-afi1_23" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.23</titleabbrev>
+        <title role="ps_para_number">1.23</title>
+      </sectioninfo>
+      <para role="ps_para_number">In financial institutions with a high
+volume of trading, a senior employee typically reviews daily profits
+and losses on individual traders’ books to evaluate whether they are
+reasonable based on the employee’s knowledge of the market. Doing
+so may enable management to determine that particular trades were
+not completely or accurately recorded or may identify fraud by a particular
+trader. It is important that transaction authorization procedures
+exist that support the more senior review.</para>
+    </section>
+  </section>
+  <section id="aag-afi1_valuation_of_financial_instruments" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Valuation of Financial Instruments</titleabbrev>
+      <title role="ps_main_heading">Valuation of Financial Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi1_financial_reporting_requirements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Financial Reporting Requirements</titleabbrev>
+        <title role="ps_sub_heading">Financial Reporting Requirements</title>
+      </sectioninfo>
+      <section id="aag-afi1_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.24</titleabbrev>
+          <title role="ps_para_number">1.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">In many financial reporting frameworks,
+financial instruments, including embedded derivatives, are often measured
+at fair value for the purpose of balance sheet presentation, calculating
+gain or loss, or disclosure. In general, the objective of fair value
+measurement is to arrive at the price at which an orderly transaction
+to sell an asset or transfer a liability would take place between
+market participants at the measurement date under current market conditions
+(that is, at an exit price at the measurement date from the perspective
+of the market participant that holds the asset or owes the liability).
+In meeting this objective, all relevant available market information
+is taken into account.</para>
+      </section>
+      <section id="aag-afi1_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.25</titleabbrev>
+          <title role="ps_para_number">1.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Fair value measurements of financial assets
+and liabilities may arise both at the initial recording of transactions
+and later when there are changes in value. Changes in fair value measurements
+that occur over time may be treated in different ways under different
+financial reporting frameworks. For example, such changes may be recorded
+as gain or loss or in other comprehensive income. Also, depending
+on the applicable financial reporting framework, the whole financial
+instrument or only a component of it (for example, an embedded derivative
+when it is separately accounted for) may be required to be measured
+at fair value. , "Valuation
+of Financial Instruments," of this guide provides further detailed
+guidance on valuation of financial instruments.
+          <olink targetptr="aag-afi5">Chapter 5</olink>
+        </para>
+      </section>
+      <section id="aag-afi1_26" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.26</titleabbrev>
+          <title role="ps_para_number">1.26</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Some financial reporting frameworks establish
+a fair value hierarchy to develop increased consistency and comparability
+in fair value measurements and related disclosures. The inputs may be classified into different levels, such
+as
+          <footnote id="aag-afi1_fn5" label="fn 5" role="number">
+            <para>FASB ASC 820-10-35-37 notes that the fair value hierarchy categorizes
+into three levels the inputs to valuation techniques used to measure
+fair value. The fair value hierarchy gives the highest priority to
+quoted prices (unadjusted) in active markets for identical assets
+or liabilities and the lowest priority to unobservable inputs. </para>
+          </footnote>
+        </para>
+        <para role="ps_indent_0">In general, measurement uncertainty increases
+as a financial instrument moves from level 1 to level 2 or level 2
+to level 3. Also, within level 2, there may be a wide range of measurement
+uncertainty depending on the observability of inputs, the complexity
+and valuation of the financial instrument, and other factors.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              ,
+which are quoted prices (unadjusted) in active markets for identical
+financial assets or liabilities that the entity can access at the
+measurement date.
+              <emphasis role="italic">level 1 inputs</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,
+which are inputs other than quoted prices included within level 1
+that are observable for the financial asset or liability either directly
+or indirectly. If the financial asset or liability has a specified
+(contractual) term, a level 2 input must be observable for substantially
+the full term of the financial asset or liability. Level 2 inputs
+include the following:
+              <emphasis role="italic">level 2 inputs</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Quoted prices for similar financial assets or liabilities
+in active markets</para>
+          </listitem>
+          <listitem>
+            <para>Quoted prices for identical or similar financial assets
+or liabilities in markets that are not active</para>
+          </listitem>
+          <listitem>
+            <para>Inputs other than quoted prices that are observable
+for the financial asset or liability (for example, interest rates
+and yield curves observable at commonly quoted intervals, implied
+volatilities, and credit spreads)</para>
+          </listitem>
+          <listitem>
+            <para>Inputs that are derived principally from, or corroborated
+by, observable market data by correlation or other means (market-corroborated
+inputs)</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              ,
+which are unobservable inputs for the financial asset or liability.
+Unobservable inputs are used to measure fair value to the extent that
+relevant observable inputs are not available, thereby allowing for
+situations in which there is little, if any, market activity for the
+financial asset or liability at the measurement date.
+              <emphasis role="italic">level 3 inputs</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_27" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.27</titleabbrev>
+          <title role="ps_para_number">1.27</title>
+        </sectioninfo>
+        <para role="ps_para_number">Certain financial reporting frameworks
+may require or permit the entity to adjust for measurement uncertainties
+in order to adjust for risks that a market participant would make
+in the pricing to take account of the uncertainties of the risks associated
+with the pricing or cash flows of the financial instrument. Some examples
+are as follows:</para>
+        <para role="ps_indent_0">
+          Adjustments are not appropriate if they adjust
+the measurement and valuation of the financial instrument away from , as defined by the applicable
+financial reporting framework (for example, for conservatism).
+          <emphasis role="italic">fair value</emphasis>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Model adjustments. Some models may have a known deficiency,
+or the result of calibration may highlight the deficiency for the
+fair value measurement in accordance with the financial reporting
+framework.</para>
+          </listitem>
+          <listitem>
+            <para>Credit-risk adjustments. Some models do not take into
+account credit risk, including counterparty risk or own credit risk.</para>
+          </listitem>
+          <listitem>
+            <para>Liquidity adjustments. Some models calculate a midmarket
+price, even though the financial reporting framework may require use
+of a liquidity-adjusted amount, such as a bid-offer spread. Another,
+more judgmental liquidity adjustment recognizes that some financial
+instruments are illiquid, which affects the valuation.</para>
+          </listitem>
+          <listitem>
+            <para>Other risk adjustments. A value measured using a model
+that does not take into account all other factors that market participants
+would consider in pricing the financial instrument may not represent
+fair value on the measurement date and, therefore, may need to be
+adjusted separately to comply with the applicable financial reporting
+framework.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.28</titleabbrev>
+          <title role="ps_para_number">1.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraphs 5–20 of FASB ASC 820-10-55
+describe the use of present value techniques to measure fair value.
+Those paragraphs neither prescribe the use of a single specific present
+value technique nor limit the use of present value techniques to measure
+fair value to the techniques discussed therein.  (that is, an application of the income approach)
+is a tool used to link future amounts to a present amount using a
+discount rate. A fair value measurement of an asset or a liability
+using a present value technique captures all of the following elements
+from the perspective of market participants at the measurement date:
+          <emphasis role="italic">Present value</emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          An estimate of future cash flows for the asset or liability
+being measured.
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          Expectations about possible variations in the amount and timing
+of the cash flows representing the uncertainty inherent in the cash
+flows.
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          The time value of money, represented by the rate on risk-free
+monetary assets that have maturity dates or durations that coincide
+with the period covered by the cash flows and pose neither uncertainty
+in timing nor risk of default to the holder (that is, a risk-free
+interest rate). For present value computations denominated in nominal
+U.S. dollars, the yield curve for U.S. Treasury securities determines
+the appropriate risk-free interest rate.
+          <emphasis role="italic">c.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          The price for bearing the uncertainty inherent in the cash
+flows (that is, a risk premium).
+          <emphasis role="italic">d.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          Other factors that market participants would take into account
+in the circumstances.
+          <emphasis role="italic">e.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          For a liability, the nonperformance risk relating to that liability,
+including the reporting entity’s (obligor’s) own credit risk.
+          <emphasis role="italic">f.</emphasis>
+          <tab/>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi1_observable_and_unobservable_inputs" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Observable and Unobservable Inputs</titleabbrev>
+        <title role="ps_sub_heading">Observable and Unobservable Inputs</title>
+      </sectioninfo>
+      <section id="aag-afi1_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.29</titleabbrev>
+          <title role="ps_para_number">1.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">As previously mentioned, inputs are often
+categorized according to the degree of observability. As activity
+in a market for financial instruments and the observability of inputs
+decline, measurement uncertainty increases. The nature and reliability
+of information available to support valuation of financial instruments
+varies depending on the observability of inputs to its measurement,
+which is influenced by the nature of the market (for example, the
+level of market activity and whether the activity is through an exchange
+or OTC market). Accordingly, a continuum of the nature and reliability
+of evidence used to support valuation exists, and it becomes more
+difficult for management to obtain information to support a valuation
+when markets become inactive and inputs become less observable.</para>
+      </section>
+      <section id="aag-afi1_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.30</titleabbrev>
+          <title role="ps_para_number">1.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">When observable inputs are not available,
+an entity uses unobservable inputs (level 3 inputs) that reflect the
+assumption that market participants would use when pricing the financial
+asset or liability, including assumptions about risk. Unobservable
+inputs are developed using the best information available in the circumstances.
+In developing unobservable inputs, an entity may begin with its own
+data that is adjusted if reasonably available information indicates
+that other market participants would use different data.</para>
+      </section>
+    </section>
+    <section id="aag-afi1_effects_of_inactive_markets" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Effects of Inactive Markets</titleabbrev>
+        <title role="ps_sub_heading">Effects of Inactive Markets</title>
+      </sectioninfo>
+      <section id="aag-afi1_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.31</titleabbrev>
+          <title role="ps_para_number">1.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">Measurement uncertainty increases and
+valuation is more complicated when the markets in which financial
+instruments or their component parts are traded become inactive. No
+clear point exists at which an active market becomes inactive, though
+financial reporting frameworks may provide guidance on this issue.
+Characteristics of an inactive market include a significant decline
+in the volume and level of trading activity, and available prices
+vary significantly over time or among market participants, or the
+prices are not current. However, assessing whether a market is inactive
+requires judgment.</para>
+      </section>
+      <section id="aag-afi1_32" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.32</titleabbrev>
+          <title role="ps_para_number">1.32</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          When markets are inactive, quoted prices
+may be stale (that is, out of date); may not represent prices at which
+market participants may trade; or may represent forced transactions
+(such as [] when a seller is required
+to sell an asset to meet regulatory or legal requirements or needs
+to dispose of an asset immediately to create liquidity or [] the existence of a single potential buyer
+as a result of the legal or time restrictions imposed). Accordingly,
+valuations may be developed based on level 2 and level 3 inputs. Under
+such circumstances, entities may have
+          <emphasis role="italic">a</emphasis>
+          <emphasis role="italic">b</emphasis>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>a valuation policy that includes a process for determining
+whether level 1 inputs are available.</para>
+          </listitem>
+          <listitem>
+            <para>an understanding of how particular prices or inputs
+from external sources used as inputs to valuation techniques were
+calculated in order to assess their reliability. For example, in an
+active market, a broker quote on a financial instrument that has not
+traded is likely to reflect actual transactions on a similar financial
+instrument, but as the market becomes less active, the broker quote
+may rely more on proprietary valuation techniques to determine prices.</para>
+          </listitem>
+          <listitem>
+            <para>an understanding of how deteriorating business conditions
+affect the counterparty, as well as whether deteriorating business
+conditions in entities similar to the counterparty may indicate that
+the counterparty may not fulfill its obligations (that is, nonperformance
+risk).</para>
+          </listitem>
+          <listitem>
+            <para>policies for adjusting for measurement uncertainties.
+Such adjustments can include model adjustments, lack of liquidity
+adjustments, credit risk adjustments, and other risk adjustments.</para>
+          </listitem>
+          <listitem>
+            <para>the capability to calculate the range of realistic
+outcomes, given the uncertainties involved (for example by performing
+a sensitivity analysis).</para>
+          </listitem>
+          <listitem>
+            <para>policies for identifying when a fair value measurement
+input moves to a different level of the fair value hierarchy.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_33" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.33</titleabbrev>
+          <title role="ps_para_number">1.33</title>
+        </sectioninfo>
+        <para role="ps_para_number">Particular difficulties may develop when
+severe curtailment or even cessation of trading in particular financial
+instruments exists. In these circumstances, financial instruments
+that have previously been valued using market prices may need to be
+valued using a model.</para>
+      </section>
+    </section>
+    <section id="aag-afi1_managements_valuation_process" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Management’s Valuation Process</titleabbrev>
+        <title role="ps_sub_heading">Management’s Valuation Process</title>
+      </sectioninfo>
+      <section id="aag-afi1_34" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.34</titleabbrev>
+          <title role="ps_para_number">1.34</title>
+        </sectioninfo>
+        <para role="ps_para_number">Techniques that management may use to
+value the entity’s financial instruments include observable prices,
+recent transactions, and models that use observable or unobservable
+inputs. Management may also make use of a</para>
+        <para role="ps_indent_0">Third-party pricing sources and valuation
+specialists may use one or more of these valuation techniques.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>third-party pricing source, such as a pricing service
+or broker quote.</para>
+          </listitem>
+          <listitem>
+            <para>valuation specialist.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_35" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.35</titleabbrev>
+          <title role="ps_para_number">1.35</title>
+        </sectioninfo>
+        <para role="ps_para_number">In many financial reporting frameworks,
+the best evidence of a financial instrument’s fair value is found
+in contemporaneous transactions in an active market (that is, level
+1 inputs). In such cases, the valuation of a financial instrument
+may be relatively simple. Quoted prices for financial instruments
+that are listed on exchanges or traded in liquid OTC markets may be
+available from sources such as financial publications, the exchanges
+themselves, or third-party pricing sources. When using quoted prices,
+it is important that management understand the basis on which the
+quote is given to ensure that the price reflects market conditions
+at the measurement date. Quoted prices obtained from publications
+or exchanges may provide sufficient evidence of fair value when, for
+example, the</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>prices are not out of date or "stale" (for example,
+if the quote is based on the last traded price, and the trade occurred
+some time ago).</para>
+          </listitem>
+          <listitem>
+            <para>quotes are prices at which dealers would actually
+trade the financial instrument with sufficient frequency and volume.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_36" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.36</titleabbrev>
+          <title role="ps_para_number">1.36</title>
+        </sectioninfo>
+        <para role="ps_para_number">When no current observable market price
+for the financial instrument (that is, a level 1 input) exists, it
+will be necessary for the entity to gather other price indicators
+to use in a valuation technique to value the financial instrument.
+Price indicators may include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>recent transactions, including transactions after
+the date of the financial statements in the same instrument. Consideration
+is given to whether an adjustment needs to be made for changes in
+market conditions between the measurement date and the date the transaction
+was made because these transactions are not necessarily indicative
+of the market conditions that existed at the date of the financial
+statements. In addition, it is possible the transaction represents
+a forced transaction and, therefore, is not indicative of a price
+in an orderly trade.</para>
+          </listitem>
+          <listitem>
+            <para>current or recent transactions in similar instruments,
+often known as proxy pricing. Adjustments will need to be made to
+the price of the proxy to reflect the differences between it and the
+instrument being priced (for example, to take account of differences
+in liquidity or credit risk between the two instruments).</para>
+          </listitem>
+          <listitem>
+            <para>indexes for similar instruments. As with transactions
+in similar instruments, adjustments will need to be made to reflect
+the difference between the instrument being priced and the instrument(s)
+from which the index used is derived.</para>
+          </listitem>
+          <listitem>
+            <para>transactions in the financial instrument occurring
+on thinly traded markets, such as OTC or bulletin board exchanges.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_37" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.37</titleabbrev>
+          <title role="ps_para_number">1.37</title>
+        </sectioninfo>
+        <para role="ps_para_number">Management is expected to document its
+valuation policies and model used to value a particular financial
+instrument, including the rationale for the model(s) used, the selection
+of assumptions in the valuation methodology, and the entity’s consideration
+of whether adjustments for measurement uncertainty are necessary. </para>
+      </section>
+      <section id="aag-afi1_models" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Models</titleabbrev>
+          <title role="ps_subsub_heading">Models</title>
+        </sectioninfo>
+        <section id="aag-afi1_38" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.38</titleabbrev>
+            <title role="ps_para_number">1.38</title>
+          </sectioninfo>
+          <para role="ps_para_number">Models may be used to value financial
+instruments when the price cannot be directly observed in the market.
+Models can be as simple as a commonly used bond pricing formula or
+involve complex, specifically developed software tools to value financial
+instruments with level 3 inputs. Many models are based on discounted
+cash flow calculations. </para>
+        </section>
+        <section id="aag-afi1_39" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.39</titleabbrev>
+            <title role="ps_para_number">1.39</title>
+          </sectioninfo>
+          <para role="ps_para_number">
+            Examples of models that are often used
+are Black-Scholes, which is frequently used for option pricing, and
+the zero-coupon method, which is often used for estimating the fair
+value of interest rate swaps. , "Information About the Black-Scholes Valuation Model,"
+and , "Information
+About the Zero-Coupon Valuation Model," of this guide provide more
+information about the Black-Scholes and zero-coupon method.
+            <olink targetptr="aag-afi_appD">Appendix
+D</olink>
+            <olink targetptr="aag-afi_appE">appendix E</olink>
+          </para>
+        </section>
+        <section id="aag-afi1_40" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.40</titleabbrev>
+            <title role="ps_para_number">1.40</title>
+          </sectioninfo>
+          <para role="ps_para_number">Models comprise a methodology, assumptions,
+and data. The methodology describes rules or principles governing
+the relationship between the variables in the valuation. Assumptions
+include estimates of uncertain variables that are used in the model.
+Data may comprise actual or hypothetical information about the financial
+instrument or other inputs to the financial instrument.</para>
+        </section>
+        <section id="aag-afi1_41" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.41</titleabbrev>
+            <title role="ps_para_number">1.41</title>
+          </sectioninfo>
+          <para role="ps_para_number">Depending on the circumstances, matters
+that the entity may address when establishing or validating a model
+for a financial instrument include whether</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>the model is validated prior to usage, with periodic
+reviews to ensure that it is still suitable for its intended use.
+The entity’s validation process may include evaluation of the</para>
+            </listitem>
+          </itemizedlist>
+          <itemizedlist mark="emdash" role="ps_indent_4">
+            <listitem>
+              <para>methodology’s theoretical soundness and mathematical
+integrity, including the appropriateness of parameters and sensitivities.</para>
+            </listitem>
+            <listitem>
+              <para>consistency and completeness of the model’s inputs
+with market practices and whether the appropriate inputs are available
+for use in the model.</para>
+            </listitem>
+          </itemizedlist>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>appropriate change control policies, procedures, and
+security controls over the model exist.</para>
+            </listitem>
+            <listitem>
+              <para>the model is appropriately changed or adjusted on
+a timely basis for changes in market conditions.</para>
+            </listitem>
+            <listitem>
+              <para>the model is periodically calibrated, reviewed, and
+tested for validity by a separate and objective function. Doing so
+is a means of ensuring that the model’s output is a fair representation
+of the value that marketplace participants would ascribe to a financial
+instrument.</para>
+            </listitem>
+            <listitem>
+              <para>the model maximizes the use of relevant observable
+inputs and minimizes the use of unobservable inputs.</para>
+            </listitem>
+            <listitem>
+              <para>adjustments are made to the output of the model to
+reflect the assumptions that marketplace participants would use in
+similar circumstances.</para>
+            </listitem>
+            <listitem>
+              <para>the model is adequately documented, including the
+model’s intended applications and limitations and its key parameters,
+required data, results of any validation analysis performed, and any
+adjustments made to the output of the model.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+      </section>
+      <section id="aag-afi1_an_example_of_a" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>An Example of a Common Financial Instrument</titleabbrev>
+          <title role="ps_subsub_heading">An Example of a Common Financial Instrument</title>
+        </sectioninfo>
+        <section id="aag-afi1_42" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.42</titleabbrev>
+            <title role="ps_para_number">1.42</title>
+          </sectioninfo>
+          <para role="ps_para_number">
+            The following describes how models may
+be applied to value a common financial instrument, known as an asset-backed
+security. Because asset-backed securities are often valued based
+on level 2 or level 3 inputs, they are frequently valued using models
+and involve understanding the
+            <footnote id="aag-afi1_fn6" label="fn 6" role="number">
+              <para>
+                An  is
+a financial instrument that is backed by a pool of underlying assets
+(known as the collateral, such as credit card receivables or vehicle
+loans) and that derives value and income from those underlying assets.
+                <emphasis role="italic">asset-backed security</emphasis>
+              </para>
+            </footnote>
+          </para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>type of security, considering the underlying collateral
+and the terms of the security. The underlying collateral is used to
+estimate the timing and amounts of cash flows, such as mortgage or
+credit card interest and principal payments.</para>
+            </listitem>
+            <listitem>
+              <para>terms of the security. This includes evaluating contractual
+cash flow rights, such as the order of repayment, and any default
+events. The order of repayment, often known as seniority, refers to
+terms that require that some classes of security holders (senior debt)
+are repaid before others (subordinated debt). The rights of each class
+of security holder to the cash flows, frequently referred to as the
+cash flow "waterfall," together with assumptions of the timing and
+amount of cash flows, are used to derive a set of estimated cash flows
+for each class of security holder. The expected cash flows are then
+discounted to derive an estimated fair value.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+        <section id="aag-afi1_43" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.43</titleabbrev>
+            <title role="ps_para_number">1.43</title>
+          </sectioninfo>
+          <para role="ps_para_number">The cash flows of an asset-backed security
+may be affected by prepayments of the underlying collateral and potential
+default risk and resulting estimated loss reserves. Prepayment assumptions,
+if applicable, are generally based on evaluating market interest rates
+for similar collateral to the rates on the collateral underlying the
+security. For example, if market interest rates for mortgages have
+declined, then the underlying mortgages in a security may experience
+higher prepayment rates than originally expected. Estimating potential
+default and loss reserve involves close evaluation of the underlying
+collateral and borrowers to estimate default rates. For example, when
+the underlying collateral comprises residential mortgages, loss reserves
+may be affected by estimates of residential housing prices over the
+term of the security.</para>
+        </section>
+      </section>
+      <section id="aag-afi1_third_party_pricing_sources" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Third-Party Pricing Sources</titleabbrev>
+          <title role="ps_subsub_heading">Third-Party Pricing Sources</title>
+        </sectioninfo>
+        <section id="aag-afi1_44" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.44</titleabbrev>
+            <title role="ps_para_number">1.44</title>
+          </sectioninfo>
+          <para role="ps_para_number">Entities may use third-party pricing sources
+in order to obtain fair value information. The preparation of an entity’s
+financial statements, including the valuation of financial instruments
+and the preparation of financial statement disclosures relating to
+these instruments, may require expertise that management does not
+possess. Entities may not be able to develop appropriate valuation
+techniques, including models that may be used in a valuation, and
+may use a third-party pricing source to arrive at a valuation or provide
+disclosures for the financial statements. This may particularly be
+the case in smaller entities or entities that do not engage in a high
+volume of financial instrument transactions (for example, nonfinancial
+institutions with treasury departments). Even though management has
+used a third-party pricing source, management is ultimately responsible
+for the valuation and establishing internal control over the valuation
+process.</para>
+        </section>
+        <section id="aag-afi1_45" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.45</titleabbrev>
+            <title role="ps_para_number">1.45</title>
+          </sectioninfo>
+          <para role="ps_para_number">Third-party pricing sources may also be
+used because the volume of financial instruments to price over a short
+time frame may not be possible by the entity. This is often the case
+for traded investment funds that must determine a net asset value
+each day. In other cases, management may have its own pricing process
+but use third-party pricing sources to corroborate its own valuations.</para>
+        </section>
+        <section id="aag-afi1_46" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.46</titleabbrev>
+            <title role="ps_para_number">1.46</title>
+          </sectioninfo>
+          <para role="ps_para_number">For one or more of these reasons, most
+entities use third-party pricing sources when valuing financial instruments
+either as a primary source or a source of corroboration for their
+own valuations. Third-party pricing sources generally fall into the
+following categories:</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>Pricing services, including consensus pricing services</para>
+            </listitem>
+            <listitem>
+              <para>Brokers providing broker quotes</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+      </section>
+      <section id="aag-afi1_pricing_services" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Pricing Services</titleabbrev>
+          <title role="ps_subsub_heading">Pricing Services</title>
+        </sectioninfo>
+        <section id="aag-afi1_47" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.47</titleabbrev>
+            <title role="ps_para_number">1.47</title>
+          </sectioninfo>
+          <para role="ps_para_number">Pricing services provide entities with
+prices and price-related data for a variety of financial instruments,
+often performing daily valuations of large numbers of financial instruments.
+These valuations may be made by collecting market data and prices
+from a wide variety of sources, including market makers, and, in certain
+instances, by using internal valuation techniques to derive estimated
+fair values. Pricing services may combine a number of approaches to
+arrive at a price and are often used as a source of prices based on
+level 2 inputs. Pricing services may have strong controls around how
+prices are developed, and their customers often include a wide variety
+of parties, including buy-and-sell side investors, auditors, and others.</para>
+        </section>
+        <section id="aag-afi1_48" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.48</titleabbrev>
+            <title role="ps_para_number">1.48</title>
+          </sectioninfo>
+          <para role="ps_para_number">Pricing services often have a formalized
+process for customers to challenge the prices received from the pricing
+services. These challenge processes usually require the customer to
+provide evidence to support an alternative price, with challenges
+categorized based on the quality of evidence provided. For example,
+a challenge based on a recent sale of that instrument the pricing
+service was not aware of may be upheld, whereas a challenge based
+on a customer’s own valuation technique may be more heavily scrutinized.
+In this way, a pricing service with a large number of leading participants,
+both buy and sell side, may be able to constantly correct prices to
+more fully reflect the information available to market participants.</para>
+        </section>
+      </section>
+      <section id="aag-afi1_consensus_pricing_services" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Consensus Pricing Services</titleabbrev>
+          <title role="ps_subsub_heading">Consensus Pricing Services</title>
+        </sectioninfo>
+        <section id="aag-afi1_49" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.49</titleabbrev>
+            <title role="ps_para_number">1.49</title>
+          </sectioninfo>
+          <para role="ps_para_number">Some entities may use pricing data from
+consensus pricing services, which differ from other pricing services.
+Consensus pricing services obtain pricing information about an instrument
+from several participating entities (subscribers). Each subscriber
+submits prices to the pricing service. The pricing service treats
+this information confidentially and returns to each subscriber the
+consensus price, which is usually an arithmetical average of the data
+after a data-cleansing routine has been employed to eliminate outliers.
+For some markets, such as exotic derivatives, consensus prices might
+constitute the best available data. However, many factors are considered
+when assessing the representational faithfulness of the consensus
+prices, including, for example</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>whether the prices submitted by the subscribers reflect
+actual transactions or just indicative prices based on their own valuation
+techniques.</para>
+            </listitem>
+            <listitem>
+              <para>the number of sources from which prices have been
+obtained.</para>
+            </listitem>
+            <listitem>
+              <para>the quality of the sources used by the consensus pricing
+service.</para>
+            </listitem>
+            <listitem>
+              <para>whether participants include leading market participants.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+        <section id="aag-afi1_50" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.50</titleabbrev>
+            <title role="ps_para_number">1.50</title>
+          </sectioninfo>
+          <para role="ps_para_number">Typically, consensus prices are only available
+to subscribers who have submitted their own prices to the service.
+Accordingly, not all entities will have direct access to consensus
+prices. Because a subscriber generally cannot know how the prices
+submitted were estimated, other sources of evidence in addition to
+information from consensus pricing services may be needed for management
+to support its valuation. In particular, this may be the case if the
+sources are providing indicative prices based on their own valuation
+techniques, and management is unable to obtain an understanding of
+how these sources calculated their prices.</para>
+        </section>
+      </section>
+      <section id="aag-afi1_brokers_providing_broker_quotes" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Brokers Providing Broker Quotes</titleabbrev>
+          <title role="ps_subsub_heading">Brokers Providing Broker Quotes</title>
+        </sectioninfo>
+        <section id="aag-afi1_51" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.51</titleabbrev>
+            <title role="ps_para_number">1.51</title>
+          </sectioninfo>
+          <para role="ps_para_number">
+            Because brokers provide quotes only as
+an incidental service for their clients, quotes they provide differ
+in many respects from prices obtained in pricing services. Brokers
+may be unwilling to provide information about the process used to
+develop their quote but may have access to information on transactions
+about which a pricing service may not be aware. Broker quotes may
+be executable or indicative.  are a broker’s best estimate of fair value, whereas an executable
+quote shows that the broker is willing to transact at this price.
+Executable quotes are strong evidence of fair value. Indicative quotes
+are less so because of the lack of transparency into the methods used
+by the broker to establish the quote. In addition the rigor of controls
+over the brokers’ quote often will differ depending on whether the
+broker also holds the same security in his or her own portfolio. Broker
+quotes are often used for financial instruments with level 3 inputs
+and sometimes may be the only external information available.
+            <emphasis role="italic">Indicative quotes</emphasis>
+          </para>
+        </section>
+      </section>
+      <section id="aag-afi1_further_considerations_relating_to" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Further Considerations Relating to Third-Party Pricing
+Sources</titleabbrev>
+          <title role="ps_subsub_heading">Further Considerations Relating to
+Third-Party Pricing Sources</title>
+        </sectioninfo>
+        <section id="aag-afi1_52" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.52</titleabbrev>
+            <title role="ps_para_number">1.52</title>
+          </sectioninfo>
+          <para role="ps_para_number">Understanding how the pricing sources
+calculated a price enables management to determine whether such information
+is suitable for use in its valuation, including as an input to a valuation
+technique and in what level of inputs the security should be categorized
+for disclosure purposes. For example, third-party pricing sources
+may value financial instruments using proprietary models, and it is
+important that management understands the methodology, assumptions,
+and data used.</para>
+        </section>
+        <section id="aag-afi1_53" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.53</titleabbrev>
+            <title role="ps_para_number">1.53</title>
+          </sectioninfo>
+          <para role="ps_para_number">If fair value measurements obtained from
+third-party pricing sources are not based on the current prices of
+an active market, it will be necessary for management to evaluate
+whether the fair value measurements were derived in a manner that
+is consistent with the applicable financial reporting framework. Management’s
+understanding of the fair value measurement may include</para>
+          <para role="ps_indent_0">Understanding the bases on which third-party
+pricing sources have determined their quotes in the context of the
+particular financial instruments held by the entity assists management
+in evaluating the relevance and reliability of this evidence to support
+its valuations.</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>how the fair value measurement was determined (for
+example, whether the fair value measurement was determined by a valuation
+technique in order to assess whether it is consistent with the fair
+value measurement objective).</para>
+            </listitem>
+            <listitem>
+              <para>whether the quotes are indicative prices, indicative
+spread, or binding offers.</para>
+            </listitem>
+            <listitem>
+              <para>how frequently the fair value measurement is estimated
+by the third-party pricing sources in order to assess whether it reflects
+market conditions at the measurement date.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+        <section id="aag-afi1_54" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.54</titleabbrev>
+            <title role="ps_para_number">1.54</title>
+          </sectioninfo>
+          <para role="ps_para_number">Disparities may exist between price indicators
+from different sources. Understanding how the price indicators were
+derived and investigating these disparities assists management in
+corroborating the evidence used in developing its valuation of financial
+instruments in order to evaluate whether the valuation is reasonable.
+Simply taking the average of the quotes provided without doing further
+research may not be appropriate because one price in the range may
+be the most representative of fair value, and this may not be the
+average. To evaluate whether its valuations of financial instruments
+are reasonable, management may</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>consider whether actual transactions represent forced
+transactions rather than transactions between willing buyers and sellers.
+This may invalidate the price as a comparison.</para>
+            </listitem>
+            <listitem>
+              <para>analyze the expected future cash flows of the instrument.
+This could be performed as an indicator of the most relevant pricing
+data.</para>
+            </listitem>
+            <listitem>
+              <para>depending on the nature of what is unobservable, extrapolate
+from observed prices to unobserved ones (for example, there may be
+observed prices for maturities up to 10 years but not longer, but
+the 10-year price curve may be capable of being extrapolated beyond
+10 years as an indicator). Care is needed to ensure that extrapolation
+is not carried so far beyond the observable curve that its link to
+observable prices becomes too tenuous to be reliable.</para>
+            </listitem>
+            <listitem>
+              <para>compare prices within a portfolio of financial instruments
+with each other to make sure they are consistent among similar financial
+instruments.</para>
+            </listitem>
+            <listitem>
+              <para>use more than one model to corroborate the results
+from each one, considering the data and assumptions used in each.</para>
+            </listitem>
+            <listitem>
+              <para>evaluate movements in the prices for related hedging
+instruments and collateral.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+      </section>
+      <section id="aag-afi1_use_of_valuation_specialists" role="ls_level_5">
+        <sectioninfo>
+          <titleabbrev>Use of Valuation Specialists</titleabbrev>
+          <title role="ps_subsub_heading">Use of Valuation Specialists</title>
+        </sectioninfo>
+        <section id="aag-afi1_55" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>1.55</titleabbrev>
+            <title role="ps_para_number">1.55</title>
+          </sectioninfo>
+          <para role="ps_para_number">Management may engage a valuation specialist
+from an investment bank, a broker, or another valuation firm to value
+some or all of the entity’s financial instruments. Unlike pricing
+services and broker quotes, generally, the methodology and data used
+are more readily available to management when it has engaged a specialist
+to perform a valuation on its behalf. Even though management has engaged
+a specialist, management is ultimately responsible for the valuation
+used.</para>
+        </section>
+      </section>
+    </section>
+    <section id="aag-afi1_issues_related_to_financial" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Issues Related to Financial Liabilities</titleabbrev>
+        <title role="ps_sub_heading">Issues Related to Financial Liabilities</title>
+      </sectioninfo>
+      <section id="aag-afi1_56" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.56</titleabbrev>
+          <title role="ps_para_number">1.56</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Understanding the effect of credit risk
+is an important aspect of valuing both financial assets and liabilities.
+This valuation reflects the credit quality and financial strength
+of both the issuer and any credit support providers. In some financial
+reporting frameworks, the measurement of a financial liability assumes
+it is transferred to a market participant at the measurement date.
+When an observable market price for a financial liability does not
+exist, its value is typically measured using the same method a counterparty
+would use to measure the value of the corresponding asset, unless
+there are factors specific to the liability (such as third-party credit
+enhancement). In particular, the entity’s own credit risk can often be difficult to measure.
+          <footnote id="aag-afi1_fn7" label="fn 7" role="number">
+            <para>
+               is the amount
+of change in fair value that is not attributable to changes in market
+conditions.
+              <emphasis role="italic">Own credit risk</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi1_presentation_and_disclosure_about" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Presentation and Disclosure About Financial Instruments</titleabbrev>
+      <title role="ps_main_heading">
+        Presentation and Disclosure About Financial
+Instruments
+        <footnote id="aag-afi1_fn8" label="fn 8" role="number">
+          <para>
+            <emphasis role="shade">
+              FASB ASU No. 2018-13, , was issued in August 2018. The amendments resulting from this ASU
+are effective for all entities for fiscal years beginning after December
+15, 2019, including interim periods within those fiscal years; however,
+certain disclosures are not required for nonpublic entities. Early
+adoption is permitted.
+              <emphasis role="italic">Fair Value Measurement (Topic 820), Disclosure Framework
+— Changes to the Disclosure Requirements for Fair Value Measurement</emphasis>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              The amendments in this ASU add,
+modify and remove disclosure requirements in FASB ASC 820, related
+to recurring and nonrecurring fair value measurements.
+              <tab/>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              Application of the guidance in
+this ASU is prospective for certain amendments and retrospective for
+other amendments. Prospective application is required for only the
+most recent interim or annual period presented in the initial fiscal
+year of adoption for the following: changes in unrealized gains and
+losses; the range and weighted average of significant unobservable
+inputs used to develop Level 3 fair value measurements; and, the narrative
+description of measurement uncertainty. Retrospective application
+to all periods presented upon their effective date is required for
+all other amendments.
+              <tab/>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              Readers are encouraged to consult
+the full text of this ASU on FASB's website at .
+              <tab/>
+              <ulink url="http://www.fasb.org">www.fasb.org</ulink>
+            </emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi1_57" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.57</titleabbrev>
+        <title role="ps_para_number">1.57</title>
+      </sectioninfo>
+      <para role="ps_para_number">Most financial reporting frameworks require
+disclosures in the financial statements to enable users of the financial
+statements to make meaningful assessments of the effects of the entity’s
+financial instrument activities, including the risks and uncertainties
+associated with financial instruments.</para>
+    </section>
+    <section id="aag-afi1_58" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.58</titleabbrev>
+        <title role="ps_para_number">1.58</title>
+      </sectioninfo>
+      <para role="ps_para_number">Most frameworks require the disclosure
+of quantitative and qualitative information (including accounting
+policies) relating to financial instruments. The accounting requirements
+for fair value measurements in financial statement presentations and
+disclosures are extensive in most financial reporting frameworks and
+encompass more than just valuation of the financial instruments. For
+example, qualitative disclosures about financial instruments provide
+important contextual information about the characteristics of the
+financial instruments and their future cash flows that may help inform
+investors about the risks to which entities are exposed.</para>
+    </section>
+    <section id="aag-afi1_categories_of_disclosures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Categories of Disclosures</titleabbrev>
+        <title role="ps_sub_heading">Categories of Disclosures</title>
+      </sectioninfo>
+      <section id="aag-afi1_59" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.59</titleabbrev>
+          <title role="ps_para_number">1.59</title>
+        </sectioninfo>
+        <para role="ps_para_number">Disclosure requirements include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>quantitative disclosures that are derived from the
+amounts included in the financial statements (for example, categories
+of financial assets and liabilities).</para>
+          </listitem>
+          <listitem>
+            <para>quantitative disclosures that require significant
+judgment (for example, sensitivity analysis for each type of market
+risk to which the entity is exposed).</para>
+          </listitem>
+          <listitem>
+            <para>qualitative disclosures (for example, those that describe
+the entity’s governance over financial instruments; objectives; controls,
+policies, and processes for managing each type of risk arising from
+financial instruments; and the methods used to measure the risks).</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi1_60" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.60</titleabbrev>
+          <title role="ps_para_number">1.60</title>
+        </sectioninfo>
+        <para role="ps_para_number">The more sensitive the valuation to movements
+in a particular variable, the more likely it is that disclosure will
+be necessary to indicate the uncertainties surrounding the valuation.
+Financial reporting frameworks may also require disclosure of sensitivity
+analyses, including the effects of changes in assumptions used in
+the entity’s valuation techniques. For example, the additional disclosures
+required for financial instruments with fair value measurements that
+are categorized within level 3 inputs of the fair value hierarchy
+are aimed at informing users of financial statements about the effects
+of those fair value measurements that use the most subjective inputs.</para>
+      </section>
+      <section id="aag-afi1_61" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.61</titleabbrev>
+          <title role="ps_para_number">1.61</title>
+        </sectioninfo>
+        <para role="ps_para_number">Financial reporting frameworks may require
+disclosure of information that enables users of the financial statements
+to evaluate the nature and extent of the risks arising from financial
+instruments to which the entity is exposed at the reporting date.
+The extent of disclosure depends on the extent of the entity’s exposure
+to risks arising from financial instruments. This includes qualitative
+disclosures about</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>the exposures to risk and how they arise, including
+the possible effects on an entity’s future liquidity and collateral
+requirements.</para>
+          </listitem>
+          <listitem>
+            <para>the entity’s objectives, policies, and processes for
+managing the risk and the methods used to measure the risk.</para>
+          </listitem>
+          <listitem>
+            <para>any changes in exposures to risk or objectives, policies,
+or processes for managing risk from the previous period.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi1_fair_value_disclosures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Fair Value Disclosures</titleabbrev>
+        <title role="ps_sub_heading">Fair Value Disclosures</title>
+      </sectioninfo>
+      <section id="aag-afi1_62" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.62</titleabbrev>
+          <title role="ps_para_number">1.62</title>
+        </sectioninfo>
+        <para role="ps_para_number">FASB ASC 820-10-50 discusses the disclosures
+required for assets and liabilities measured at fair value. As noted
+in FASB ASC 820-10-50-1, the reporting entity should disclose information
+that would help users of its financial statements understand and assess
+the following:</para>
+        <para role="ps_indent_hang_2">
+          For assets and liabilities that are measured at fair value
+on a recurring or nonrecurring basis in the statement of financial
+position after initial recognition, the valuation techniques and inputs
+used to develop those measurements; and
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          For recurring fair value measurements using significant unobservable
+inputs (Level 3), the effect of the measurements on earnings (or changes
+in net assets) or other comprehensive income for the period.
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_0">
+          <emphasis role="shade">“Pending Content”
+in the FASB ASC indicates that paragraph 1 of FASB ASC 820-10-50 is
+superseded by ASU No. 2018-13 and paragraph 1C is added. FASB ASC
+820-10-50-1C states that the objective of the disclosure requirements
+in the overall subtopic of FASB ASC 820 is to provide users of financial
+statements with information about assets and liabilities measured
+at fair value in the statement of financial position or disclosed
+in the notes to financial statements. The following items are listed
+in FASB ASC 820-10-50-1C:</emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            The valuation techniques and inputs
+that a reporting entity uses to arrive at its measures of fair value,
+including judgments and assumptions that the entity makes
+            <emphasis role="italic">a.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            The uncertainty in the fair value
+measurements as of the reporting date
+            <emphasis role="italic">b.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            How changes in fair value measurements
+affect an entity’s performance and cash flows.
+            <emphasis role="italic">c.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi1_63" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.63</titleabbrev>
+          <title role="ps_para_number">1.63</title>
+        </sectioninfo>
+        <para role="ps_para_number">To meet the objectives noted in the preceding
+paragraph, FASB ASC 820-10-50-1A states that a reporting entity should
+consider all of the following:</para>
+        <para role="ps_indent_hang_2">
+          The level of detail necessary to satisfy the disclosure requirements
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          How much emphasis to place on each of the various requirements
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          How much aggregation or disaggregation to undertake
+          <emphasis role="italic">c.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          Whether users of financial statements need additional information
+to evaluate the quantitative information disclosed
+          <emphasis role="italic">d.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_0">If the disclosures set forth in the guidance
+are insufficient to meet the objectives in the preceding paragraph,
+a reporting entity should disclose additional information necessary
+to meet those objectives.</para>
+        <para role="ps_indent_0">
+          <emphasis role="shade">“Pending Content”
+in the FASB ASC indicates that paragraph 1A of FASB ASC 820-10-50
+is superseded by ASU No. 2018-13 and the content is amended and moved
+to paragraph 1D. FASB ASC 820-10-50-1D states that a reporting entity
+should consider all of the following items when complying with the
+disclosure requirements in the overall subtopic of FASB ASC 820. </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            The level of detail necessary to
+satisfy the disclosure requirements 
+            <emphasis role="italic">a.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            How much emphasis to place on each
+of the various requirements 
+            <emphasis role="italic">b.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            How much aggregation or disaggregation
+to undertake 
+            <emphasis role="italic">c.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            Whether users of financial statements
+need additional information to evaluate the quantitative information
+disclosed.
+            <emphasis role="italic">d.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi1_64" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>1.64</titleabbrev>
+          <title role="ps_para_number">1.64</title>
+        </sectioninfo>
+        <para role="ps_para_number">The required disclosures related to fair
+value are extensive and detailed. FASB ASC 820-10-50 provides details
+of the information that should be disclosed by the reporting entity.
+FASB ASC 820-10-50 also provides information on other required disclosures
+related to fair value. Paragraphs 99–107 of FASB ASC 820-10-55 provide
+illustrative disclosures about fair value measurements.</para>
+      </section>
+    </section>
+  </section>
+</root>

@@ -1,0 +1,147 @@
+<root id="aag-afi3_the_entitys_information_system" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Entity’s Information System</titleabbrev>
+    <title role="ps_sub_heading">The Entity’s Information System</title>
+  </sectioninfo>
+  <section id="aag-afi3_24" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.24</titleabbrev>
+      <title role="ps_para_number">3.24</title>
+    </sectioninfo>
+    <para role="ps_para_number">The key objective of an entity’s information
+system is that it is capable of capturing and recording all the transactions
+accurately, settling them, valuing them, and producing information
+to enable the financial instruments to be risk managed and for controls
+to be monitored. Difficulties can arise in entities that engage in
+a high volume of financial instruments, in particular if a multiplicity
+of systems are poorly integrated and have manual interfaces without
+adequate controls. </para>
+  </section>
+  <section id="aag-afi3_25" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.25</titleabbrev>
+      <title role="ps_para_number">3.25</title>
+    </sectioninfo>
+    <para role="ps_para_number">Certain financial instruments may require
+a large number of accounting entries. As the sophistication or level
+of the financial instrument activities increases, it is necessary
+for the sophistication of the information system to also increase.
+Specific issues that can arise with respect to financial instruments
+include</para>
+    <para role="ps_indent_hang_2">
+      information systems, particularly for smaller entities, not having
+the capability or being appropriately configured to process financial
+instrument transactions, especially when the entity does not have
+any prior experience in dealing with financial instruments. This may
+result in an increased number of manual transactions that may further
+increase the risk of error.
+      <emphasis role="italic">
+        a.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      the potential diversity of systems required to process more complex
+transactions and the need for regular reconciliations between them,
+in particular when the systems are not interfaced or may be subject
+to manual intervention.
+      <emphasis role="italic">
+        b.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      the potential that more complex transactions, if they are only traded
+by a small number of individuals, may be valued or risk managed on
+spreadsheets rather than main processing systems and for the physical
+and logical password security around those spreadsheets to be more
+easily compromised.
+      <emphasis role="italic">
+        c.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      a lack of review of systems exception logs, external confirmations,
+and broker quotes, when available, to validate the entries generated
+by the systems.
+      <emphasis role="italic">
+        d.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      difficulties in controlling and evaluating the key inputs to systems
+for valuation of financial instruments, particularly when those systems
+are maintained by the group of traders known as the sales function
+or a third-party service provider, or the transactions in question
+are nonroutine or thinly traded.
+      <emphasis role="italic">
+        e.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      failure to evaluate the design and calibration of complex models
+used to process these transactions initially and on a periodic basis.
+      <emphasis role="italic">
+        f.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      the potential that management has not set up a library of models
+with controls around access, change, and maintenance of individual
+models in order to maintain a strong audit trail of the accredited
+versions of models and in order to prevent unauthorized access or
+amendments to those models.
+      <emphasis role="italic">
+        g.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      the disproportionate investment that may be required in risk management
+and control systems when an entity only undertakes a limited number
+of financial instrument transactions and the potential for misunderstanding
+of the output by management if the risk management and control systems
+are not used for these types of transactions.
+      <emphasis role="italic">
+        h.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      the potential requirement for third-party systems providers (for
+example, from a service organization) to record, process, account
+for, or risk manage appropriately financial instrument transactions
+and the need to reconcile appropriately and challenge the output from
+those providers.
+      <emphasis role="italic">
+        i.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      additional security and control considerations relevant to the use
+of an electronic network when an entity uses electronic commerce for
+financial instrument transactions.
+      <emphasis role="italic">
+        j.
+        <tab/>
+      </emphasis>
+    </para>
+  </section>
+  <section id="aag-afi3_26" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.26</titleabbrev>
+      <title role="ps_para_number">3.26</title>
+    </sectioninfo>
+    <para role="ps_para_number">Information systems relevant to financial
+reporting serve as an important source of information for the quantitative
+disclosures in the financial statements. However, entities may also
+develop and maintain nonfinancial systems used for internal reporting
+and to generate information included in qualitative disclosures (for
+example, regarding risks and uncertainties or sensitivity analyses).</para>
+  </section>
+</root>

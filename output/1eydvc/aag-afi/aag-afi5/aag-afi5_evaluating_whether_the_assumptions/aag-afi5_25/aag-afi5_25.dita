@@ -1,0 +1,18 @@
+<root id="aag-afi5_25" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.25</titleabbrev>
+    <title role="ps_para_number">5.25</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    An assumption used in a model may be deemed
+to be significant if a reasonable variation in the assumption would
+materially affect the measurement of the financial instrument. Management may have considered alternative assumptions
+or outcomes by performing a sensitivity analysis. The extent of subjectivity
+associated with assumptions influences the degree of measurement uncertainty
+and may lead the auditor to conclude that a significant risk exits
+(for example, in the case of Level 3 inputs). 
+    <footnote id="aag-afi5_fn10" label="fn 10" role="number">
+      <para>See paragraph .A113 of AU-C section 540B.</para>
+    </footnote>
+  </para>
+</root>

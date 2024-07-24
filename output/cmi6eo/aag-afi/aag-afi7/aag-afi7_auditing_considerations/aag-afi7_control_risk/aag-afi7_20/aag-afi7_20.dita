@@ -1,0 +1,43 @@
+<root id="aag-afi7_20" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.20</titleabbrev>
+    <title role="ps_para_number">7.20</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    BEV uses a broker-dealer to hold and service
+its financial instruments, including the investment in the bond. However,
+the fact that the entity uses a service organization to process some
+of its financial instrument transactions does not, in and of itself,
+require the auditor to obtain information about the broker-dealer’s
+controls. AU-C section 315B, , addresses the auditor’s requirement to obtain
+an understanding of the entity and its environment as part of performing
+an audit in accordance with generally accepted auditing standards. Paragraph .A54 of AU-C section 315B states that an entity’s
+use of IT may affect any of the five components of internal control
+relevant to the achievement of the entity’s financial reporting, operations,
+or compliance objectives and its operating units or business functions.
+This understanding should be sufficient for the auditor to
+    <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+    <footnote id="aag-afi7_fn7" label="fn 7" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statements on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>identify the types of potential misstatement of the
+assertions.</para>
+    </listitem>
+    <listitem>
+      <para>consider factors that affect the risk that the potential
+misstatements would be material to the financial statements.</para>
+    </listitem>
+    <listitem>
+      <para>design substantive tests.</para>
+    </listitem>
+  </itemizedlist>
+</root>

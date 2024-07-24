@@ -1,0 +1,332 @@
+<root id="aag-afi_appB" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Appendix B — Illustrative Questions About the Entity’s
+Controls Over Its Financial Instrument Activities (Ref: par. 3.16)</titleabbrev>
+    <title role="ps_section_heading">Appendix B</title>
+    <subtitle role="ps_section_title">
+      Illustrative Questions About the
+Entity’s Controls Over Its Financial Instrument Activities (Ref: )
+      <olink targetptr="aag-afi3_16">par. 3.16</olink>
+    </subtitle>
+  </chapterinfo>
+  <para role="ps_indent_0">
+    <emphasis role="italic">This appendix is
+nonauthoritative and is included for informational purposes only.</emphasis>
+  </para>
+  <para role="ps_indent_0">This appendix provides an illustration of
+questions that may be helpful to the auditor in obtaining an understanding
+of an entity’s controls over its financial instrument activities.</para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Have those charged
+with governance or the finance, asset or liability, investment, or
+other committee established a clear and an internally consistent risk
+management policy, including appropriate risk limits?</emphasis>
+  </para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Are management’s
+strategies and implementation policies consistent with those charged
+with governance’s authorization?</emphasis>
+  </para>
+  <para role="ps_indent_2">Management’s philosophy and operating style
+create an environment that influences the actions of treasury and
+other personnel involved in derivatives and hedging activities. The
+assignment of authority and responsibility for investment transactions
+sends an important message:</para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Do key controls exist
+to ensure that only authorized transactions take place and that unauthorized
+transactions are quickly detected, and appropriate action is taken?</emphasis>
+  </para>
+  <para role="ps_indent_2">Are controls over investment transactions
+monitored on an ongoing basis and subject to separate evaluations?
+If so</para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Are the magnitude,
+complexity, and risks of the entity’s financial instruments commensurate
+with the entity’s objectives?</emphasis>
+  </para>
+  <para role="ps_indent_2">Internal analyses might include quantitative
+and qualitative information about the entity’s investment transactions
+and might address the risks associated with investment, such as</para>
+  <para role="ps_indent_2">The entity’s risk assessment may result in
+a determination about how to manage identified risks of investment
+activities:</para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Are personnel with
+authority to engage in and monitor financial instrument transactions
+well-qualified and appropriately trained?</emphasis>
+  </para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Does the entity have
+personnel who have been cross-trained in case of the absence or departure
+of key personnel involved with financial instrument transactions?</emphasis>
+  </para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">Do the right people
+have the right information to make decisions?</emphasis>
+  </para>
+  <para role="ps_indent_2">The information might address both external
+and internal events, activities, and conditions:</para>
+  <para role="ps_indent_2">The entity’s analysis and internal reporting
+might include how well the entity is achieving its strategy of using
+financial instruments:</para>
+  <para role="ps_indent_2">Those charged with governance or the finance,
+asset or liability, investment, or other committee might consider
+investment transactions in the context of how related risks affect
+the achievement of the entity’s objectives (for example, economic,
+regulatory, industry, or operating):</para>
+  <para role="ps_indent_2">
+    <emphasis role="italic">In assessing if the
+right people have the right information, transactional questions exist
+that may be asked and answered:</emphasis>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Are the entity’s objectives and goals for financial
+instruments clearly stated and communicated?</para>
+    </listitem>
+    <listitem>
+      <para>To what extent are the entity’s operational objectives
+for financial instruments being achieved?</para>
+    </listitem>
+    <listitem>
+      <para>Are financial instruments used to mitigate risk, or
+do they create additional risk?</para>
+    </listitem>
+    <listitem>
+      <para>If the risk is being assumed, are trading limits established?</para>
+    </listitem>
+    <listitem>
+      <para>Is the entity’s strategy for financial instruments’
+use designed to further its economic, regulatory, industry, or operating
+objectives?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Is that message clear?</para>
+    </listitem>
+    <listitem>
+      <para>Is compliance with these or related policies and procedures
+evaluated regularly?</para>
+    </listitem>
+    <listitem>
+      <para>Does the treasury function view itself, or is it evaluated,
+as a profit center? This might cause members of the treasury department
+to attempt to enhance earnings through investment use.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>who is evaluating controls over investment transactions?</para>
+    </listitem>
+    <listitem>
+      <para>do they possess the appropriate technical expertise?</para>
+    </listitem>
+    <listitem>
+      <para>are deficiencies being identified and reported upstream?</para>
+    </listitem>
+    <listitem>
+      <para>are duties involving initiation of investment transactions
+segregated from other duties (for example, the accounting and internal
+audit functions and the valuation of those financial instruments)?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>
+        , which
+is the risk that one party to a financial instrument will cause a
+financial loss to another party by failing to discharge an obligation
+and is often associated with default. Credit risk includes  and , which are defined as follows:
+        <emphasis role="italic">credit risk</emphasis>
+        <emphasis role="italic">settlement risk</emphasis>
+        <emphasis role="italic">counterparty risk</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_6">
+    <listitem>
+      <para>Counterparty risk connotes the exposure to the aggregate
+credit risk posed by all transactions with one counterparty.</para>
+    </listitem>
+    <listitem>
+      <para>
+         is the related exposure that a counterparty may fail to perform
+under a contract after the end user has delivered funds or assets
+according to its obligations. Settlement risk relates almost solely
+to over-the-counter contracts (that is, nonexchange-traded instruments).
+One method for minimizing settlement risk is to enter into a master
+netting agreement that allows the parties to offset all their related
+payable and receivable positions at settlement.
+        <emphasis role="italic">Settlement risk</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>
+        , which
+is the risk that the fair value or future cash flows of a financial
+instrument will fluctuate because of changes in market prices. Examples
+of market risk include currency risk, interest rate risk, and commodity
+and equity price risk.
+        <emphasis role="italic">market risk</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        ,
+which includes the risk of not being able to buy or sell a financial
+instrument at an appropriate price in a timely manner due to a lack
+of marketability for that financial instrument.
+        <emphasis role="italic">liquidity risk</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>operational risk, which relates to the specific processing
+required for financial instruments. Operational risk may increase
+as the complexity of a financial instrument increases, and poor management
+of operational risk may increase other types of risk. Operational
+risk includes</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_6">
+    <listitem>
+      <para>the risk that confirmation and reconciliation controls
+are inadequate, resulting in incomplete or inaccurate recording of
+financial instruments.</para>
+    </listitem>
+    <listitem>
+      <para>the risk that there is inappropriate documentation
+of transactions and insufficient monitoring of these transactions.</para>
+    </listitem>
+    <listitem>
+      <para>the risk that transactions are incorrectly recorded,
+processed, or risk managed and, therefore, do not reflect the economics
+of the overall trade.</para>
+    </listitem>
+    <listitem>
+      <para>the risk that undue reliance is placed by staff on
+the accuracy of valuation techniques without adequate review, and
+transactions are, therefore, incorrectly valued, or their risk is
+improperly measured.</para>
+    </listitem>
+    <listitem>
+      <para>the risk that the use of financial instruments is
+not adequately incorporated into the entity’s risk management policies
+and procedures.</para>
+    </listitem>
+    <listitem>
+      <para>the risk of loss resulting from inadequate or failed
+internal processes and systems or from external events, including
+the risk of fraud from both internal and external sources.</para>
+    </listitem>
+    <listitem>
+      <para>the risk that there is inadequate or nontimely maintenance
+of valuation techniques used to measure financial instruments.</para>
+    </listitem>
+    <listitem>
+      <para>legal risk relating to losses resulting from a legal
+or regulatory action that invalidates or otherwise precludes performance
+by the end user or its counterparty under the terms of the contract
+or related netting arrangements. For example, legal risk could arise
+from insufficient or incorrect documentation for the contract, an
+inability to enforce a netting arrangement in bankruptcy, adverse
+changes in tax laws, or statutes that prohibit entities from investing
+in certain types of financial instruments.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>What are the entity’s risk exposures, including financial
+instruments?</para>
+    </listitem>
+    <listitem>
+      <para>Are the entity’s derivatives transactions standard
+for their class (such as simple derivatives [for example, exchange-traded
+futures contracts]), or are they complex (such as nonexchange-traded
+derivatives based on relationships between diverse markets)?</para>
+    </listitem>
+    <listitem>
+      <para>Is the complexity of financial instruments inconsistent
+with the risks being managed?</para>
+    </listitem>
+    <listitem>
+      <para>Has management anticipated how it will manage potential
+investment risks before assuming them?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Who are the key financial instrument players within
+the entity?</para>
+    </listitem>
+    <listitem>
+      <para>Is the knowledge vested only in one individual or
+a small group?</para>
+    </listitem>
+    <listitem>
+      <para>Are other employees being appropriately educated before
+they become involved with financial instrument transactions?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>How can the entity ensure the integrity, ethical values,
+and competence of personnel involved with financial instrument transactions?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>What information about financial instrument transactions
+is the entity identifying and capturing?</para>
+    </listitem>
+    <listitem>
+      <para>Is the entity capturing and communicating information
+about market changes affecting the financial instruments?</para>
+    </listitem>
+    <listitem>
+      <para>Is the entity capturing and communicating changes
+in its strategy for the mix of assets and liabilities that are the
+focus of risk management activities involving financial instruments?</para>
+    </listitem>
+    <listitem>
+      <para>How is this information being communicated, and is
+this information being communicated to all affected parties?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Are the analysis and internal reporting of risks that
+the entity is managing and the effectiveness of its strategies comprehensive,
+reliable, and well-designed to facilitate oversight?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Do financial instrument transactions increase the
+entity’s exposure to risks that might frustrate, rather than further,
+achievement of the entity’s objectives?</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_4">
+    <listitem>
+      <para>Does the entity have good systems for marking transactions
+to market?</para>
+    </listitem>
+    <listitem>
+      <para>Have these mark-to-market systems been tested by persons
+independent of the financial instrument function?</para>
+    </listitem>
+    <listitem>
+      <para>Does the entity know how the value of its financial
+instruments will change under extreme market conditions?</para>
+    </listitem>
+    <listitem>
+      <para>Is the entity’s published financial information being
+prepared reliably and in conformity with the applicable financial
+reporting framework?</para>
+    </listitem>
+  </itemizedlist>
+</root>

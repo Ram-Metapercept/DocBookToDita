@@ -1,0 +1,80 @@
+<root id="aag-afi7_types_of_potential_misstatements" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Types of Potential Misstatements</titleabbrev>
+    <title role="ps_sub_heading">Types of Potential Misstatements</title>
+  </sectioninfo>
+  <section id="aag-afi7_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.14</titleabbrev>
+      <title role="ps_para_number">7.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . During the audit period, BEV reclassified the bond from available
+for sale to held to maturity. The accounting for the change in classification
+and subsequent amortization may not conform to the requirements of
+FASB ASC 320.
+      <emphasis role="italic">Improper accounting</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi7_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.15</titleabbrev>
+      <title role="ps_para_number">7.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . The classification of a bond as held
+to maturity requires BEV to have both the intent and ability to hold
+the bond to maturity. BEV may have reclassified the bond in the absence
+of a positive intent to hold it until maturity and the ability to
+do so.
+      <emphasis role="italic">Improper change
+in classification</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi7_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.16</titleabbrev>
+      <title role="ps_para_number">7.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . The determination of fair value at the date
+of reclassification may not conform with the guidance in FASB ASC
+320, including the guidance on evaluating other-than-temporary impairments.
+      <emphasis role="italic">Improper determination
+of fair value</emphasis>
+    </para>
+    <para role="ps_para_number">
+      <emphasis role="shade">
+        . The
+determination of fair value at the date of reclassification may not
+conform with the guidance in FASB ASC 320 and FASB ASC 326-20.
+        <emphasis role="italic">Improper determination of fair value</emphasis>
+      </emphasis>
+    </para>
+  </section>
+  <section id="aag-afi7_17" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.17</titleabbrev>
+      <title role="ps_para_number">7.17</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . The bond may not exist or be owned by BEV at
+the date of reclassification.
+      <emphasis role="italic">Existence and
+ownership</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi7_18" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.18</titleabbrev>
+      <title role="ps_para_number">7.18</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      . BEV’s financial statement may not comply with
+the presentation and disclosure requirements in FASB ASC 320 related
+to reclassification of the bond.
+      <emphasis role="italic">Presentation and
+disclosure</emphasis>
+    </para>
+  </section>
+</root>

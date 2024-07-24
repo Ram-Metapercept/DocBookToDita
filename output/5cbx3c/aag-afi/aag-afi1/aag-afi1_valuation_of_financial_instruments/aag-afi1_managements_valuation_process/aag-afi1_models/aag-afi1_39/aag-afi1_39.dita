@@ -1,0 +1,18 @@
+<root id="aag-afi1_39" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.39</titleabbrev>
+    <title role="ps_para_number">1.39</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Examples of models that are often used
+are Black-Scholes, which is frequently used for option pricing, and
+the zero-coupon method, which is often used for estimating the fair
+value of interest rate swaps. , "Information About the Black-Scholes Valuation Model,"
+and , "Information
+About the Zero-Coupon Valuation Model," of this guide provide more
+information about the Black-Scholes and zero-coupon method.
+    <olink targetptr="aag-afi_appD">Appendix
+D</olink>
+    <olink targetptr="aag-afi_appE">appendix E</olink>
+  </para>
+</root>

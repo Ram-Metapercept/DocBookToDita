@@ -1,0 +1,26 @@
+<root id="aag-afi3_49" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.49</titleabbrev>
+    <title role="ps_para_number">3.49</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    A service organization may engage a service
+auditor to examine and report, under , , on a service organization’s description of its system
+and on its controls relevant to user entities’ internal control over
+financial reporting. Such reports are used by user auditors to obtain
+an understanding of controls at the service organization that are
+relevant to user entities’ financial statements and also to assess
+risk. 
+    <olink targetdoc="ps" targetptr="atc_320">AT-C section 320</olink>
+    <emphasis role="italic">Reporting on an Examination of Controls at a Service Organization
+Relevant to User Entities’ Internal Control over Financial Reporting</emphasis>
+    <footnote id="aag-afi3_fn9" label="fn 9" role="number">
+      <para>
+        All AT-C sections can be found in AICPA .
+        <emphasis role="italic">
+          <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+        </emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

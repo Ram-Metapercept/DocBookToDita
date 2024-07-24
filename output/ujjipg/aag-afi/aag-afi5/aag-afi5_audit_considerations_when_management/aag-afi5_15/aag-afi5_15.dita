@@ -1,0 +1,28 @@
+<root id="aag-afi5_15" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.15</titleabbrev>
+    <title role="ps_para_number">5.15</title>
+  </sectioninfo>
+  <para role="ps_para_number">Obtaining prices from multiple third-party
+pricing sources may also provide useful information about measurement
+uncertainty. A wide range of prices may indicate higher measurement
+uncertainty and suggest that the financial instrument is sensitive
+to small changes in data and assumptions. A narrow range may indicate
+lower measurement uncertainty and suggest less sensitivity to changes
+in data and assumptions. Although obtaining prices from multiple sources
+may be useful, when considering financial instruments that have inputs
+categorized at Levels 2 or 3 of the fair value hierarchy, in particular,
+obtaining prices from multiple sources may not provide sufficient
+appropriate audit evidence on its own because</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>what appear to be multiple sources of pricing information
+may be utilizing the same underlying pricing source.</para>
+    </listitem>
+    <listitem>
+      <para>understanding the inputs used by the third-party pricing
+source in determining the price may be necessary in order to categorize
+the financial instrument in the fair value hierarchy.</para>
+    </listitem>
+  </itemizedlist>
+</root>

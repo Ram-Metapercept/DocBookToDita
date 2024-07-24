@@ -1,0 +1,100 @@
+<root id="aag-afi_appF_applicability_and_effective_date2" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Applicability and Effective Date</titleabbrev>
+    <title role="ps_sub_heading">Applicability and Effective Date</title>
+  </sectioninfo>
+  <para role="ps_indent_0">ASU No. 2016-13 affects entities holding
+financial assets and net investment in leases that are not accounted
+for at fair value through net income. It also affects loans, debt
+securities, trade receivables, net investments in leases, off-balance
+sheet credit exposures, reinsurance receivables, and any other financial
+assets not excluded from the scope that have the contractual right
+to receive cash.</para>
+  <para role="ps_indent_0">Because there is diversity in practice in
+applying the incurred loss methodology, ASU No. 2016-13 will affect
+entities to varying degrees depending on the credit quality of the
+assets held by the entities, their duration, and how the entity applies
+current GAAP. </para>
+  <para role="ps_indent_0">
+    ASU No. 2016-13 is effective (as amended
+by FASB ASU No. 2019-10, ) as follows:
+    <emphasis role="italic">Financial Instruments
+— Credit Losses (Topic 326), Derivatives and Hedging (Topic 815),
+and Leases (Topic 842): Effective Dates</emphasis>
+  </para>
+  <para role="ps_indent_0">All entities may adopt the amendments in
+this ASU earlier as of the fiscal years beginning after December 15,
+2018, including interim periods within those fiscal years.</para>
+  <table frame="all" id="aag-afi_appF_table3" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="1.92in"/>
+      <colspec colname="c2" colwidth="2.17in"/>
+      <colspec colname="c3" colwidth="1.92in"/>
+      <thead>
+        <row>
+          <entry align="center" role="shade" valign="bottom">
+            <para/>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Fiscal Years Beginning
+After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+          <entry align="center" role="shade" valign="bottom">
+            <para>
+              <emphasis role="italic">
+                <emphasis role="bold">Interim Periods
+Within Fiscal Years Beginning After</emphasis>
+              </emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>
+            <para>
+              Public business entities that meet the definition of SEC filers,
+excluding entities eligible to be smaller reporting companies as defined
+by the SEC 
+              <emphasis role="superscript">1</emphasis>
+            </para>
+          </entry>
+          <entry>
+            <para>December 15, 2019</para>
+          </entry>
+          <entry>
+            <para>December 15, 2019</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>All other entities</para>
+          </entry>
+          <entry>
+            <para>December 15, 2022</para>
+          </entry>
+          <entry>
+            <para>December 15, 2022</para>
+          </entry>
+        </row>
+        <row>
+          <entry nameend="c3" namest="c1">
+            <para>
+               The one-time
+determination of whether an entity is eligible to be a smaller reporting
+company should be based on an entity’s most recent determination as
+of November 15, 2019, in accordance with SEC regulations.
+              <tab/>
+              <emphasis role="superscript">1</emphasis>
+            </para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

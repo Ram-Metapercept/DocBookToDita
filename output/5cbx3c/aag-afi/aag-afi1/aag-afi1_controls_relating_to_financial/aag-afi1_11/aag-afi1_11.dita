@@ -1,0 +1,77 @@
+<root id="aag-afi1_11" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.11</titleabbrev>
+    <title role="ps_para_number">1.11</title>
+  </sectioninfo>
+  <para role="ps_para_number">Often, it is the role of those charged
+with governance to set the tone regarding, and approve and oversee
+the extent of, the use of financial instruments, but it is management’s
+role to manage and monitor the entity’s exposures to those risks.
+Management and, when appropriate, those charged with governance are
+also responsible for designing and implementing a system of internal
+control to enable the preparation and fair presentation of financial
+statements in accordance with the applicable financial reporting framework.
+An entity’s internal control over financial instruments is more likely
+to be effective when management and those charged with governance
+have</para>
+  <para role="ps_indent_2">
+    , "Internal Control," of this guide provides examples of controls
+that may exist in an entity that deals in a high volume of financial
+instrument transactions.
+    <olink targetptr="aag-afi3">Chapter 3</olink>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>established an appropriate control environment (for
+example, active participation by those charged with governance in
+controlling the use of financial instruments); a logical organizational
+structure with clear assignment of authority and responsibility; and
+appropriate human resource policies and procedures. In particular,
+clear rules are needed on the extent to which those responsible for
+financial instrument activities are permitted to act. Such rules take
+into account any legal or regulatory restrictions on using financial
+instruments. For example, certain public sector entities may not have
+the power to conduct business using derivatives.</para>
+    </listitem>
+    <listitem>
+      <para>established a risk management process relative to
+the size of the entity and the complexity of its financial instruments.
+(For example, in some entities, a formal risk management function
+may exist.)</para>
+    </listitem>
+    <listitem>
+      <para>established information systems that provide those
+charged with governance with an understanding of the nature of the
+financial instrument activities and the associated risks, including
+adequate documentation of transactions.</para>
+    </listitem>
+    <listitem>
+      <para>designed, implemented, and documented a system of
+internal control to</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>provide reasonable assurance that the entity’s use
+of financial instruments is within its risk management policies.</para>
+    </listitem>
+    <listitem>
+      <para>properly present financial instruments in the financial
+statements.</para>
+    </listitem>
+    <listitem>
+      <para>ensure that the entity is in compliance with applicable
+laws and regulations.</para>
+    </listitem>
+    <listitem>
+      <para>monitor risk.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>established appropriate accounting policies, including
+valuation policies, in accordance with the applicable financial reporting
+framework.</para>
+    </listitem>
+  </itemizedlist>
+</root>

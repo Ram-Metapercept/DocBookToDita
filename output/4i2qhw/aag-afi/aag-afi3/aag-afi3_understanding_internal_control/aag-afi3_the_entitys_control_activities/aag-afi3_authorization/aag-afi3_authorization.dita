@@ -1,0 +1,65 @@
+<root id="aag-afi3_authorization" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Authorization</titleabbrev>
+    <title role="ps_subsub_heading">Authorization</title>
+  </sectioninfo>
+  <section id="aag-afi3_28" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.28</titleabbrev>
+      <title role="ps_para_number">3.28</title>
+    </sectioninfo>
+    <para role="ps_para_number">Authorization can affect the financial
+statement assertions both directly and indirectly. For example, even
+if a transaction is executed outside an entity’s policies, it nonetheless
+may be recorded and accounted for accurately. However, unauthorized
+transactions could significantly increase risk to the entity, thereby
+significantly increasing the risk of material misstatement because
+they would be undertaken outside the system of internal control. To
+mitigate this risk, an entity will often establish a clear policy
+regarding what transactions can be traded by whom, and adherence to
+this policy will then be monitored by an entity’s administrative and
+support services. Monitoring trading activities of individuals (for
+example, by reviewing unusually high volumes or significant gains
+or losses incurred) will assist management in ensuring compliance
+with the entity’s policies, including the authorization of new types
+of transactions, and evaluating whether fraud has occurred.</para>
+  </section>
+  <section id="aag-afi3_29" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.29</titleabbrev>
+      <title role="ps_para_number">3.29</title>
+    </sectioninfo>
+    <para role="ps_para_number">The function of an entity’s deal initiation
+records is to identify clearly the nature and purpose of individual
+transactions and the rights and obligations arising under each financial
+instrument contract, including the enforceability of the contracts.
+In addition to the basic financial information, such as a notional
+amount, complete and accurate records, at a minimum, typically include
+the</para>
+    <para role="ps_indent_hang_2">
+      identity of the dealer.
+      <emphasis role="italic">
+        a.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      identity of the person recording the transaction (if not the dealer),
+when the transaction was initiated (including the date and time of
+the transaction), and how it was recorded in the entity’s information
+systems.
+      <emphasis role="italic">
+        b.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      nature and purpose of the transaction, including whether it is intended
+to hedge an underlying commercial exposure.
+      <emphasis role="italic">
+        c.
+        <tab/>
+      </emphasis>
+    </para>
+  </section>
+</root>

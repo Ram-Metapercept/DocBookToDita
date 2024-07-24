@@ -1,0 +1,81 @@
+<root id="aag-afi11_22" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.22</titleabbrev>
+    <title role="ps_para_number">11.22</title>
+  </sectioninfo>
+  <para role="ps_para_number">The effects of the transaction on Austin-Jhanes’
+earnings are as follows:</para>
+  <table frame="top" id="aag-afi11_table7" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.99in"/>
+      <colspec colname="c2" colwidth="1.09in"/>
+      <tbody>
+        <row>
+          <entry colsep="0" rowsep="1" valign="bottom">
+            <para/>
+          </entry>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>DR (CR)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+            <para>
+              <emphasis role="bold">Period Ended December 31, 20X1</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="1" valign="bottom">
+            <para>Loss on hedging activity resulting from a decrease of the time
+value of the option</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="1" valign="bottom">
+            <para>$10,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+            <para>
+              <emphasis role="bold">Period Ended March 31, 20X2</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Other Income</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>(5,000,000)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="1" valign="bottom">
+            <para>Loss on hedging activity resulting from a decrease of the time
+value of the option</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="1" valign="bottom">
+            <para> 10,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="1" valign="bottom"/>
+          <entry align="right" colsep="0" rowsep="1" valign="bottom">
+            <para>$(4,990,000)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="bold">Cumulative impact</emphasis>
+            </para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="1" valign="bottom">
+            <para>$(4,980,000)</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

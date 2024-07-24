@@ -1,0 +1,35 @@
+<root id="aag-afi1_16" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.16</titleabbrev>
+    <title role="ps_para_number">1.16</title>
+  </sectioninfo>
+  <para role="ps_para_number">Not all transactions are settled through
+such an exchange. In many other markets, an established practice of
+agreeing the terms of transactions exists before settlement begins.
+To be effective, this process needs to be run separately from those
+who trade the financial instruments to minimize the risk of fraud.
+In other markets, transactions are confirmed after settlement has
+begun, and sometimes, confirmation backlogs result in settlement beginning
+before all terms have been fully agreed. This presents additional
+risk because the transacting entities need to rely on alternative
+means of agreeing trades, such as the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Enforcing rigorous reconciliations between the records
+of those trading the financial instruments and those settling them
+(strong segregation of duties between the two are important), combined
+with strong supervisory controls over those trading the financial
+instruments to ensure the integrity of the transactions</para>
+    </listitem>
+    <listitem>
+      <para>Reviewing summary documentation from counterparties
+that highlights the key terms, even if the full terms have not been
+agreed</para>
+    </listitem>
+    <listitem>
+      <para>Thorough review of traders’ profits and losses to
+ensure that they reconcile to what the administrative and support
+services have calculated</para>
+    </listitem>
+  </itemizedlist>
+</root>

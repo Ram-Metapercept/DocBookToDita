@@ -1,0 +1,738 @@
+<root id="aag-afi_preface" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Preface</titleabbrev>
+    <title role="ps_section_title">Preface</title>
+  </chapterinfo>
+  <para role="ps_center">
+    <inlinemediaobject id="aag-afi_eaq">
+      <imageobject>
+        <imagedata fileref="images/EAQ Mark 2x2x96.jpg" format="JPG"/>
+      </imageobject>
+    </inlinemediaobject>
+  </para>
+  <para role="ps_center">
+    <emphasis role="bold">(As of September 1, 2020)</emphasis>
+  </para>
+  <section id="aag-afi_preface_about_aicpa_audit_guides" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>About AICPA Audit Guides</titleabbrev>
+      <title role="ps_main_heading">About AICPA Audit Guides</title>
+    </sectioninfo>
+    <para role="ps_indent_0">This AICPA Audit Guide has been developed
+by the AICPA publications team to assist practitioners in performing
+and reporting on their audit engagements.</para>
+    <para role="ps_indent_0">
+      An AICPA guide containing auditing guidance
+related to generally accepted auditing standards (GAAS) is recognized
+as an interpretive publication, as defined in AU-C section 200B, . Interpretive publications are recommendations
+on the application of GAAS in specific circumstances, including engagements
+for entities in specialized industries.
+      <footnote id="aag-afi_preface_fn1" label="fn 1" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of SAS Nos. 134–140 or the amendments to other SASs
+made by SAS Nos. 134–140 and subsequently issued SASs. </para>
+        <para>
+          All AU-C sections can be found in AICPA .
+          <tab/>
+          <olink targetdoc="ps" targetptr="ps">
+            <emphasis role="italic">Professional
+Standards</emphasis>
+          </olink>
+        </para>
+      </footnote>
+      <emphasis role="italic">Overall Objectives of the Independent
+Auditor and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+    </para>
+    <para role="ps_indent_0">Interpretive publications are issued under
+the authority of the AICPA Auditing Standards Board (ASB) after all
+ASB members have been provided an opportunity to consider and comment
+on whether the proposed interpretive publication is consistent with
+GAAS. The members of the ASB have found the auditing guidance in this
+guide to be consistent with existing GAAS.</para>
+    <para role="ps_indent_0">Although interpretive publications are not
+auditing standards, AU-C section 200B requires the auditor to consider
+applicable interpretive publications in planning and performing the
+audit because interpretive publications are relevant to the proper
+application of GAAS in specific circumstances. If the auditor does
+not apply the auditing guidance in an applicable interpretive publication,
+the auditor should document how the requirements of GAAS were complied
+with in the circumstances addressed by such auditing guidance.</para>
+    <para role="ps_indent_0">
+      Throughout this guide, when appropriate,
+reference is made to Technical Questions and Answers, which are considered
+other auditing publications. AU-C section 200B indicates that in applying
+the auditing guidance included in an other auditing publication, the
+auditor should, exercising professional judgment, assess the relevance
+and appropriateness of such guidance to the circumstances of the audit.
+Other auditing publications have no authoritative status; however,
+they may help the auditor understand and apply GAAS. The auditor is
+not expected to be aware of the full body of other auditing publications.
+Although the auditor determines the relevance of these publications
+in accordance with paragraph .28 of AU-C section 200B, the auditor
+may presume that other auditing publications published by the AICPA
+that have been reviewed by the AICPA Audit and Attest Standards staff
+are appropriate. These other auditing publications are listed in , .
+      <olink targetdoc="ps" targetptr="ad_appendix_f">AU-C appendix F</olink>
+      <emphasis role="italic">Other Auditing Publications</emphasis>
+    </para>
+    <para role="ps_indent_0">The ASB is the designated senior committee
+of the AICPA authorized to speak for the AICPA on all matters related
+to auditing. Conforming changes made to the auditing guidance contained
+in this guide are approved by the ASB chair (or his or her designee)
+and the director of the AICPA Audit and Attest Standards staff. Updates
+made to the auditing guidance in this guide exceeding that of conforming
+changes are issued after all ASB members have been provided an opportunity
+to consider and comment on whether the guide is consistent with existing
+GAAS.</para>
+    <para role="ps_indent_0">AICPA Guides may include certain content
+presented as “supplement”, “appendix”, or “exhibit.” A supplement
+is a reproduction, in whole or in part, of authoritative guidance
+originally issued by a standard-setting body (including regulatory
+bodies) and applicable to entities or engagements within the purview
+of that standard setter, independent of the authoritative status of
+the applicable AICPA Guide. Both appendixes and exhibits are included
+for informational purposes and have no authoritative status.</para>
+    <para role="ps_indent_0">Any auditing guidance in a guide appendix
+or exhibit (whether chapter or back matter appendix or exhibit), though
+not authoritative, is considered an “other auditing publication.”
+In applying such guidance, the auditor should, exercising professional
+judgment, assess the relevance and appropriateness of such guidance
+to the circumstances of the audit. Although the auditor determines
+the relevance of other auditing guidance, auditing guidance in a guide
+appendix or exhibit has been reviewed by the AICPA Audit and Attest
+Standards staff and the auditor may presume that it is appropriate.</para>
+  </section>
+  <section id="aag-afi_preface_recognition" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Recognition</titleabbrev>
+      <title role="ps_main_heading">Recognition</title>
+    </sectioninfo>
+    <para role="ps_center">
+      <emphasis role="bold"/>
+    </para>
+    <para role="ps_center">
+      <emphasis role="bold">Auditing Standards Board</emphasis>
+    </para>
+    <para role="ps_center">
+      Tracy Harding, 
+      <emphasis role="italic">Chair</emphasis>
+    </para>
+    <para role="ps_indent_0">The AICPA gratefully acknowledges those who
+reviewed or otherwise contributed to the development of the content
+in this guide: William Fellows, Lisa Openshaw, and Andrew Pidgeon.</para>
+    <para role="ps_center">
+      <emphasis role="bold">AICPA Staff</emphasis>
+    </para>
+    <para role="ps_center">
+      Robert BoothProduct Management &amp; Development
+      <newline/>
+      <newline/>
+      <emphasis role="italic">Manager</emphasis>
+    </para>
+    <para role="ps_center">
+      Hiram HastyAudit and Attest Standards,
+AICPA
+      <newline/>
+      <newline/>
+      <emphasis role="italic">Associate Director</emphasis>
+    </para>
+    <para role="ps_center">
+      Daniel NollAccounting Standards, AICPA
+      <newline/>
+      <newline/>
+      <emphasis role="italic">Senior Director</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi_preface_guidance_considered_in_this" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Guidance Considered in This Edition</titleabbrev>
+      <title role="ps_main_heading">Guidance Considered in This Edition</title>
+    </sectioninfo>
+    <para role="ps_indent_0">This edition of the guide has been modified
+by AICPA staff to include certain changes necessary due to the issuance
+of authoritative guidance since the guide was originally issued, and
+other revisions as deemed appropriate. Authoritative guidance issued
+through September 1, 2020, has been considered in the development
+of this edition of the guide. However, this guide does not include
+all audit, accounting, reporting, regulatory, and other requirements
+applicable to an entity or a particular engagement. This guide is
+intended to be used in conjunction with all applicable sources of
+relevant guidance.</para>
+    <para role="ps_indent_0">Relevant guidance that is issued and effective
+on or before September 1, 2020, is incorporated directly in the text
+of this guide. Relevant guidance issued but not yet effective as of
+September 1, 2020, but becoming effective on or before December 31,
+2020, is also presented directly in the text of the guide, but shaded
+gray and accompanied by a footnote indicating the effective date of
+the new guidance. The distinct presentation of this content is intended
+to aid the reader in differentiating content that may not be effective
+for the reader’s purposes (as part of the guide’s “dual guidance”
+treatment of applicable new guidance).</para>
+    <para role="ps_indent_0">Relevant guidance issued but not yet effective
+as of the date of the guide and not becoming effective until after
+December 31, 2020 is referenced in a “guidance update” box, that is,
+a gray shaded box that contains summary information on the guidance
+issued but not yet effective.</para>
+    <para role="ps_indent_0">In updating this guide, all guidance issued
+up to and including the following was considered, but not necessarily
+incorporated, as determined based on applicability:</para>
+    <para role="ps_indent_0">Users of this guide should consider guidance
+issued subsequent to those items listed previously to determine their
+effect, if any, on entities and engagements covered by this guide.
+In determining the applicability of recently issued guidance, its
+effective date should also be considered.</para>
+    <para role="ps_indent_0">
+      The changes made to this edition of the guide
+are identified in , “Schedule of Changes Made to the Text From the Previous Edition.”
+The changes do not include all those that might be considered necessary
+if the guide were subjected to a comprehensive review and revision.
+      <olink targetptr="aag-afi_appG">appendix G</olink>
+    </para>
+    <para role="ps_indent_0">
+      FASB standards quoted are from the FASB  ©2020,
+Financial Accounting Foundation. All rights reserved. Used by permission.
+      <emphasis role="italic">Accounting Standards Codification</emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          FASB Accounting Standards Update (ASU) No. 2020-06, 
+          <emphasis role="italic">Debt — Debt with Conversion and Other Options (Subtopic
+470-20) and Derivatives and Hedging — Contracts in Entity’s Own Equity
+(Subtopic 815-40): Accounting for Convertible Instruments and Contracts
+in an Entity’s Own Equity</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          ,  (AU-C sec. 540)
+          <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+          <emphasis role="italic">Auditing Accounting Estimates and Related
+Disclosures</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          ,
+“Communicating Critical Audit Matters When Reporting on Audits Conducted
+in Accordance With Auditing Standards Generally Accepted in the United
+States of America and the Standards of the PCAOB,” of AU-C section
+9700.
+          <olink targetdoc="ps" targetptr="ad_9700_interpretation5">Interpretation No. 5</olink>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi_preface_fasb_asc_pending" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>FASB ASC Pending Content</titleabbrev>
+      <title role="ps_main_heading">FASB ASC Pending Content</title>
+    </sectioninfo>
+    <section id="aag-afi_preface_presentation_of_pending" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Presentation of Pending Content in FASB ASC</titleabbrev>
+        <title role="ps_sub_heading">Presentation of Pending Content in FASB
+ASC</title>
+      </sectioninfo>
+      <para role="ps_indent_0">
+        Amendments to FASB ® (ASC) (issued in the
+form of ASUs) are initially incorporated into FASB ASC in “Pending
+Content” boxes below the paragraphs being amended with links to the
+transition information. The Pending Content boxes are meant to provide
+users with information about how the guidance in a paragraph will
+change as a result of the new guidance.
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+      </para>
+      <para role="ps_indent_0">Pending content applies to different entities
+at different times due to varying fiscal year-ends, and because certain
+guidance may be effective on different dates for public and nonpublic
+entities. As such, FASB maintains amended guidance in pending content
+boxes within FASB ASC until the “roll-off” date. Generally, the roll-off
+date is six months following the latest fiscal year-end for which
+the original guidance being amended could still be applied.</para>
+    </section>
+    <section id="aag-afi_preface_presentation_of_fasb" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Presentation of FASB ASC Pending Content in AICPA Audit
+and Accounting Guides</titleabbrev>
+        <title role="ps_sub_heading">Presentation of FASB ASC Pending Content
+in AICPA Audit and Accounting Guides</title>
+      </sectioninfo>
+      <para role="ps_indent_0">Amended FASB ASC guidance that is included
+in pending content boxes in FASB ASC on September 1, 2020, is referenced
+as “Pending Content” in this guide. Readers should be aware that pending
+content referenced in this guide will eventually be subjected to FASB’s
+roll-off process and no longer be labeled as “Pending Content” in
+FASB ASC (as discussed in the previous paragraph).</para>
+    </section>
+  </section>
+  <section id="aag-afi_preface_terms_used_to_define" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Terms Used to Define Professional Requirements in This
+AICPA Audit Guide </titleabbrev>
+      <title role="ps_main_heading">Terms Used to Define Professional Requirements
+in This AICPA Audit Guide </title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      Any requirements described in this guide
+are normally referenced to the applicable standards or regulations
+from which they are derived. Generally the terms used in this guide
+describing the professional requirements of the referenced standard
+setter (for example, the ASB) are the same as those used in the applicable
+standards or regulations (for example,  or ). However, where the accounting requirements are
+derived from FASB ASC, this guide uses , whereas FASB uses . In its resource document
+“About the Codification” that accompanies FASB ASC, FASB states that
+it considers the terms “should” and “shall” to be comparable terms
+and to represent the same concept—the requirement to apply a standard.
+      <emphasis>must</emphasis>
+      <emphasis>should</emphasis>
+      <emphasis>should</emphasis>
+      <emphasis>shall</emphasis>
+    </para>
+    <para role="ps_indent_0">Readers should refer to the applicable standards
+and regulations for more information on the requirements imposed by
+the use of the various terms used to define professional requirements
+in the context of the standards and regulations in which they appear.</para>
+    <para role="ps_indent_0">Certain exceptions apply to these general
+rules, particularly in those circumstances in which the guide describes
+prevailing or preferred industry practices for the application of
+a standard or regulation. In these circumstances, the applicable senior
+committee responsible for reviewing the guide’s content believes the
+guidance contained herein is appropriate for the circumstances. </para>
+  </section>
+  <section id="aag-afi_preface_applicability_of_quality_control" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Applicability of Quality Control Standards</titleabbrev>
+      <title role="ps_main_heading">Applicability of Quality Control Standards</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      , , addresses a CPA firm’s responsibilities for its system
+of quality control for its accounting and auditing practice. A system
+of quality control consists of policies that a firm establishes and
+maintains to provide it with reasonable assurance that the firm and
+its personnel comply with professional standards, as well as applicable
+legal and regulatory requirements. The policies also provide the firm
+with reasonable assurance that reports issued by the firm are appropriate
+in the circumstances. 
+      <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+      <emphasis role="italic">A Firm’s System of
+Quality Control</emphasis>
+      <footnote id="aag-afi_preface_fn2" label="fn 2" role="number">
+        <para>
+          All QM sections can be found in AICPA .
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para role="ps_indent_0">
+       applies to all CPA firms with respect to engagements
+in their accounting and auditing practice. In  of QM section 10A, an  is defined
+as
+      <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+      <olink targetdoc="ps" targetptr="qm_10a_13">paragraph .13</olink>
+      <emphasis role="italic">accounting and auditing practice</emphasis>
+    </para>
+    <para role="ps_indent_2">
+      a practice that performs engagements covered
+by this section, which are audit, attestation, compilation, review,
+and any other services for which standards have been promulgated by
+the AICPA Auditing Standards Board (ASB) or the AICPA Accounting and
+Review Services Committee (ARSC) under the “” (ET sec.1.300.001) or the “” (ET sec. 1.310.001) of the
+AICPA Code of Professional Conduct. Although standards for other engagements
+may be promulgated by other AICPA technical committees, engagements
+performed in accordance with those standards are not encompassed in
+the definition of an .
+      <olink targetdoc="ps" targetptr="et-cod1_300_001">General Standards Rule</olink>
+      <olink targetdoc="ps" targetptr="et-cod1_310_001">Compliance With Standards Rule</olink>
+      <footnote id="aag-afi_preface_fn3" label="fn 3" role="number">
+        <para>
+          All ET sections can be found in AICPA .
+          <olink targetdoc="ps" targetptr="ps">
+            <emphasis role="italic">Professional Standards</emphasis>
+          </olink>
+        </para>
+      </footnote>
+      <emphasis role="italic">accounting and auditing
+practice</emphasis>
+    </para>
+    <para role="ps_indent_0">
+      In addition to the provisions of , readers
+should be aware of other sections within AICPA  that address quality control considerations, including
+the following provisions that address engagement-level quality control
+matters for various types of engagements that an accounting and auditing
+practice might perform:
+      <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+      <emphasis role="italic">
+        <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+      </emphasis>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            AU-C section 220B, 
+            <emphasis role="italic">Quality
+Control for an Engagement Conducted in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="atc_105">AT-C section
+105</olink>
+            <emphasis role="italic">Concepts Common to All Attestation
+Engagements</emphasis>
+            <footnote id="aag-afi_preface_fn4" label="fn 4" role="number">
+              <para>
+                All AT-C sections can be found in AICPA .
+                <emphasis role="italic">
+                  <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+                </emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="arc_60a">AR-C section
+60A</olink>
+            <emphasis role="italic">General Principles for Engagements
+Performed in Accordance With Statements on Standards for Accounting
+and Review Services</emphasis>
+            <footnote id="aag-afi_preface_fn5" label="fn 5" role="number">
+              <para>
+                All AR-C sections can be found in AICPA .
+                <emphasis role="italic">
+                  <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+                </emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para role="ps_indent_0">
+      Because of the importance of engagement quality,
+this guide includes , “Overview of Statements on Quality Control Standards,” which summarizes
+key aspects of the quality control standard. This summarization should
+be read in conjunction with , AU-C section 220B, and the quality control
+standards issued by the PCAOB, as applicable.
+      <olink targetptr="aag-afi_appA">appendix A</olink>
+      <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+    </para>
+  </section>
+  <section id="aag-afi_preface_alternatives_within_u_s__generally" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Alternatives Within U.S. Generally Accepted Accounting
+Principles</titleabbrev>
+      <title role="ps_main_heading">Alternatives Within U.S. Generally Accepted
+Accounting Principles</title>
+    </sectioninfo>
+    <para role="ps_indent_0">The Private Company Council (PCC), established
+by the Financial Accounting Foundation’s Board of Trustees in 2012,
+and FASB, working jointly, will mutually agree on a set of criteria
+to decide whether and when alternatives within U.S. GAAP are warranted
+for private companies. Based on those criteria, the PCC reviews and
+proposes alternatives within U.S. GAAP to address the needs of users
+of private company financial statements. These U.S. GAAP alternatives
+may be applied to those entities that are not public business entities,
+not-for-profits, or employee benefit plans. </para>
+    <para role="ps_indent_0">
+      The FASB ASC Master Glossary defines a  as follows:
+      <emphasis>public business entity</emphasis>
+    </para>
+    <para role="ps_indent_2">A public business entity is a business entity
+meeting any one of the criteria below. Neither a not-for-profit entity
+nor an employee benefit plan is a business entity.</para>
+    <para role="ps_indent_hang_4">
+      a.It is required by the U.S. Securities
+and Exchange Commission (SEC) to file or furnish financial statements,
+or does file or furnish financial statements (including voluntary
+filers), with the SEC (including other entities whose financial statements
+or financial information are required to be or are included in a filing).
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      b.It is required by the Securities
+Exchange Act of 1934 (the Act), as amended, or rules or regulations
+promulgated under the Act, to file or furnish financial statements
+with a regulatory agency other than the SEC.
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      c.It is required to file or furnish
+financial statements with a foreign or domestic regulatory agency
+in preparation for the sale of or for purposes of issuing securities
+that are not subject to contractual restrictions on transfer.
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      d.It has issued, or is a conduit
+bond obligor for, securities that are traded, listed, or quoted on
+an exchange or an over-the-counter market.
+      <tab/>
+    </para>
+    <para role="ps_indent_hang_4">
+      e.It has one or more securities
+that are not subject to contractual restrictions on transfer, and
+it is required by law, contract, or regulation to prepare U.S. GAAP
+financial statements (including footnotes) and make them publicly
+available on a periodic basis (for example, interim or annual periods).
+An entity must meet both of these conditions to meet this criterion.
+      <tab/>
+    </para>
+    <para role="ps_indent_2">An entity may meet the definition of a public
+business entity solely because its financial statements or financial
+information is included in another entity’s filing with the SEC. In
+that case, the entity is only a public business entity for purposes
+of financial statements that are filed or furnished with the SEC.</para>
+    <para role="ps_indent_0">
+      Considerations related to alternatives for
+private companies may be discussed within this guide’s chapter text.
+When such discussion is provided, the related paragraphs are designated
+with the following title: .
+      <emphasis role="italic">Considerations for
+Private Companies That Elect to use Standards as Issued by the Private
+Company Council</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi_preface_aicpa_org_website" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>AICPA.org Website</titleabbrev>
+      <title role="ps_main_heading">AICPA.org Website</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      The AICPA encourages you to visit its website
+at , and the Financial
+Reporting Center at . The Financial Reporting Center supports members in the execution
+of high-quality financial reporting. Whether you are a financial statement
+preparer or a member in public practice, this center provides exclusive
+member-only resources for the entire financial reporting process,
+and provides timely and relevant news, guidance and examples supporting
+the financial reporting process, including accounting, preparing financial
+statements and performing compilation, review, audit, attest or assurance
+and advisory engagements. Certain content on the AICPA’s websites
+referenced in this guide may be restricted to AICPA members only.
+      <ulink url="http://www.aicpa.org">aicpa.org</ulink>
+      <ulink url="http://www.aicpa.org/frc">www.aicpa.org/frc</ulink>
+    </para>
+  </section>
+  <section id="aag-afi_preface_risk_assessment" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Risk Assessment — AICPA Enhancing Audit Quality Areas
+of Focus</titleabbrev>
+      <title role="ps_main_heading">Risk Assessment — AICPA Enhancing Audit
+Quality Areas of Focus</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      Identifying, assessing, and responding to
+risks of material misstatement are the core of every audit. However,
+there is evidence that a high percentage of audit engagements do not
+reflect proper assessment of risk or linkage of the assessment to
+planned further audit procedures in accordance with AU-C section 315B, , and AU-C section 330B, .
+      <emphasis role="italic">Understanding the Entity and Its Environment and Assessing
+the Risks of Material Misstatement</emphasis>
+      <emphasis role="italic">Performing Audit Procedures in Response to Assessed
+Risks and Evaluating the Audit Evidence Obtained</emphasis>
+    </para>
+    <para role="ps_indent_0">
+      In connection with its Enhancing Audit Quality
+(EAQ) initiative, the AICPA has developed a webpage dedicated to risk
+assessment resources intended to help auditors perform more effective
+risk assessment and appropriately link the risk assessment to further
+audit procedures in compliance with professional standards. Certain
+resources are available at no cost, including a risk assessment template,
+an internal inspection aid, and staff training workshop. These and
+other current risk assessment resources can be accessed at .
+      <ulink url="https://www.aicpa.org/content/aicpa/eaq/aicpa-risk-assessment-resources.html">https://www.aicpa.org/content/aicpa/eaq/aicpa-risk-assessment-resources.html</ulink>
+    </para>
+  </section>
+  <section id="aag-afi_preface_auditor_reporting_standards" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Auditor Reporting Standards</titleabbrev>
+      <title role="ps_main_heading">Auditor Reporting Standards</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      In May 2020, the Auditing Standards Board
+(ASB) issued Statement on Auditing Standards (SAS) No. 141, , to allow for a one-year delay of the effective dates of the following
+SASs that were issued between May 2019 and April 2020:
+      <emphasis role="italic">Amendment to the Effective Dates of SAS Nos. 134–140</emphasis>
+    </para>
+    <para role="ps_indent_0">SAS No. 134 was issued to enhance the relevance
+and usefulness of the auditor’s report. SAS No. 134 was developed
+by the ASB in consideration of the following issues:</para>
+    <para role="ps_indent_0">
+      SAS No. 135 is intended to more closely align
+ASB guidance with the PCAOB standards primarily by amending , , , , and , ,
+in AICPA . By eliminating unnecessary differences between the ASB guidance
+and PCAOB standards, auditors who perform audits under both sets of
+auditing standards will experience more consistency between the guidance
+and standards, thereby enhancing audit quality.
+      <olink targetdoc="ps" targetptr="ad_260">AU-C sections 260</olink>
+      <olink targetdoc="ps" targetptr="ad_550">550</olink>
+      <olink targetdoc="ps" targetptr="ad_240">240</olink>
+      <emphasis role="italic">The Auditor’s Communication With Those Charged With
+Governance</emphasis>
+      <emphasis role="italic">Related Parties</emphasis>
+      <emphasis role="italic">Consideration of Fraud in a Financial Statement Audit</emphasis>
+      <emphasis role="italic">Professional Standards</emphasis>
+    </para>
+    <para role="ps_indent_0">
+      SAS No. 137 provides transparency related
+to the auditor’s responsibility for other information included in
+an annual report when the auditor has obtained all the other information
+at the date of the auditor’s report on the financial statements. SAS
+No. 137 supersedes SAS No. 118, , as
+amended and codified in , .
+      <emphasis role="italic">Other Information
+in Documents Containing Audited Financial Statements</emphasis>
+      <emphasis role="italic">The Auditor’s Responsibilities
+Relating to Other Information Included in Annual Reports</emphasis>
+      <olink targetdoc="ps" targetptr="ad_720">AU-C
+section 720</olink>
+    </para>
+    <para role="ps_indent_0">
+      SAS No. 138 aligns the materiality concepts
+discussed in AICPA  with the description
+of materiality used by the U.S. judicial system, the auditing standards
+of the PCAOB, the SEC, and FASB. The ASB’s current description of
+the concept of materiality is consistent with the definition used
+by the International Accounting Standards Board and the International
+Auditing and Assurance Standards Board. The changes are not expected
+to significantly affect practice.
+      <olink targetdoc="ps" targetptr="ps">
+        <emphasis role="italic">Professional Standards</emphasis>
+      </olink>
+    </para>
+    <para role="ps_indent_0">
+      SAS No. 139 amends the following AU-C sections
+to reflect changes to the auditor’s report included in SAS No. 134: , ; , ; and , .
+      <olink targetdoc="ps" targetptr="ad_800">section 800</olink>
+      <olink targetdoc="ps" targetptr="ad_805">section 805</olink>
+      <olink targetdoc="ps" targetptr="ad_810">section 810</olink>
+      <emphasis role="italic">Special Considerations — Audits of Financial Statements
+Prepared in Accordance With Special Purpose Frameworks</emphasis>
+      <emphasis role="italic">Special Considerations — Audits of Single Financial
+Statements and Specific Elements, Accounts, or Items of a Financial
+Statement</emphasis>
+      <emphasis role="italic">Engagements to Report
+on Summary Financial Statements</emphasis>
+    </para>
+    <para role="ps_indent_0">
+      SAS No. 140 contains amendments to conform
+the following AU-C sections to SAS No. 134: , ; , ; and , . SAS No. 140 also contains amendments to conform
+the following AU-C sections to SAS No. 137: , , and , .
+      <olink targetdoc="ps" targetptr="ad_930">section 930</olink>
+      <olink targetdoc="ps" targetptr="ad_935">section 935</olink>
+      <olink targetdoc="ps" targetptr="ad_940">section
+940</olink>
+      <olink targetdoc="ps" targetptr="ad_725">AU-C section 725</olink>
+      <olink targetdoc="ps" targetptr="ad_730">AU-C section 730</olink>
+      <emphasis role="italic">Interim
+Financial Information</emphasis>
+      <emphasis role="italic">Compliance
+Audits</emphasis>
+      <emphasis role="italic">An Audit of Internal Control
+Over Financial Reporting That Is Integrated With an Audit of Financial
+Statements</emphasis>
+      <emphasis role="italic">Supplementary Information in Relation to the Financial Statements
+as a Whole</emphasis>
+      <emphasis role="italic">Required Supplementary
+Information</emphasis>
+    </para>
+    <para role="ps_indent_0">SAS No. 141 is effective upon issuance. In
+general, SAS No. 141 changes the effective dates of SAS Nos. 134–140
+from December 15, 2020 to December 15, 2021 to provide more time for
+firms to implement these SASs in light of the effect of the coronavirus
+pandemic. Early implementation of SAS Nos. 134–140 is also now permitted,
+and the ASB recommends that SAS Nos. 134–140 be implemented at the
+same time.</para>
+    <para role="ps_indent_0">
+      This edition of the guide has not been updated
+to reflect changes as a result of these SASs. Each AU-C section in
+this guide designated with a “B” suffix (for example, “AU-C section
+200B”) denotes content that does not reflect the codification of SAS
+Nos. 134–140 or the amendments to other SASs made by SAS Nos. 134–140
+and subsequently-issued SASs. However, future guidance is presented
+as a guidance update box that includes only a very concise summary
+of what is coming and the effective dates of the guidance. The guidance
+update box is presented at the beginning of the chapter or immediately
+following the section header for each impacted section. In addition,
+readers are encouraged to consult the full text of the SASs at .
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html</ulink>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          SAS No. 134, , as amended
+          <emphasis role="italic">Auditor Reporting
+and Amendments, Including Amendments Addressing Disclosures in the
+Audit of Financial Statements</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          SAS No. 135, 
+          <emphasis role="italic">Omnibus Statement
+on Auditing Standards — 2019</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          ,  (AU-C sec.
+720)
+          <olink targetdoc="ps" targetptr="ad_720">SAS No. 137</olink>
+          <emphasis role="italic">The Auditor’s Responsibilities Relating
+to Other Information Included in Annual Reports</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          SAS No. 138, 
+          <emphasis role="italic">Amendments to
+the Description of the Concept of Materiality</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          SAS No. 139, 
+          <emphasis role="italic">Amendments to
+AU-C Sections 800, 805, and 810 to Incorporate Auditor Reporting Changes
+From SAS No. 134</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          SAS No. 140, 
+          <emphasis role="italic">Amendments to
+AU-C Sections 725, 730, 930, 935, and 940 to Incorporate Auditor Reporting
+Changes From SAS Nos. 134 and 137</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Although users value the "pass/fail" nature of the
+auditor’s opinion, they would like the auditor’s report to provide
+greater transparency into the audit.</para>
+      </listitem>
+      <listitem>
+        <para>Users would like the auditor’s report to include more
+information about areas with higher assessed risks of material misstatement,
+areas that involve significant judgment by management and the auditor,
+and areas that relate to significant events or transactions.</para>
+      </listitem>
+      <listitem>
+        <para>To address the long-standing "expectations gap," users
+and other stakeholders would like the auditor’s report to expand the
+descriptions of the auditor’s responsibilities in financial statement
+auditing and management’s responsibilities in financial statement
+preparation.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

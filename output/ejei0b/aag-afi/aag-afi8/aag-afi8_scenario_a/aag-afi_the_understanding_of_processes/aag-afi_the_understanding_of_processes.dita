@@ -1,0 +1,93 @@
+<root id="aag-afi_the_understanding_of_processes" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>The Understanding of Processes and Controls the Auditor
+Needs to Plan the Audit</titleabbrev>
+    <title role="ps_sub_heading">The Understanding of Processes and Controls
+the Auditor Needs to Plan the Audit</title>
+  </sectioninfo>
+  <section id="aag-afi8_11" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.11</titleabbrev>
+      <title role="ps_para_number">8.11</title>
+    </sectioninfo>
+    <para role="ps_para_number">In obtaining an understanding of the entity
+and its environment, including its internal control , the auditor
+determines that</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Lane initiates trades and directs the broker-dealer
+to execute them.</para>
+      </listitem>
+      <listitem>
+        <para>Lane maintains records of the trades it directs the
+broker-dealer to execute.</para>
+      </listitem>
+      <listitem>
+        <para>the broker-dealer sends a confirmation of each trade
+to Lane, which Lane usually receives within three business days.</para>
+      </listitem>
+      <listitem>
+        <para>Lane compares the information in the trade confirmation
+with its record of the trade that it directed the broker-dealer to
+execute and investigates significant differences.</para>
+      </listitem>
+      <listitem>
+        <para>Lane records the trade in the applicable general ledger
+accounts.</para>
+      </listitem>
+      <listitem>
+        <para>at the end of the year, Lane adjusts the general ledger
+accounts for trades it has initiated for which confirmations have
+not been received. Information for that adjustment is obtained from
+Lane’s record of trades it directed the broker-dealer to execute and
+the confirmations of those trades it received subsequent to year-end.</para>
+      </listitem>
+      <listitem>
+        <para>monthly, the broker-dealer sends Lane a statement
+that includes trades, servicing transactions, a description of the
+financial instruments held, and the fair value of each of those financial
+instruments. </para>
+      </listitem>
+      <listitem>
+        <para>monthly, Lane compares the information about trades
+and the components of its financial instrument portfolio shown in
+its accounting records with the broker-dealer’s monthly statement
+and investigates significant differences.</para>
+      </listitem>
+      <listitem>
+        <para>monthly, Lane records servicing transactions and changes
+in unrealized holding gains and losses based on information in the
+broker-dealer’s monthly statement. Lane compares the broker-dealer
+information with its expectations based on published information and
+investigates significant differences.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi8_12" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.12</titleabbrev>
+      <title role="ps_para_number">8.12</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .05 of AU-C section 402B, , does not apply to services that are limited
+to processing an entity’s transactions that are specifically authorized
+by the entity, such as the processing of checking account transactions
+by a bank or the processing of financial instrument transactions by
+a broker (that is, when the user entity retains responsibility for
+authorizing the transactions and maintaining the related accountability). Because Lane retains responsibility for authorizing the
+transactions and maintaining the related accountability, AU-C section
+402B is not applicable in .
+      <emphasis role="italic">Audit Considerations Relating to an Entity Using a Service
+Organization</emphasis>
+      <footnote id="aag-afi8_fn3" label="fn 3" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently-issued
+SASs.</para>
+      </footnote>
+      <olink targetptr="aag-afi8_scenario_a">scenario
+A</olink>
+    </para>
+  </section>
+</root>

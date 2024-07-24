@@ -1,0 +1,16 @@
+<root id="aag-afi11_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.05</titleabbrev>
+    <title role="ps_para_number">11.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+     is the excess of the total fair value of the option over its intrinsic
+value. Time value represents the premium that a rational investor
+would pay for an option based on the likelihood that, and degree to
+which, the fair value of the underlying stock may exceed the exercise
+price of the option before the option expires. Time value can never
+be negative for the holder and only decreases to zero when the option
+reaches its expiration date.
+    <emphasis role="italic">Time value</emphasis>
+  </para>
+</root>

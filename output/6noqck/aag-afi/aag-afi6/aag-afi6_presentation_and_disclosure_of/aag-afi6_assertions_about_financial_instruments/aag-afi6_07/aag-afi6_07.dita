@@ -1,0 +1,29 @@
+<root id="aag-afi6_07" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.07</titleabbrev>
+    <title role="ps_para_number">6.07</title>
+  </sectioninfo>
+  <para role="ps_para_number">Financial reporting frameworks may require
+that management’s intent and ability be considered in valuing certain
+financial instruments, as follows:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Whether debt securities are classified as held to
+maturity and reported at their cost depends on management’s intent
+and ability to hold them to their maturity, as well as management’s
+assessment of whether it is more likely than not that they will be
+required to sell the security before the recovery of its amortized
+cost basis.</para>
+    </listitem>
+    <listitem>
+      <para>Whether equity securities are reported using the equity
+method depends on management’s ability to significantly influence
+the investee.</para>
+    </listitem>
+    <listitem>
+      <para>Whether equity securities are classified as trading
+or available for sale depends on management’s intent and objectives
+in investing in the financial instruments.</para>
+    </listitem>
+  </itemizedlist>
+</root>

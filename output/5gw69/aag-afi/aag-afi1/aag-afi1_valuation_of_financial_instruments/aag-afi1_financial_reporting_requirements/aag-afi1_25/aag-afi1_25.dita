@@ -1,0 +1,21 @@
+<root id="aag-afi1_25" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.25</titleabbrev>
+    <title role="ps_para_number">1.25</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Fair value measurements of financial assets
+and liabilities may arise both at the initial recording of transactions
+and later when there are changes in value. Changes in fair value measurements
+that occur over time may be treated in different ways under different
+financial reporting frameworks. For example, such changes may be recorded
+as gain or loss or in other comprehensive income. Also, depending
+on the applicable financial reporting framework, the whole financial
+instrument or only a component of it (for example, an embedded derivative
+when it is separately accounted for) may be required to be measured
+at fair value. , "Valuation
+of Financial Instruments," of this guide provides further detailed
+guidance on valuation of financial instruments.
+    <olink targetptr="aag-afi5">Chapter 5</olink>
+  </para>
+</root>

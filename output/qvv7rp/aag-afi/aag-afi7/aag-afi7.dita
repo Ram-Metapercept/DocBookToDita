@@ -1,0 +1,1195 @@
+<root id="aag-afi7" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 7 — Case Study of Changing the Classification
+of a Security to Held to Maturity</titleabbrev>
+    <title role="ps_section_heading">Chapter 7</title>
+    <subtitle role="ps_section_title">
+      Case Study of Changing the Classification
+of a Security to Held to Maturity
+      <footnote id="aag-afi7_fn1" label="fn 1" role="number">
+        <para>
+          The following case study does not include any additional audit
+considerations or risks of misstatement related to other-than-temporary
+impairment. Guidance on other-than-temporary impairment is found in
+FASB  320-10-35, 320-10-45, and 320-10-50, as well as Topic 5M, "Other
+Than Temporary Impairment of Certain Investments in Equity Securities,"
+of the SEC’s . The guidance in FASB ASC 320–10–35, 320–10–45,
+and 320–10–50 includes “Pending Content” resulting from various Accounting
+Standards Updates (ASUs)
+          <emphasis role="italic">Accounting Standards Codification</emphasis>
+          <emphasis role="italic">Codification of Staff Accounting
+Bulletins</emphasis>
+        </para>
+      </footnote>
+    </subtitle>
+  </chapterinfo>
+  <paraBlock role="ps_box_shade">
+    <para>
+      <emphasis role="italic">Gray
+shaded text in this chapter reflects guidance issued but not yet effective
+as of the date of this guide, September 1, 2020, but becoming effective
+on or prior to December 31, 2020, exclusive of any option to early
+adopt ahead of the mandatory effective date. Unless otherwise indicated,
+all unshaded text reflects guidance that was already effective as
+of the date of this guide.</emphasis>
+    </para>
+  </paraBlock>
+  <section id="aag-afi7_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.01</titleabbrev>
+      <title role="ps_para_number">7.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">In this case study, the entity changes
+the classification of a debt security from available for sale to held
+to maturity. The change in classification results from a change in
+management’s intent in holding the security.</para>
+  </section>
+  <section id="aag-afi7_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.02</titleabbrev>
+      <title role="ps_para_number">7.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The "" section illustrates the entity’s accounting for the change in the
+classification of the security and highlights the potential misstatements
+that can occur for the change in classification and how various inherent
+risk considerations affect substantive procedures.
+      <olink targetptr="aag-afi7_accounting_considerations">Accounting Considerations</olink>
+    </para>
+  </section>
+  <section id="aag-afi7_accounting_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Accounting Considerations</titleabbrev>
+      <title role="ps_main_heading">
+        Accounting Considerations
+        <footnote id="aag-afi7_fn2" label="fn 2" role="number">
+          <para>For simplicity, this case study ignores income tax consequences.</para>
+        </footnote>
+        <footnote id="aag-afi7_fn3" label="fn 3" role="number">
+          <para>
+            <emphasis role="shade">
+              In April 2019, FASB issued ASU No. 2019-04, , and  to clarify
+and improve areas of guidance related to recently-issued ASU Nos.
+2016-13, , 2017-12, , and 2016-01, . The ASU identifies the following
+five topic categories:
+              <emphasis role="italic">Codification Improvements to Topic 326, Financial Instruments
+— Credit Losses, Topic 815, Derivatives and Hedging</emphasis>
+              <emphasis role="italic">Topic 825, Financial Instruments</emphasis>
+              <emphasis role="italic">Financial Instruments — Credit Losses
+(Topic 326): Measurement of Credit Losses on Financial Instruments</emphasis>
+              <emphasis role="italic">Derivatives and Hedging (Topic
+815): Targeted Improvements to Accounting for Hedging Activities</emphasis>
+              <emphasis role="italic">Financial Instruments — Overall
+(Subtopic 825-10): Recognition and Measurement of Financial Assets
+and Financial Liabilities</emphasis>
+            </emphasis>
+          </para>
+          <para>
+            Each topic category contains a variety of issues and the effective
+dates for each issue depend on the topic category. “Pending Content”
+from Topic 1, Issue 1B of the ASU is addressed in  of this guide. The
+amendments in Issue 1B are effective as follows: for entities that
+have not yet adopted the amendments in ASU No. 2016-13, the effective
+dates and transition requirements are the same as those for that ASU;
+for entities that have adopted the amendments in ASU No. 2016-13,
+the effective dates are for fiscal years beginning after December
+15, 2019, including interim periods within those fiscal years. Early
+adoption is permitted. See the ASU, available at , for application details.
+            <olink targetptr="aag-afi7_05">paragraph 7.05</olink>
+            <ulink url="fasb.org">fasb.org</ulink>
+          </para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>
+                <emphasis role="shade">Topic 1: Codification Improvements
+Resulting from the June 11, 2018 and November 1, 2018 Credit Losses
+Transition Resource Group (TRG) Meetings</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                <emphasis role="shade">Topic 2: Codification Improvements
+to Update 2016-13</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                <emphasis role="shade">Topic 3: Codification Improvements
+to Update 2017-12 and Other Hedging Items</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                <emphasis role="shade">Topic 4: Codification Improvements
+to Update 2016-01</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                <emphasis role="shade">Topic 5: Codification Improvements
+Resulting from the November 1, 2018 Credit Losses TRG Meeting</emphasis>
+              </para>
+            </listitem>
+          </itemizedlist>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi7_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.03</titleabbrev>
+        <title role="ps_para_number">7.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">BEV manufactures parts for high-performance
+bicycles. Several years ago, BEV purchased a 6%, AA-rated bond of
+a publicly traded copper mining company at its $800,000 face amount.
+The intent of BEV’s management was to invest in a relatively stable
+security that would be available to finance BEV’s plant expansion
+that they anticipated would take place within a short period of time.
+Accordingly, the bond was classified as available for sale.</para>
+    </section>
+    <section id="aag-afi7_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.04</titleabbrev>
+        <title role="ps_para_number">7.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        For the last 2 years, competition for
+BEV’s products has increased dramatically, and as a result, BEV has
+failed to continue to grow. At the end of the current year, management
+dropped its plans to expand the plant, decided to hold the bond to
+maturity, and changed the classification of the bond to held to maturity.
+Several months before the change in classification, the bond’s fair
+value began to decline. By the time the classification was changed,
+the bond’s fair value had declined by $150,000, from $800,000 to $650,000. 
+        <footnote id="aag-afi7_fn4" label="fn 4" role="number">
+          <para>For simplicity, this case study assumes that at the end of the
+prior year, the bond’s fair value equaled its $800,000 face amount.</para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi7_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.05</titleabbrev>
+        <title role="ps_para_number">7.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        According to FASB  (ASC) 320, , BEV should
+record the unrealized loss through the date of change in classification
+through a $150,000 charge to other comprehensive income and a $150,000
+credit directly to the bond. The $650,000 fair value at the date the
+classification is changed becomes the bond’s new cost basis. With
+the exception of a decline in fair value that is other than temporary,
+changes in the fair value of the bond after the change in classification
+should only be recognized when they are realized. However, any decline
+in value that is other than temporary should be recognized in accordance
+with the requirements of paragraphs 34A–34E of FASB ASC 320-10-35.
+The measurement of the decline in value (impairment) should not include
+partial recoveries after the balance sheet date. The fair value of
+the bond would then become the new cost basis and should not be adjusted
+for subsequent recoveries in fair value. However, the amortized cost
+basis should be adjusted for accretion and amortization as discussed
+in FASB ASC 320-10-35-35.
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+        <emphasis role="italic">Investments — Debt Securities</emphasis>
+      </para>
+      <para role="ps_para_number">
+        <emphasis role="shade">
+          Based on “Pending
+Content” (added by Accounting Standards Update No. 2019-04, ) in paragraph 10B of  FASB ASC 320-10-35,
+BEV should reclassify and transfer the debt security to the held-to-maturity
+category at its amortized cost basis of $650,000 (which is reduced
+by any previous write-offs but excludes any allowance for credit losses)
+plus or minus the amount of remaining unrealized holding loss reported
+in accumulated other comprehensive income. BEV should evaluate the
+debt security for an allowance for credit losses by following the
+guidance in FASB ASC 326-20, . BEV should
+continue to report the unrealized holding loss at the date of the
+transfer in a separate component of shareholders’ equity, such as
+accumulated other comprehensive income; the loss should be amortized
+over the remaining life of the security as an adjustment of yield
+in a manner consistent with the amortization of any premium or discount.
+          <emphasis role="italic">Codification Improvements to Topic 326, Financial Instruments
+— Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825,
+Financial Instruments</emphasis>
+          <emphasis role="italic">Financial Instruments
+— Credit Losses-Measured at Amortized Cost</emphasis>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi7_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.06</titleabbrev>
+        <title role="ps_para_number">7.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        When a bond is reclassified as held to
+maturity, the unrealized appreciation or depreciation in its value
+at the date of reclassification continues to be reported as a separate
+component of equity (such as accumulated other comprehensive income).
+However, it is treated as a premium or discount and amortized over
+future years as a yield adjustment. The bond’s amortized cost basis,
+which is its carrying amount, is its $800,000 face amount less the
+unamortized portion of the $150,000 unrealized loss at the date of
+reclassification. Therefore, when the bond matures, its carrying amount
+will be its face amount. In financial statements after the reclassification,
+BEV’s financial statements should disclose, among other things, the
+bond’s amortized cost basis, its fair value, and the unrealized appreciation
+or depreciation in its value. The unrealized appreciation or depreciation
+disclosed in the financial statements should be the difference between
+the bond’s fair value and its new amortized cost basis (that is, the
+fair value at the date of reclassification adjusted for unamortized
+premium or discount).
+        <footnote id="aag-afi7_fn5" label="fn 5" role="number">
+          <para>It may also be viewed as the $650,000 fair value at the date
+of reclassification plus cumulative amortization of the $150,000 unrealized
+loss at the date of reclassification.</para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi7_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.07</titleabbrev>
+        <title role="ps_para_number">7.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">BEV could use the following entries to
+record the change in classification of the bond from available for
+sale to held to maturity:</para>
+      <table frame="none" id="aag-afi7_table1" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="3.49in"/>
+          <colspec colname="c2" colwidth="1.30in"/>
+          <colspec colname="c3" colwidth="1.25in"/>
+          <tbody>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>Other comprehensive income</para>
+              </entry>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>$150,000</para>
+              </entry>
+              <entry colsep="0" rowsep="0" valign="bottom"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>
+                  Investment in available-for-sale bond
+                  <tab/>
+                </para>
+              </entry>
+              <entry colsep="0" rowsep="0" valign="bottom"/>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>$150,000</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>To recognize the decline in the bond’s fair value through the
+date its classification was changed</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>Investment in held-to-maturity bond</para>
+              </entry>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>$650,000</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>
+                  Investment in available-for-sale bond
+                  <tab/>
+                </para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>$650,000</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom">
+                <para>To record the change in the bond’s classification</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi7_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.08</titleabbrev>
+        <title role="ps_para_number">7.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">The $150,000 unrealized holding loss related
+to the bond at the time of the reclassification would continue to
+be reported in accumulated other comprehensive income. Each year,
+BEV will receive $48,000 in cash from the issuer of the bond, which
+is 6% of the bond’s $800,000 face amount. An effective interest rate
+of 11.08393% would discount 5 annual payments of $48,000 and an $800,000
+principal payment at the end of the fifth year to the bond’s $650,000
+carrying amount when the classification is changed. Accordingly, the
+difference between the result of applying this rate to the bond’s
+carrying amount and the $48,000 stated interest should be recorded
+as amortization of the discount. As the following table illustrates,
+the substance of the accounting is that each year, cash increases
+$48,000; the bond’s carrying amount increases by the discount amortization;
+and equity increases by the result of applying 11.08393% to the carrying
+amount of the bond at the beginning of the year:</para>
+      <table frame="none" id="aag-afi7_table2" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="5" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="0.62in"/>
+          <colspec colname="c3" colwidth="1.00in"/>
+          <colspec colname="c5" colwidth="1.00in"/>
+          <colspec colname="c7" colwidth="1.00in"/>
+          <colspec colname="c9" colwidth="1.00in"/>
+          <thead>
+            <row>
+              <entry align="center" colsep="0" valign="bottom">
+                <para>
+                  <emphasis role="italic">Year</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="0" valign="bottom">
+                <para>
+                  <emphasis role="italic">Carrying Amount of the Bond</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="0" valign="bottom">
+                <para>
+                  <emphasis role="italic">Cash Received</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="0" valign="bottom">
+                <para>
+                  <emphasis role="italic">Discount Amortization</emphasis>
+                </para>
+              </entry>
+              <entry align="center" colsep="0" valign="bottom">
+                <para>
+                  <emphasis role="italic">Total Increase in Equity</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                <para>1</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$650,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$48,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$24,046</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$72,046</para>
+              </entry>
+            </row>
+            <row>
+              <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                <para>2</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 674,046</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 48,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 26,711</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 74,711</para>
+              </entry>
+            </row>
+            <row>
+              <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                <para>3</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 700,757</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 48,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 29,671</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 77,671</para>
+              </entry>
+            </row>
+            <row>
+              <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                <para>4</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 730,428</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 48,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 32,960</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 80,960</para>
+              </entry>
+            </row>
+            <row>
+              <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                <para>5</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 763,388</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>48,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para> 36,612</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                <para> 84,612</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0" valign="bottom"/>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$800,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$240,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$150,000</para>
+              </entry>
+              <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                <para>$390,000</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" nameend="c9" namest="c1" rowsep="0" valign="bottom">
+                <para>The $390,000 cumulative increase in equity over the 5 remaining
+years the bond is outstanding equals the $240,000 interest received
+plus the amortization of the $150,000 unrealized loss at the date
+of reclassification.</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi7_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.09</titleabbrev>
+        <title role="ps_para_number">7.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">The increase in equity should be split
+between interest income and other comprehensive income. Because BEV
+will not realize the $150,000 unrealized loss charged to other comprehensive
+income, the effective rate of return on the bond reported in earnings
+is equal to the bond’s stated interest rate. Therefore, interest income
+equals interest received. In substance, the excess of the increase
+in equity over the interest income equals the amortization of the
+discount and is reported as other comprehensive income. The 3 entries
+for the first year would be as follows:</para>
+      <table frame="none" id="aag-afi7_table3" role="ps_table_center">
+        <title/>
+        <tgroup align="left" cols="3" colsep="1" rowsep="1">
+          <colspec colname="c1" colwidth="3.49in"/>
+          <colspec colname="c2" colwidth="1.00in"/>
+          <colspec colname="c3" colwidth="0.98in"/>
+          <tbody>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>Cash</para>
+              </entry>
+              <entry colsep="0" rowsep="0">
+                <para>$48,000</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>
+                  Interest income
+                  <tab/>
+                </para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0">
+                <para>$48,000</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>To record interest received</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>Discount on investment in held-to-maturity bond</para>
+              </entry>
+              <entry colsep="0" rowsep="0">
+                <para>$24,046</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>
+                  Interest income
+                  <tab/>
+                </para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0">
+                <para>$24,046</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>To record amortization of the discount on the held-to-maturity
+bond</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>Interest income</para>
+              </entry>
+              <entry colsep="0" rowsep="0">
+                <para>$24,046</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>
+                  Other comprehensive income
+                  <tab/>
+                </para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry colsep="0" rowsep="0">
+                <para>$24,046</para>
+              </entry>
+            </row>
+            <row>
+              <entry colsep="0" rowsep="0">
+                <para>To record amortization of the unrealized loss included in accumulated
+other comprehensive income</para>
+              </entry>
+              <entry colsep="0" rowsep="0"/>
+              <entry rowsep="0"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="aag-afi7_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.10</titleabbrev>
+        <title role="ps_para_number">7.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">Paragraphs 17–35 of FASB ASC 320-10-35
+address the determination regarding when an investment is considered
+impaired, whether that impairment is other than temporary, and the
+measurement of an impairment loss. FASB ASC 320-10-35 also includes
+accounting considerations subsequent to the recognition of an other-than-temporary
+impairment and requires certain disclosures about unrealized losses
+that have not been recognized as other-than-temporary impairments.</para>
+      <para role="ps_para_number">
+        “Pending Content” in paragraphs 17–35
+of FASB ASC 320-10-35 is superseded upon adoption of by ASU No. 2016-13, .
+        <emphasis role="italic">Financial Instruments — Credit Losses (Topic 326): Measurement
+of Credit Losses on Financial Instruments</emphasis>
+      </para>
+    </section>
+    <section id="aag-afi7_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>7.11</titleabbrev>
+        <title role="ps_para_number">7.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">At the end of the fifth year, when the
+principal is collected, the</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>discount will have been amortized, and the carrying
+amount of the bond will be $800,000, which is the principal due on
+the bond.</para>
+        </listitem>
+        <listitem>
+          <para>$150,000 unrealized loss in accumulated other comprehensive
+income will have been eliminated through credits to other comprehensive
+income. </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi7_auditing_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Auditing Considerations</titleabbrev>
+      <title role="ps_main_heading">Auditing Considerations</title>
+    </sectioninfo>
+    <paraBlock role="ps_box">
+      <para>
+        <icon fileref="images/icon-guidance.png"/>
+        <emphasis role="bold">
+           Update 7-1 : Auditing Accounting Estimates, Including Fair Value Accounting
+Estimates, and Related Disclosures
+          <emphasis role="italic">Auditing</emphasis>
+        </emphasis>
+      </para>
+      <para>
+        In July
+2020, the AICPA issued , , which supersedes AU-C section 540,  and amends the following AU-C sections:
+        <olink targetdoc="ps" targetptr="ad_540">Statement
+on Auditing Standards (SAS) No. 143</olink>
+        <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+        <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+        <footnote id="aag-afi7_fn6" label="fn 6" role="number">
+          <para>
+            All AU-C sections can be found in AICPA .
+            <olink targetdoc="ps" targetptr="ps">
+              <emphasis role="italic">Professional Standards</emphasis>
+            </olink>
+          </para>
+        </footnote>
+        <itemizedlist mark="bullet">
+          <listitem>
+            <para>
+              ,  (AU-C sec. 200)
+              <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+              <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec.
+230)
+              <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+              <emphasis role="italic">Audit Documentation</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec. 240)
+              <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+              <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec. 260)
+              <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+              <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec. 501)
+              <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+              <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C
+sec. 580)
+              <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+              <emphasis role="italic">Written Representations</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec. 700)
+              <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+              <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              ,  (AU-C sec. 701)
+              <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+              <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </para>
+      <para>
+         addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements. This
+SAS is effective for audits of financial statements for periods ending
+on or after December 15, 2023. A link to the final SAS and other resources
+can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org.
+        <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+        <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+      </para>
+    </paraBlock>
+    <section id="aag-afi7_description_of_the_entity" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Entity</titleabbrev>
+        <title role="ps_sub_heading">Description of the Entity</title>
+      </sectioninfo>
+      <section id="aag-afi7_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.12</titleabbrev>
+          <title role="ps_para_number">7.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">BEV manufactures parts for high-performance
+bicycles. Recently, BEV hired a new controller who came to the entity
+with five years of experience in public accounting. During the years
+of BEV’s growth, the owners of the entity became less involved with
+the daily operations of the business, and the reliability of controls
+suffered. One of the first tasks of the new controller was to design
+and implement a more formal system of internal control that emphasized
+segregation of duties and strong oversight and monitoring of all accounting
+functions by supervisors. Included in this formal system is the requirement
+that one of BEV’s owners personally review the month-end investment
+statements sent by the broker-dealer who holds and services the bond.
+These documents are then sent to the accounting department for entry
+into the accounting system. Based largely on the improvements made
+by the new controller, the auditor determined that BEV’s control environment
+is well-designed and capable of mitigating control risk.</para>
+      </section>
+    </section>
+    <section id="aag-afi7_summary_of_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Summary of Accounting</titleabbrev>
+        <title role="ps_sub_heading">Summary of Accounting</title>
+      </sectioninfo>
+      <section id="aag-afi7_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.13</titleabbrev>
+          <title role="ps_para_number">7.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          At the date of reclassification from available
+for sale to held to maturity, BEV should reduce the carrying amount
+of the bond to its ,
+as defined by FASB ASC 820, , through a charge to other comprehensive income and a credit to
+the carrying amount of the bond. The unrealized loss at that date
+should be amortized over the remaining life of the bond as a discount,
+thereby increasing the carrying amount of the bond over the remaining
+life of the bond so that it equals the bond’s face amount when the
+bond matures. The loss charged to other comprehensive income should
+continue to be reported in accumulated other comprehensive income
+but amortized over the remaining life of the bond through credits
+to other comprehensive income in amounts equal to the discount amortization.
+As a result of this accounting, each year, BEV will report in earnings
+interest at the bond’s 6% stated rate and other comprehensive income
+equal to the discount amortization.
+          <emphasis role="italic">fair value</emphasis>
+          <emphasis role="italic">Fair Value Measurement</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi7_types_of_potential_misstatements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Types of Potential Misstatements</titleabbrev>
+        <title role="ps_sub_heading">Types of Potential Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi7_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.14</titleabbrev>
+          <title role="ps_para_number">7.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . During the audit period, BEV reclassified the bond from available
+for sale to held to maturity. The accounting for the change in classification
+and subsequent amortization may not conform to the requirements of
+FASB ASC 320.
+          <emphasis role="italic">Improper accounting</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi7_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.15</titleabbrev>
+          <title role="ps_para_number">7.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . The classification of a bond as held
+to maturity requires BEV to have both the intent and ability to hold
+the bond to maturity. BEV may have reclassified the bond in the absence
+of a positive intent to hold it until maturity and the ability to
+do so.
+          <emphasis role="italic">Improper change
+in classification</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi7_16" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.16</titleabbrev>
+          <title role="ps_para_number">7.16</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . The determination of fair value at the date
+of reclassification may not conform with the guidance in FASB ASC
+320, including the guidance on evaluating other-than-temporary impairments.
+          <emphasis role="italic">Improper determination
+of fair value</emphasis>
+        </para>
+        <para role="ps_para_number">
+          <emphasis role="shade">
+            . The
+determination of fair value at the date of reclassification may not
+conform with the guidance in FASB ASC 320 and FASB ASC 326-20.
+            <emphasis role="italic">Improper determination of fair value</emphasis>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi7_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.17</titleabbrev>
+          <title role="ps_para_number">7.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . The bond may not exist or be owned by BEV at
+the date of reclassification.
+          <emphasis role="italic">Existence and
+ownership</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi7_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.18</titleabbrev>
+          <title role="ps_para_number">7.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . BEV’s financial statement may not comply with
+the presentation and disclosure requirements in FASB ASC 320 related
+to reclassification of the bond.
+          <emphasis role="italic">Presentation and
+disclosure</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi7_inherent_risk_factors_to" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatements</titleabbrev>
+        <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi7_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.19</titleabbrev>
+          <title role="ps_para_number">7.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">Because the classification of the bond
+had been changed from available for sale to held to maturity, the
+auditor assessed inherent risk to be high based on the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              . The accounting personnel’s lack of experience with changes in bond
+classifications and the special accounting considerations increase
+the inherent risk of the change being accounted for incorrectly.
+              <emphasis role="italic">The entity’s experience</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              . During the audit period, management changed its objective in holding
+the bond. Previously, management intended it to be available for sale,
+but now, its stated objective was to hold the security to its maturity. 
+              <emphasis role="italic">Management’s objectives</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi7_control_risk" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Control Risk</titleabbrev>
+        <title role="ps_sub_heading">Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi7_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.20</titleabbrev>
+          <title role="ps_para_number">7.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          BEV uses a broker-dealer to hold and service
+its financial instruments, including the investment in the bond. However,
+the fact that the entity uses a service organization to process some
+of its financial instrument transactions does not, in and of itself,
+require the auditor to obtain information about the broker-dealer’s
+controls. AU-C section 315B, , addresses the auditor’s requirement to obtain
+an understanding of the entity and its environment as part of performing
+an audit in accordance with generally accepted auditing standards. Paragraph .A54 of AU-C section 315B states that an entity’s
+use of IT may affect any of the five components of internal control
+relevant to the achievement of the entity’s financial reporting, operations,
+or compliance objectives and its operating units or business functions.
+This understanding should be sufficient for the auditor to
+          <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+          <footnote id="aag-afi7_fn7" label="fn 7" role="number">
+            <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statements on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+          </footnote>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>identify the types of potential misstatement of the
+assertions.</para>
+          </listitem>
+          <listitem>
+            <para>consider factors that affect the risk that the potential
+misstatements would be material to the financial statements.</para>
+          </listitem>
+          <listitem>
+            <para>design substantive tests.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi7_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.21</titleabbrev>
+          <title role="ps_para_number">7.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">The types of potential material misstatements
+relating to BEV’s investment in the bond relate primarily to the change
+in classification from available for sale to held to maturity, which
+is a risk that will not be addressed by the controls at the broker-dealer.
+BEV maintains all the information necessary to perform substantive
+procedures on investments. Accordingly, the auditor does not have
+to obtain an understanding of controls in operation at the broker-dealer
+in order to plan the audit.</para>
+      </section>
+      <section id="aag-afi7_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.22</titleabbrev>
+          <title role="ps_para_number">7.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">Because the purchase and subsequent reclassification
+of the bond was considered to be an isolated transaction, control
+risk was assessed as high.</para>
+      </section>
+    </section>
+    <section id="aag-afi7_timing_of_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Timing of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Timing of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi7_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.23</titleabbrev>
+          <title role="ps_para_number">7.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">All relevant assertions associated with
+this transaction will be substantively tested at year-end. </para>
+      </section>
+    </section>
+    <section id="aag-afi7_materiality" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Materiality</titleabbrev>
+        <title role="ps_sub_heading">Materiality</title>
+      </sectioninfo>
+      <section id="aag-afi7_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.24</titleabbrev>
+          <title role="ps_para_number">7.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">The transaction is considered material.</para>
+      </section>
+    </section>
+    <section id="aag-afi_design_of_substantive_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Design of Substantive Procedures</titleabbrev>
+        <title role="ps_sub_heading">Design of Substantive Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi7_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>7.25</titleabbrev>
+          <title role="ps_para_number">7.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about the transaction:</para>
+        <table frame="all" id="aag-afi7_table4" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.97in"/>
+            <colspec colname="c3" colwidth="2.99in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Audit Objective</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Procedure</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The bond exists and is owned by BEV.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Confirm existence and ownership with the broker-dealer.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Management authorized the change in classification of the bond
+from available for sale to held to maturity; this includes considerations
+relative to the securities’ eligibility to be classified as held to
+maturity.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Review minutes of meetings or any applicable internal
+memorandums of relevant groups for evidence that management authorized
+the change.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Absent written evidence in the minutes or other documentation,
+perform other procedures to determine whether the change was authorized,
+such as inquiry or obtaining a representation in the management representation
+letter.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The bond’s fair value at the date its classification was changed
+was properly determined.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test the fair value of the bond at the date of reclassification
+by agreeing market price to independent published sources.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Review any notes from periodic pricing meetings with
+the traders or management of the entity to determine whether steps
+were taken to properly value the bond.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The difference between the bond’s fair value and its face amount
+at the date the bond’s classification was changed was properly recorded
+and amortized.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Recalculate the difference between the bond’s face
+amount and fair value at the date the bond’s classification was changed
+to held to maturity. Confirm the assumptions used in the calculation,
+including the notional amount and rate of the bond, because these
+inputs are used to determine the face amount and fair value.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Recalculate the amortization of the resulting discount. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Management has the positive intent and ability to hold the bond
+to maturity.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Review management’s cash flow forecasts, or perform
+other procedures considered necessary to assess BEV’s ability to hold
+the security to maturity.</para>
+                    </listitem>
+                    <listitem>
+                      <para>
+                        Obtain a representation in the management representation
+letter confirming management’s intent to hold the security to maturity.
+                        <footnote id="aag-afi7_fn8" label="fn 8" role="number">
+                          <para>
+                            A written representation of management’s intent and ability
+with regard to held-to-maturity securities does not constitute sufficient
+appropriate audit evidence.  of this guide provide additional guidance on the
+types of auditing procedures the auditor might perform to corroborate
+management’s stated intent and ability to realize that intent.
+                            <olink targetptr="aag-afi6_07">Paragraphs
+6.07–.08</olink>
+                          </para>
+                        </footnote>
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Presentation and disclosure are appropriate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>
+                        Read the financial statements and compare the presentation
+and disclosure with the requirements of FASB  320, .
+                        <emphasis role="italic">Accounting Standards Codification</emphasis>
+                        <emphasis role="italic">Investments — Debt and Equity Securities</emphasis>
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+</root>

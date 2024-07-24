@@ -1,0 +1,23 @@
+<root id="aag-afi9_17" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.17</titleabbrev>
+    <title role="ps_para_number">9.17</title>
+  </sectioninfo>
+  <para role="ps_para_number">The risk factors the auditor considered
+are</para>
+  <para role="ps_indent_0">Estimating the fair value of the option requires
+judgment in applying an option-pricing model and determining the underlying
+assumptions. Based on the preceding factors, the auditor determines
+inherent risk to be high.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the option may not be identified because it is a feature
+of the convertible bonds.</para>
+    </listitem>
+    <listitem>
+      <para>due to the lack of experience of Martin’s accounting
+personnel with this type of transaction, the option may not be accounted
+for separately from the straight bonds. </para>
+    </listitem>
+  </itemizedlist>
+</root>

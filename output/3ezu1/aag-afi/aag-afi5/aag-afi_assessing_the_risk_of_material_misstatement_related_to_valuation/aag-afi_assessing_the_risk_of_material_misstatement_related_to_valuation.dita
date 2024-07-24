@@ -1,0 +1,200 @@
+<root id="aag-afi_assessing_the_risk_of_material_misstatement_related_to_valuation" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Assessing the Risk of Material Misstatement Related to
+Valuation</titleabbrev>
+    <title role="ps_main_heading">Assessing the Risk of Material Misstatement
+Related to Valuation</title>
+  </sectioninfo>
+  <section id="aag-afi5_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>5.04</titleabbrev>
+      <title role="ps_para_number">5.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">When evaluating whether the valuation
+techniques used by an entity are appropriate in the circumstances
+and whether controls over valuation techniques are in place, the factors
+considered by the auditor may include</para>
+    <para role="ps_indent_0">The auditor (or auditor’s specialist) may
+also independently develop one or more valuation techniques to compare
+his or her output with that of the valuation techniques used by management.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>whether the valuation techniques are commonly used
+by other market participants and have been previously demonstrated
+to provide a reliable estimate of prices obtained from market transactions.</para>
+      </listitem>
+      <listitem>
+        <para>whether the valuation techniques operate as intended,
+and there are no flaws in their design, particularly under extreme
+conditions, and whether they have been objectively validated. Indicators
+of flaws include inconsistent movements relative to benchmarks.</para>
+      </listitem>
+      <listitem>
+        <para>whether the valuation techniques take into account
+the risks inherent in the financial instrument being valued, including
+counterparty creditworthiness, and own credit risk in the case of
+valuation techniques used to measure financial liabilities.</para>
+      </listitem>
+      <listitem>
+        <para>how the valuation techniques are calibrated to the
+market, including the sensitivity of the valuation techniques to changes
+in variables.</para>
+      </listitem>
+      <listitem>
+        <para>whether market variables and assumptions are used
+consistently and whether new conditions justify a change in the valuation
+techniques, market variables, or assumptions used.</para>
+      </listitem>
+      <listitem>
+        <para>whether sensitivity analyses indicate that valuations
+would change significantly with only small or moderate changes in
+assumptions.</para>
+      </listitem>
+      <listitem>
+        <para>the organizational structure, such as the existence
+of an internal department responsible for developing models to value
+certain instruments, particularly when Level 3 inputs are involved.
+For example, a model development function that is involved in assisting
+in pricing deals is less objective than one that is functionally and
+organizationally segregated from the sales function.</para>
+      </listitem>
+      <listitem>
+        <para>the competence and objectivity of those responsible
+for the development and application of the valuation techniques, including
+management’s relative experience with particular models that may be
+newly developed.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi5_significant_risks" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Significant Risks</titleabbrev>
+      <title role="ps_sub_heading">Significant Risks</title>
+    </sectioninfo>
+    <section id="aag-afi5_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.05</titleabbrev>
+        <title role="ps_para_number">5.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor’s risk assessment process
+may lead the auditor to identify one or more significant risks relating
+to the valuation of financial instruments when any of the following
+circumstances exist:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            High measurement uncertainty related to the valuation
+of financial instruments (for example, those with unobservable inputs)
+            <footnote id="aag-afi5_fn4" label="fn 4" role="number">
+              <para>
+                When the auditor determines that the high estimation uncertainty
+related to the valuation of complex financial instruments gives rise
+to a significant risk, AU-C section 540B, , requires the auditor to perform
+substantive procedures and evaluate the adequacy of the disclosure
+of his or her estimation uncertainty. See paragraphs .11, .15, and
+.20 of AU-C section 540B.
+                <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Lack of sufficient evidence to support management’s
+valuation of its financial instruments</para>
+        </listitem>
+        <listitem>
+          <para>Lack of management understanding of its financial
+instruments or expertise necessary to value such instruments properly,
+including the ability to determine whether valuation adjustments are
+needed</para>
+        </listitem>
+        <listitem>
+          <para>Lack of management understanding of complex requirements
+in the applicable financial reporting framework relating to measurement
+and disclosure of financial instruments and the inability of management
+to make the judgments required to properly apply those requirements</para>
+        </listitem>
+        <listitem>
+          <para>The significance of valuation adjustments made to
+valuation technique outputs when the applicable financial reporting
+framework requires or permits such adjustments.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.06</titleabbrev>
+        <title role="ps_para_number">5.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        For accounting estimates that give rise
+to significant risks, in addition to other substantive procedures
+performed to meet the requirements of AU-C section 330B, , paragraph
+.15– of AU-C section 540B requires the auditor to evaluate the following:
+        <emphasis role="italic">Performing Audit Procedures in Response to Assessed
+Risks and Evaluating the Audit Evidence Obtained</emphasis>
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">c</emphasis>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>How management has considered alternative assumptions
+or outcomes and why it has rejected them or how management has otherwise
+addressed measurement uncertainty in making the accounting estimate</para>
+        </listitem>
+        <listitem>
+          <para>Whether the significant assumptions used by management
+are reasonable</para>
+        </listitem>
+        <listitem>
+          <para>When relevant to the reasonableness of the significant
+assumptions used by management or the appropriate application of the
+applicable financial reporting framework, management’s intent to carry
+out specific courses of action and its ability to do so</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi5_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.07</titleabbrev>
+        <title role="ps_para_number">5.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">As markets become inactive, the change
+in circumstances may lead to a move from valuation by market price
+to valuation by model or may result in a change from one particular
+model to another. Reacting to changes in market conditions may be
+difficult if management does not have policies in place prior to their
+occurrence. Management may also not possess the expertise necessary
+to develop a model on an urgent basis or select the valuation technique
+that may be appropriate in the circumstances. Even when valuation
+techniques have been consistently used, a need exists for management
+to examine the continuing appropriateness of the valuation techniques
+and assumptions used for determining valuation of financial instruments.
+Further, valuation techniques may have been selected in times when
+reasonable market information was available, but that information
+may not provide reasonable valuations in times of unanticipated stress.</para>
+    </section>
+    <section id="aag-afi5_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>5.08</titleabbrev>
+        <title role="ps_para_number">5.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">The susceptibility to management bias,
+whether intentional or unintentional, increases with the subjectivity
+of the valuation and the degree of measurement uncertainty. For example,
+management may tend to ignore observable marketplace assumptions or
+data and instead use its own internally-developed assumptions if those
+assumptions yield more favorable results. Even without fraudulent
+intent, there may be a natural temptation to bias judgments toward
+the most favorable end of what may be a wide spectrum rather than
+the point in the spectrum that might be considered to be most consistent
+with the applicable financial reporting framework. Changing the valuation
+technique from period to period without a clear and an appropriate
+reason for doing so may also be an indicator of management bias. Although
+some form of management bias is inherent in subjective decisions relating
+to the valuation of financial instruments, when there is intention
+to mislead, management bias is fraudulent in nature.</para>
+    </section>
+  </section>
+</root>

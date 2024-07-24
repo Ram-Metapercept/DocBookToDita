@@ -1,0 +1,33 @@
+<root id="aag-afi1_issues_related_to_financial" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Issues Related to Financial Liabilities</titleabbrev>
+    <title role="ps_sub_heading">Issues Related to Financial Liabilities</title>
+  </sectioninfo>
+  <section id="aag-afi1_56" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.56</titleabbrev>
+      <title role="ps_para_number">1.56</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Understanding the effect of credit risk
+is an important aspect of valuing both financial assets and liabilities.
+This valuation reflects the credit quality and financial strength
+of both the issuer and any credit support providers. In some financial
+reporting frameworks, the measurement of a financial liability assumes
+it is transferred to a market participant at the measurement date.
+When an observable market price for a financial liability does not
+exist, its value is typically measured using the same method a counterparty
+would use to measure the value of the corresponding asset, unless
+there are factors specific to the liability (such as third-party credit
+enhancement). In particular, the entity’s own credit risk can often be difficult to measure.
+      <footnote id="aag-afi1_fn7" label="fn 7" role="number">
+        <para>
+           is the amount
+of change in fair value that is not attributable to changes in market
+conditions.
+          <emphasis role="italic">Own credit risk</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+</root>

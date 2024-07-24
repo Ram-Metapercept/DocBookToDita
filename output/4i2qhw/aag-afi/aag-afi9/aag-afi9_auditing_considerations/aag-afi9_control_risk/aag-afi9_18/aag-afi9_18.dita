@@ -1,0 +1,23 @@
+<root id="aag-afi9_18" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.18</titleabbrev>
+    <title role="ps_para_number">9.18</title>
+  </sectioninfo>
+  <para role="ps_para_number">Martin’s investing department has a history
+of investing in debt and equity securities. Controls over the department’s
+activities include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>segregation of duties between purchase and sale transaction
+authorization, bookkeeping, and custody.</para>
+    </listitem>
+    <listitem>
+      <para>reasonably good management oversight.</para>
+    </listitem>
+    <listitem>
+      <para>supervisory personnel in the department review ongoing
+fair value calculations prepared internally and provided by third
+parties, mark-to-market adjustments, and related journal entries.</para>
+    </listitem>
+  </itemizedlist>
+</root>

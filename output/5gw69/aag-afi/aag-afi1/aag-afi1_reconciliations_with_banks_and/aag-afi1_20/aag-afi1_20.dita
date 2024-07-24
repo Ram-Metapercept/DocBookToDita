@@ -1,0 +1,15 @@
+<root id="aag-afi1_20" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.20</titleabbrev>
+    <title role="ps_para_number">1.20</title>
+  </sectioninfo>
+  <para role="ps_para_number">Reconciliation and confirmation controls
+may be automated, and if so, adequate IT controls need to be in place
+to support them. In particular, controls are needed to ensure that
+data is completely and accurately picked up from external sources
+(such as banks and custodians) and from the entity’s records and that
+it is not tampered with before or during reconciliation. Controls
+are also needed to ensure that the criteria on which entries are matched
+are sufficiently restrictive to prevent inaccurate clearance of reconciling
+items.</para>
+</root>

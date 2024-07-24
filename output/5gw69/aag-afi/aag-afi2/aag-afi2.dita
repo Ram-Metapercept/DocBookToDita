@@ -1,0 +1,626 @@
+<root id="aag-afi2" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 2 — General Auditing Considerations</titleabbrev>
+    <title role="ps_section_heading">Chapter 2</title>
+    <subtitle role="ps_section_title">General Auditing Considerations</subtitle>
+  </chapterinfo>
+  <paraBlock role="ps_box">
+    <para id="aag-afi2_update_2-1">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+2-1 : Audit Evidence
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 500), which supersedes AU-C section 500A, , and amends the following AU-C sections: 
+      <olink targetdoc="ps" targetptr="ad_500">Statement on Auditing Standards (SAS) No. 142</olink>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <footnote id="aag-afi2_fn1" label="fn 1" role="number">
+        <para>
+          All AU-C sections can be found in AICPA .
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            <emphasis role="italic">Audit Documentation</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+            <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+            <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+            <emphasis role="italic">Audit Sampling</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_540a">Section
+540A</olink>
+            <emphasis role="italic">Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       explains what constitutes audit evidence in an
+audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+      <olink targetdoc="ps" targetptr="ad_500">SAS No. 142</olink>
+    </para>
+    <para>
+      This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <paraBlock role="ps_box">
+    <para id="aag-afi2_update_2-2">
+      <icon fileref="images/icon-guidance.png"/>
+      <emphasis role="bold">
+         Update
+2-2 : Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued ,  (AU-C sec. 540), which supersedes , , and amends the following AU-C
+sections: 
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540A</olink>
+      <emphasis role="italic">Auditing Accounting Estimates and Related Disclosures</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value Accounting Estimates,
+and Related Disclosures</emphasis>
+    </para>
+    <para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+            <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            ,  
+            <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+            <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance </emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+            <emphasis role="italic">Written Representations</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+            <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+       addresses the auditor’s responsibilities relating
+to accounting estimates, including fair value accounting estimates
+and related disclosures, in an audit of financial statements.
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+    </para>
+    <para>
+      This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi2_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.01</titleabbrev>
+      <title role="ps_para_number">2.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">Certain factors may make auditing financial
+instruments particularly challenging. For example</para>
+    <para role="ps_indent_0">These factors may cause risks and relevant
+facts to be obscured, which may affect the auditor’s assessment of
+the risks of material misstatement, and unidentified risks can emerge
+rapidly, especially in adverse market conditions.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>it may be difficult for the auditor to understand
+the nature of financial instruments and what they are used for and
+the risks to which the entity is exposed.</para>
+      </listitem>
+      <listitem>
+        <para>market sentiment and liquidity can change quickly,
+placing pressure on management to manage its exposures effectively.</para>
+      </listitem>
+      <listitem>
+        <para>evidence supporting valuation may be difficult to
+obtain.</para>
+      </listitem>
+      <listitem>
+        <para>individual payments associated with certain financial
+instruments may be significant, which may increase the risk of misappropriation
+of assets.</para>
+      </listitem>
+      <listitem>
+        <para>the amounts recorded in the financial statements relating
+to financial instruments may not be significant, but significant risks
+and exposures associated with these financial instruments may exist.</para>
+      </listitem>
+      <listitem>
+        <para>a few employees may exert significant influence on
+the entity’s financial instrument transactions, in particular when
+their compensation arrangements are tied to revenue or profit from
+financial instruments, and possible undue reliance on these individuals
+by others within the entity may exist.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi2_professional_skepticism" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Professional Skepticism</titleabbrev>
+      <title role="ps_main_heading">
+        Professional Skepticism
+        <footnote id="aag-afi2_fn2" label="fn 2" role="number">
+          <para>
+            Paragraph .17 of AU-C section 200B, .
+            <emphasis role="italic">Overall Objectives of the Independent Auditor and the Conduct of
+an Audit in Accordance With Generally Accepted Auditing Standards</emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi2_02" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.02</titleabbrev>
+        <title role="ps_para_number">2.02</title>
+      </sectioninfo>
+      <para role="ps_para_number">Professional skepticism is necessary to
+the critical assessment of audit evidence and assists the auditor
+in remaining alert for possible indications of management bias. This
+includes questioning contradictory audit evidence and the reliability
+of documents, responses to inquiries, and other information obtained
+from management and those charged with governance. It also includes
+being alert to conditions that may indicate possible misstatement
+due to error or fraud and considering the sufficiency and appropriateness
+of audit evidence obtained in light of the circumstances.</para>
+    </section>
+    <section id="aag-afi2_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.03</titleabbrev>
+        <title role="ps_para_number">2.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">Exercising professional skepticism is
+required in all circumstances, and the need for professional skepticism
+increases with the complexity of financial instruments, such as with
+regard to the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Evaluating whether sufficient appropriate audit evidence
+has been obtained, which can be particularly challenging when models
+are used or in determining if markets are inactive</para>
+        </listitem>
+        <listitem>
+          <para>Evaluating management’s judgments and the potential
+for management bias in applying the entity’s applicable financial
+reporting framework, in particular management’s choice of valuation
+techniques, use of assumptions in valuation techniques, and addressing
+circumstances in which the auditor’s judgments and management’s judgments
+differ</para>
+        </listitem>
+        <listitem>
+          <para>Drawing conclusions based on the audit evidence obtained
+(for example assessing the reasonableness of valuations prepared by
+management’s specialists and evaluating whether disclosures in the
+financial statements achieve fair presentation).</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi2_planning_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Planning Considerations</titleabbrev>
+      <title role="ps_main_heading">
+        Planning Considerations
+        <footnote id="aag-afi2_fn3" label="fn 3" role="number">
+          <para>
+            AU-C section 300B, , addresses the auditor’s responsibility to plan an audit of financial
+statements.
+            <emphasis role="italic">Planning an Audit</emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi2_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.04</titleabbrev>
+        <title role="ps_para_number">2.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor’s focus in planning the audit
+procedures related to financial instruments is primarily on</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>understanding the accounting and disclosure requirements.</para>
+        </listitem>
+        <listitem>
+          <para>understanding the financial instruments to which the
+entity is exposed and their purpose and risks.</para>
+        </listitem>
+        <listitem>
+          <para>determining whether specialized skills and knowledge
+are needed in the audit.</para>
+        </listitem>
+        <listitem>
+          <para>understanding and evaluating the system of internal
+control in light of the entity’s financial instrument transactions
+and the information systems that fall within the scope of the audit.</para>
+        </listitem>
+        <listitem>
+          <para>understanding the nature, role, and activities of
+the internal audit function.</para>
+        </listitem>
+        <listitem>
+          <para>understanding management’s process for valuing financial
+instruments, including whether management has used a pricing source,
+valuation specialist or service organization.</para>
+        </listitem>
+        <listitem>
+          <para>assessing and responding to the risk of material misstatement.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi2_understanding_the_accounting_and" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Understanding the Accounting and Disclosure Requirements</titleabbrev>
+      <title role="ps_main_heading">Understanding the Accounting and Disclosure
+Requirements</title>
+    </sectioninfo>
+    <section id="aag-afi2_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.05</titleabbrev>
+        <title role="ps_para_number">2.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Paragraph .08 of AU-C section 540B, , requires the auditor to obtain an understanding of the
+requirements of the applicable financial reporting framework relevant
+to accounting estimates, including related disclosures and any regulatory
+requirements. The requirements of the applicable financial reporting
+framework regarding financial instruments may themselves be complex
+and require extensive disclosures. Reading this Audit Guide is not
+a substitute for a full understanding of all the requirements of the
+applicable financial reporting framework.
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">Auditing Accounting
+Estimates, Including Fair Value Accounting Estimates, and Related
+Disclosures</emphasis>
+        <footnote id="aag-afi2_fn4" label="fn 4" role="number">
+          <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+        </footnote>
+      </para>
+    </section>
+  </section>
+  <section id="aag-afi2_understanding_the_financial_instruments" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Understanding the Financial Instruments</titleabbrev>
+      <title role="ps_main_heading">Understanding the Financial Instruments</title>
+    </sectioninfo>
+    <section id="aag-afi2_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.06</titleabbrev>
+        <title role="ps_para_number">2.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">The characteristics of financial instruments
+may obscure certain elements of risk and exposure. Obtaining an understanding
+of the instruments in which the entity has invested or to which it
+is exposed, including the characteristics of the instruments, helps
+the auditor identify whether</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>important aspects of a transaction are missing or
+inaccurately recorded.</para>
+        </listitem>
+        <listitem>
+          <para>the risks inherent in them are fully understood and
+managed by the entity.</para>
+        </listitem>
+        <listitem>
+          <para>the instruments are valued using an appropriate valuation
+technique.</para>
+        </listitem>
+        <listitem>
+          <para>the financial instruments are appropriately classified
+into current and noncurrent assets and liabilities.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi2_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.07</titleabbrev>
+        <title role="ps_para_number">2.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">Examples of matters that the auditor may
+consider when obtaining an understanding of the entity’s financial
+instruments include</para>
+      <para role="ps_indent_0">Inquiries of the internal audit function
+and risk management function, if such functions exist, and discussions
+with those charged with governance may assist the auditor in obtaining
+this understanding.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>the types of financial instruments to which the entity
+is exposed.</para>
+        </listitem>
+        <listitem>
+          <para>the purpose for which they are used.</para>
+        </listitem>
+        <listitem>
+          <para>management’s and, when appropriate, those charged
+with governance’s understanding of the financial instruments, their
+use, and the accounting requirements.</para>
+        </listitem>
+        <listitem>
+          <para>their exact terms and characteristics so that their
+implications can be fully understood and, in particular, when transactions
+are linked, the overall effect of the financial instrument transactions.</para>
+        </listitem>
+        <listitem>
+          <para>how they fit into the entity’s overall risk management
+strategy.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi2_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.08</titleabbrev>
+        <title role="ps_para_number">2.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">In some cases, a contract, including a
+contract for a nonfinancial instrument, may contain a derivative.
+Some financial reporting frameworks permit or require such embedded
+derivatives to be separated from the host contract in some circumstances.
+Understanding management’s process for identifying and accounting
+for embedded derivatives will assist the auditor in understanding
+the risks to which the entity is exposed.</para>
+    </section>
+  </section>
+  <section id="aag-afi2_using_those_with_specialized" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Using Those With Specialized Skills and Knowledge in
+the Audit</titleabbrev>
+      <title role="ps_main_heading">
+        Using Those With Specialized Skills
+and Knowledge in the Audit
+        <footnote id="aag-afi2_fn5" label="fn 5" role="number">
+          <para>
+            When such a person’s expertise is in auditing and accounting,
+regardless of whether the person is from within, or external to, the
+firm, this person is considered to be part of the engagement team
+and is subject to the requirements of AU-C section 220B, . When such a
+person’s expertise is in a field other than accounting or auditing,
+such person is considered to be an auditor’s specialist, and the provisions
+of AU-C section 620B, , apply. AU-C section 620B explains
+that distinguishing between specialized areas of accounting or auditing
+and expertise in another field will be a matter of professional judgment,
+but it notes that the distinction may be made between expertise in
+methods of accounting for financial instruments (accounting and auditing
+expertise) and expertise in complex valuation techniques for financial
+instruments (expertise in a field other than accounting or auditing).
+            <emphasis role="italic">Quality Control for an Engagement Conducted in Accordance
+With Generally Accepted Auditing Standards</emphasis>
+            <emphasis role="italic">Using the Work of an
+Auditor’s Specialist</emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi2_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.09</titleabbrev>
+        <title role="ps_para_number">2.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        A key consideration in audits involving
+financial instruments, particularly complex financial instruments,
+is the competence of the auditor. Paragraph .16 of AU-C section 220B, , requires the
+engagement partner to be satisfied that the engagement team and any
+auditor’s specialists who are not part of the engagement team, collectively,
+have the appropriate competence and capabilities to perform the audit
+engagement in accordance with professional standards and applicable
+legal and regulatory requirements to enable an auditor’s report to
+be issued that is appropriate in the circumstances. Further, paragraphs
+.11–.15 of AU-C section 220B address the auditor’s responsibilities
+with respect to relevant ethical requirements and acceptance and continuance
+of client relationships and audit engagements.  provides examples of
+the types of matters that may be relevant to the auditor’s considerations
+in the context of financial instruments.
+        <emphasis role="italic">Quality Control for an Engagement Conducted in Accordance
+With Generally Accepted Auditing Standards</emphasis>
+        <olink targetptr="aag-afi2_10">Paragraph 2.10</olink>
+      </para>
+    </section>
+    <section id="aag-afi2_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.10</titleabbrev>
+        <title role="ps_para_number">2.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">Accordingly, auditing financial instruments
+may require the involvement of one or more specialists in the areas
+of, for example</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>understanding the financial instruments used by the
+entity and their characteristics, including their level of complexity.
+Using specialized skills and knowledge may be needed in checking whether
+all aspects of the financial instrument and related considerations
+have been captured in the financial statements and in evaluating whether
+adequate disclosure in accordance with the applicable financial reporting
+framework has been made when disclosure of risks is required.</para>
+        </listitem>
+        <listitem>
+          <para>understanding the applicable financial reporting framework,
+especially when areas are known to be subject to differing interpretations,
+or practice is inconsistent or developing.</para>
+        </listitem>
+        <listitem>
+          <para>understanding the legal, regulatory, and tax implications
+resulting from the financial instruments, including whether the contracts
+are enforceable by the entity (for example, reviewing the underlying
+contracts), which may require specialized skills and knowledge.</para>
+        </listitem>
+        <listitem>
+          <para>assessing the risks inherent in a financial instrument.</para>
+        </listitem>
+        <listitem>
+          <para>assisting the engagement team in gathering evidence
+to evaluate management’s valuations or to develop a point estimate
+or range, especially when fair value is determined by a complex model;
+when markets are inactive, and data and assumptions are difficult
+to obtain; when unobservable inputs are used; or when management has
+used a specialist.</para>
+        </listitem>
+        <listitem>
+          <para>evaluating IT controls, especially in entities with
+a high volume of financial instruments. In such entities, IT may be
+highly complex (for example, when significant information about those
+financial instruments is transmitted, processed, maintained, or accessed
+electronically). In addition, it may include relevant services provided
+by a service organization.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi2_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>2.11</titleabbrev>
+        <title role="ps_para_number">2.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The nature and use of particular types
+of financial instruments, the complexities associated with accounting
+and auditing requirements, and market conditions may lead to a need
+for the engagement team to consult with other accounting and audit professionals from within
+or outside the firm with relevant technical accounting or auditing
+expertise and experience, taking into account factors such as the
+following:
+        <footnote id="aag-afi2_fn6" label="fn 6" role="number">
+          <para>
+            Paragraph .20 of AU-C section
+220B requires the engagement partner to be satisfied that members
+of the engagement team have undertaken appropriate consultation during
+the course of the engagement, both within the engagement team and
+between the engagement team and others at the appropriate level within
+or outside the firm.
+            <emphasis role="italic">b</emphasis>
+          </para>
+        </footnote>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The capabilities and competence of the engagement
+team, including the experience of the members of the engagement team</para>
+        </listitem>
+        <listitem>
+          <para>The attributes of the financial instruments used by
+the entity</para>
+        </listitem>
+        <listitem>
+          <para>The identification of unusual circumstances or risks
+in the engagement, as well as the need for professional judgment,
+particularly with respect to materiality and significant risks</para>
+        </listitem>
+        <listitem>
+          <para>Market conditions</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+</root>

@@ -1,0 +1,35 @@
+<root id="aag-afi7_inherent_risk_factors_to" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatements</titleabbrev>
+    <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatements</title>
+  </sectioninfo>
+  <section id="aag-afi7_19" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>7.19</titleabbrev>
+      <title role="ps_para_number">7.19</title>
+    </sectioninfo>
+    <para role="ps_para_number">Because the classification of the bond
+had been changed from available for sale to held to maturity, the
+auditor assessed inherent risk to be high based on the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          . The accounting personnel’s lack of experience with changes in bond
+classifications and the special accounting considerations increase
+the inherent risk of the change being accounted for incorrectly.
+          <emphasis role="italic">The entity’s experience</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          . During the audit period, management changed its objective in holding
+the bond. Previously, management intended it to be available for sale,
+but now, its stated objective was to hold the security to its maturity. 
+          <emphasis role="italic">Management’s objectives</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

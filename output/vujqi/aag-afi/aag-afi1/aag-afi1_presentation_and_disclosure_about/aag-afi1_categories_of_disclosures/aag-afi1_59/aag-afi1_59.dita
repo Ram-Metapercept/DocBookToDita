@@ -1,0 +1,25 @@
+<root id="aag-afi1_59" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.59</titleabbrev>
+    <title role="ps_para_number">1.59</title>
+  </sectioninfo>
+  <para role="ps_para_number">Disclosure requirements include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>quantitative disclosures that are derived from the
+amounts included in the financial statements (for example, categories
+of financial assets and liabilities).</para>
+    </listitem>
+    <listitem>
+      <para>quantitative disclosures that require significant
+judgment (for example, sensitivity analysis for each type of market
+risk to which the entity is exposed).</para>
+    </listitem>
+    <listitem>
+      <para>qualitative disclosures (for example, those that describe
+the entity’s governance over financial instruments; objectives; controls,
+policies, and processes for managing each type of risk arising from
+financial instruments; and the methods used to measure the risks).</para>
+    </listitem>
+  </itemizedlist>
+</root>

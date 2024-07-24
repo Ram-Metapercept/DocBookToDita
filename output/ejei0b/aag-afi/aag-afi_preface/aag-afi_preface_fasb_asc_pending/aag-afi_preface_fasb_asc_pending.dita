@@ -1,0 +1,43 @@
+<root id="aag-afi_preface_fasb_asc_pending" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>FASB ASC Pending Content</titleabbrev>
+    <title role="ps_main_heading">FASB ASC Pending Content</title>
+  </sectioninfo>
+  <section id="aag-afi_preface_presentation_of_pending" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Presentation of Pending Content in FASB ASC</titleabbrev>
+      <title role="ps_sub_heading">Presentation of Pending Content in FASB
+ASC</title>
+    </sectioninfo>
+    <para role="ps_indent_0">
+      Amendments to FASB ® (ASC) (issued in the
+form of ASUs) are initially incorporated into FASB ASC in “Pending
+Content” boxes below the paragraphs being amended with links to the
+transition information. The Pending Content boxes are meant to provide
+users with information about how the guidance in a paragraph will
+change as a result of the new guidance.
+      <emphasis role="italic">Accounting Standards Codification</emphasis>
+    </para>
+    <para role="ps_indent_0">Pending content applies to different entities
+at different times due to varying fiscal year-ends, and because certain
+guidance may be effective on different dates for public and nonpublic
+entities. As such, FASB maintains amended guidance in pending content
+boxes within FASB ASC until the “roll-off” date. Generally, the roll-off
+date is six months following the latest fiscal year-end for which
+the original guidance being amended could still be applied.</para>
+  </section>
+  <section id="aag-afi_preface_presentation_of_fasb" role="ls_level_5">
+    <sectioninfo>
+      <titleabbrev>Presentation of FASB ASC Pending Content in AICPA Audit
+and Accounting Guides</titleabbrev>
+      <title role="ps_sub_heading">Presentation of FASB ASC Pending Content
+in AICPA Audit and Accounting Guides</title>
+    </sectioninfo>
+    <para role="ps_indent_0">Amended FASB ASC guidance that is included
+in pending content boxes in FASB ASC on September 1, 2020, is referenced
+as “Pending Content” in this guide. Readers should be aware that pending
+content referenced in this guide will eventually be subjected to FASB’s
+roll-off process and no longer be labeled as “Pending Content” in
+FASB ASC (as discussed in the previous paragraph).</para>
+  </section>
+</root>

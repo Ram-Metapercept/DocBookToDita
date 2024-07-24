@@ -1,0 +1,33 @@
+<root id="aag-afi6_departures_from_the_applicable" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Departures From the Applicable Financial Reporting Framework</titleabbrev>
+    <title role="ps_subsub_heading">Departures From the Applicable Financial
+Reporting Framework</title>
+  </sectioninfo>
+  <section id="aag-afi6_22" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.22</titleabbrev>
+      <title role="ps_para_number">6.22</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      After performing the audit procedures,
+including evaluating the findings of the valuation specialist, the
+auditor may conclude that management’s assertions in the financial
+statements about the identification or estimate of fair value are
+not presented or measured in accordance with applicable the financial
+reporting framework. This situation could arise from unresolved differences
+of opinion over the appropriateness of the valuation method or the
+reasonableness of the significant valuation assumptions. When financial
+statements are materially affected by a departure from the applicable
+financial reporting framework, and the auditor has performed an audit
+in accordance with GAAS, the auditor should issue a qualified or an
+adverse opinion on the financial statements.
+      <footnote id="aag-afi6_fn13" label="fn 13" role="number">
+        <para>
+          Paragraphs .08–.10 of AU-C section 705B, .
+          <emphasis role="italic">Modifications to the Opinion in the Independent Auditor’s Report</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+</root>

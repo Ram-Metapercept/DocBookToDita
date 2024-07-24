@@ -1,0 +1,23 @@
+<root id="aag-afi4_24" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.24</titleabbrev>
+    <title role="ps_para_number">4.24</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Paragraph .A4 of AU-C section 505B, , states that the design
+of a confirmation request may directly affect the confirmation response
+rate and the reliability and nature of the audit evidence obtained
+from responses. For example, a custodian would be able to confirm
+the existence of financial instruments but may be unable to confirm
+their valuation, the entity’s rights and obligations with respect
+to the financial instruments, or their completeness. Additionally,
+certain respondents’ accounting systems may facilitate the confirmation
+of single transactions rather than entire account balances, or respondents
+may not be able to confirm the balances of their installment loans,
+but they may be able to confirm whether their payments are up to date,
+the amount of the payment, and the key terms of their loans. Understanding
+the entity’s arrangements and transactions with third parties is key
+to determining the information to be confirmed. 
+    <emphasis role="italic">External Confirmations</emphasis>
+  </para>
+</root>

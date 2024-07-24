@@ -1,0 +1,27 @@
+<root id="aag-afi4_20" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.20</titleabbrev>
+    <title role="ps_para_number">4.20</title>
+  </sectioninfo>
+  <para role="ps_para_number">Areas of more significant judgment are
+often tested close to, or at, period-end because</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>valuations can change significantly in a short period
+of time, making it difficult to compare and reconcile interim balances
+with comparable information at the balance sheet date.</para>
+    </listitem>
+    <listitem>
+      <para>an entity may engage in an increased volume of financial
+instrument transactions between an interim period and year-end.</para>
+    </listitem>
+    <listitem>
+      <para>manual journal entries may only be made after the
+end of the accounting period.</para>
+    </listitem>
+    <listitem>
+      <para>nonroutine or significant transactions may take place
+late in the accounting period.</para>
+    </listitem>
+  </itemizedlist>
+</root>

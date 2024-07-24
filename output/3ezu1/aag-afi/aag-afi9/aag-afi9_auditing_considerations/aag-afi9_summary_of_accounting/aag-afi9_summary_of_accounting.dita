@@ -1,0 +1,21 @@
+<root id="aag-afi9_summary_of_accounting" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Summary of Accounting</titleabbrev>
+    <title role="ps_sub_heading">Summary of Accounting</title>
+  </sectioninfo>
+  <section id="aag-afi9_15" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.15</titleabbrev>
+      <title role="ps_para_number">9.15</title>
+    </sectioninfo>
+    <para role="ps_para_number">Under FASB ASC 815, the convertible bonds
+are hybrid instruments that should be separated into two components:
+straight interest-bearing bonds and a conversion option. Each component
+should be accounted for separately, with the bonds (the host contract)
+accounted for as available-for-sale securities under FASB ASC 320
+and the option accounted for as an embedded derivative under FASB
+ASC 815. Martin estimates the fair value of the straight bonds by
+subtracting the fair value of the embedded option from the basis of
+the hybrid instrument.</para>
+  </section>
+</root>

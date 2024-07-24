@@ -1,0 +1,96 @@
+<root id="aag-afi4_other_procedures" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Other Procedures</titleabbrev>
+    <title role="ps_subsub_heading">Other Procedures</title>
+  </sectioninfo>
+  <section id="aag-afi4_33" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.33</titleabbrev>
+      <title role="ps_para_number">4.33</title>
+    </sectioninfo>
+    <para role="ps_para_number">Other procedures that may provide audit
+evidence to support the completeness, accuracy, and existence assertions
+include</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>external confirmation of bank accounts, trades, and
+custodian statements. This can be done by direct confirmation with
+the counterparty (including the use of bank confirmations) in which
+a reply is sent to the auditor directly. Alternatively, this information
+may be obtained from the counterparty’s systems through a data feed.
+When this is done, controls to prevent tampering with the computer
+systems through which the information is transmitted may be considered
+by the auditor in evaluating the reliability of the evidence from
+the confirmation. If confirmations are not received, the auditor may
+be able to obtain evidence by reviewing contracts and testing relevant
+controls. However, external confirmations often do not provide adequate
+audit evidence with respect to the valuation assertion, though they
+may assist in identifying any side agreements. </para>
+      </listitem>
+      <listitem>
+        <para>reviewing reconciliations of statements or data feeds
+from custodians with the entity’s own records. This may necessitate
+evaluating IT controls around and within automated reconciliation
+processes and evaluating whether reconciling items are properly understood
+and resolved.</para>
+      </listitem>
+      <listitem>
+        <para>reviewing journal entries and the controls over the
+recording of such entries. This may assist in, for example,</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>determining if entries have been made by employees
+other than those authorized to do so.</para>
+      </listitem>
+      <listitem>
+        <para>identifying unusual or inappropriate end-of-period
+journal entries that may be relevant to fraud risk.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>reading individual contracts and reviewing supporting
+documentation of the entity’s financial instrument transactions, including
+accounting records, thereby verifying existence and rights and obligations.
+For example, an auditor may read individual contracts associated with
+financial instruments and review supporting documentation, including
+the accounting entries made when the contract was initially recorded,
+and may also subsequently review accounting entries made for valuation
+purposes. Doing so allows the auditor to evaluate whether the complexities
+inherent in a transaction have been fully identified and reflected
+in the accounts. Legal arrangements and their associated risks need
+to be considered by those with suitable expertise to ensure that rights
+exist.</para>
+      </listitem>
+      <listitem>
+        <para>performing tests of controls to obtain sufficient
+appropriate audit evidence about the operating effectiveness of relevant
+controls.</para>
+      </listitem>
+      <listitem>
+        <para>reviewing the entity’s complaints’ management systems.
+Unrecorded transactions may result in the entity’s failure to make
+a cash payment to a counterparty and may be detected by reviewing
+complaints received. </para>
+      </listitem>
+      <listitem>
+        <para>reviewing master netting arrangements to identify
+unrecorded instruments.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_34" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.34</titleabbrev>
+      <title role="ps_para_number">4.34</title>
+    </sectioninfo>
+    <para role="ps_para_number">These procedures are particularly important
+for some financial instruments, such as derivatives or guarantees,
+because they may not have a large initial investment, meaning it may
+be hard to identify their existence. For example, embedded derivatives
+are often contained in contracts for nonfinancial instruments that
+may not be included in confirmation procedures.</para>
+  </section>
+</root>

@@ -1,0 +1,38 @@
+<root id="aag-afi5_20" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.20</titleabbrev>
+    <title role="ps_para_number">5.20</title>
+  </sectioninfo>
+  <para role="ps_para_number">When valuation of financial instruments
+is based on unobservable inputs (that is, Level 3 inputs), matters
+the auditor may consider include, for example, how management supports
+the following:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The identification and characteristics of marketplace
+participants relevant to the financial instrument</para>
+    </listitem>
+    <listitem>
+      <para>How unobservable inputs are determined on initial
+recognition</para>
+    </listitem>
+    <listitem>
+      <para>Modifications the auditor has made to his or her own
+assumptions to reflect the auditor’s view of assumptions that marketplace
+participants would use</para>
+    </listitem>
+    <listitem>
+      <para>Whether he or she has incorporated the best input
+information available in the circumstances</para>
+    </listitem>
+    <listitem>
+      <para>When applicable, how his or her assumptions take account
+of comparable transactions</para>
+    </listitem>
+    <listitem>
+      <para>Sensitivity analysis of models when unobservable inputs
+are used and whether adjustments have been made to address measurement
+uncertainty</para>
+    </listitem>
+  </itemizedlist>
+</root>

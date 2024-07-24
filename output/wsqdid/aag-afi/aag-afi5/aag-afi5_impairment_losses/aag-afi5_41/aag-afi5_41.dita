@@ -1,0 +1,56 @@
+<root id="aag-afi5_41" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.41</titleabbrev>
+    <title role="ps_para_number">5.41</title>
+  </sectioninfo>
+  <para role="ps_para_number">Regardless of the valuation method used
+(including those investments reported based on an investee’s financial
+results), applicable financial reporting frameworks may require recognizing
+in earnings an impairment loss for a decline in fair value that is
+other than temporary. Determining whether losses are other than temporary
+often involves estimating the outcome of future events. Accordingly,
+judgment is required in determining whether factors exist that indicate
+that an impairment loss has been incurred at the end of the reporting
+period. These judgments are based on subjective, as well as objective,
+factors, including knowledge and experience about past and current
+events and assumptions about future events. The following are examples
+of such factors:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Fair value is significantly below cost, and</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>the decline is attributable to adverse conditions
+specifically related to the security or conditions in an industry
+or a geographic area.</para>
+    </listitem>
+    <listitem>
+      <para>the decline has existed for an extended period of
+time.</para>
+    </listitem>
+    <listitem>
+      <para>management does not possess both the intent and ability
+to hold the security for a period of time sufficient to allow for
+any anticipated recovery in fair value.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The security has been downgraded by a rating agency.</para>
+    </listitem>
+    <listitem>
+      <para>The financial condition of the issuer or counterparty
+has deteriorated.</para>
+    </listitem>
+    <listitem>
+      <para>Dividends have been reduced or eliminated, or scheduled
+interest payments have not been made.</para>
+    </listitem>
+    <listitem>
+      <para>The entity recorded losses from the security subsequent
+to the end of the reporting period.</para>
+    </listitem>
+  </itemizedlist>
+</root>

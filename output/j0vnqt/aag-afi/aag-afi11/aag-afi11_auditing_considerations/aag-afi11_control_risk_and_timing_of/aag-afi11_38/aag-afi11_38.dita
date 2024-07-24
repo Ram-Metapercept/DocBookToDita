@@ -1,0 +1,65 @@
+<root id="aag-afi11_38" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.38</titleabbrev>
+    <title role="ps_para_number">11.38</title>
+  </sectioninfo>
+  <para role="ps_para_number">Control risk has been assessed as low
+or moderate for certain assertions and as high for others:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        . For the assertions about existence or occurrence, completeness,
+and rights and obligations, control risk will be assessed as low or
+moderate. This is considered the most effective and efficient approach,
+given the controls in place, such as the performance of reconciliations
+and monitoring of hedge effectiveness. Tests of details of the recording
+of transactions in the general ledger in accordance with FASB ASC
+815 and confirmation procedures will take place prior to year-end.
+At year-end, various reconciliations, significant activity, and hedge
+effectiveness will be reviewed, and the continuance of controls tested
+will be reviewed through inquiry and observation. Paragraph .18 of
+AU-C section 330B, , states that irrespective of the assessed risk of material
+misstatements, the auditor should design and perform substantive procedures
+for all relevant assertions related to each material class of transactions,
+account balance, and disclosure. Because effective internal controls generally reduce but
+do not eliminate risk of material misstatement, tests of controls
+reduce but do not eliminate the need for substantive procedures. In addition, analytical procedures alone may not be sufficient
+in some cases.
+        <emphasis role="italic">Control risk as low or moderate</emphasis>
+        <emphasis role="italic">Performing Audit Procedures
+in Response to Assessed Risks and Evaluating the Audit Evidence Obtained</emphasis>
+        <footnote id="aag-afi11_fn9" label="fn 9" role="number">
+          <para>
+            All AU-C sections can be found in AICPA .
+            <emphasis role="italic">
+              <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+            </emphasis>
+          </para>
+        </footnote>
+        <footnote id="aag-afi11_fn10" label="fn 10" role="number">
+          <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+        </footnote>
+        <footnote id="aag-afi11_fn11" label="fn 11" role="number">
+          <para>
+            Paragraph .A9 of AU-C section 330B, .
+            <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+          </para>
+        </footnote>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        . For the assertions about valuation and presentation and disclosure,
+control risk is assessed as high due to the efficiency with which
+the valuation of derivatives at year-end can be tested. Also, adequacy
+of presentation and disclosure can only be assessed at year-end.
+        <emphasis role="italic">Control risk as high</emphasis>
+      </para>
+    </listitem>
+  </itemizedlist>
+</root>

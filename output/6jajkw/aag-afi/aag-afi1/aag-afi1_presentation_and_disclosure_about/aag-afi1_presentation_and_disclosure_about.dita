@@ -1,0 +1,310 @@
+<root id="aag-afi1_presentation_and_disclosure_about" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Presentation and Disclosure About Financial Instruments</titleabbrev>
+    <title role="ps_main_heading">
+      Presentation and Disclosure About Financial
+Instruments
+      <footnote id="aag-afi1_fn8" label="fn 8" role="number">
+        <para>
+          <emphasis role="shade">
+            FASB ASU No. 2018-13, , was issued in August 2018. The amendments resulting from this ASU
+are effective for all entities for fiscal years beginning after December
+15, 2019, including interim periods within those fiscal years; however,
+certain disclosures are not required for nonpublic entities. Early
+adoption is permitted.
+            <emphasis role="italic">Fair Value Measurement (Topic 820), Disclosure Framework
+— Changes to the Disclosure Requirements for Fair Value Measurement</emphasis>
+          </emphasis>
+        </para>
+        <para>
+          <emphasis role="shade">
+            The amendments in this ASU add,
+modify and remove disclosure requirements in FASB ASC 820, related
+to recurring and nonrecurring fair value measurements.
+            <tab/>
+          </emphasis>
+        </para>
+        <para>
+          <emphasis role="shade">
+            Application of the guidance in
+this ASU is prospective for certain amendments and retrospective for
+other amendments. Prospective application is required for only the
+most recent interim or annual period presented in the initial fiscal
+year of adoption for the following: changes in unrealized gains and
+losses; the range and weighted average of significant unobservable
+inputs used to develop Level 3 fair value measurements; and, the narrative
+description of measurement uncertainty. Retrospective application
+to all periods presented upon their effective date is required for
+all other amendments.
+            <tab/>
+          </emphasis>
+        </para>
+        <para>
+          <emphasis role="shade">
+            Readers are encouraged to consult
+the full text of this ASU on FASB's website at .
+            <tab/>
+            <ulink url="http://www.fasb.org">www.fasb.org</ulink>
+          </emphasis>
+        </para>
+      </footnote>
+    </title>
+  </sectioninfo>
+  <section id="aag-afi1_57" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.57</titleabbrev>
+      <title role="ps_para_number">1.57</title>
+    </sectioninfo>
+    <para role="ps_para_number">Most financial reporting frameworks require
+disclosures in the financial statements to enable users of the financial
+statements to make meaningful assessments of the effects of the entity’s
+financial instrument activities, including the risks and uncertainties
+associated with financial instruments.</para>
+  </section>
+  <section id="aag-afi1_58" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.58</titleabbrev>
+      <title role="ps_para_number">1.58</title>
+    </sectioninfo>
+    <para role="ps_para_number">Most frameworks require the disclosure
+of quantitative and qualitative information (including accounting
+policies) relating to financial instruments. The accounting requirements
+for fair value measurements in financial statement presentations and
+disclosures are extensive in most financial reporting frameworks and
+encompass more than just valuation of the financial instruments. For
+example, qualitative disclosures about financial instruments provide
+important contextual information about the characteristics of the
+financial instruments and their future cash flows that may help inform
+investors about the risks to which entities are exposed.</para>
+  </section>
+  <section id="aag-afi1_categories_of_disclosures" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Categories of Disclosures</titleabbrev>
+      <title role="ps_sub_heading">Categories of Disclosures</title>
+    </sectioninfo>
+    <section id="aag-afi1_59" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.59</titleabbrev>
+        <title role="ps_para_number">1.59</title>
+      </sectioninfo>
+      <para role="ps_para_number">Disclosure requirements include</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>quantitative disclosures that are derived from the
+amounts included in the financial statements (for example, categories
+of financial assets and liabilities).</para>
+        </listitem>
+        <listitem>
+          <para>quantitative disclosures that require significant
+judgment (for example, sensitivity analysis for each type of market
+risk to which the entity is exposed).</para>
+        </listitem>
+        <listitem>
+          <para>qualitative disclosures (for example, those that describe
+the entity’s governance over financial instruments; objectives; controls,
+policies, and processes for managing each type of risk arising from
+financial instruments; and the methods used to measure the risks).</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi1_60" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.60</titleabbrev>
+        <title role="ps_para_number">1.60</title>
+      </sectioninfo>
+      <para role="ps_para_number">The more sensitive the valuation to movements
+in a particular variable, the more likely it is that disclosure will
+be necessary to indicate the uncertainties surrounding the valuation.
+Financial reporting frameworks may also require disclosure of sensitivity
+analyses, including the effects of changes in assumptions used in
+the entity’s valuation techniques. For example, the additional disclosures
+required for financial instruments with fair value measurements that
+are categorized within level 3 inputs of the fair value hierarchy
+are aimed at informing users of financial statements about the effects
+of those fair value measurements that use the most subjective inputs.</para>
+    </section>
+    <section id="aag-afi1_61" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.61</titleabbrev>
+        <title role="ps_para_number">1.61</title>
+      </sectioninfo>
+      <para role="ps_para_number">Financial reporting frameworks may require
+disclosure of information that enables users of the financial statements
+to evaluate the nature and extent of the risks arising from financial
+instruments to which the entity is exposed at the reporting date.
+The extent of disclosure depends on the extent of the entity’s exposure
+to risks arising from financial instruments. This includes qualitative
+disclosures about</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>the exposures to risk and how they arise, including
+the possible effects on an entity’s future liquidity and collateral
+requirements.</para>
+        </listitem>
+        <listitem>
+          <para>the entity’s objectives, policies, and processes for
+managing the risk and the methods used to measure the risk.</para>
+        </listitem>
+        <listitem>
+          <para>any changes in exposures to risk or objectives, policies,
+or processes for managing risk from the previous period.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi1_fair_value_disclosures" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Fair Value Disclosures</titleabbrev>
+      <title role="ps_sub_heading">Fair Value Disclosures</title>
+    </sectioninfo>
+    <section id="aag-afi1_62" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.62</titleabbrev>
+        <title role="ps_para_number">1.62</title>
+      </sectioninfo>
+      <para role="ps_para_number">FASB ASC 820-10-50 discusses the disclosures
+required for assets and liabilities measured at fair value. As noted
+in FASB ASC 820-10-50-1, the reporting entity should disclose information
+that would help users of its financial statements understand and assess
+the following:</para>
+      <para role="ps_indent_hang_2">
+        For assets and liabilities that are measured at fair value
+on a recurring or nonrecurring basis in the statement of financial
+position after initial recognition, the valuation techniques and inputs
+used to develop those measurements; and
+        <emphasis role="italic">a.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        For recurring fair value measurements using significant unobservable
+inputs (Level 3), the effect of the measurements on earnings (or changes
+in net assets) or other comprehensive income for the period.
+        <emphasis role="italic">b.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_0">
+        <emphasis role="shade">“Pending Content”
+in the FASB ASC indicates that paragraph 1 of FASB ASC 820-10-50 is
+superseded by ASU No. 2018-13 and paragraph 1C is added. FASB ASC
+820-10-50-1C states that the objective of the disclosure requirements
+in the overall subtopic of FASB ASC 820 is to provide users of financial
+statements with information about assets and liabilities measured
+at fair value in the statement of financial position or disclosed
+in the notes to financial statements. The following items are listed
+in FASB ASC 820-10-50-1C:</emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          The valuation techniques and inputs
+that a reporting entity uses to arrive at its measures of fair value,
+including judgments and assumptions that the entity makes
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          The uncertainty in the fair value
+measurements as of the reporting date
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          How changes in fair value measurements
+affect an entity’s performance and cash flows.
+          <emphasis role="italic">c.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi1_63" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.63</titleabbrev>
+        <title role="ps_para_number">1.63</title>
+      </sectioninfo>
+      <para role="ps_para_number">To meet the objectives noted in the preceding
+paragraph, FASB ASC 820-10-50-1A states that a reporting entity should
+consider all of the following:</para>
+      <para role="ps_indent_hang_2">
+        The level of detail necessary to satisfy the disclosure requirements
+        <emphasis role="italic">a.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        How much emphasis to place on each of the various requirements
+        <emphasis role="italic">b.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        How much aggregation or disaggregation to undertake
+        <emphasis role="italic">c.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        Whether users of financial statements need additional information
+to evaluate the quantitative information disclosed
+        <emphasis role="italic">d.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_0">If the disclosures set forth in the guidance
+are insufficient to meet the objectives in the preceding paragraph,
+a reporting entity should disclose additional information necessary
+to meet those objectives.</para>
+      <para role="ps_indent_0">
+        <emphasis role="shade">“Pending Content”
+in the FASB ASC indicates that paragraph 1A of FASB ASC 820-10-50
+is superseded by ASU No. 2018-13 and the content is amended and moved
+to paragraph 1D. FASB ASC 820-10-50-1D states that a reporting entity
+should consider all of the following items when complying with the
+disclosure requirements in the overall subtopic of FASB ASC 820. </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          The level of detail necessary to
+satisfy the disclosure requirements 
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          How much emphasis to place on each
+of the various requirements 
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          How much aggregation or disaggregation
+to undertake 
+          <emphasis role="italic">c.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        <emphasis role="shade">
+          Whether users of financial statements
+need additional information to evaluate the quantitative information
+disclosed.
+          <emphasis role="italic">d.</emphasis>
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi1_64" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.64</titleabbrev>
+        <title role="ps_para_number">1.64</title>
+      </sectioninfo>
+      <para role="ps_para_number">The required disclosures related to fair
+value are extensive and detailed. FASB ASC 820-10-50 provides details
+of the information that should be disclosed by the reporting entity.
+FASB ASC 820-10-50 also provides information on other required disclosures
+related to fair value. Paragraphs 99–107 of FASB ASC 820-10-55 provide
+illustrative disclosures about fair value measurements.</para>
+    </section>
+  </section>
+</root>

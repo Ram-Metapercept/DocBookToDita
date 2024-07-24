@@ -1,0 +1,88 @@
+<root id="aag-afi1_effects_of_inactive_markets" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Effects of Inactive Markets</titleabbrev>
+    <title role="ps_sub_heading">Effects of Inactive Markets</title>
+  </sectioninfo>
+  <section id="aag-afi1_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.31</titleabbrev>
+      <title role="ps_para_number">1.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">Measurement uncertainty increases and
+valuation is more complicated when the markets in which financial
+instruments or their component parts are traded become inactive. No
+clear point exists at which an active market becomes inactive, though
+financial reporting frameworks may provide guidance on this issue.
+Characteristics of an inactive market include a significant decline
+in the volume and level of trading activity, and available prices
+vary significantly over time or among market participants, or the
+prices are not current. However, assessing whether a market is inactive
+requires judgment.</para>
+  </section>
+  <section id="aag-afi1_32" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.32</titleabbrev>
+      <title role="ps_para_number">1.32</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      When markets are inactive, quoted prices
+may be stale (that is, out of date); may not represent prices at which
+market participants may trade; or may represent forced transactions
+(such as [] when a seller is required
+to sell an asset to meet regulatory or legal requirements or needs
+to dispose of an asset immediately to create liquidity or [] the existence of a single potential buyer
+as a result of the legal or time restrictions imposed). Accordingly,
+valuations may be developed based on level 2 and level 3 inputs. Under
+such circumstances, entities may have
+      <emphasis role="italic">a</emphasis>
+      <emphasis role="italic">b</emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>a valuation policy that includes a process for determining
+whether level 1 inputs are available.</para>
+      </listitem>
+      <listitem>
+        <para>an understanding of how particular prices or inputs
+from external sources used as inputs to valuation techniques were
+calculated in order to assess their reliability. For example, in an
+active market, a broker quote on a financial instrument that has not
+traded is likely to reflect actual transactions on a similar financial
+instrument, but as the market becomes less active, the broker quote
+may rely more on proprietary valuation techniques to determine prices.</para>
+      </listitem>
+      <listitem>
+        <para>an understanding of how deteriorating business conditions
+affect the counterparty, as well as whether deteriorating business
+conditions in entities similar to the counterparty may indicate that
+the counterparty may not fulfill its obligations (that is, nonperformance
+risk).</para>
+      </listitem>
+      <listitem>
+        <para>policies for adjusting for measurement uncertainties.
+Such adjustments can include model adjustments, lack of liquidity
+adjustments, credit risk adjustments, and other risk adjustments.</para>
+      </listitem>
+      <listitem>
+        <para>the capability to calculate the range of realistic
+outcomes, given the uncertainties involved (for example by performing
+a sensitivity analysis).</para>
+      </listitem>
+      <listitem>
+        <para>policies for identifying when a fair value measurement
+input moves to a different level of the fair value hierarchy.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_33" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.33</titleabbrev>
+      <title role="ps_para_number">1.33</title>
+    </sectioninfo>
+    <para role="ps_para_number">Particular difficulties may develop when
+severe curtailment or even cessation of trading in particular financial
+instruments exists. In these circumstances, financial instruments
+that have previously been valued using market prices may need to be
+valued using a model.</para>
+  </section>
+</root>

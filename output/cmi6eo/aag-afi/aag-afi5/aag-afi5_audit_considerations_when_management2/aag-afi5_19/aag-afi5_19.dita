@@ -1,0 +1,19 @@
+<root id="aag-afi5_19" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.19</titleabbrev>
+    <title role="ps_para_number">5.19</title>
+  </sectioninfo>
+  <para role="ps_para_number">Testing a model can be accomplished by
+the following two main approaches:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The auditor can test management’s model by considering
+the appropriateness of the model used by management, the reasonableness
+of the assumptions and data used, and the mathematical accuracy.</para>
+    </listitem>
+    <listitem>
+      <para>The auditor can develop his or her own estimate and
+then compare the auditor’s valuation with that of the entity.</para>
+    </listitem>
+  </itemizedlist>
+</root>

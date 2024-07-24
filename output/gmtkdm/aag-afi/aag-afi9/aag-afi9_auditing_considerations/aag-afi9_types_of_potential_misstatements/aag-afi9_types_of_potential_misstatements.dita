@@ -1,0 +1,35 @@
+<root id="aag-afi9_types_of_potential_misstatements" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Types of Potential Misstatements</titleabbrev>
+    <title role="ps_sub_heading">Types of Potential Misstatements</title>
+  </sectioninfo>
+  <section id="aag-afi9_16" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.16</titleabbrev>
+      <title role="ps_para_number">9.16</title>
+    </sectioninfo>
+    <para role="ps_para_number">There could be departures from the recognition
+measurement and disclosure requirements of FASB ASC 815 for the embedded
+derivative instrument, such as</para>
+    <para role="ps_indent_0">In addition, there is the risk of departures
+from the measurement and disclosure requirements of FASB ASC 320 for
+the straight bonds.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>a failure to identify the option and account for it
+separately from the straight bond.</para>
+      </listitem>
+      <listitem>
+        <para>errors in determining the fair values of the components
+when allocating the purchase price and at subsequent measurement dates.</para>
+      </listitem>
+      <listitem>
+        <para>errors in accounting for changes in fair value.</para>
+      </listitem>
+      <listitem>
+        <para>inadequate presentation and disclosure in the financial
+statements.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

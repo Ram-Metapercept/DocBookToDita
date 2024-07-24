@@ -1,0 +1,1224 @@
+<root id="aag-afi3_understanding_internal_control" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Understanding Internal Control</titleabbrev>
+    <title role="ps_main_heading">Understanding Internal Control</title>
+  </sectioninfo>
+  <section id="aag-afi3_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.01</titleabbrev>
+      <title role="ps_para_number">3.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      AU-C section 315B, , addresses the auditor’s responsibility
+to identify and assess the risks of material misstatement in the financial
+statements through understanding the entity and its environment, including
+the entity’s internal control. Obtaining an understanding of the entity and its environment,
+including the entity’s internal control, is a continuous, dynamic
+process of gathering, updating, and analyzing information throughout
+the audit. The understanding obtained enables the auditor to identify
+and assess the risks of material misstatement at the financial statement
+and assertion levels, thereby providing a basis for designing and
+implementing responses to the assessed risks of material misstatement.
+The volume and variety of the financial instrument transactions of
+an entity typically determine the nature and extent of controls that
+may exist at an entity. An understanding of how financial instruments
+are monitored and controlled assists the auditor in determining the
+nature, timing, and extent of audit procedures.
+      <emphasis role="italic">Understanding the Entity and Its Environment and Assessing the Risks
+of Material Misstatement</emphasis>
+      <footnote id="aag-afi3_fn2" label="fn 2" role="number">
+        <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi3_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.02</titleabbrev>
+      <title role="ps_para_number">3.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">AU-C section 315B requires the auditor
+to obtain a sufficient understanding of internal control by performing
+risk assessment procedures to</para>
+    <para role="ps_indent_0">The auditor is required to use this knowledge
+to</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>evaluate the design of controls relevant to an audit
+of financial statements.</para>
+      </listitem>
+      <listitem>
+        <para>determine whether they have been implemented.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>identify types of potential misstatements.</para>
+      </listitem>
+      <listitem>
+        <para>consider factors that affect the risks of material
+misstatement.</para>
+      </listitem>
+      <listitem>
+        <para>design tests of controls, when applicable, and substantive
+procedures.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi3_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.03</titleabbrev>
+      <title role="ps_para_number">3.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">AU-C section 315B explains that the division
+of internal control into the following five components, for purposes
+of generally accepted accounting standards, provides a useful framework
+for auditors when considering how different aspects of an entity’s
+internal control may affect the audit:</para>
+    <para role="ps_indent_hang_2">
+      The control environment
+      <emphasis role="italic">
+        a.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      The entity’s risk assessment process
+      <emphasis role="italic">
+        b.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      The information system, including the related business processes
+relevant to financial reporting and communication
+      <emphasis role="italic">
+        c.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      Control activities
+      <emphasis role="italic">
+        d.
+        <tab/>
+      </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      Monitoring of controls
+      <emphasis role="italic">
+        e.
+        <tab/>
+      </emphasis>
+    </para>
+  </section>
+  <section id="aag-afi3_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.04</titleabbrev>
+      <title role="ps_para_number">3.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">The division does not necessarily reflect
+how an entity designs, implements, and maintains internal control
+or how it may classify any particular component. Auditors may use
+different terminology or frameworks to describe the various aspects
+of internal control and their effect on the audit other than those
+used in this section, provided that all the components described in
+this section are addressed.</para>
+  </section>
+  <section id="aag-afi3_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.05</titleabbrev>
+      <title role="ps_para_number">3.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      This chapter provides background information
+and examples of controls that may exist in an entity that deals in
+a high volume of financial instrument transactions, whether for trading
+or investing purposes. The examples are not meant to be exhaustive,
+and entities may establish different control environments and processes
+depending on their size, the industry in which they operate, and the
+extent of their financial instrument transactions. The following four
+Technical Questions and Answers (Q&amp;A) sections address internal control:
+      <footnote id="aag-afi3_fn3" label="fn 3" role="number">
+        <para>
+           is not a source
+of established authoritative accounting principles as described in
+the FASB , the authoritative source
+of U.S. generally accepted accounting principles for nongovernmental
+entities. This nonauthoritative material is based on selected practice
+matters identified by the staff of the AICPA  and various other bodies within the AICPA and has
+not been approved, disapproved, or otherwise acted upon by any senior
+technical committee of the AICPA. 
+          <emphasis role="italic">
+            <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+          </emphasis>
+          <emphasis role="italic">Accounting Standards Codification</emphasis>
+          <emphasis role="superscript">®</emphasis>
+          <ulink url="https://www.aicpa.org/research/technicalhotline.html">Technical
+Hotline</ulink>
+        </para>
+        <para>
+          All Q&amp;A sections can be found in .
+          <tab/>
+          <emphasis role="italic">
+            <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <table frame="all" print-only-role="ps_narrative_normal" id="aag-afi3_table1" role="ps_table_center">
+      <tgroup align="left" cols="2">
+        <colspec colname="col1" colwidth="2.5in"/>
+        <colspec colname="col2" colwidth="4in"/>
+        <tbody>
+          <row valign="top">
+            <entry>
+              <para>
+                , “Obtaining an Understanding of Business Processes Relevant to Financial
+Reporting and Communication”
+                <olink targetdoc="tpa" targetptr="tis_8200_17">8200.17</olink>
+              </para>
+            </entry>
+            <entry>
+              <para>This Q&amp;A section addresses whether auditors are required
+to obtain an understanding of business processes relevant to financial
+reporting and communication in every audit engagement.</para>
+            </entry>
+          </row>
+          <row valign="top">
+            <entry>
+              <para>
+                , “Obtaining an Understanding of Internal Control Relevant to the
+Audit”
+                <olink targetdoc="tpa" targetptr="tis_8200_18">8200.18</olink>
+              </para>
+            </entry>
+            <entry>
+              <para>This Q&amp;A section addresses whether an understanding of internal
+control relevant to the audit should encompass more than control activities. </para>
+            </entry>
+          </row>
+          <row valign="top">
+            <entry>
+              <para>
+                , “Obtaining an Understanding of the Controls Relevant to the Audit”
+                <olink targetdoc="tpa" targetptr="tis_8200_19">8200.19</olink>
+              </para>
+            </entry>
+            <entry>
+              <para>This Q&amp;A section addresses whether an understanding of controls
+relevant to the audit requires that the auditor evaluate the design
+of controls relevant to the audit and determine whether they have
+been implemented every year. </para>
+            </entry>
+          </row>
+          <row valign="top">
+            <entry>
+              <para>
+                , “Control Activities That Are Always Relevant to the Audit”
+                <olink targetdoc="tpa" targetptr="tis_8200_20">8200.20</olink>
+              </para>
+            </entry>
+            <entry>
+              <para>This Q&amp;A section addresses the control activities that are
+always considered to be relevant in every audit. </para>
+            </entry>
+          </row>
+          <row valign="top">
+            <entry>
+              <para>
+                , “Control Activities That May Be Relevant to the Audit”
+                <olink targetdoc="tpa" targetptr="tis_8200_21">8200.21</olink>
+              </para>
+            </entry>
+            <entry>
+              <para>This Q&amp;A section addresses the control activities that may
+vary from audit engagement to audit engagement and may be relevant
+to the audit (based on the auditor’s judgment).</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <section id="aag-afi3_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>3.06</titleabbrev>
+      <title role="ps_para_number">3.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">As in any control system, it is sometimes
+necessary to duplicate controls at different control levels (for example,
+preventative, detective, and monitoring) to avoid the risk of material
+misstatement.</para>
+  </section>
+  <section id="aag-afi3_the_entitys_control_environment" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>The Entity’s Control Environment</titleabbrev>
+      <title role="ps_sub_heading">The Entity’s Control Environment</title>
+    </sectioninfo>
+    <section id="aag-afi3_commitment_to_competence" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Commitment to Competence </titleabbrev>
+        <title role="ps_subsub_heading">Commitment to Competence </title>
+      </sectioninfo>
+      <section id="aag-afi3_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.07</titleabbrev>
+          <title role="ps_para_number">3.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">The degree of complexity of some financial
+instrument activities may mean that only a few individuals within
+the entity fully understand those activities or have the expertise
+necessary to value the instruments on an ongoing basis. Use of financial
+instruments without relevant expertise within the entity increases
+the risk of material misstatement.</para>
+      </section>
+    </section>
+    <section id="aag-afi3_participation_by_those_charged" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Participation by Those Charged With Governance</titleabbrev>
+        <title role="ps_subsub_heading">Participation by Those Charged With
+Governance</title>
+      </sectioninfo>
+      <section id="aag-afi3_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.08</titleabbrev>
+          <title role="ps_para_number">3.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">Paragraph .A79 of AU-C section 315B addresses
+elements of the control environment that may be relevant when obtaining
+an understanding of the control environment and identifies the following
+attributes of those charged with governance:</para>
+        <para role="ps_indent_hang_2">
+          their independence from management.
+          <emphasis role="italic">a.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          their experience and stature.
+          <emphasis role="italic">b.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          the extent of their involvement and the information they receive
+and the scrutiny of activities.
+          <emphasis role="italic">c.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          the appropriateness of their actions, including the degree
+to which difficult questions are raised and pursued with management.
+          <emphasis role="italic">d.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_hang_2">
+          their interaction with internal and external auditors.
+          <emphasis role="italic">e.</emphasis>
+          <tab/>
+        </para>
+        <para role="ps_indent_0">Those charged with governance oversee and
+concur with management’s establishment of the entity’s overall risk
+appetite and provide oversight over the entity’s financial instrument
+activities. An entity’s policies for the purchase, sale, and holding
+of financial instruments are aligned with its attitude toward risk
+and the expertise of those involved in financial instrument activities.
+In addition, an entity may establish governance structures and control
+processes aimed at</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>communicating investment decisions and assessments
+of all material measurement uncertainty to those charged with governance,
+as well as </para>
+          </listitem>
+          <listitem>
+            <para>evaluating the entity’s overall risk appetite when
+engaging in financial instrument transactions.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi3_organizational_structure" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Organizational Structure</titleabbrev>
+        <title role="ps_subsub_heading">Organizational Structure</title>
+      </sectioninfo>
+      <section id="aag-afi3_09" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.09</titleabbrev>
+          <title role="ps_para_number">3.09</title>
+        </sectioninfo>
+        <para role="ps_para_number">Financial instrument activities may be
+operated on either a centralized or decentralized basis. Such activities
+and related decision making depend heavily on the flow of accurate,
+reliable, and timely management information. The difficulty of collecting
+and aggregating such information increases with the number of locations
+and businesses in which an entity is involved. The risks of material
+misstatement associated with financial instrument activities may increase
+with greater decentralization of control activities. This may especially
+be true when an entity is based in different locations or, perhaps,
+other countries.</para>
+      </section>
+    </section>
+    <section id="aag-afi3_assignment_of_authority_and" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Assignment of Authority and Responsibility</titleabbrev>
+        <title role="ps_subsub_heading">Assignment of Authority and Responsibility</title>
+      </sectioninfo>
+      <section id="aag-afi3_10" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.10</titleabbrev>
+          <title role="ps_para_number">3.10</title>
+        </sectioninfo>
+        <para role="ps_para_number">Providing direction through clearly stated
+policies approved by those charged with governance for the purchase,
+sale, and holding of financial instruments enables management to establish
+an effective approach to taking and managing business risks. These
+policies are most clear when they state the entity’s objectives with
+regard to its risk management activities and the financial instrument
+and hedging alternatives available to meet these objectives and when
+they reflect the following:</para>
+        <para role="ps_indent_hang_2">
+          Level of management’s expertise
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Sophistication of the entity’s internal control and monitoring systems
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Entity’s asset and liability structure
+          <emphasis role="italic">
+            c.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Entity’s capacity to maintain liquidity and absorb losses of capital
+          <emphasis role="italic">
+            d.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Types of financial instruments that management believes will meet
+its objectives
+          <emphasis role="italic">
+            e.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Uses of financial instruments that management believes will meet
+its objectives (for example, whether derivatives may be used for speculative
+purposes or only for hedging purposes)
+          <emphasis role="italic">
+            f.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi3_11" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.11</titleabbrev>
+          <title role="ps_para_number">3.11</title>
+        </sectioninfo>
+        <para role="ps_para_number">Management may design policies aligned
+with its valuation capabilities and establish controls to ensure that
+these policies are adhered to by those employees responsible for the
+entity’s valuation. These may include</para>
+        <para role="ps_indent_hang_2">
+          processes for the design and validation of methodologies used to
+produce valuations, including how measurement uncertainty is addressed.
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          policies regarding maximizing the use of observable inputs and the
+types of information to be gathered to support valuations of financial
+instruments.
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi3_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.12</titleabbrev>
+          <title role="ps_para_number">3.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">In smaller entities, dealing in financial
+instruments may be rare, and management’s knowledge and experience
+may be limited. Nevertheless, establishing policies over financial
+instruments helps an entity determine its risk appetite and consider
+whether investing in particular financial instruments achieves a stated
+objective.</para>
+      </section>
+    </section>
+    <section id="aag-afi3_human_resource_policies_and" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Human Resource Policies and Practices</titleabbrev>
+        <title role="ps_subsub_heading">Human Resource Policies and Practices</title>
+      </sectioninfo>
+      <section id="aag-afi3_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.13</titleabbrev>
+          <title role="ps_para_number">3.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">Entities may establish policies requiring
+key employees, both sales function and administrative and support
+services, to take mandatory time off from their duties. This type
+of control is used as a means of preventing and detecting fraud, in
+particular if those engaged in trading activities are creating false
+trades or inaccurately recording transactions.</para>
+      </section>
+    </section>
+    <section id="aag-afi3_use_of_service_organizations" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Use of Service Organizations</titleabbrev>
+        <title role="ps_subsub_heading">Use of Service Organizations</title>
+      </sectioninfo>
+      <section id="aag-afi3_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.14</titleabbrev>
+          <title role="ps_para_number">3.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Entities may use service organizations
+(for example, asset managers) to initiate the purchase or sale of
+financial instruments, maintain records of transactions for the entity,
+or value financial instruments. Some entities may be dependent on
+these service organizations to provide the basis of reporting for
+the financial instruments held. However, if management does not have
+an understanding about the controls in place at a service organization,
+the auditor may not be able to obtain sufficient appropriate audit
+evidence to rely on controls at that service organization. AU-C section
+402B, , establishes requirements
+for the auditor to obtain sufficient appropriate audit evidence when
+an entity uses the services of one or more service organizations.  provide further
+guidance about the use of a service organization.
+          <emphasis role="italic">Audit Considerations Relating to an
+Entity Using a Service Organization</emphasis>
+          <olink targetptr="aag-afi3_40">Paragraphs 3.40–.54</olink>
+        </para>
+      </section>
+      <section id="aag-afi3_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.15</titleabbrev>
+          <title role="ps_para_number">3.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">The use of service organizations may strengthen
+or weaken the control environment for financial instruments. For example,
+a service organization’s personnel may have more experience with financial
+instruments than the entity’s management or more robust internal control
+over financial reporting. The use of the service organization also
+may allow for greater segregation of duties. On the other hand, the
+service organization may have a poor control environment. </para>
+      </section>
+      <section id="aag-afi3_16" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.16</titleabbrev>
+          <title role="ps_para_number">3.16</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          , "Illustrative Questions About the Entity’s Controls Over
+Its Financial Instrument Activities," of this guide provides an illustration
+of questions that may be helpful to the auditor in obtaining an understanding
+of an entity’s controls over its financial instrument activities.
+          <olink targetptr="aag-afi_appB">Appendix
+B</olink>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi3_the_entitys_risk_assessment" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>The Entity’s Risk Assessment Process</titleabbrev>
+      <title role="ps_sub_heading">The Entity’s Risk Assessment Process</title>
+    </sectioninfo>
+    <section id="aag-afi3_17" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.17</titleabbrev>
+        <title role="ps_para_number">3.17</title>
+      </sectioninfo>
+      <para role="ps_para_number">An entity’s risk assessment process exists
+to establish how management identifies business risks that derive
+from its use of financial instruments, including how management estimates
+the significance of the risks, assesses the likelihood of their occurrence,
+and decides upon actions to manage them.</para>
+    </section>
+    <section id="aag-afi3_18" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.18</titleabbrev>
+        <title role="ps_para_number">3.18</title>
+      </sectioninfo>
+      <para role="ps_para_number">The entity’s risk assessment process forms
+the basis for how management determines the risks to be managed. Risk
+assessment processes exist with the objective of ensuring that management</para>
+      <para role="ps_indent_hang_2">
+        understands the risks inherent in a financial instrument before they
+enter into it, including the objective of entering into the transaction
+and its structure (for example, the economics and business purpose
+of the entity’s financial instrument activities).
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        performs adequate due diligence commensurate with the risks associated
+with particular financial instruments.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        monitors its outstanding positions to understand how market conditions
+are affecting its exposures.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        has procedures in place to reduce or change risk exposure if necessary
+and for managing business risk, which includes the risk of damaging
+its reputation.
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        subjects these processes to rigorous supervision and review.
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_19" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.19</titleabbrev>
+        <title role="ps_para_number">3.19</title>
+      </sectioninfo>
+      <para role="ps_para_number">The structure implemented to monitor and
+manage exposure to risks should</para>
+      <para role="ps_indent_hang_2">
+        be appropriate and consistent with the entity’s attitude toward risk
+as determined by those charged with governance.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        specify the approval levels for the authorization of different types
+of financial instruments and transactions that may be entered into
+and for what purposes. The permitted instruments and approval levels
+should reflect the expertise of those involved in financial instrument
+activities, demonstrating management’s commitment to competence.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        set appropriate limits for the maximum allowable exposure to each
+type of risk (including approved counterparties). Levels of allowable
+exposure may vary depending on the type of risk or counterparty.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        provide for the objective and timely monitoring of the financial
+risks and control activities.
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        provide for the objective and timely reporting of exposures, risks,
+and the results of financial instrument activities in managing risk.
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        evaluate management’s track record for assessing the risks of particular
+financial instruments.
+        <emphasis role="italic">
+          f.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_20" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.20</titleabbrev>
+        <title role="ps_para_number">3.20</title>
+      </sectioninfo>
+      <para role="ps_para_number">The types and levels of risks that an
+entity faces are directly related to the types of financial instruments
+with which it deals, including the complexity of these instruments
+and the volume of financial instruments transacted.</para>
+    </section>
+    <section id="aag-afi3_risk_management_function" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Risk Management Function</titleabbrev>
+        <title role="ps_subsub_heading">Risk Management Function</title>
+      </sectioninfo>
+      <section id="aag-afi3_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.21</titleabbrev>
+          <title role="ps_para_number">3.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">Some entities (for example, large financial
+institutions with a high volume of financial instrument transactions)
+may be required by law or regulation or may choose to establish a
+formal risk management function. This function is separated from those
+responsible for undertaking and managing financial instrument transactions.
+The function is responsible for reporting on and monitoring financial
+instrument activities and may include a formal risk committee established
+by those charged with governance. Examples of key responsibilities
+in this area may include</para>
+        <para role="ps_indent_hang_2">
+          implementing the risk management policy set by those charged with
+governance (including analyses of the risks to which an entity may
+be exposed).
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          designing risk limit structures and ensuring these risk limits are
+implemented in practice.
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          developing stress scenarios and subjecting open position portfolios
+to sensitivity analysis, including reviews of unusual movements in
+positions.
+          <emphasis role="italic">
+            c.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          reviewing and analyzing new financial instrument products.
+          <emphasis role="italic">
+            d.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi3_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.22</titleabbrev>
+          <title role="ps_para_number">3.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">Financial instruments may have the associated
+risk that a loss might exceed the amount, if any, of the value of
+the financial instrument recognized on the balance sheet. For example,
+a sudden fall in the market price of a commodity may force an entity
+to realize losses to close a forward position in that commodity due
+to collateral, or margin, requirements. In some cases, the potential
+losses may be enough to cast substantial doubt on the entity’s ability
+to continue as a going concern. The entity may perform sensitivity
+analyses or value-at-risk analyses to assess the future hypothetical
+effects on financial instruments subject to market risks. However,
+value-at-risk analysis does not fully reflect the extent of the risks
+that may affect the entity; sensitivity and scenario analyses also
+may be subject to limitations.</para>
+      </section>
+      <section id="aag-afi3_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.23</titleabbrev>
+          <title role="ps_para_number">3.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">The volume and sophistication of financial
+instrument activity and relevant regulatory requirements will influence
+the entity’s consideration whether to establish a formal risk management
+function and how the function may be structured. In entities that
+have not established a separate risk management function (for example,
+entities with relatively few financial instruments or financial instruments
+that are less complex), reporting on and monitoring financial instrument
+activities may be a component of the accounting or finance function’s
+responsibility or management’s overall responsibility and may include
+a formal risk committee established by those charged with governance.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi3_the_entitys_information_system" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>The Entity’s Information System</titleabbrev>
+      <title role="ps_sub_heading">The Entity’s Information System</title>
+    </sectioninfo>
+    <section id="aag-afi3_24" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.24</titleabbrev>
+        <title role="ps_para_number">3.24</title>
+      </sectioninfo>
+      <para role="ps_para_number">The key objective of an entity’s information
+system is that it is capable of capturing and recording all the transactions
+accurately, settling them, valuing them, and producing information
+to enable the financial instruments to be risk managed and for controls
+to be monitored. Difficulties can arise in entities that engage in
+a high volume of financial instruments, in particular if a multiplicity
+of systems are poorly integrated and have manual interfaces without
+adequate controls. </para>
+    </section>
+    <section id="aag-afi3_25" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.25</titleabbrev>
+        <title role="ps_para_number">3.25</title>
+      </sectioninfo>
+      <para role="ps_para_number">Certain financial instruments may require
+a large number of accounting entries. As the sophistication or level
+of the financial instrument activities increases, it is necessary
+for the sophistication of the information system to also increase.
+Specific issues that can arise with respect to financial instruments
+include</para>
+      <para role="ps_indent_hang_2">
+        information systems, particularly for smaller entities, not having
+the capability or being appropriately configured to process financial
+instrument transactions, especially when the entity does not have
+any prior experience in dealing with financial instruments. This may
+result in an increased number of manual transactions that may further
+increase the risk of error.
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the potential diversity of systems required to process more complex
+transactions and the need for regular reconciliations between them,
+in particular when the systems are not interfaced or may be subject
+to manual intervention.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the potential that more complex transactions, if they are only traded
+by a small number of individuals, may be valued or risk managed on
+spreadsheets rather than main processing systems and for the physical
+and logical password security around those spreadsheets to be more
+easily compromised.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        a lack of review of systems exception logs, external confirmations,
+and broker quotes, when available, to validate the entries generated
+by the systems.
+        <emphasis role="italic">
+          d.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        difficulties in controlling and evaluating the key inputs to systems
+for valuation of financial instruments, particularly when those systems
+are maintained by the group of traders known as the sales function
+or a third-party service provider, or the transactions in question
+are nonroutine or thinly traded.
+        <emphasis role="italic">
+          e.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        failure to evaluate the design and calibration of complex models
+used to process these transactions initially and on a periodic basis.
+        <emphasis role="italic">
+          f.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the potential that management has not set up a library of models
+with controls around access, change, and maintenance of individual
+models in order to maintain a strong audit trail of the accredited
+versions of models and in order to prevent unauthorized access or
+amendments to those models.
+        <emphasis role="italic">
+          g.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the disproportionate investment that may be required in risk management
+and control systems when an entity only undertakes a limited number
+of financial instrument transactions and the potential for misunderstanding
+of the output by management if the risk management and control systems
+are not used for these types of transactions.
+        <emphasis role="italic">
+          h.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the potential requirement for third-party systems providers (for
+example, from a service organization) to record, process, account
+for, or risk manage appropriately financial instrument transactions
+and the need to reconcile appropriately and challenge the output from
+those providers.
+        <emphasis role="italic">
+          i.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        additional security and control considerations relevant to the use
+of an electronic network when an entity uses electronic commerce for
+financial instrument transactions.
+        <emphasis role="italic">
+          j.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_26" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.26</titleabbrev>
+        <title role="ps_para_number">3.26</title>
+      </sectioninfo>
+      <para role="ps_para_number">Information systems relevant to financial
+reporting serve as an important source of information for the quantitative
+disclosures in the financial statements. However, entities may also
+develop and maintain nonfinancial systems used for internal reporting
+and to generate information included in qualitative disclosures (for
+example, regarding risks and uncertainties or sensitivity analyses).</para>
+    </section>
+  </section>
+  <section id="aag-afi3_the_entitys_control_activities" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>The Entity’s Control Activities</titleabbrev>
+      <title role="ps_sub_heading">The Entity’s Control Activities</title>
+    </sectioninfo>
+    <section id="aag-afi3_27" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.27</titleabbrev>
+        <title role="ps_para_number">3.27</title>
+      </sectioninfo>
+      <para role="ps_para_number">Control activities over financial instrument
+transactions are designed to prevent or detect problems that hinder
+an entity from achieving its objectives. These objectives may be operational,
+financial reporting, or compliance in nature. Control activities over
+financial instruments are designed relative to the complexity and
+volume of transactions of financial instruments and will generally
+include an appropriate authorization process, adequate segregation
+of duties, and other policies and procedures designed to ensure that
+the entity’s control objectives are met. Process flow charts may assist
+in identifying an entity’s controls and lack of controls.</para>
+    </section>
+    <section id="aag-afi3_authorization" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Authorization</titleabbrev>
+        <title role="ps_subsub_heading">Authorization</title>
+      </sectioninfo>
+      <section id="aag-afi3_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.28</titleabbrev>
+          <title role="ps_para_number">3.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">Authorization can affect the financial
+statement assertions both directly and indirectly. For example, even
+if a transaction is executed outside an entity’s policies, it nonetheless
+may be recorded and accounted for accurately. However, unauthorized
+transactions could significantly increase risk to the entity, thereby
+significantly increasing the risk of material misstatement because
+they would be undertaken outside the system of internal control. To
+mitigate this risk, an entity will often establish a clear policy
+regarding what transactions can be traded by whom, and adherence to
+this policy will then be monitored by an entity’s administrative and
+support services. Monitoring trading activities of individuals (for
+example, by reviewing unusually high volumes or significant gains
+or losses incurred) will assist management in ensuring compliance
+with the entity’s policies, including the authorization of new types
+of transactions, and evaluating whether fraud has occurred.</para>
+      </section>
+      <section id="aag-afi3_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.29</titleabbrev>
+          <title role="ps_para_number">3.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">The function of an entity’s deal initiation
+records is to identify clearly the nature and purpose of individual
+transactions and the rights and obligations arising under each financial
+instrument contract, including the enforceability of the contracts.
+In addition to the basic financial information, such as a notional
+amount, complete and accurate records, at a minimum, typically include
+the</para>
+        <para role="ps_indent_hang_2">
+          identity of the dealer.
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          identity of the person recording the transaction (if not the dealer),
+when the transaction was initiated (including the date and time of
+the transaction), and how it was recorded in the entity’s information
+systems.
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          nature and purpose of the transaction, including whether it is intended
+to hedge an underlying commercial exposure.
+          <emphasis role="italic">
+            c.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi3_segregation_of_duties" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Segregation of Duties</titleabbrev>
+        <title role="ps_subsub_heading">Segregation of Duties</title>
+      </sectioninfo>
+      <section id="aag-afi3_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.30</titleabbrev>
+          <title role="ps_para_number">3.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">Segregation of duties and the assignment
+of personnel is an important control activity, particularly when exposed
+to financial instruments. Financial instrument activities may be segregated
+into a number of functions, including the following:</para>
+        <para role="ps_indent_hang_2">
+          Executing the transaction (dealing). In entities with a high volume
+of financial instrument transactions, this may be done by the sales
+function.
+          <emphasis role="italic">
+            a.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Initiating cash payments and accepting cash receipts (settlements).
+          <emphasis role="italic">
+            b.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Sending out trade confirmations and reconciling the differences between
+the entity’s records and replies from counterparties, if any.
+          <emphasis role="italic">
+            c.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Recording correctly all transactions in the accounting records.
+          <emphasis role="italic">
+            d.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Monitoring risk limits. In entities with a high volume of financial
+instrument transactions, this may be performed by the risk management
+function.
+          <emphasis role="italic">
+            e.
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          Monitoring positions and valuing financial instruments.
+          <emphasis role="italic">
+            f.
+            <tab/>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi3_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.31</titleabbrev>
+          <title role="ps_para_number">3.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">Many organizations choose to segregate
+the duties of those investing in financial instruments, those valuing
+financial instruments, those settling financial instruments, and those
+accounting for the financial instruments. </para>
+      </section>
+      <section id="aag-afi3_32" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.32</titleabbrev>
+          <title role="ps_para_number">3.32</title>
+        </sectioninfo>
+        <para role="ps_para_number">When an entity is too small to achieve
+proper segregation of duties, the role of management and those charged
+with governance in monitoring financial instrument activities is of
+particular importance.</para>
+      </section>
+      <section id="aag-afi3_33" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.33</titleabbrev>
+          <title role="ps_para_number">3.33</title>
+        </sectioninfo>
+        <para role="ps_para_number">A feature of some entities’ internal control
+is an independent price verification (IPV) function. This department
+is responsible for separately verifying the price of some financial
+instruments and may use alternative data sources, methodologies, and
+assumptions. The IPV provides an objective look at the pricing that
+has been developed in another part of the entity. </para>
+      </section>
+      <section id="aag-afi3_34" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.34</titleabbrev>
+          <title role="ps_para_number">3.34</title>
+        </sectioninfo>
+        <para role="ps_para_number">Ordinarily, the risk management function
+establishes policies on valuation and other functions (for example,
+administrative and support services) and may be responsible for ensuring
+adherence to the policy. Entities with a greater use of financial
+instruments may perform daily valuations of their financial instrument
+portfolio and examine the contribution to profit or loss of individual
+financial instrument valuations as a test of the reasonableness of
+valuations.</para>
+      </section>
+      <section id="aag-afi3_35" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.35</titleabbrev>
+          <title role="ps_para_number">3.35</title>
+        </sectioninfo>
+        <para role="ps_para_number">Regular reconciliation of the entity’s
+records to external banks’ and custodians’ records enables the entity
+to ensure transactions are properly recorded. Appropriate segregation
+of duties between those transacting the trades and those reconciling
+them is important, as is a rigorous process for reviewing reconciliations
+and clearing reconciling items.</para>
+      </section>
+      <section id="aag-afi3_36" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.36</titleabbrev>
+          <title role="ps_para_number">3.36</title>
+        </sectioninfo>
+        <para role="ps_para_number">Controls may also be established that
+require traders to identify whether a complex financial instrument
+may have unique features (for example, embedded derivatives). In such
+circumstances, there may be a separate function that evaluates complex
+financial instrument transactions at their initiation (which may be
+known as a product control group) working in connection with an accounting
+policy group to ensure that the transaction is accurately recorded.
+Although smaller entities may not have product control groups, an
+entity may have a process in place relating to the review of complex
+financial instrument contracts at the point of origination in order
+to ensure that they are accounted for appropriately in accordance
+with the applicable financial reporting framework.</para>
+      </section>
+      <section id="aag-afi3_37" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>3.37</titleabbrev>
+          <title role="ps_para_number">3.37</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          , "Examples of Control Objectives, Related Controls, and
+Illustrative Tests of Controls for Financial Instruments," of this
+guide provides examples of control objectives, related controls, and
+illustrative tests of controls for financial instruments.
+          <olink targetptr="aag-afi_appC">Appendix
+C</olink>
+        </para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi3_monitoring_of_controls" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Monitoring of Controls</titleabbrev>
+      <title role="ps_sub_heading">Monitoring of Controls</title>
+    </sectioninfo>
+    <section id="aag-afi3_38" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.38</titleabbrev>
+        <title role="ps_para_number">3.38</title>
+      </sectioninfo>
+      <para role="ps_para_number">The entity’s ongoing monitoring activities
+are designed to detect and correct any deficiencies in the effectiveness
+of controls over transactions for financial instruments and their
+valuation. It is important that there is adequate supervision and
+review of financial instrument activity within the entity, including</para>
+      <para role="ps_indent_hang_2">
+        all controls being subject to review (for example, the monitoring
+of operational statistics, such as the number of reconciling items
+or the difference between internal pricing and external pricing sources).
+        <emphasis role="italic">
+          a.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the need for robust IT controls and monitoring and validating their
+application.
+        <emphasis role="italic">
+          b.
+          <tab/>
+        </emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        the need to ensure that information resulting from different processes
+and systems is adequately reconciled. For example, there is little
+benefit in a valuation process if its output is not reconciled properly
+to the general ledger.
+        <emphasis role="italic">
+          c.
+          <tab/>
+        </emphasis>
+      </para>
+    </section>
+    <section id="aag-afi3_39" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>3.39</titleabbrev>
+        <title role="ps_para_number">3.39</title>
+      </sectioninfo>
+      <para role="ps_para_number">In larger entities, sophisticated computer
+information systems generally keep track of financial instrument activities
+and are designed to ensure that settlements occur when due. More complex
+computer systems may generate automatic postings to clearing accounts
+to monitor cash movements, and controls over processing are put in
+place with the objective of ensuring that financial instrument activities
+are correctly reflected in the entity’s records. Computer systems
+may be designed to produce exception reports to alert management to
+situations when financial instruments have not been used within authorized
+limits or when transactions undertaken were not within the limits
+established for the chosen counterparties. However, even a sophisticated
+computer system may not ensure the completeness of the recording of
+financial instrument transactions. Accordingly, management frequently
+puts additional procedures in place to increase the likelihood that
+all transactions will be recorded.</para>
+    </section>
+  </section>
+</root>

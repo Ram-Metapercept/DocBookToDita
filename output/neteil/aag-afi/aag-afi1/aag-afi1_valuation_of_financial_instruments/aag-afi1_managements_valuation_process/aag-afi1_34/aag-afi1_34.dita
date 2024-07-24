@@ -1,0 +1,21 @@
+<root id="aag-afi1_34" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.34</titleabbrev>
+    <title role="ps_para_number">1.34</title>
+  </sectioninfo>
+  <para role="ps_para_number">Techniques that management may use to
+value the entity’s financial instruments include observable prices,
+recent transactions, and models that use observable or unobservable
+inputs. Management may also make use of a</para>
+  <para role="ps_indent_0">Third-party pricing sources and valuation
+specialists may use one or more of these valuation techniques.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>third-party pricing source, such as a pricing service
+or broker quote.</para>
+    </listitem>
+    <listitem>
+      <para>valuation specialist.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,1349 @@
+<root id="aag-afi9" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 9 — Case Study of Separately Accounting for a
+Derivative Embedded in a Bond</titleabbrev>
+    <title role="ps_section_heading">Chapter 9</title>
+    <subtitle role="ps_section_title">Case Study of Separately Accounting
+for a Derivative Embedded in a Bond</subtitle>
+  </chapterinfo>
+  <paraBlock role="ps_box_shade">
+    <para>
+      <emphasis role="italic">Gray
+shaded text in this chapter reflects guidance issued but not yet effective
+as of the date of this guide, September 1, 2020, but becoming effective
+on or prior to December 31, 2020, exclusive of any option to early
+adopt ahead of the mandatory effective date. Unless otherwise indicated,
+all unshaded text reflects guidance that was already effective as
+of the date of this guide.</emphasis>
+    </para>
+  </paraBlock>
+  <section id="aag-afi9_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.01</titleabbrev>
+      <title role="ps_para_number">9.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">In this case study, the entity purchases
+convertible bonds. The terms of the conversion feature allow the holder
+of the bonds the option of requiring the bond issuer to settle the
+bonds by converting each bond to a specified number of the issuer’s
+shares. These convertible bonds are a combination of an interest-bearing
+bond and a conversion option.</para>
+  </section>
+  <section id="aag-afi9_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.02</titleabbrev>
+      <title role="ps_para_number">9.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Under FASB  (ASC) 815-15-25, an embedded derivative,
+such as a conversion option, must be separated from its host contract
+(in this case, the bonds) and accounted for as a derivative instrument
+if certain criteria are met. This case study illustrates how to apply
+the guidance on accounting for embedded derivatives contained in FASB
+ASC 815, , including determining the fair value of the embedded derivative
+and host contract. The case study also provides an example of how
+to apply the guidance contained in AU-C section 501B, , to an embedded derivative.
+      <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+      <emphasis role="italic">Derivatives and Hedging</emphasis>
+      <emphasis role="italic">Audit Evidence — Specific Considerations for Selected
+Items</emphasis>
+      <footnote id="aag-afi9_fn1" label="fn 1" role="number">
+        <para>
+          All AU-C sections can be found in AICPA . Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statements on Auditing Standards (SASs) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently-issued
+SASs.
+          <olink targetdoc="ps" targetptr="ps">
+            <emphasis role="italic">Professional Standards</emphasis>
+          </olink>
+        </para>
+      </footnote>
+    </para>
+  </section>
+  <section id="aag-afi9_accounting_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Accounting Considerations</titleabbrev>
+      <title role="ps_main_heading">
+        Accounting Considerations
+        <footnote id="aag-afi9_fn2" label="fn 2" role="number">
+          <para>For simplicity, this case study ignores income tax consequences.</para>
+        </footnote>
+        <footnote id="aag-afi9_fn3" label="fn 3" role="number">
+          <para>
+            FASB Accounting Standards Update (ASU) No. 2016-13,  was issued in
+June 2016. The ASU is effective for fiscal years of public business
+entities (PBEs) that are SEC filers in fiscal years beginning after
+December 15, 2019, including interim periods within those fiscal years.
+For all other entities, the amendments in ASU No. 2016-13 are effective
+for fiscal years beginning after December 15, 2022, including interim
+periods within those fiscal years, consistent with the amended effective
+date in ASU No. 2019-10, . Early application
+is permitted for all entities as of the fiscal years beginning after
+December 15, 2018, including interim periods within those fiscal years.
+            <emphasis role="italic">Financial Instruments — Credit Losses (Topic 326): Measurement
+of Credit Losses on Financial Instruments</emphasis>
+            <emphasis role="italic">Financial Instruments
+— Credit Losses (Topic 326), Derivatives and Hedging (Topic 815),
+and Leases (Topic 842): Effective Dates</emphasis>
+          </para>
+          <para>
+            ASU No. 2016-13 creates FASB  (ASC) 326, , to amend guidance
+on reporting credit losses for assets held at amortized cost basis
+and available for sale debt securities. For assets held at amortized
+cost basis, FASB ASC 326 eliminates the probable initial recognition
+threshold in current generally accepted accounting principles (GAAP)
+and, instead, requires an entity to reflect its current estimate of
+all expected credit losses. The allowance for credit losses is a valuation
+account that is deducted from the amortized cost basis of the financial
+assets to present the net amount expected to be collected.
+            <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+            <emphasis role="italic">Financial Instruments — Credit Losses</emphasis>
+          </para>
+          <para>For available for sale debt securities, credit losses should
+be measured in a manner similar to current GAAP. However, FASB ASC
+326 will require that credit losses be presented as an allowance rather
+than as a write-down. ASU No. 2016-13 affects entities holding financial
+assets and net investment in leases that are not accounted for at
+fair value through net income. The amendments affect loans, debt securities,
+trade receivables, net investments in leases, off-balance-sheet credit
+exposures, reinsurance receivables, and any other financial assets
+not excluded from the scope that have the contractual right to receive
+cash. This also changed guidance in FASB ASC 325-40, which is related
+to initial and subsequent measurement.  </para>
+          <para>
+            Readers are encouraged to consult the full text of this ASU
+on FASB's website at . 
+            <ulink url="www.fasb.org">www.fasb.org</ulink>
+          </para>
+          <para>
+            For more information on ASU No. 2016-13, see , "Accounting for Financial
+Instruments," of this guide.
+            <olink targetptr="aag-afi_appF">appendix F</olink>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi9_description_of_the_transaction" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Transaction</titleabbrev>
+        <title role="ps_sub_heading">Description of the Transaction</title>
+      </sectioninfo>
+      <section id="aag-afi9_03" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.03</titleabbrev>
+          <title role="ps_para_number">9.03</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          On September 24, 20X1, Martin, Inc. (Martin)
+purchased as an investment 100 of the $1,000, 5% convertible bonds
+issued by Larson Enterprises (Larson). The bonds have a conversion
+option under which Martin can require Larson to settle the bonds at
+any time prior to their maturity by converting each bond into 26.185
+shares of Larson’s publicly traded equity securities. For each bond,
+Martin paid $1,242.50 plus accrued interest of $19.98, for a total
+price per bond of $1,262.48. Therefore, Martin paid $126,248 for the
+100 bonds, consisting of $124,250 for the convertible bonds and $1,998
+for accrued interest. Martin classifies the bonds as available for
+sale.
+          <footnote id="aag-afi9_fn4" label="fn 4" role="number">
+            <para>As noted in FASB ASC 320-10-25-5, the existence of the conversion
+option on Larson Enterprises’ (Larson’s) stock would generally preclude
+Martin, Inc. (Martin) from classifying the bonds as held to maturity.
+A conversion option feature on a held-to-maturity security will call
+into question an investor’s stated intent to hold other debt securities
+to maturity in the future.</para>
+          </footnote>
+        </para>
+      </section>
+      <section id="aag-afi9_04" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.04</titleabbrev>
+          <title role="ps_para_number">9.04</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          The convertible bonds are hybrid financial
+instruments that are a combination of straight interest-bearing bonds
+and a conversion option. Because the option affects the value of the
+bonds in a manner similar to a derivative, Martin must analyze the
+hybrid instrument against the three criteria set out in FASB ASC 815-15-25-1. If the bond meets all the criteria, the option is an embedded
+derivative that must be accounted for separately from the straight
+bonds. The straight bonds are considered to be the host contracts
+for the embedded derivative. , "Martin, Inc., Comparison of the Conversion
+Option in the Larson Enterprises’ Bonds With the Criteria in FASB  815-15-25-1
+for Separately Accounting for an Embedded Derivative," compares the
+option contained in the Larson convertible bonds with the three criteria.
+          <footnote id="aag-afi9_fn5" label="fn 5" role="number">
+            <para>
+              Because Larson’s equity securities are publicly traded, the
+option that requires physical delivery of those shares would generally
+be considered net settleable because the shares are readily convertible
+into cash. As discussed in FASB ASC 815-10-15-18, if the shares were
+not readily convertible into cash (for example, because they are privately
+held), the option would not be considered net settleable and, therefore,
+would not be a derivative instrument subject to the requirements of
+FASB ASC 815, , if freestanding.
+              <emphasis role="italic">Derivatives and Hedging</emphasis>
+            </para>
+          </footnote>
+          <olink targetptr="aag-afi9_exhibit_9-1">Exhibit 9-1</olink>
+          <emphasis role="italic">Accounting Standards Codification</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi9_05" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.05</titleabbrev>
+          <title role="ps_para_number">9.05</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraphs 4–5 of FASB ASC 815-15-25 permit
+fair value remeasurement of any hybrid financial instrument that contains
+an embedded derivative that otherwise would require bifurcation. An
+entity that initially recognizes a hybrid financial instrument that
+under FASB ASC 815-15-25-1 would be required to be separated into
+a host contract and derivative instrument may irrevocably elect to
+initially and subsequently measure that hybrid financial instrument
+in its entirety at fair value (with changes in fair value recognized
+in earnings and, if paragraph 825-10-45-5 is applicable, other comprehensive
+income). A financial instrument should be evaluated to determine that
+it has an embedded derivative requiring bifurcation before the instrument
+can become a candidate for the fair value election. The fair value
+election should be supported by concurrent documentation or a preexisting
+documented policy for automatic election. That recognized hybrid financial
+instrument could be an asset or a liability, and it could be acquired
+or issued by the entity. That election is also available when a previously
+recognized financial instrument is subject to a remeasurement event
+(new basis event) and the separate recognition of an embedded derivative.
+For purposes of FASB ASC 815-15-25-5, a  is an event identified in accounting
+principles generally accepted in the United States of America, other
+than the recognition of an other-than-temporary impairment, or measurement
+of an impairment loss through earnings under FASB ASC 321, , on equity
+investments, that requires a financial instrument to be remeasured
+to its fair value at the time of the event but does not require that
+instrument to be reported at fair value on a continuous basis with
+the change in fair value recognized in earnings. Examples of remeasurement
+events are  and , as defined in FASB ASC 470-50. Per FASB ASC 815-15-25-6, the fair
+value election should not be applied to any hybrid instruments listed
+in FASB ASC 825-10-50-8.
+          <emphasis role="italic">remeasurement
+(new basis event)</emphasis>
+          <emphasis role="italic">Investments — Equity Securities</emphasis>
+          <emphasis role="italic">business combinations</emphasis>
+          <emphasis role="italic">significant modifications of debt</emphasis>
+        </para>
+        <para role="ps_para_number">
+          <emphasis role="shade">
+            Paragraphs 4–5
+of FASB ASC 815-15-25 permit fair value remeasurement of any hybrid
+financial instrument that contains an embedded derivative that otherwise
+would require bifurcation. An entity that initially recognizes a hybrid
+financial instrument that under FASB ASC 815-15-25-1 would be required
+to be separated into a host contract and derivative instrument may
+irrevocably elect to initially and subsequently measure that hybrid
+financial instrument in its entirety at fair value (with changes in
+fair value recognized in earnings and, if paragraph 825-10-45-5 is
+applicable, other comprehensive income). A financial instrument should
+be evaluated to determine that it has an embedded derivative requiring
+bifurcation before the instrument can become a candidate for the fair
+value election. The fair value election should be supported by concurrent
+documentation or a preexisting documented policy for automatic election.
+That recognized hybrid financial instrument could be an asset or a
+liability, and it could be acquired or issued by the entity. That
+election is also available when a previously recognized financial
+instrument is subject to a remeasurement event (new basis event) and
+the separate recognition of an embedded derivative. For purposes of
+FASB ASC 815-15-25-5, a  is an event identified in accounting principles
+generally accepted in the United States of America, other than the
+recording of a credit loss under FASB ASC 326, , or measurement
+of an impairment loss through earnings under FASB ASC 321 on equity
+investments, that requires a financial instrument to be remeasured
+to its fair value at the time of the event but does not require that
+instrument to be reported at fair value on a continuous basis with
+the change in fair value recognized in earnings. Examples of remeasurement
+events are  and , as defined in FASB ASC 470-50. Per FASB ASC 815-15-25-6, the fair
+value election should not be applied to any hybrid instruments listed
+in FASB ASC 825-10-50-8.
+            <emphasis role="italic">remeasurement (new
+basis event)</emphasis>
+            <emphasis role="italic">Financial Instruments — Credit Losses</emphasis>
+            <emphasis role="italic">business combinations</emphasis>
+            <emphasis role="italic">significant modifications of debt</emphasis>
+          </emphasis>
+        </para>
+      </section>
+      <section id="aag-afi9_06" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.06</titleabbrev>
+          <title role="ps_para_number">9.06</title>
+        </sectioninfo>
+        <para role="ps_para_number">According to FASB ASC 815-15-25-5, the
+fair value election for hybrid financial instruments in paragraphs
+4–5 of FASB ASC 815-15-25 may be made on an instrument-by-instrument
+basis.</para>
+        <para id="aag-afi9_exhibit_9-1" role="ps_indent_0">
+          <emphasis role="bold">
+            Exhibit 9-1 — Martin, Inc., Comparison of the Conversion Option in
+the Larson Enterprises’ Bonds With the Criteria in FASB  815-15-25-1
+for Separately Accounting for an Embedded Derivative
+            <emphasis role="italic">Accounting Standards Codification</emphasis>
+          </emphasis>
+        </para>
+        <para role="ps_indent_0">Because all three criteria are met, Martin
+should account for the option (that is, embedded derivative) separately
+from the straight bond (that is, host contract).</para>
+        <table frame="all" id="aag-afi9_table1" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.92in"/>
+            <colspec colname="c3" colwidth="3.04in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Criterion</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Analysis</emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                     The economic characteristics and risks of the embedded derivative
+instrument are not clearly and closely related to the economic characteristics
+and risks of the host contract.
+                    <emphasis role="italic">Not clearly and closely related.</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                    Following the guidance in paragraphs 30–34 of FASB  (ASC) 815-10-15,
+because the option is based on stock prices, it is not clearly and
+closely related to the straight bond.
+                    <emphasis role="italic">Accounting Standards Codification</emphasis>
+                  </para>
+                  <para>
+                    <emphasis role="italic">Criterion is met.</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                     The hybrid instrument that embodies both the embedded derivative
+instrument and host contract is not remeasured at fair value under
+otherwise applicable accounting principles generally accepted in the
+United States of America, with changes in fair value reported in earnings
+as they occur.
+                    <emphasis role="italic">Accounting for the hybrid instrument.</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                    Martin, Inc., classifies the bonds as available for sale under
+FASB ASC 320-10-25-1. Accordingly, although the bonds will be remeasured
+at fair value, the changes in their fair value will be reported in
+other comprehensive income rather than earnings.
+                    <emphasis role="bold">*</emphasis>
+                  </para>
+                  <para>
+                    <emphasis role="italic">Criterion is met.</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                     A separate instrument with the same terms as the embedded instrument
+meets the definition of a , subject to the requirements of FASB ASC 815-10-15.
+                    <emphasis role="italic">The embedded instrument is a derivative.</emphasis>
+                    <emphasis role="italic">derivative</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>
+                    A conversion option would be a derivative subject to the requirements
+of FASB ASC 815, .
+                    <emphasis role="italic">Derivatives and Hedging</emphasis>
+                  </para>
+                  <para>
+                    <emphasis role="italic">Criterion is met.</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" nameend="c3" namest="c1" rowsep="1" valign="top">
+                  <para>
+                    If Martin, Inc., instead
+classified the bonds as trading under FASB ASC 320, ,
+the bonds would be remeasured at fair value, with changes in fair
+value reported in earnings as they occur. Accordingly, this criterion
+would not be met, and FASB ASC 815, , would prohibit accounting for the option separately
+from the bond.
+                    <emphasis role="bold">*</emphasis>
+                    <emphasis role="italic">Investments — Debt and Equity Securities</emphasis>
+                    <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+                    <tab/>
+                  </para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi9_accounting_for_the_initial" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Accounting for the Initial Purchase</titleabbrev>
+        <title role="ps_sub_heading">Accounting for the Initial Purchase</title>
+      </sectioninfo>
+      <section id="aag-afi9_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.07</titleabbrev>
+          <title role="ps_para_number">9.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">Following is a summary of Martin’s allocation
+of the price of the convertible bonds between the option and straight
+bonds at the purchase date:</para>
+        <table frame="none" id="aag-afi9_table2" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="5" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="0.87in"/>
+            <colspec colname="c2" colwidth="2.99in"/>
+            <colspec colname="c3" colwidth="0.75in"/>
+            <colspec colname="c4" colwidth="0.62in"/>
+            <colspec colname="c5" colwidth="0.75in"/>
+            <tbody>
+              <row>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Price per Bond</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">× 100 Bonds</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Total</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>Purchase of the hybrid instrument</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>$1,242.50</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>× 100</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>$124,250</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">Minus</emphasis>
+                  </para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry align="right" colsep="0" rowsep="0"/>
+                <entry align="right" colsep="0" rowsep="0"/>
+                <entry align="right" colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry colsep="0" rowsep="0"/>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>Fair value of the option</para>
+                  <para>
+                    A specialist engaged by Martin estimated the fair value of the
+option at $22.3505 per share using a binomial option-pricing model. Each bond is convertible into 26.185 shares of Larson’s
+common stock, so the total fair value of the embedded derivative is
+$585.25 per bond ($22.3505 per share multiplied by 26.185 shares per
+bond).
+                    <footnote id="aag-afi9_fn6" label="fn 6" role="number">
+                      <para>In this case study, all the information necessary to measure
+the option is readily available from published sources. If Martin
+could not reliably measure the embedded derivative, the entire hybrid
+instrument would have to be measured at fair value, with gain or loss
+recognized in earnings. In addition, FASB ASC 815 would prohibit Martin
+from designating the instrument as a hedging instrument.</para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>$585.25</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>× 100</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="top">
+                  <para>$58,525</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    <emphasis role="bold">Equals</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    Fair value of the straight bond
+                    <footnote id="aag-afi9_fn7" label="fn 7" role="number">
+                      <para>This with-and-without method for estimating the fair value of
+the straight bonds involves subtracting the fair value of the option
+from the basis of the hybrid instrument. Consistent with FASB ASC
+815-15-30-2, the with-and-without method is the appropriate method
+for separating hybrid instruments into their components. Refer to
+FASB ASC 815-15-30-6 for guidance on the bifurcation of embedded options
+based on contractual terms.</para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>$657.25</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>× 100</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>$65,725</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi9_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.08</titleabbrev>
+          <title role="ps_para_number">9.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">To check the reasonableness of its estimate
+of the option’s fair value, Martin imputed the yield to maturity (YTM)
+on the straight bonds. Assuming that the bonds have 8 years and 2
+months to maturity, the imputed YTM on them is 12.54%. If Larson had
+straight bonds outstanding, Martin could compare the imputed YTM with
+the YTM of those bonds. However, Larson has no straight bonds outstanding,
+so Martin compared the imputed YTM to the YTM on straight bonds of
+similar credit quality (that is, BBB rated), which is approximately
+12.5% to 13%. Therefore, Martin concluded that the allocation of the
+purchase price between the option and straight bonds is reasonable.</para>
+      </section>
+      <section id="aag-afi9_09" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.09</titleabbrev>
+          <title role="ps_para_number">9.09</title>
+        </sectioninfo>
+        <para role="ps_para_number">The entry that Martin used to record the
+purchase of the bonds on September 24, 20X1, is as follows:</para>
+        <table frame="none" id="aag-afi9_table3" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.49in"/>
+            <colspec colname="c2" colwidth="1.00in"/>
+            <colspec colname="c3" colwidth="1.00in"/>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" rowsep="0">
+                  <para>Investment in conversion option on Larson stock</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$58,525</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0">
+                  <para>Investment in Larson bonds</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0">
+                  <para>
+                    65,725
+                    <footnote id="aag-afi9_fn8" label="fn 8" role="number">
+                      <para>Recording the investment of $65,725 creates a $34,275 discount
+from the $100,000 principal that should be amortized to interest income
+over the life of the bonds using the interest method.</para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0">
+                  <para>Accrued interest receivable</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0">
+                  <para>1,998</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0"/>
+                <entry align="right" colsep="0" rowsep="0">
+                  <para>$126,248</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi9_subsequent_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Subsequent Accounting</titleabbrev>
+        <title role="ps_sub_heading">Subsequent Accounting</title>
+      </sectioninfo>
+      <section id="aag-afi9_10" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.10</titleabbrev>
+          <title role="ps_para_number">9.10</title>
+        </sectioninfo>
+        <para role="ps_para_number">Martin will accrete the basis of the bonds
+to $100,000 by their maturity date through credits to interest income.
+Unrealized appreciation in the bonds is the difference between their
+fair value and the straight bonds’ principal less unamortized discount.
+Whenever it issues financial statements, Martin will estimate the
+fair values of the hybrid instrument and option, subtract the two
+to determine the estimated fair value of the straight bonds, and recognize
+changes in the unrealized appreciation of the</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>option in earnings (assuming it is not designated
+in a qualifying hedging relationship).</para>
+          </listitem>
+          <listitem>
+            <para>straight bonds in other comprehensive income. </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi9_11" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.11</titleabbrev>
+          <title role="ps_para_number">9.11</title>
+        </sectioninfo>
+        <para role="ps_para_number">For example, assume that at the first
+measurement date after Martin purchased the bonds, using the with-and-without
+method used at the purchase date, Martin estimated the fair value
+of the straight bonds as follows:</para>
+        <para role="ps_indent_0">In addition, as of the first measurement
+date</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Based on quotes from dealers, the fair value of the
+hybrid instrument has increased by $15,750, from $124,250 to $140,000.</para>
+          </listitem>
+          <listitem>
+            <para>A specialist engaged by Martin estimated that the
+fair value of the option has increased by $6,475, from $58,525 to
+$65,000.</para>
+          </listitem>
+          <listitem>
+            <para>The fair value of the straight bonds therefore increased
+by $9,275, from $65,725 to $75,000.</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>the discount on the bonds has decreased by $3,500,
+from $34,275 to $30,775.</para>
+          </listitem>
+          <listitem>
+            <para>interest of $4,998 was received, of which $1,998 was
+for the accrual at the date the bonds were purchased. The remaining
+$3,000 receipt relates to the current period.</para>
+          </listitem>
+          <listitem>
+            <para>of the $9,275 total increase in the fair value of
+the straight bonds, $3,500 is recorded as discount amortization, with
+the remaining $5,775 recorded as other comprehensive income. Total
+interest income recognized is $6,500, consisting of the $3,000 realized
+and $3,500 discount amortization. Based on annualized calculations,
+Martin concluded that the implicit yield is consistent with its initial
+YTM calculations.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi9_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.12</titleabbrev>
+          <title role="ps_para_number">9.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">Martin would make the following entry:</para>
+        <table frame="none" id="aag-afi9_table4" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.5in"/>
+            <colspec colname="c2" colwidth="1in"/>
+            <colspec colname="c4" colwidth="1in"/>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$4,998</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>Investment in conversion option on Larson stock</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>6,475</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>Investment in Larson bonds</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>9,275</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    Accrued interest receivable
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$1,998</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    Interest income
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>6,500</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    Earnings from unrealized appreciation
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>6,475</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="top">
+                  <para>
+                    Other comprehensive income from unrealized appreciation
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>5,775</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi9_auditing_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Auditing Considerations</titleabbrev>
+      <title role="ps_main_heading">Auditing Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi9_description_of_the_entity" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Entity</titleabbrev>
+        <title role="ps_sub_heading">Description of the Entity</title>
+      </sectioninfo>
+      <paraBlock role="ps_box">
+        <para>
+          <emphasis role="bold">
+            Update 9-1  Audit Evidence
+            <emphasis role="italic">Auditing:</emphasis>
+          </emphasis>
+        </para>
+        <para>
+          In July 2020, the AICPA issued , , which supersedes
+AU-C section 500, , and amends the following AU-C sections:SAS No. 142 explains what constitutes audit evidence
+in an audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+          <olink targetdoc="ps" targetptr="ad_500">Statement on Auditing Standards (SAS) No. 142</olink>
+          <emphasis role="italic">Audit Evidence</emphasis>
+          <emphasis role="italic">Audit Evidence</emphasis>
+          <itemizedlist>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+                <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+                <emphasis role="italic">Audit Documentation</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+                <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+                <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+                <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+                <emphasis role="italic">Audit Sampling</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_540">Section 540</olink>
+                <emphasis role="italic">Auditing Accounting Estimates, Including
+Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+              </para>
+            </listitem>
+          </itemizedlist>
+        </para>
+        <para>
+          This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+          <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+        </para>
+      </paraBlock>
+      <paraBlock role="ps_box">
+        <para>
+          <emphasis role="bold">
+            Update 9-2 : Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures
+            <emphasis role="italic">Auditing</emphasis>
+          </emphasis>
+        </para>
+        <para>
+          In July 2020, the AICPA issued , , which supersedes , , and amends
+the following AU-C sections: SAS No. 143 addresses the auditor’s responsibilities
+relating to accounting estimates, including fair value accounting
+estimates and related disclosures, in an audit of financial statements. 
+          <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+          <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540</olink>
+          <emphasis role="italic">Auditing
+Accounting Estimates and Related Disclosures</emphasis>
+          <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value
+Accounting Estimates, and Related Disclosures</emphasis>
+          <itemizedlist>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+                <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+                <emphasis role="italic">Audit Documentation</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+                <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+                <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+                <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+                <emphasis role="italic">Written Representations</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+                <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                , 
+                <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+                <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+              </para>
+            </listitem>
+          </itemizedlist>
+        </para>
+        <para>
+          This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org.
+          <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+        </para>
+      </paraBlock>
+      <section id="aag-afi9_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.13</titleabbrev>
+          <title role="ps_para_number">9.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">Although Martin has invested in financial
+instruments in the past, it has not invested in a security with a
+feature that constitutes an embedded derivative. However, Martin’s
+board of directors exercises proper oversight and authorization of
+all investing activities. In regard to the convertible bond investment,
+the board took an active role in understanding the risks of the investment
+and how it was priced and, ultimately, approving the transaction.</para>
+      </section>
+      <section id="aag-afi9_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.14</titleabbrev>
+          <title role="ps_para_number">9.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">Martin also has other characteristics
+of a strong control environment:</para>
+        <para role="ps_indent_0">The bonds are held and serviced by a well-known
+bank with an investment department that is widely respected. </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Management has high integrity and ethical values.</para>
+          </listitem>
+          <listitem>
+            <para>Management philosophy and operating style are commensurate
+with the demands and needs of a well-regarded business organization.</para>
+          </listitem>
+          <listitem>
+            <para>Management carefully assigns authority and responsibility
+to appropriate personnel.</para>
+          </listitem>
+          <listitem>
+            <para>Human resource policies and procedures are designed
+in a way that the most qualified individuals are attracted to the
+organization, hired, trained, rewarded, and retained.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi9_summary_of_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Summary of Accounting</titleabbrev>
+        <title role="ps_sub_heading">Summary of Accounting</title>
+      </sectioninfo>
+      <section id="aag-afi9_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.15</titleabbrev>
+          <title role="ps_para_number">9.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">Under FASB ASC 815, the convertible bonds
+are hybrid instruments that should be separated into two components:
+straight interest-bearing bonds and a conversion option. Each component
+should be accounted for separately, with the bonds (the host contract)
+accounted for as available-for-sale securities under FASB ASC 320
+and the option accounted for as an embedded derivative under FASB
+ASC 815. Martin estimates the fair value of the straight bonds by
+subtracting the fair value of the embedded option from the basis of
+the hybrid instrument.</para>
+      </section>
+    </section>
+    <section id="aag-afi9_types_of_potential_misstatements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Types of Potential Misstatements</titleabbrev>
+        <title role="ps_sub_heading">Types of Potential Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi9_16" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.16</titleabbrev>
+          <title role="ps_para_number">9.16</title>
+        </sectioninfo>
+        <para role="ps_para_number">There could be departures from the recognition
+measurement and disclosure requirements of FASB ASC 815 for the embedded
+derivative instrument, such as</para>
+        <para role="ps_indent_0">In addition, there is the risk of departures
+from the measurement and disclosure requirements of FASB ASC 320 for
+the straight bonds.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>a failure to identify the option and account for it
+separately from the straight bond.</para>
+          </listitem>
+          <listitem>
+            <para>errors in determining the fair values of the components
+when allocating the purchase price and at subsequent measurement dates.</para>
+          </listitem>
+          <listitem>
+            <para>errors in accounting for changes in fair value.</para>
+          </listitem>
+          <listitem>
+            <para>inadequate presentation and disclosure in the financial
+statements.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi9_inherent_risk_factors_to" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatement</titleabbrev>
+        <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatement</title>
+      </sectioninfo>
+      <section id="aag-afi9_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.17</titleabbrev>
+          <title role="ps_para_number">9.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">The risk factors the auditor considered
+are</para>
+        <para role="ps_indent_0">Estimating the fair value of the option requires
+judgment in applying an option-pricing model and determining the underlying
+assumptions. Based on the preceding factors, the auditor determines
+inherent risk to be high.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>the option may not be identified because it is a feature
+of the convertible bonds.</para>
+          </listitem>
+          <listitem>
+            <para>due to the lack of experience of Martin’s accounting
+personnel with this type of transaction, the option may not be accounted
+for separately from the straight bonds. </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi9_control_risk" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Control Risk</titleabbrev>
+        <title role="ps_sub_heading">Control Risk</title>
+      </sectioninfo>
+      <section id="aag-afi9_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.18</titleabbrev>
+          <title role="ps_para_number">9.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">Martin’s investing department has a history
+of investing in debt and equity securities. Controls over the department’s
+activities include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>segregation of duties between purchase and sale transaction
+authorization, bookkeeping, and custody.</para>
+          </listitem>
+          <listitem>
+            <para>reasonably good management oversight.</para>
+          </listitem>
+          <listitem>
+            <para>supervisory personnel in the department review ongoing
+fair value calculations prepared internally and provided by third
+parties, mark-to-market adjustments, and related journal entries.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi9_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.19</titleabbrev>
+          <title role="ps_para_number">9.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">However, the purchase of the convertible
+bonds is the first transaction of this nature for Martin. Certain
+risks associated with accounting for this instrument (for example,
+the identification of, and separate accounting for, the embedded derivative
+and use of the binomial option-pricing model) are not addressed by
+Martin’s existing controls. Although some policies have been put in
+place to monitor the status of the convertible bonds, the policies
+have not been functioning long enough to determine their effectiveness.
+For these reasons, control risk is assessed as high.</para>
+      </section>
+    </section>
+    <section id="aag-afi9_timing_of_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Timing of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Timing of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi9_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.20</titleabbrev>
+          <title role="ps_para_number">9.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">The relevant assertions associated with
+this transaction will be substantively tested at year-end. This decision
+is influenced by the assessment of control risk as high, the fact
+that this is an isolated transaction, and the design of the substantive
+procedures subsequently discussed. </para>
+      </section>
+    </section>
+    <section id="aag-afi9_materiality" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Materiality</titleabbrev>
+        <title role="ps_sub_heading">Materiality</title>
+      </sectioninfo>
+      <section id="aag-afi9_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.21</titleabbrev>
+          <title role="ps_para_number">9.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">The convertible bonds are considered to
+be material to the financial statements.</para>
+      </section>
+    </section>
+    <section id="aag-afi9_design_of_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Design of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Design of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi9_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>9.22</titleabbrev>
+          <title role="ps_para_number">9.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          The auditor defined the following objectives
+and related procedures for the audit of assertions about the convertible
+bonds:
+          <footnote id="aag-afi9_fn9" label="fn 9" role="number">
+            <para>In this case study, the entity properly accounted for the embedded
+derivative. However, if the entity had not separately accounted for
+the embedded derivative, the auditor could have detected it by reading
+the agreements supporting the bonds.</para>
+          </footnote>
+        </para>
+        <table frame="all" id="aag-afi9_table5" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.96in"/>
+            <colspec colname="c3" colwidth="2.99in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Audit Objective </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Procedure</emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The hybrid instrument was purchased during the reporting period
+and exists at the end of the reporting period.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Examine the broker’s advice for the purchase and Martin,
+Inc.’s (Martin’s) canceled check or other evidence of Martin’s cash
+disbursement. </para>
+                    </listitem>
+                    <listitem>
+                      <para>At year-end, confirm existence, rights and obligations,
+and the description of the convertible bonds with the custodian bank
+that serves as safekeeping agent. </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The hybrid instrument was executed according to management’s
+authorizations.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Compare the terms of the convertible bonds with the
+investment guidelines approved by the board of directors.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Examine signed authorization by the CFO.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The straight bonds and option were properly accounted for separately. </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>
+                        Read the underlying agreement, and compare its provisions
+with the separation criteria prescribed by paragraphs 2–3 of FASB  (ASC) 815-15-25.
+                        <emphasis role="italic">Accounting Standards Codification</emphasis>
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Both the host instrument and option are measured using appropriate
+fair values.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>
+                        Compare the fair values of the convertible bonds and
+similar straight bonds with quoted prices published in the 
+                        <emphasis role="italic">Wall Street Journal.</emphasis>
+                      </para>
+                    </listitem>
+                    <listitem>
+                      <para>Ensure that total fair value of the separate components
+does not exceed the fair value of the convertible bonds.</para>
+                    </listitem>
+                    <listitem>
+                      <para>Test the fair value calculation of the option by one
+of the following:</para>
+                    </listitem>
+                  </itemizedlist>
+                  <itemizedlist mark="emdash" role="ps_indent_2">
+                    <listitem>
+                      <para>Testing management’s calculation and underlying assumptions</para>
+                    </listitem>
+                    <listitem>
+                      <para>Reperforming the calculation</para>
+                    </listitem>
+                    <listitem>
+                      <para>
+                        Engaging a specialist to recompute the value in accordance
+with the guidance provided in AU-C section 620B, .
+                        <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+                      </para>
+                    </listitem>
+                  </itemizedlist>
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Ensure that the changes in fair value of the host
+contract and embedded derivative are properly recorded in comprehensive
+income and income, respectively.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Interest income has been properly recorded.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Perform analytical procedures to test the reasonableness
+of interest income, including amortization of the original discount.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Presentation is appropriate and disclosure adequate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Compare the presentation and disclosure with the requirements
+of FASB ASC 320 and 815.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+</root>

@@ -1,0 +1,126 @@
+<root id="aag-afi9_06" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.06</titleabbrev>
+    <title role="ps_para_number">9.06</title>
+  </sectioninfo>
+  <para role="ps_para_number">According to FASB ASC 815-15-25-5, the
+fair value election for hybrid financial instruments in paragraphs
+4–5 of FASB ASC 815-15-25 may be made on an instrument-by-instrument
+basis.</para>
+  <para id="aag-afi9_exhibit_9-1" role="ps_indent_0">
+    <emphasis role="bold">
+      Exhibit 9-1 — Martin, Inc., Comparison of the Conversion Option in
+the Larson Enterprises’ Bonds With the Criteria in FASB  815-15-25-1
+for Separately Accounting for an Embedded Derivative
+      <emphasis role="italic">Accounting Standards Codification</emphasis>
+    </emphasis>
+  </para>
+  <para role="ps_indent_0">Because all three criteria are met, Martin
+should account for the option (that is, embedded derivative) separately
+from the straight bond (that is, host contract).</para>
+  <table frame="all" id="aag-afi9_table1" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.92in"/>
+      <colspec colname="c3" colwidth="3.04in"/>
+      <thead>
+        <row>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Criterion</emphasis>
+            </para>
+          </entry>
+          <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+            <para>
+              <emphasis role="italic">Analysis</emphasis>
+            </para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+               The economic characteristics and risks of the embedded derivative
+instrument are not clearly and closely related to the economic characteristics
+and risks of the host contract.
+              <emphasis role="italic">Not clearly and closely related.</emphasis>
+            </para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+              Following the guidance in paragraphs 30–34 of FASB  (ASC) 815-10-15,
+because the option is based on stock prices, it is not clearly and
+closely related to the straight bond.
+              <emphasis role="italic">Accounting Standards Codification</emphasis>
+            </para>
+            <para>
+              <emphasis role="italic">Criterion is met.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+               The hybrid instrument that embodies both the embedded derivative
+instrument and host contract is not remeasured at fair value under
+otherwise applicable accounting principles generally accepted in the
+United States of America, with changes in fair value reported in earnings
+as they occur.
+              <emphasis role="italic">Accounting for the hybrid instrument.</emphasis>
+            </para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+              Martin, Inc., classifies the bonds as available for sale under
+FASB ASC 320-10-25-1. Accordingly, although the bonds will be remeasured
+at fair value, the changes in their fair value will be reported in
+other comprehensive income rather than earnings.
+              <emphasis role="bold">*</emphasis>
+            </para>
+            <para>
+              <emphasis role="italic">Criterion is met.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+               A separate instrument with the same terms as the embedded instrument
+meets the definition of a , subject to the requirements of FASB ASC 815-10-15.
+              <emphasis role="italic">The embedded instrument is a derivative.</emphasis>
+              <emphasis role="italic">derivative</emphasis>
+            </para>
+          </entry>
+          <entry align="left" colsep="1" rowsep="1" valign="top">
+            <para>
+              A conversion option would be a derivative subject to the requirements
+of FASB ASC 815, .
+              <emphasis role="italic">Derivatives and Hedging</emphasis>
+            </para>
+            <para>
+              <emphasis role="italic">Criterion is met.</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="1" nameend="c3" namest="c1" rowsep="1" valign="top">
+            <para>
+              If Martin, Inc., instead
+classified the bonds as trading under FASB ASC 320, ,
+the bonds would be remeasured at fair value, with changes in fair
+value reported in earnings as they occur. Accordingly, this criterion
+would not be met, and FASB ASC 815, , would prohibit accounting for the option separately
+from the bond.
+              <emphasis role="bold">*</emphasis>
+              <emphasis role="italic">Investments — Debt and Equity Securities</emphasis>
+              <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+              <tab/>
+            </para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

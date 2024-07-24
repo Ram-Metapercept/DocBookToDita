@@ -1,0 +1,33 @@
+<root id="aag-afi9_02" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.02</titleabbrev>
+    <title role="ps_para_number">9.02</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Under FASB  (ASC) 815-15-25, an embedded derivative,
+such as a conversion option, must be separated from its host contract
+(in this case, the bonds) and accounted for as a derivative instrument
+if certain criteria are met. This case study illustrates how to apply
+the guidance on accounting for embedded derivatives contained in FASB
+ASC 815, , including determining the fair value of the embedded derivative
+and host contract. The case study also provides an example of how
+to apply the guidance contained in AU-C section 501B, , to an embedded derivative.
+    <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+    <emphasis role="italic">Derivatives and Hedging</emphasis>
+    <emphasis role="italic">Audit Evidence — Specific Considerations for Selected
+Items</emphasis>
+    <footnote id="aag-afi9_fn1" label="fn 1" role="number">
+      <para>
+        All AU-C sections can be found in AICPA . Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statements on Auditing Standards (SASs) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently-issued
+SASs.
+        <olink targetdoc="ps" targetptr="ps">
+          <emphasis role="italic">Professional Standards</emphasis>
+        </olink>
+      </para>
+    </footnote>
+  </para>
+</root>

@@ -1,0 +1,35 @@
+<root id="pra-sqcs_1_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.04</titleabbrev>
+    <title role="ps_para_number">1.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    A firm must establish and maintain a system
+of quality control. The firm’s system of quality control should include
+policies and procedures that address each of the following elements
+of quality control identified in  of QM section 10A:
+    <olink targetdoc="ps" targetptr="qm_10a_17">paragraph .17</olink>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Leadership responsibilities for quality within the
+firm (the "tone at the top")</para>
+    </listitem>
+    <listitem>
+      <para>Relevant ethical requirements</para>
+    </listitem>
+    <listitem>
+      <para>Acceptance and continuance of client relationships
+and specific engagements</para>
+    </listitem>
+    <listitem>
+      <para>Human resources</para>
+    </listitem>
+    <listitem>
+      <para>Engagement performance</para>
+    </listitem>
+    <listitem>
+      <para>Monitoring</para>
+    </listitem>
+  </itemizedlist>
+</root>

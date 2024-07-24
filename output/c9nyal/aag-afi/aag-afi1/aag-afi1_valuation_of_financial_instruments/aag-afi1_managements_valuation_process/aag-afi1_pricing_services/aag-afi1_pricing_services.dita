@@ -1,0 +1,40 @@
+<root id="aag-afi1_pricing_services" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Pricing Services</titleabbrev>
+    <title role="ps_subsub_heading">Pricing Services</title>
+  </sectioninfo>
+  <section id="aag-afi1_47" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.47</titleabbrev>
+      <title role="ps_para_number">1.47</title>
+    </sectioninfo>
+    <para role="ps_para_number">Pricing services provide entities with
+prices and price-related data for a variety of financial instruments,
+often performing daily valuations of large numbers of financial instruments.
+These valuations may be made by collecting market data and prices
+from a wide variety of sources, including market makers, and, in certain
+instances, by using internal valuation techniques to derive estimated
+fair values. Pricing services may combine a number of approaches to
+arrive at a price and are often used as a source of prices based on
+level 2 inputs. Pricing services may have strong controls around how
+prices are developed, and their customers often include a wide variety
+of parties, including buy-and-sell side investors, auditors, and others.</para>
+  </section>
+  <section id="aag-afi1_48" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.48</titleabbrev>
+      <title role="ps_para_number">1.48</title>
+    </sectioninfo>
+    <para role="ps_para_number">Pricing services often have a formalized
+process for customers to challenge the prices received from the pricing
+services. These challenge processes usually require the customer to
+provide evidence to support an alternative price, with challenges
+categorized based on the quality of evidence provided. For example,
+a challenge based on a recent sale of that instrument the pricing
+service was not aware of may be upheld, whereas a challenge based
+on a customer’s own valuation technique may be more heavily scrutinized.
+In this way, a pricing service with a large number of leading participants,
+both buy and sell side, may be able to constantly correct prices to
+more fully reflect the information available to market participants.</para>
+  </section>
+</root>

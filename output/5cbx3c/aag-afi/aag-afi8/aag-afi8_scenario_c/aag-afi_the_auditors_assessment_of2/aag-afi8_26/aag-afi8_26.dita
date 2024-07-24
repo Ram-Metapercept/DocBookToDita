@@ -1,0 +1,50 @@
+<root id="aag-afi8_26" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>8.26</titleabbrev>
+    <title role="ps_para_number">8.26</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    As discussed in paragraph .A7 of AU-C
+section 402B, the significance of the controls at the service organization
+to the user entity’s internal control also depends on the degree of
+interaction between the service organization’s activities and those
+of the user entity. The degree of interaction refers to the extent
+to which a user entity is able to and elects to implement effective
+controls over the processing performed by the service organization.
+For example, a high degree of interaction exists between the activities
+of the user entity and those at the service organization when the
+user entity authorizes transactions, and the service organization
+processes and accounts for those transactions. In these circumstances,
+it may be practicable for the user entity to implement effective controls
+over those transactions. On the other hand, when the service organization
+initiates or initially records, processes, and accounts for the user
+entity’s transactions, a lower degree of interaction exists between
+the two organizations. In these circumstances, the user entity may
+be unable to or may elect not to implement effective controls over
+these transactions at the user entity and may rely on controls at
+the service organization. In this arrangement, when the broker-dealer
+both initiates and executes trades, the broker-dealer provides all
+the information about trades that is available to the auditor. In
+addition, the broker-dealer’s initiation and execution services are
+largely provided electronically. Accordingly, the auditor concludes
+that audit risk cannot be limited sufficiently without obtaining the
+following audit evidence about the operating effectiveness of the
+broker-dealer’s controls:
+    <footnote id="aag-afi8_fn6" label="fn 6" role="number">
+      <para>As a practical matter, Lane’s management should view information
+about the operating effectiveness of the broker-dealer’s controls
+as an important part of its risk management considerations.</para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Establishing independent departments that provide
+the investment advisory services and the holding and servicing of
+financial instruments</para>
+    </listitem>
+    <listitem>
+      <para>Reconciling the information about the financial instruments
+that is provided by each department</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,19 @@
+<root id="aag-afi_summary_of_the_accounting" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Summary of the Accounting Considerations</titleabbrev>
+    <title role="ps_sub_heading">Summary of the Accounting Considerations</title>
+  </sectioninfo>
+  <section id="aag-afi8_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.04</titleabbrev>
+      <title role="ps_para_number">8.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Lane accounts for the securities under
+FASB  (ASC) 321, , and, accordingly, reports the securities at their fair value, with
+unrealized holding gains and losses included in earnings.
+      <emphasis role="italic">Accounting Standards Codification</emphasis>
+      <emphasis role="italic">Investments — Equity Securities</emphasis>
+    </para>
+  </section>
+</root>

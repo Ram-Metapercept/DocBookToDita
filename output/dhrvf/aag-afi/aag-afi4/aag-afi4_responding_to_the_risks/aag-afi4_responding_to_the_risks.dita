@@ -1,0 +1,943 @@
+<root id="aag-afi4_responding_to_the_risks" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Responding to the Risks of Material Misstatement</titleabbrev>
+    <title role="ps_main_heading">Responding to the Risks of Material
+Misstatement</title>
+  </sectioninfo>
+  <section id="aag-afi4_13" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.13</titleabbrev>
+      <title role="ps_para_number">4.13</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .06 of AU-C section 330B requires
+the auditor to design and perform further audit procedures whose nature,
+timing, and extent are based on, and responsive to, the assessed risks
+of material misstatement at the relevant assertion level. In accordance
+with paragraph .A10 of AU-C section 500B, , further audit procedures comprise tests
+of controls and substantive procedures.  of this guide provides guidance on obtaining an
+understanding about internal control,  provides guidance on tests of controls, and  provide guidance
+on substantive procedures. , "Examples of Control Objectives, Related Controls, and
+Illustrative Tests of Controls for Financial Instruments," of this
+guide provides examples of control objectives, related controls, and
+illustrative tests of controls for financial instruments.
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <olink targetptr="aag-afi3">Chapter 3</olink>
+      <olink targetptr="aag-afi4_14">paragraph 4.14</olink>
+      <olink targetptr="aag-afi4_15">paragraphs 4.15–.34</olink>
+      <olink targetptr="aag-afi_appC">Appendix
+C</olink>
+    </para>
+  </section>
+  <section id="aag-afi4_tests_of_controls" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Tests of Controls</titleabbrev>
+      <title role="ps_sub_heading">Tests of Controls</title>
+    </sectioninfo>
+    <section id="aag-afi4_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.14</titleabbrev>
+        <title role="ps_para_number">4.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">In reaching a decision on the nature,
+timing, and extent of testing of controls, the auditor may consider
+factors such as the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>The nature, frequency, and volume of financial instrument
+transactions.</para>
+        </listitem>
+        <listitem>
+          <para>The strength of controls, including whether controls
+are appropriately designed to respond to the risks associated with
+an entity’s volume of financial instrument transactions and whether
+a governance framework over the entity’s financial instrument activities
+exists.</para>
+        </listitem>
+        <listitem>
+          <para>The importance of particular controls to the overall
+control objectives and processes in place at the entity, including
+the sophistication of the information systems to support financial
+instrument transactions.</para>
+        </listitem>
+        <listitem>
+          <para>The monitoring of controls and identified deficiencies
+in control procedures.</para>
+        </listitem>
+        <listitem>
+          <para>The issues the controls are intended to address (for
+example, controls related to the exercise of judgments compared with
+controls over supporting data). Substantive procedures are likely
+to be more effective than relying on controls related to the exercise
+of judgment.</para>
+        </listitem>
+        <listitem>
+          <para>The competency of those involved in the control activities
+(for example whether the entity has adequate capacity, including during
+periods of stress, and ability to establish and verify valuations
+for the financial instruments to which it is exposed).</para>
+        </listitem>
+        <listitem>
+          <para>The frequency of performance of these control activities.</para>
+        </listitem>
+        <listitem>
+          <para>The level of precision the controls are intended to
+achieve.</para>
+        </listitem>
+        <listitem>
+          <para>The evidence of performance of control activities.</para>
+        </listitem>
+        <listitem>
+          <para>The timing of key financial instrument transactions
+(for example, whether they are close to period-end).</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi4_substantive_procedures" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Substantive Procedures</titleabbrev>
+      <title role="ps_sub_heading">Substantive Procedures</title>
+    </sectioninfo>
+    <section id="aag-afi4_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.15</titleabbrev>
+        <title role="ps_para_number">4.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">Designing substantive procedures includes
+consideration of</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            the use of analytical procedures. Although analytical procedures undertaken by the auditor
+can be effective as risk assessment procedures to provide the auditor
+with information about an entity’s business, they may be less effective
+as substantive procedures when performed alone because the complex
+interplay of the drivers of the valuation often mask any unusual trends
+that might arise.
+            <footnote id="aag-afi4_fn5" label="fn 5" role="number">
+              <para>
+                Paragraph .06 of AU-C section
+315B requires the auditor to apply analytical procedures as risk assessment
+procedures to assist in assessing the risks of material misstatement
+in order to provide a basis for designing and implementing responses
+to the assessed risks. Paragraph .06 of AU-C section 520B, , requires the auditor
+to use analytical procedures in forming an overall conclusion on the
+financial statements. Analytical procedures may also be applied at
+other stages of the audit.
+                <emphasis role="italic">b</emphasis>
+                <emphasis role="italic">Analytical Procedures</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>nonroutine transactions. Many financial transactions
+are negotiated contracts between an entity and its counterparty (often
+known as over the counter [OTC]). To the extent that financial instrument
+transactions are not routine and outside an entity’s normal activities,
+a substantive audit approach may be the most effective means of achieving
+the planned audit objectives. In instances when financial instrument
+transactions are not undertaken routinely, the auditor’s responses
+to assessed risk, including designing and performing audit procedures,
+take into consideration the entity’s possible lack of experience in
+this area. </para>
+        </listitem>
+        <listitem>
+          <para>availability of evidence. For example, when the entity
+uses a third-party pricing source, evidence concerning the relevant
+financial statement assertions may not be available from the entity.</para>
+        </listitem>
+        <listitem>
+          <para>procedures performed in other audit areas. Procedures
+performed in other financial statement areas may provide evidence
+about the completeness of financial instrument transactions. These
+procedures may include tests of subsequent cash receipts and payments
+and the search for unrecorded liabilities.</para>
+        </listitem>
+        <listitem>
+          <para>the selection of items for testing. In some cases,
+the financial instrument portfolio will comprise instruments with
+varying complexity and risk. In such cases, judgmental selection of
+items may be useful.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.16</titleabbrev>
+        <title role="ps_para_number">4.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">For example, in the case of an asset-backed
+security, in responding to the risks of material misstatement for
+such a security, the auditor may consider performing some of the following
+audit procedures related to the valuation assertion:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Examining contractual documentation to understand
+the terms of the security, the underlying collateral, and the rights
+of each class of security holder</para>
+        </listitem>
+        <listitem>
+          <para>Inquiring about management’s process of estimating
+cash flows</para>
+        </listitem>
+        <listitem>
+          <para>Evaluating the reasonableness of assumptions, such
+as prepayment rates, default rates, and loss reserves</para>
+        </listitem>
+        <listitem>
+          <para>Obtaining an understanding of the method used to determine
+the cash flow "waterfall"</para>
+        </listitem>
+        <listitem>
+          <para>Comparing the results of the fair value measurement
+with the valuations of other financial instruments with similar underlying
+collateral and terms</para>
+        </listitem>
+        <listitem>
+          <para>Reperforming calculations</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_timing_of_the_auditors" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Timing of the Auditor’s Procedures</titleabbrev>
+        <title role="ps_subsub_heading">
+          Timing of the Auditor’s Procedures
+          <footnote id="aag-afi4_fn6" label="fn 6" role="number">
+            <para>
+              Paragraphs .12 and .23–.24 of AU-C section 330B, , establish
+requirements when the auditor performs procedures at an interim period
+and explain how such audit evidence can be used.
+              <emphasis role="italic">Performing Audit Procedures in Response to Assessed
+Risks and Evaluating the Audit Evidence Obtained</emphasis>
+            </para>
+          </footnote>
+        </title>
+      </sectioninfo>
+      <section id="aag-afi4_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.17</titleabbrev>
+          <title role="ps_para_number">4.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">After assessing the risks associated with
+financial instruments, the engagement team determines the timing of
+planned tests of controls and substantive audit procedures. The timing
+of planned audit procedures varies depending on a number of factors,
+including the frequency of the control operation, the significance
+of the activity being controlled, and the related risk of material
+misstatement. </para>
+      </section>
+      <section id="aag-afi4_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.18</titleabbrev>
+          <title role="ps_para_number">4.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">Although the auditor may decide that the
+most efficient and effective strategy is to undertake most of the
+audit procedures in relation to valuation and presentation close to
+period-end, audit procedures in relation to other assertions, such
+as completeness and existence, may be tested at an interim period.
+For example, tests of controls may be performed at an interim period
+for more routine controls, such as IT controls and authorizations
+for new products. Also, it may be effective to test the operating
+effectiveness of controls over new product approval by gathering evidence
+at an interim period of the appropriate level of management sign-off
+on a new financial instrument.</para>
+      </section>
+      <section id="aag-afi4_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.19</titleabbrev>
+          <title role="ps_para_number">4.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">Auditors may perform some tests on models
+as of an interim date (for example, by comparing the output of the
+model with market transactions). Another possible interim procedure
+for instruments with observable inputs is to test the reasonableness
+of the pricing information provided by a third-party pricing source. </para>
+      </section>
+      <section id="aag-afi4_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.20</titleabbrev>
+          <title role="ps_para_number">4.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">Areas of more significant judgment are
+often tested close to, or at, period-end because</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>valuations can change significantly in a short period
+of time, making it difficult to compare and reconcile interim balances
+with comparable information at the balance sheet date.</para>
+          </listitem>
+          <listitem>
+            <para>an entity may engage in an increased volume of financial
+instrument transactions between an interim period and year-end.</para>
+          </listitem>
+          <listitem>
+            <para>manual journal entries may only be made after the
+end of the accounting period.</para>
+          </listitem>
+          <listitem>
+            <para>nonroutine or significant transactions may take place
+late in the accounting period.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi4_procedures_relating_to_completeness" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Procedures Relating to Completeness, Accuracy, Existence,
+Occurrence, and Rights and Obligations</titleabbrev>
+        <title role="ps_subsub_heading">Procedures Relating to Completeness,
+Accuracy, Existence, Occurrence, and Rights and Obligations</title>
+      </sectioninfo>
+      <section id="aag-afi4_inspection" role="ls_level_6">
+        <sectioninfo>
+          <titleabbrev>Inspection</titleabbrev>
+          <title role="ps_subsubsub_heading">Inspection</title>
+        </sectioninfo>
+        <section id="aag-afi4_21" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>4.21</titleabbrev>
+            <title role="ps_para_number">4.21</title>
+          </sectioninfo>
+          <para role="ps_para_number">Traded financial instruments typically
+are maintained in electronic form and street name and, accordingly,
+cannot be inspected. For example, even though stock certificates are
+on file at a depository (for example, the Depository Trust Company),
+those shares are allocated to broker-dealers, and the issuer has no
+record of who owns shares. The broker-dealers send documents such
+as proxy statements to stockholders. Confirmation of the security
+provides evidence about the existence of financial instruments. Evidence
+about existence also may be gathered by examining supporting documentation,
+such as</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>instructions to portfolio managers or directed custodians.</para>
+            </listitem>
+            <listitem>
+              <para>transaction confirmations.</para>
+            </listitem>
+            <listitem>
+              <para>agreements.</para>
+            </listitem>
+            <listitem>
+              <para>contracts.</para>
+            </listitem>
+            <listitem>
+              <para>minutes of investment committees.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+        <section id="aag-afi4_22" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>4.22</titleabbrev>
+            <title role="ps_para_number">4.22</title>
+          </sectioninfo>
+          <para role="ps_para_number">If the physical inspection of financial
+instruments is possible, the auditor might consider the following:</para>
+          <itemizedlist mark="bullet" role="ps_indent_2">
+            <listitem>
+              <para>
+                . Typically, financial instruments would be inspected at the same
+time cash and other negotiable assets (for example, bearer bonds)
+are counted. If financial instruments, cash, and other negotiable
+assets cannot be counted at the same time, the auditor might use other
+means to prevent the substitution of one type of negotiable asset
+for another. For example, bags, boxes, safes, or whole rooms may be
+sealed and counted at a later time.
+                <emphasis role="italic">The timing of the inspection</emphasis>
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                . The following attributes normally can be observed when inspecting
+financial instruments:
+                <emphasis role="italic">What to look for</emphasis>
+              </para>
+            </listitem>
+          </itemizedlist>
+          <itemizedlist mark="emdash" role="ps_indent_4">
+            <listitem>
+              <para>The name of the issuer</para>
+            </listitem>
+            <listitem>
+              <para>The description of the security</para>
+            </listitem>
+            <listitem>
+              <para>The name of the owner of the security</para>
+            </listitem>
+            <listitem>
+              <para>Any evidence of pledging or restrictions on disposal
+shown on the certificate</para>
+            </listitem>
+            <listitem>
+              <para>The number of shares of stock or face amount of debt
+financial instruments</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+        <section id="aag-afi4_23" role="ls_level_8">
+          <sectioninfo>
+            <titleabbrev>4.23</titleabbrev>
+            <title role="ps_para_number">4.23</title>
+          </sectioninfo>
+          <para role="ps_para_number">As previously stated, some financial instruments
+do not involve an initial exchange of cash. Also, derivatives may
+be embedded in agreements and difficult to identify. Finally, financial
+instruments may be donated to entities such as not-for-profit organizations.
+When inspecting documents such as minutes, agreements, and contracts,
+the auditor’s overriding objective is to identify financial instruments
+that may not have been recognized in the accounting records of the
+entity.</para>
+        </section>
+      </section>
+    </section>
+    <section id="aag-afi4_confirmations" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Confirmations</titleabbrev>
+        <title role="ps_subsub_heading">Confirmations</title>
+      </sectioninfo>
+      <section id="aag-afi4_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.24</titleabbrev>
+          <title role="ps_para_number">4.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraph .A4 of AU-C section 505B, , states that the design
+of a confirmation request may directly affect the confirmation response
+rate and the reliability and nature of the audit evidence obtained
+from responses. For example, a custodian would be able to confirm
+the existence of financial instruments but may be unable to confirm
+their valuation, the entity’s rights and obligations with respect
+to the financial instruments, or their completeness. Additionally,
+certain respondents’ accounting systems may facilitate the confirmation
+of single transactions rather than entire account balances, or respondents
+may not be able to confirm the balances of their installment loans,
+but they may be able to confirm whether their payments are up to date,
+the amount of the payment, and the key terms of their loans. Understanding
+the entity’s arrangements and transactions with third parties is key
+to determining the information to be confirmed. 
+          <emphasis role="italic">External Confirmations</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi4_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.25</titleabbrev>
+          <title role="ps_para_number">4.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Paragraph .07 of AU-C section 505B requires the auditor to select the appropriate
+confirming party. AU-C section 505B further states that responses
+to confirmation requests provide more relevant and reliable audit
+evidence when confirmation requests are sent to a confirming party
+who the auditor believes is knowledgeable about the information to
+be confirmed. For example, a financial institution official who is
+knowledgeable about the transactions or arrangements for which confirmation
+is requested may be the most appropriate person at the financial institution
+from whom to request confirmation.
+          <emphasis role="italic">b</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi4_26" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.26</titleabbrev>
+          <title role="ps_para_number">4.26</title>
+        </sectioninfo>
+        <para role="ps_para_number">When designing confirmations for financial
+instruments, auditors might consider confirming the following attributes,
+as applicable:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The name of the issuer</para>
+          </listitem>
+          <listitem>
+            <para>The description of the financial instruments</para>
+          </listitem>
+          <listitem>
+            <para>The name of the owner of the financial instruments
+or the parties to the financial instrument</para>
+          </listitem>
+          <listitem>
+            <para>The terms of the financial instrument</para>
+          </listitem>
+          <listitem>
+            <para>Any evidence of pledging or restrictions on disposal</para>
+          </listitem>
+          <listitem>
+            <para>The investment certificate numbers on the documents</para>
+          </listitem>
+          <listitem>
+            <para>The number of shares of stock or face amount of debt
+securities</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi4_27" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.27</titleabbrev>
+          <title role="ps_para_number">4.27</title>
+        </sectioninfo>
+        <para role="ps_para_number">Paragraph .12 of AU-C section 505B states
+that in the case of each nonresponse, the auditor should perform alternative
+audit procedures to obtain relevant and reliable audit evidence. Examples
+include the following:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Examining source documents, such as invoices or broker’s
+statements</para>
+          </listitem>
+          <listitem>
+            <para>Inspecting executed agreements</para>
+          </listitem>
+          <listitem>
+            <para>Examining cash receipts, disbursements, and trade
+confirmations subsequent to year-end</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi4_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.28</titleabbrev>
+          <title role="ps_para_number">4.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          When an electronic confirmation process
+or system is used, the auditor’s consideration of the risks includes
+the consideration of risks that the electronic confirmation process
+is not secure or is improperly controlled. An electronic confirmation system or process that creates
+a secure confirmation environment may mitigate the risks of interception
+or alteration. Creating a secure confirmation environment depends
+on the process or mechanism used by the auditor and respondent to
+minimize the possibility that the results will be compromised because
+of interception or alteration of the confirmation. If the auditor
+is satisfied that such a system or process is secure and properly
+controlled, evidence provided by responses received using the system
+or process may be considered reliable. Various means might be used
+to validate the source of the electronic information. For example,
+the use of encryption, electronic digital signatures, and procedures
+to verify website authenticity may improve the security of the electronic
+confirmation system or process. If a system or process that facilitates
+electronic confirmation between the auditor and respondent is in place,
+and the auditor plans to rely on the controls over such a system or
+process, an assurance trust services report (for example, Systrust)
+or another assurance report on that system or process may assist the
+auditor in assessing the design and operating effectiveness of the
+electronic and manual controls with respect to that system or process.
+Such an assurance report may address the risks described in paragraph
+.A13 of AU-C section 505B. If these risks are not adequately addressed
+in such a report, the auditor may perform additional procedures to
+address those risks. For example, the auditor may determine that it is appropriate
+to address such risks by directly contacting the purported sender
+(for example, by telephone) to validate the identity of the sender
+of the response and to validate that the information received by the
+auditor corresponds to what was transmitted by the sender.
+          <footnote id="aag-afi4_fn7" label="fn 7" role="number">
+            <para>
+              Paragraph .A13 of AU-C section 505B, .
+              <emphasis role="italic">External Confirmations</emphasis>
+            </para>
+          </footnote>
+          <footnote id="aag-afi4_fn8" label="fn 8" role="number">
+            <para>Paragraph .A15 of AU-C section 505B.</para>
+          </footnote>
+        </para>
+      </section>
+    </section>
+    <section id="aag-afi4_analytical_procedures" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Analytical Procedures</titleabbrev>
+        <title role="ps_subsub_heading">Analytical Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi4_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.29</titleabbrev>
+          <title role="ps_para_number">4.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">Analytical procedures are based on relationships
+between data. The more predictable the relationships, the more precise
+the auditor’s expectation of the financial statement account. The
+value of many financial instruments can be highly volatile, making
+valuation assertions about them ill-suited to testing via analytical
+procedures. Additionally, the accounting for many financial instruments
+is based on underlying assumptions that, oftentimes, are quite subjective.
+Finally, the accounting for financial instruments may be highly dependent
+on management’s intention. For example, the classification of debt
+and equity securities depends on management’s ability and intent with
+regard to holding those financial instruments. The accounting for
+derivatives depends on management’s objectives in entering into those
+financial instruments’ transactions.</para>
+      </section>
+      <section id="aag-afi4_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.30</titleabbrev>
+          <title role="ps_para_number">4.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">For these reasons, performing analytical
+procedures alone may not sufficiently reduce audit risk for some assertions
+about financial instruments. For example, analytical procedures would
+not be effective in determining whether an embedded derivative has
+been properly recognized in the financial statements or in evaluating
+the fair value of a financial instrument whose value fluctuates greatly.
+However, they may be effective in pointing out unrecorded derivatives,
+such as interest rate swaps that contractually require no cash at
+inception. For example, a difference from an expectation that interest
+expense will be a fixed percentage of a note based on the interest
+provisions of the underlying agreement may indicate the existence
+of an interest rate swap agreement. Also, analytical procedures based
+on expectations of relationships between income and assets may provide
+some evidence about existence and completeness assertions.</para>
+      </section>
+      <section id="aag-afi4_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.31</titleabbrev>
+          <title role="ps_para_number">4.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">Analytical procedures may also be effective
+in corroborating the occurrence of income and expenses and, sometimes,
+gains and losses associated with a financial instrument. For example,
+the absence of a material difference from an expectation that interest
+income will be a fixed percentage of a debt security based on the
+effective interest rate when the entity purchased the security provides
+evidence about the existence of the income (and the security). However,
+auditors might consider that the income, expenses, gains, and losses
+associated with a financial instrument may involve a complex interplay
+of many factors. For example, if the fair value of a derivative is
+derived from the interrelationship of exchange rates, interest rates,
+rate differentials, or a combination of these, any attempts to develop
+an expectation of a financial statement amount may be difficult.</para>
+      </section>
+      <section id="aag-afi4_32" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.32</titleabbrev>
+          <title role="ps_para_number">4.32</title>
+        </sectioninfo>
+        <para role="ps_para_number">Many of the auditor’s procedures can be
+used to address a number of assertions. For example, procedures to
+address the existence of an account balance at period-end will also
+address the occurrence of a class of transactions and may also assist
+in establishing proper cut-off because financial instruments arise
+from legal contracts, and by verifying the accuracy of the recording
+of the transaction, the auditor can also verify its existence and
+obtain evidence to support the occurrence and rights and obligations
+assertions at the same time and can confirm that transactions are
+recorded in the correct accounting period. </para>
+      </section>
+    </section>
+    <section id="aag-afi4_other_procedures" role="ls_level_5">
+      <sectioninfo>
+        <titleabbrev>Other Procedures</titleabbrev>
+        <title role="ps_subsub_heading">Other Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi4_33" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.33</titleabbrev>
+          <title role="ps_para_number">4.33</title>
+        </sectioninfo>
+        <para role="ps_para_number">Other procedures that may provide audit
+evidence to support the completeness, accuracy, and existence assertions
+include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>external confirmation of bank accounts, trades, and
+custodian statements. This can be done by direct confirmation with
+the counterparty (including the use of bank confirmations) in which
+a reply is sent to the auditor directly. Alternatively, this information
+may be obtained from the counterparty’s systems through a data feed.
+When this is done, controls to prevent tampering with the computer
+systems through which the information is transmitted may be considered
+by the auditor in evaluating the reliability of the evidence from
+the confirmation. If confirmations are not received, the auditor may
+be able to obtain evidence by reviewing contracts and testing relevant
+controls. However, external confirmations often do not provide adequate
+audit evidence with respect to the valuation assertion, though they
+may assist in identifying any side agreements. </para>
+          </listitem>
+          <listitem>
+            <para>reviewing reconciliations of statements or data feeds
+from custodians with the entity’s own records. This may necessitate
+evaluating IT controls around and within automated reconciliation
+processes and evaluating whether reconciling items are properly understood
+and resolved.</para>
+          </listitem>
+          <listitem>
+            <para>reviewing journal entries and the controls over the
+recording of such entries. This may assist in, for example,</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>determining if entries have been made by employees
+other than those authorized to do so.</para>
+          </listitem>
+          <listitem>
+            <para>identifying unusual or inappropriate end-of-period
+journal entries that may be relevant to fraud risk.</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>reading individual contracts and reviewing supporting
+documentation of the entity’s financial instrument transactions, including
+accounting records, thereby verifying existence and rights and obligations.
+For example, an auditor may read individual contracts associated with
+financial instruments and review supporting documentation, including
+the accounting entries made when the contract was initially recorded,
+and may also subsequently review accounting entries made for valuation
+purposes. Doing so allows the auditor to evaluate whether the complexities
+inherent in a transaction have been fully identified and reflected
+in the accounts. Legal arrangements and their associated risks need
+to be considered by those with suitable expertise to ensure that rights
+exist.</para>
+          </listitem>
+          <listitem>
+            <para>performing tests of controls to obtain sufficient
+appropriate audit evidence about the operating effectiveness of relevant
+controls.</para>
+          </listitem>
+          <listitem>
+            <para>reviewing the entity’s complaints’ management systems.
+Unrecorded transactions may result in the entity’s failure to make
+a cash payment to a counterparty and may be detected by reviewing
+complaints received. </para>
+          </listitem>
+          <listitem>
+            <para>reviewing master netting arrangements to identify
+unrecorded instruments.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi4_34" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>4.34</titleabbrev>
+          <title role="ps_para_number">4.34</title>
+        </sectioninfo>
+        <para role="ps_para_number">These procedures are particularly important
+for some financial instruments, such as derivatives or guarantees,
+because they may not have a large initial investment, meaning it may
+be hard to identify their existence. For example, embedded derivatives
+are often contained in contracts for nonfinancial instruments that
+may not be included in confirmation procedures.</para>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi4_dual_purpose_tests" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Dual-Purpose Tests</titleabbrev>
+      <title role="ps_sub_heading">Dual-Purpose Tests</title>
+    </sectioninfo>
+    <section id="aag-afi4_35" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.35</titleabbrev>
+        <title role="ps_para_number">4.35</title>
+      </sectioninfo>
+      <para role="ps_para_number">Although the purpose of a test of controls
+is different from the purpose of a test of details, it may be efficient
+to perform both at the same time by, for example</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>performing a test of controls and test of details
+on the same transaction (for example, testing whether a signed contract
+has been maintained and whether the details of the financial instrument
+have been appropriately captured in a summary sheet).</para>
+        </listitem>
+        <listitem>
+          <para>testing controls when testing management’s process
+of making valuation estimates.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="aag-afi4_additional_considerations_about_alternative" role="ls_level_4">
+    <sectioninfo>
+      <titleabbrev>Additional Considerations About Alternative Investments</titleabbrev>
+      <title role="ps_sub_heading">Additional Considerations About Alternative
+Investments</title>
+    </sectioninfo>
+    <section id="aag-afi4_36" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.36</titleabbrev>
+        <title role="ps_para_number">4.36</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        Alternative investments represent investments
+for which a readily determinable fair value does not exist. The FASB  (ASC) glossary
+defines  as follows:
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+        <emphasis role="italic">readily determinable fair value</emphasis>
+      </para>
+      <para role="ps_indent_hang_2">
+        The fair value of an equity security is readily determinable
+if sales prices or bid-and-asked quotations are currently available
+on a securities exchange registered with the U.S. Securities and Exchange
+Commission (SEC) or in the over-the-counter market, provided that
+those prices or quotations for the over-the-counter market are publicly
+reported by the National Association of Securities Dealers Automated
+Quotations systems or by OTC Markets Group Inc. Restricted stock meets
+that definition if the restriction terminates within one year.
+        <emphasis role="italic">a.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        The fair value of an equity security traded only in a foreign
+market is readily determinable if that foreign market is of a breadth
+and scope comparable to one of the U.S. markets referred to previously.
+        <emphasis role="italic">b.</emphasis>
+        <tab/>
+      </para>
+      <para role="ps_indent_hang_2">
+        The fair value of an equity security that is an investment
+in a mutual fund or in a structure similar to a mutual fund (that
+is, a limited partnership or a venture capital entity) is readily
+determinable if the fair value per share (unit) is determined and
+published and is the basis for current transactions.
+        <emphasis role="italic">c.</emphasis>
+        <tab/>
+      </para>
+    </section>
+    <section id="aag-afi4_37" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.37</titleabbrev>
+        <title role="ps_para_number">4.37</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        These alternative investments include
+investments that are not listed on national exchanges or OTC markets
+or for which quoted market prices are not available from sources such
+as financial publications, the exchanges, or NASDAQ. These investments,
+as discussed in , “Applicability of Practical
+Expedient,” include hedge funds, private equity funds, real estate
+funds, venture capital funds, commodity funds, offshore fund vehicles,
+and funds of funds. Alternative investments may be structured as limited
+partnerships, limited liability corporations, trusts, or corporations.
+        <olink targetdoc="tpa" targetptr="tis_2220_18">Technical
+Questions and Answers section 2220.18</olink>
+        <footnote id="aag-afi_fn9" label="fn 9" role="number">
+          <para>
+            All Q&amp;A sections can be found in .
+            <emphasis role="italic">
+              <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+            </emphasis>
+          </para>
+        </footnote>
+      </para>
+    </section>
+    <section id="aag-afi4_38" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.38</titleabbrev>
+        <title role="ps_para_number">4.38</title>
+      </sectioninfo>
+      <para role="ps_para_number">When alternative investments are required
+to be accounted for at fair value, the valuation assertion may involve
+significant judgment by management in the assessment of the estimate
+of fair value of the investment. The more complex or illiquid the
+investment or the lack of sufficient management processes and records
+over valuation, the greater the risk of misstatement and the more
+persuasive audit evidence needs to be obtained by the auditor.</para>
+    </section>
+    <section id="aag-afi4_39" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.39</titleabbrev>
+        <title role="ps_para_number">4.39</title>
+      </sectioninfo>
+      <para role="ps_para_number">The auditor’s understanding of the reliability
+of the process used by the investor entity’s management to determine
+estimated fair value is an important element in support of the resulting
+amounts and, therefore, affects the nature, timing, and extent of
+audit procedures. The auditor may test management’s fair value estimate
+as of the balance sheet date by using one or more of the following
+approaches. The approach(es) taken may not be the same for all alternative
+investments in an investor entity’s portfolio because the nature of
+the underlying investments and associated risk, as well as the information
+available to management and the auditor, likely will be different
+for each alternative investment. The higher the assessed risk of material
+misstatement, the greater the need for the auditor to utilize a combination
+of the following approaches:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            . If the auditor determines that the nature and extent of auditing
+procedures should include testing the measurement of the investor
+entity’s investment, simply receiving a confirmation from the alternative
+investment of the entity’s investments in financial instruments, either
+in aggregate or on a security-by-security basis, does not, in and
+of itself, constitute sufficient appropriate audit evidence in addressing
+the valuation assertion. The extent of the additional audit procedures
+is directly related to the assessed risk of material misstatement
+of the financial statements.
+            <emphasis role="italic">Confirm the alternative investment</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . A confirmation on a security-by-security basis may provide support
+of the data used by the investor’s management in its valuation process.
+In drafting a confirmation, the auditor may consider requesting a
+description of each investment, ownership percentage or shares owned,
+and estimated fair value. If detailed information is not available,
+the auditor may look to the other data that management used in its
+valuation and perform tests on such data. The nature of the tests
+depends on the types of data used by management and the auditor’s
+assessment of the risk of material misstatement of the financial statements.
+            <emphasis role="italic">Review and test the investor
+entity’s significant assumptions and the underlying data in its valuation
+or analysis of the assumptions and data obtained from the fund manager</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . If audited financial statements
+of the alternative investment are available as of the date of the
+investor entity’s year-end, and the alternative investment follows
+fair value accounting, the audited financial statements and an accompanying
+auditor’s report may provide significant audit evidence regarding
+the valuation of the investment. However, the investor entity and
+fund often have different fiscal year-ends. In lower- or moderate-risk
+situations, the auditor might be able to obtain the fund’s audited
+financial statements as of the fund’s fiscal year-end and perform
+(or arrange to have the fund’s auditor perform) additional procedures
+to test the transactions and changes in fair value between the fund’s
+fiscal year-end and the investor’s fiscal year-end.
+            <emphasis role="italic">Reconcile to audited financial
+statements as of the same date</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            . Evidence of an actual transaction,
+such as an investment in, or liquidation of, a portion of its alternative
+investment as of a date close to the investor entity’s fiscal year-end,
+may provide information for management to support the valuation of
+the alternative investment. The auditor may consider how often settlements
+occur and the terms used to determine the value of the settlement.
+Issues to consider include whether the process used for the settlement
+is the same process used for financial reporting; whether there are
+holdbacks or potential true-ups subsequent to the balance sheet date;
+and the possibility that the parties to the transactions were not
+both willing buyers and sellers, such as in a distress sale.
+            <emphasis role="italic">Review transactions at or
+near the balance sheet date</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="aag-afi4_40" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>4.40</titleabbrev>
+        <title role="ps_para_number">4.40</title>
+      </sectioninfo>
+      <para role="ps_para_number">If management estimates the fair value
+of a significant portion of its alternative investments as of an interim
+date, management will need a robust process and strong internal control
+over the roll-forward period to the balance sheet date. Because the
+valuation assertion embedded in the financial statements is as of
+the balance sheet date, management needs to have the ability to obtain
+sufficient information to record the investments at estimated fair
+value as of the balance sheet date, including changes in the estimated
+fair value during the roll-forward period. In this situation, the
+auditor may test both the estimation process as of the interim date
+and the roll-forward process.</para>
+    </section>
+  </section>
+</root>

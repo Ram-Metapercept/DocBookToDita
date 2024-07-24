@@ -1,0 +1,70 @@
+<root id="aag-afi4_fraud_risk_factors" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Fraud Risk Factors</titleabbrev>
+    <title role="ps_sub_heading">
+      Fraud Risk Factors
+      <footnote id="aag-afi4_fn4" label="fn 4" role="number">
+        <para>
+          AU-C section 240B, , addresses fraud risk
+factors.
+          <emphasis role="italic">Consideration of
+Fraud in a Financial Statement Audit</emphasis>
+        </para>
+      </footnote>
+    </title>
+  </sectioninfo>
+  <section id="aag-afi4_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.06</titleabbrev>
+      <title role="ps_para_number">4.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">Incentives for fraudulent financial reporting
+by employees may exist when compensation arrangements are dependent
+on returns made from the use of financial instruments. Understanding
+how an entity’s compensation policies interact with its risk appetite
+and the incentives this may create for its management and traders
+may be important in assessing the risk of fraud.</para>
+  </section>
+  <section id="aag-afi4_07" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.07</titleabbrev>
+      <title role="ps_para_number">4.07</title>
+    </sectioninfo>
+    <para role="ps_para_number">Difficult financial market conditions
+may give rise to increased incentives for management or employees
+to engage in fraudulent financial reporting to, for example</para>
+    <para role="ps_indent_0">For example, at times of market instability,
+unexpected losses may arise from extreme fluctuations in market prices,
+from unanticipated declines in asset prices, through trading misjudgments,
+or for other reasons. In addition, financing difficulties create pressures
+on management concerned about the solvency of the business.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>protect personal bonuses.</para>
+      </listitem>
+      <listitem>
+        <para>hide employee or management fraud or error.</para>
+      </listitem>
+      <listitem>
+        <para>avoid breaching regulatory, liquidity, or borrowing
+limits.</para>
+      </listitem>
+      <listitem>
+        <para>avoid reporting losses. </para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_08" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.08</titleabbrev>
+      <title role="ps_para_number">4.08</title>
+    </sectioninfo>
+    <para role="ps_para_number">Misappropriation of assets and fraudulent
+financial reporting may often involve override of controls that otherwise
+may appear to be operating effectively. This may include override
+of controls over data, assumptions, and detailed process controls
+that allow losses and theft to be hidden. For example, difficult market
+conditions may increase pressure to conceal or offset trades as management
+attempts to recover losses.</para>
+  </section>
+</root>

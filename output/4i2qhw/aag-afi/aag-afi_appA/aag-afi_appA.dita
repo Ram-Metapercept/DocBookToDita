@@ -1,0 +1,889 @@
+<root id="aag-afi_appA" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Appendix A — Overview of Statements on Quality Control
+Standards</titleabbrev>
+    <title role="ps_section_heading">Appendix A</title>
+    <subtitle role="ps_section_title">Overview of Statements on Quality
+Control Standards</subtitle>
+  </chapterinfo>
+  <para role="ps_indent_0">
+    <emphasis role="italic">This appendix is
+nonauthoritative and is included for informational purposes only.</emphasis>
+  </para>
+  <para role="ps_indent_0">
+    This appendix is a partial reproduction of
+chapter 1 of the AICPA practice aid , available at .
+    <emphasis role="italic">Establishing
+and Maintaining a System of Quality Control for a CPA Firm’s Accounting
+and Auditing Practice</emphasis>
+    <ulink url="https://us.aicpa.org/interestareas/frc/enhancingauditqualitypracticeaid.html">https://us.aicpa.org/interestareas/frc/enhancingauditqualitypracticeaid.html</ulink>
+  </para>
+  <para role="ps_indent_0">
+    This appendix highlights certain aspects
+of the quality control standards issued by the AICPA. If appropriate,
+readers should also refer to the quality control standards issued
+by the PCAOB, available at .
+    <ulink url="https://pcaobus.org/oversight/standards/qc-standards">https://pcaobus.org/oversight/standards/qc-standards</ulink>
+  </para>
+  <section id="pra-sqcs_1_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.01</titleabbrev>
+      <title role="ps_para_number">1.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The objectives of a system of quality
+control are to provide a CPA firm with reasonable assurance that the firm and its personnel comply with professional
+standards and applicable regulatory and legal requirements, and that
+the firm or engagement partners issue reports that are appropriate
+in the circumstances. ,  (AICPA, ), addresses a CPA firm’s responsibilities for its system of quality
+control for its accounting and auditing practice. That section is
+to be read in conjunction with the  and other relevant ethical requirements.
+      <footnote id="pra-sqcs_1_fn1" label="fn 1">
+        <para>
+          The term , which is defined as a high, but not absolute, level of assurance,
+is used because absolute assurance cannot be attained.  of QM section
+10A,  (AICPA, ), states, "Any system of quality control has inherent limitations
+that can reduce its effectiveness."
+          <emphasis role="italic">reasonable assurance</emphasis>
+          <emphasis role="italic">A Firm’s System of Quality Control</emphasis>
+          <emphasis role="italic">Professional Standards</emphasis>
+          <olink targetdoc="ps" targetptr="qm_10a_53">Paragraph .53</olink>
+        </para>
+      </footnote>
+      <olink targetdoc="ps" targetptr="qm_10a">QM
+section 10A</olink>
+      <olink targetdoc="ps" targetptr="code_of_professional_conduct_revised">AICPA Code of Professional
+Conduct</olink>
+      <emphasis role="italic">A Firm’s System of Quality
+Control</emphasis>
+      <emphasis role="italic">Professional Standards</emphasis>
+    </para>
+  </section>
+  <section id="pra-sqcs_1_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.02</titleabbrev>
+      <title role="ps_para_number">1.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">A system of quality control consists of
+policies designed to achieve the objectives of the system and the
+procedures necessary to implement and monitor compliance with those
+policies. The nature, extent, and formality of a firm’s quality control
+policies and procedures will depend on various factors such as the
+firm’s size; the number and operating characteristics of its offices;
+the degree of authority allowed to, and the knowledge and experience
+possessed by, firm personnel; and the nature and complexity of the
+firm’s practice.</para>
+  </section>
+  <section id="pra-sqcs_1_communication_of_quality_control" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Communication of Quality Control Policies and Procedures</titleabbrev>
+      <title role="ps_main_heading">Communication of Quality Control Policies
+and Procedures</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_03" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.03</titleabbrev>
+        <title role="ps_para_number">1.03</title>
+      </sectioninfo>
+      <para role="ps_para_number">The firm should communicate its quality
+control policies and procedures to its personnel. Most firms will
+find it appropriate to communicate their policies and procedures in
+writing and distribute them, or make them available electronically,
+to all professional personnel. Effective communication includes the
+following:</para>
+      <para role="ps_indent_0">Effective communication also includes procedures
+for personnel to communicate their views or concerns on quality control
+matters to the firm’s management.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>A description of quality control policies and procedures
+and the objectives they are designed to achieve</para>
+        </listitem>
+        <listitem>
+          <para>The message that each individual has a personal responsibility
+for quality</para>
+        </listitem>
+        <listitem>
+          <para>A requirement for each individual to be familiar with
+and to comply with these policies and procedures</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_elements_of_a_system" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Elements of a System of Quality Control</titleabbrev>
+      <title role="ps_main_heading">Elements of a System of Quality Control</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_04" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.04</titleabbrev>
+        <title role="ps_para_number">1.04</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        A firm must establish and maintain a system
+of quality control. The firm’s system of quality control should include
+policies and procedures that address each of the following elements
+of quality control identified in  of QM section 10A:
+        <olink targetdoc="ps" targetptr="qm_10a_17">paragraph .17</olink>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Leadership responsibilities for quality within the
+firm (the "tone at the top")</para>
+        </listitem>
+        <listitem>
+          <para>Relevant ethical requirements</para>
+        </listitem>
+        <listitem>
+          <para>Acceptance and continuance of client relationships
+and specific engagements</para>
+        </listitem>
+        <listitem>
+          <para>Human resources</para>
+        </listitem>
+        <listitem>
+          <para>Engagement performance</para>
+        </listitem>
+        <listitem>
+          <para>Monitoring</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="pra-sqcs_1_05" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.05</titleabbrev>
+        <title role="ps_para_number">1.05</title>
+      </sectioninfo>
+      <para role="ps_para_number">The elements of quality control are interrelated.
+For example, a firm continually assesses client relationships to comply
+with relevant ethical requirements, including independence, integrity,
+and objectivity, and policies and procedures related to the acceptance
+and continuance of client relationships and specific engagements.
+Similarly, the human resources element of quality control encompasses
+criteria related to professional development, hiring, advancement,
+and assignment of firm personnel to engagements, all of which affect
+policies and procedures related to engagement performance. In addition,
+policies and procedures related to the monitoring element of quality
+control enable a firm to evaluate whether its policies and procedures
+for each of the other five elements of quality control are suitably
+designed and effectively applied.</para>
+    </section>
+    <section id="pra-sqcs_1_06" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.06</titleabbrev>
+        <title role="ps_para_number">1.06</title>
+      </sectioninfo>
+      <para role="ps_para_number">Policies and procedures established by
+the firm related to each element are designed to achieve reasonable
+assurance with respect to the purpose of that element. Deficiencies
+in policies and procedures for an element may result in not achieving
+reasonable assurance with respect to the purpose of that element;
+however, the system of quality control, as a whole, may still be effective
+in providing the firm with reasonable assurance that the firm and
+its personnel comply with professional standards and applicable regulatory
+and legal requirements and that the firm or engagement partners issue
+reports that are appropriate in the circumstances.</para>
+    </section>
+    <section id="pra-sqcs_1_07" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.07</titleabbrev>
+        <title role="ps_para_number">1.07</title>
+      </sectioninfo>
+      <para role="ps_para_number">If a firm merges, acquires, sells, or
+otherwise changes a portion of its practice, the surviving firm evaluates
+and, as necessary, revises, implements, and maintains firm-wide quality
+control policies and procedures that are appropriate for the changed
+circumstances.</para>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_leadership_responsibilities_for_quality" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Leadership Responsibilities for Quality Within the Firm
+(the "Tone at the Top") </titleabbrev>
+      <title role="ps_main_heading">Leadership Responsibilities for Quality
+Within the Firm (the "Tone at the Top") </title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_08" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.08</titleabbrev>
+        <title role="ps_para_number">1.08</title>
+      </sectioninfo>
+      <para role="ps_para_number">The purpose of the leadership responsibilities
+element of a system of quality control is to promote an internal culture
+based on the recognition that quality is essential in performing engagements.
+The firm should establish and maintain the following policies and
+procedures to achieve this purpose:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require the firm’s leadership (managing partner, board
+of managing partners, CEO, or equivalent) to assume ultimate responsibility
+for the firm’s system of quality control.</para>
+        </listitem>
+        <listitem>
+          <para>Provide the firm with reasonable assurance that personnel
+assigned operational responsibility for the firm’s quality control
+system have sufficient and appropriate experience and ability to identify
+and understand quality control issues and develop appropriate policies
+and procedures, as well as the necessary authority to implement those
+policies and procedures.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="pra-sqcs_1_09" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.09</titleabbrev>
+        <title role="ps_para_number">1.09</title>
+      </sectioninfo>
+      <para role="ps_para_number">Establishing and maintaining the following
+policies and procedures assists firms in recognizing that the firm’s
+business strategy is subject to the overarching requirement for the
+firm to achieve the objectives of the system of quality control in
+all the engagements that the firm performs:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Assign management responsibilities so that commercial
+considerations do not override the quality of the work performed.</para>
+        </listitem>
+        <listitem>
+          <para>Design policies and procedures addressing performance
+evaluation, compensation, and advancement (including incentive systems)
+with regard to personnel to demonstrate the firm’s overarching commitment
+to the objectives of the system of quality control.</para>
+        </listitem>
+        <listitem>
+          <para>Devote sufficient and appropriate resources for the
+development, communication, and support of its quality control policies
+and procedures.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_relevant_ethical_requirements" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Relevant Ethical Requirements</titleabbrev>
+      <title role="ps_main_heading">Relevant Ethical Requirements</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_10" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.10</titleabbrev>
+        <title role="ps_para_number">1.10</title>
+      </sectioninfo>
+      <para role="ps_para_number">The purpose of the relevant ethical requirements
+element of a system of quality control is to provide the firm with
+reasonable assurance that the firm and its personnel comply with relevant
+ethical requirements when discharging professional responsibilities.
+Relevant ethical requirements include independence, integrity, and
+objectivity. Establishing and maintaining policies such as the following
+assist the firm in obtaining this assurance:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require that personnel adhere to relevant ethical
+requirements such as those in regulations, interpretations, and rules
+of the AICPA, state CPA societies, state boards of accountancy, state
+statutes, the U.S. Government Accountability Office, and any other
+applicable regulators.</para>
+        </listitem>
+        <listitem>
+          <para>Establish procedures to communicate independence requirements
+to firm personnel and, where applicable, others subject to them.</para>
+        </listitem>
+        <listitem>
+          <para>Establish procedures to identify and evaluate possible
+threats to independence and objectivity, including the familiarity
+threat that may be created by using the same senior personnel on an
+audit or attest engagement over a long period of time, and to take
+appropriate action to eliminate those threats or reduce them to an
+acceptable level by applying safeguards.</para>
+        </listitem>
+        <listitem>
+          <para>Require that the firm withdraw from the engagement
+if effective safeguards to reduce threats to independence to an acceptable
+level cannot be applied.</para>
+        </listitem>
+        <listitem>
+          <para>Require written confirmation, at least annually, of
+compliance with the firm’s policies and procedures on independence
+from all firm personnel required to be independent by relevant requirements.</para>
+        </listitem>
+        <listitem>
+          <para>
+            Establish procedures for confirming the independence
+of another firm or firm personnel in associated member firms who perform
+part of the engagement. This would apply to national firm personnel,
+foreign firm personnel, and foreign-associated firms.
+            <footnote id="pra-sqcs_1_fn2" label="fn 2">
+              <para>
+                A  is a firm domiciled outside of the United States and its territories
+that is a member of, correspondent with, or similarly associated with
+an international firm or international association of firms.
+                <emphasis role="italic">foreign-associated firm</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Require the rotation of personnel for audit or attest
+engagements where regulatory or other authorities require such rotation
+after a specified period.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_acceptance_and_continuance_of" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Acceptance and Continuance of Client Relationships and
+Specific Engagements</titleabbrev>
+      <title role="ps_main_heading">Acceptance and Continuance of Client
+Relationships and Specific Engagements</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_11" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.11</titleabbrev>
+        <title role="ps_para_number">1.11</title>
+      </sectioninfo>
+      <para role="ps_para_number">The purpose of the quality control element
+that addresses acceptance and continuance of client relationships
+and specific engagements is to establish criteria for deciding whether
+to accept or continue a client relationship and whether to perform
+a specific engagement for a client. A firm’s client acceptance and
+continuance policies represent a key element in mitigating litigation
+and business risk. Accordingly, it is important that a firm be aware
+that the integrity and reputation of a client’s management could reflect
+the reliability of the client’s accounting records and financial representations
+and, therefore, affect the firm’s reputation or involvement in litigation.
+A firm’s policies and procedures related to the acceptance and continuance
+of client relationships and specific engagements should provide the
+firm with reasonable assurance that it will undertake or continue
+relationships and engagements only where it</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>is competent to perform the engagement and has the
+capabilities, including the time and resources, to do so;</para>
+        </listitem>
+        <listitem>
+          <para>can comply with legal and relevant ethical requirements;</para>
+        </listitem>
+        <listitem>
+          <para>has considered the client’s integrity and does not
+have information that would lead it to conclude that the client lacks
+integrity; and</para>
+        </listitem>
+        <listitem>
+          <para>has reached an understanding with the client regarding
+the services to be performed.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="pra-sqcs_1_12" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.12</titleabbrev>
+        <title role="ps_para_number">1.12</title>
+      </sectioninfo>
+      <para role="ps_para_number">This assurance should be obtained before
+accepting an engagement with a new client, when deciding whether to
+continue an existing engagement, and when considering acceptance of
+a new engagement with an existing client. Establishing and maintaining
+policies such as the following assist the firm in obtaining this assurance:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>
+            Evaluate factors that have a bearing on management’s
+integrity and consider the risk associated with providing professional
+services in particular circumstances.
+            <footnote id="pra-sqcs_1_fn3" label="fn 3">
+              <para>
+                Such considerations would include the risk of providing professional
+services to significant clients or to other clients for which the
+practitioner’s objectivity or the appearance of independence may be
+impaired. In broad terms, the significance of a client to a member
+or a firm refers to relationships that could diminish a practitioner’s
+objectivity and independence in performing attest services. Examples
+of factors to consider in determining the significance of a client
+to an engagement partner, office, or practice unit include () the amount of time the partner, office,
+or practice unit devotes to the engagement, () the effect on the partner’s stature within the firm
+as a result of his or her service to the client, () the manner in which the partner, office,
+or practice unit is compensated, or () the effect that losing the client would have on the partner, office,
+or practice unit.
+                <emphasis role="italic">a</emphasis>
+                <emphasis role="italic">b</emphasis>
+                <emphasis role="italic">c</emphasis>
+                <emphasis role="italic">d</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Evaluate whether the engagement can be completed with
+professional competence; undertake only those engagements for which
+the firm has the capabilities, resources, and professional competence
+to complete; and evaluate, at the end of specific periods or upon
+occurrence of certain events, whether the relationship should be continued.</para>
+        </listitem>
+        <listitem>
+          <para>Obtain an understanding, preferably in writing, with
+the client regarding the services to be performed.</para>
+        </listitem>
+        <listitem>
+          <para>Establish procedures on continuing an engagement and
+the client relationship, including procedures for dealing with information
+that would have caused the firm to decline an engagement if the information
+had been available earlier.</para>
+        </listitem>
+        <listitem>
+          <para>Require documentation of how issues relating to acceptance
+or continuance of client relationships and specific engagements were
+resolved.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_human_resources" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Human Resources</titleabbrev>
+      <title role="ps_main_heading">Human Resources</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_13" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.13</titleabbrev>
+        <title role="ps_para_number">1.13</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The purpose of the human resources element
+of a system of quality control is to provide the firm with reasonable
+assurance that it has sufficient personnel with the capabilities,
+competence, and commitment to ethical principles necessary () to perform its engagements in accordance
+with professional standards and regulatory and legal requirements,
+and () to enable the firm to issue
+reports that are appropriate in the circumstances. Establishing and
+maintaining policies such as the following assist the firm in obtaining
+this assurance:
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">b</emphasis>
+      </para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Recruit and hire personnel of integrity who possess
+the characteristics that enable them to perform competently.</para>
+        </listitem>
+        <listitem>
+          <para>
+            Determine capabilities and competencies required for
+an engagement, especially for the engagement partner, based on the
+characteristics of the particular client, industry, and kind of service
+being performed. Specific competencies necessary for an engagement
+partner are discussed in  of QM section 10A.
+            <olink targetdoc="ps" targetptr="qm_10a_a27">paragraph .A27</olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Determine the capabilities and competencies possessed
+by personnel.</para>
+        </listitem>
+        <listitem>
+          <para>Assign the responsibility for each engagement to an
+engagement partner.</para>
+        </listitem>
+        <listitem>
+          <para>Assign personnel based on the knowledge, skills, and
+abilities required in the circumstances and the nature and extent
+of supervision needed.</para>
+        </listitem>
+        <listitem>
+          <para>Have personnel participate in general and industry-specific
+continuing professional education and professional development activities
+that enable them to accomplish assigned responsibilities and satisfy
+applicable continuing professional education requirements of the AICPA,
+state boards of accountancy, and other regulators.</para>
+        </listitem>
+        <listitem>
+          <para>Select for advancement only those individuals who
+have the qualifications necessary to fulfill the responsibilities
+they will be called on to assume.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_engagement_performance" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Engagement Performance </titleabbrev>
+      <title role="ps_main_heading">Engagement Performance </title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_14" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.14</titleabbrev>
+        <title role="ps_para_number">1.14</title>
+      </sectioninfo>
+      <para role="ps_para_number">
+        The purpose of the engagement performance
+element of quality control is to provide the firm with reasonable
+assurance () that engagements
+are consistently performed in accordance with applicable professional
+standards and regulatory and legal requirements, and () that the firm or the engagement partner
+issues reports that are appropriate in the circumstances. Policies
+and procedures for engagement performance should address all phases
+of the design and execution of the engagement, including engagement
+performance, supervision responsibilities, and review responsibilities.
+Policies and procedures also should require that consultation takes
+place when appropriate. In addition, a policy should establish criteria
+against which all engagements are to be evaluated to determine whether
+an engagement quality control review should be performed.
+        <emphasis role="italic">a</emphasis>
+        <emphasis role="italic">b</emphasis>
+      </para>
+    </section>
+    <section id="pra-sqcs_1_15" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.15</titleabbrev>
+        <title role="ps_para_number">1.15</title>
+      </sectioninfo>
+      <para role="ps_para_number">Establishing and maintaining policies
+such as the following assist the firm in obtaining the assurance required
+relating to the engagement performance element of quality control:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Plan all engagements to meet professional, regulatory,
+and the firm’s requirements.</para>
+        </listitem>
+        <listitem>
+          <para>Perform work and issue reports and other communications
+that meet professional, regulatory, and the firm’s requirements.</para>
+        </listitem>
+        <listitem>
+          <para>Require that work performed by other team members
+be reviewed by qualified engagement team members, which may include
+the engagement partner, on a timely basis.</para>
+        </listitem>
+        <listitem>
+          <para>Require the engagement team to complete the assembly
+of final engagement files on a timely basis.</para>
+        </listitem>
+        <listitem>
+          <para>Establish procedures to maintain the confidentiality,
+safe custody, integrity, accessibility, and retrievability of engagement
+documentation.</para>
+        </listitem>
+        <listitem>
+          <para>Require the retention of engagement documentation
+for a period of time sufficient to meet the needs of the firm, professional
+standards, laws, and regulations.</para>
+        </listitem>
+        <listitem>
+          <para>Require that</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>consultation take place when appropriate (for example,
+when dealing with complex, unusual, unfamiliar, difficult, or contentious
+issues);</para>
+        </listitem>
+        <listitem>
+          <para>sufficient and appropriate resources be available
+to enable appropriate consultation to take place;</para>
+        </listitem>
+        <listitem>
+          <para>all the relevant facts known to the engagement team
+be provided to those consulted;</para>
+        </listitem>
+        <listitem>
+          <para>the nature, scope, and conclusions of such consultations
+be documented; and</para>
+        </listitem>
+        <listitem>
+          <para>the conclusions resulting from such consultations
+be implemented.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require that</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>differences of opinion be dealt with and resolved;</para>
+        </listitem>
+        <listitem>
+          <para>conclusions reached are documented and implemented;
+and</para>
+        </listitem>
+        <listitem>
+          <para>the report not be released until the matter is resolved.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require that</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>all engagements be evaluated against the criteria
+for determining whether an engagement quality control review should
+be performed;</para>
+        </listitem>
+        <listitem>
+          <para>an engagement quality control review be performed
+for all engagements that meet the criteria; and</para>
+        </listitem>
+        <listitem>
+          <para>the review be completed before the report is released.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Establish procedures addressing the nature, timing,
+extent, and documentation of the engagement quality control review.</para>
+        </listitem>
+        <listitem>
+          <para>Establish criteria for the eligibility of engagement
+quality control reviewers.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_monitoring" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Monitoring</titleabbrev>
+      <title role="ps_main_heading">Monitoring</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_16" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.16</titleabbrev>
+        <title role="ps_para_number">1.16</title>
+      </sectioninfo>
+      <para role="ps_para_number">The purpose of the monitoring element
+of a system of quality control is to provide the firm and its engagement
+partners with reasonable assurance that the policies and procedures
+related to the system of quality control are relevant, adequate, operating
+effectively, and complied with in practice. Monitoring involves an
+ongoing consideration and evaluation of the appropriateness of the
+design, the effectiveness of the operation of a firm’s quality control
+system, and a firm’s compliance with its quality control policies
+and procedures. The purpose of monitoring compliance with quality
+control policies and procedures is to provide an evaluation of the
+following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Adherence to professional standards and regulatory
+and legal requirements</para>
+        </listitem>
+        <listitem>
+          <para>Whether the quality control system has been appropriately
+designed and effectively implemented</para>
+        </listitem>
+        <listitem>
+          <para>Whether the firm’s quality control policies and procedures
+have been operating effectively so that reports issued by the firm
+are appropriate in the circumstances</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="pra-sqcs_1_17" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.17</titleabbrev>
+        <title role="ps_para_number">1.17</title>
+      </sectioninfo>
+      <para role="ps_para_number">Establishing and maintaining policies
+such as the following assist the firm in obtaining the assurance required
+relating to the monitoring element of quality control:</para>
+      <para role="ps_indent_4">This includes establishing clearly defined
+channels for firm personnel to raise any concerns in a manner that
+enables them to come forward without fear of reprisal and documenting
+complaints and allegations and the responses to them.</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Assign responsibility for the monitoring process to
+a partner or partners or other persons with sufficient and appropriate
+experience and authority in the firm to assume that responsibility.</para>
+        </listitem>
+        <listitem>
+          <para>Assign performance of the monitoring process to competent
+individuals.</para>
+        </listitem>
+        <listitem>
+          <para>Require the performance of monitoring procedures that
+are sufficiently comprehensive to enable the firm to assess compliance
+with all applicable professional standards and the firm’s quality
+control policies and procedures. Monitoring procedures consist of
+the following:</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>Review of selected administrative and personnel records
+pertaining to the quality control elements.</para>
+        </listitem>
+        <listitem>
+          <para>Review of engagement documentation, reports, and clients'
+financial statements.</para>
+        </listitem>
+        <listitem>
+          <para>Summarization of the findings from the monitoring
+procedures, at least annually, and consideration of the systemic causes
+of findings that indicate that improvements are needed.</para>
+        </listitem>
+        <listitem>
+          <para>Determination of any corrective actions to be taken
+or improvements to be made with respect to the specific engagements
+reviewed or the firm's quality control policies and procedures.</para>
+        </listitem>
+        <listitem>
+          <para>Communication of the identified findings to appropriate
+firm management personnel.</para>
+        </listitem>
+        <listitem>
+          <para>Consideration of findings by appropriate firm management
+personnel who should also determine that any actions necessary, including
+necessary modifications to the quality control system, are taken on
+a timely basis.</para>
+        </listitem>
+        <listitem>
+          <para>Assessment of</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_6">
+        <listitem>
+          <para>the appropriateness of the firm’s guidance materials
+and any practice aids;</para>
+        </listitem>
+        <listitem>
+          <para>new developments in professional standards and regulatory
+and legal requirements and how they are reflected in the firm’s policies
+and procedures where appropriate;</para>
+        </listitem>
+        <listitem>
+          <para>compliance with policies and procedures on independence;</para>
+        </listitem>
+        <listitem>
+          <para>the effectiveness of continuing professional development,
+including training;</para>
+        </listitem>
+        <listitem>
+          <para>decisions related to acceptance and continuance of
+client relationships and specific engagements; and</para>
+        </listitem>
+        <listitem>
+          <para>firm personnel’s understanding of the firm’s quality
+control policies and procedures and implementation thereof.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Communicate at least annually, to relevant engagement
+partners and other appropriate personnel, deficiencies noted as a
+result of the monitoring process and recommendations for appropriate
+remedial action.</para>
+        </listitem>
+        <listitem>
+          <para>Communicate the results of the monitoring of its quality
+control system process to relevant firm personnel at least annually.</para>
+        </listitem>
+        <listitem>
+          <para>Establish procedures designed to provide the firm
+with reasonable assurance that it deals appropriately with the following:</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>Complaints and allegations that the work performed
+by the firm fails to comply with professional standards and regulatory
+and legal requirements.</para>
+        </listitem>
+        <listitem>
+          <para>Allegations of noncompliance with the firm’s system
+of quality control.</para>
+        </listitem>
+        <listitem>
+          <para>Deficiencies in the design or operation of the firm’s
+quality control policies and procedures, or noncompliance with the
+firm’s system of quality control by an individual or individuals,
+as identified during the investigations into complaints and allegations.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require appropriate documentation to provide evidence
+of the operation of each element of its system of quality control.
+The form and content of documentation evidencing the operation of
+each of the elements of the system of quality control is a matter
+of judgment and depends on a number of factors, including the following,
+for example:</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="emdash" role="ps_indent_4">
+        <listitem>
+          <para>The size of the firm and the number of offices.</para>
+        </listitem>
+        <listitem>
+          <para>The nature and complexity of the firm’s practice and
+organization.</para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Require retention of documentation providing evidence
+of the operation of the system of quality control for a period of
+time sufficient to permit those performing monitoring procedures and
+peer review to evaluate the firm’s compliance with its system of quality
+control, or for a longer period if required by law or regulation.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section id="pra-sqcs_1_18" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.18</titleabbrev>
+        <title role="ps_para_number">1.18</title>
+      </sectioninfo>
+      <para role="ps_para_number">Some of the monitoring procedures discussed
+in the previous list may be accomplished through the performance of
+the following:</para>
+      <itemizedlist mark="bullet" role="ps_indent_2">
+        <listitem>
+          <para>Engagement quality control review</para>
+        </listitem>
+        <listitem>
+          <para>Review of engagement documentation, reports, and clients’
+financial statements for selected engagements after the report release
+date</para>
+        </listitem>
+        <listitem>
+          <para>
+            Inspection procedures
+            <footnote id="pra-sqcs_1_fn4" label="fn 4">
+              <para>
+                 is a retrospective
+evaluation of the adequacy of the firm’s quality control policies
+and procedures, its personnel’s understanding of those policies and
+procedures, and the extent of the firm’s compliance with them. Although
+monitoring procedures are meant to be ongoing, they may include inspection
+procedures performed at a fixed point in time. Monitoring is a broad
+concept; inspection is one specific type of monitoring procedure.
+                <emphasis role="italic">Inspection</emphasis>
+              </para>
+            </footnote>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section id="pra-sqcs_1_documentation_of_quality_control" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Documentation of Quality Control Policies and Procedures</titleabbrev>
+      <title role="ps_main_heading">Documentation of Quality Control Policies
+and Procedures</title>
+    </sectioninfo>
+    <section id="pra-sqcs_1_19" role="ls_level_8">
+      <sectioninfo>
+        <titleabbrev>1.19</titleabbrev>
+        <title role="ps_para_number">1.19</title>
+      </sectioninfo>
+      <para role="ps_para_number">The firm should document each element
+of its system of quality control. The extent of the documentation
+will depend on the size, structure, and nature of the firm’s practice.
+Documentation may be as simple as a checklist of the firm’s policies
+and procedures or as extensive as practice manuals.</para>
+    </section>
+  </section>
+</root>

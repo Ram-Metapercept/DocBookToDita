@@ -1,0 +1,41 @@
+<root id="aag-afi1_36" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.36</titleabbrev>
+    <title role="ps_para_number">1.36</title>
+  </sectioninfo>
+  <para role="ps_para_number">When no current observable market price
+for the financial instrument (that is, a level 1 input) exists, it
+will be necessary for the entity to gather other price indicators
+to use in a valuation technique to value the financial instrument.
+Price indicators may include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>recent transactions, including transactions after
+the date of the financial statements in the same instrument. Consideration
+is given to whether an adjustment needs to be made for changes in
+market conditions between the measurement date and the date the transaction
+was made because these transactions are not necessarily indicative
+of the market conditions that existed at the date of the financial
+statements. In addition, it is possible the transaction represents
+a forced transaction and, therefore, is not indicative of a price
+in an orderly trade.</para>
+    </listitem>
+    <listitem>
+      <para>current or recent transactions in similar instruments,
+often known as proxy pricing. Adjustments will need to be made to
+the price of the proxy to reflect the differences between it and the
+instrument being priced (for example, to take account of differences
+in liquidity or credit risk between the two instruments).</para>
+    </listitem>
+    <listitem>
+      <para>indexes for similar instruments. As with transactions
+in similar instruments, adjustments will need to be made to reflect
+the difference between the instrument being priced and the instrument(s)
+from which the index used is derived.</para>
+    </listitem>
+    <listitem>
+      <para>transactions in the financial instrument occurring
+on thinly traded markets, such as OTC or bulletin board exchanges.</para>
+    </listitem>
+  </itemizedlist>
+</root>

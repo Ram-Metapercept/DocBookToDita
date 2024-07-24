@@ -1,0 +1,33 @@
+<root id="aag-afi6_11" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.11</titleabbrev>
+    <title role="ps_para_number">6.11</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    To account for a derivative as a hedge,
+FASB  (ASC) 815 requires management, at the inception of the hedge, to
+designate the derivative as a hedge and contemporaneously formally
+document the hedging relationship, the entity’s risk management
+objective and strategy for undertaking the hedge, and the method of
+assessing the effectiveness of the hedge. In addition, to qualify
+for hedge accounting, FASB ASC 815 requires that management have an
+expectation, both at the inception of the hedge and on an ongoing
+basis, that the hedging relationship will be highly effective in achieving
+the hedging strategy.
+    <emphasis role="italic">Accounting Standards Codification</emphasis>
+    <footnote id="aag-afi6_fn9" label="fn 9" role="number">
+      <para>FASB ASC 815-20-25 requires formal documentation of prescribed
+aspects of hedging relationships at the inception of the hedge.</para>
+    </footnote>
+    <footnote id="aag-afi6_fn10" label="fn 10" role="number">
+      <para>
+        FASB ASC 815, , requires management to periodically reassess the effectiveness
+of hedging relationships whenever financial statements or earnings
+are reported and at least every three months. It also requires that
+all assessments of effectiveness be consistent with the risk management
+strategy documented for the particular hedging relationship.
+        <emphasis role="italic">Derivatives and Hedging</emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

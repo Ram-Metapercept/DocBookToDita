@@ -1,0 +1,44 @@
+<root id="aag-afi1_12" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.12</titleabbrev>
+    <title role="ps_para_number">1.12</title>
+  </sectioninfo>
+  <para role="ps_para_number">Key elements of risk management processes
+and internal control relating to an entity’s financial instruments
+include</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>setting an approach to define the amount of risk exposure
+that the entity is willing to accept when engaging in financial instrument
+transactions (this may be referred to as its "risk appetite"), including
+policies for investing in financial instruments and the control framework
+in which the financial instrument activities are conducted.</para>
+    </listitem>
+    <listitem>
+      <para>establishing processes for the documentation and authorization
+of new types of financial instrument transactions that consider the
+accounting, regulatory, legal, financial, and operational risks that
+are associated with such instruments.</para>
+    </listitem>
+    <listitem>
+      <para>processing financial instrument transactions, including
+confirmation and reconciliation of cash and asset holdings to external
+statements and the payments process.</para>
+    </listitem>
+    <listitem>
+      <para>segregation of duties between those investing or trading
+in the financial instruments and those responsible for processing,
+valuing, and confirming such instruments. For example, a model development
+function that is involved in assisting in pricing deals is less objective
+than one that is functionally and organizationally separate from the
+sales function.</para>
+    </listitem>
+    <listitem>
+      <para>valuation processes and controls, including controls
+over data obtained from third-party pricing sources.</para>
+    </listitem>
+    <listitem>
+      <para>monitoring of controls.</para>
+    </listitem>
+  </itemizedlist>
+</root>

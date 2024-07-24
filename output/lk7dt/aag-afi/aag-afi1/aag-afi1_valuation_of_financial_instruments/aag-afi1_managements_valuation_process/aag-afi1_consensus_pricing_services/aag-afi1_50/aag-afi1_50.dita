@@ -1,0 +1,16 @@
+<root id="aag-afi1_50" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>1.50</titleabbrev>
+    <title role="ps_para_number">1.50</title>
+  </sectioninfo>
+  <para role="ps_para_number">Typically, consensus prices are only available
+to subscribers who have submitted their own prices to the service.
+Accordingly, not all entities will have direct access to consensus
+prices. Because a subscriber generally cannot know how the prices
+submitted were estimated, other sources of evidence in addition to
+information from consensus pricing services may be needed for management
+to support its valuation. In particular, this may be the case if the
+sources are providing indicative prices based on their own valuation
+techniques, and management is unable to obtain an understanding of
+how these sources calculated their prices.</para>
+</root>

@@ -1,0 +1,68 @@
+<root id="aag-afi3_42" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.42</titleabbrev>
+    <title role="ps_para_number">3.42</title>
+  </sectioninfo>
+  <para role="ps_para_number">The following are examples of services
+provided by a service organization that may be part of a user entity’s
+information system as they relate to the user entity’s financial statement
+assertions about financial instruments:</para>
+  <para role="ps_indent_0">An example of a service provided by a service
+organization that would not be part of an entity’s information system
+is the processing of financial instrument transactions by a broker
+when the entity retains responsibility for authorizing transactions
+and maintaining the related accountability.</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>The initiation of the purchase or sale of equity securities
+by a service organization acting as investment adviser or manager</para>
+    </listitem>
+    <listitem>
+      <para>The initiation of hedged positions by a service organization
+acting in a capacity to reduce that entity’s risk and performing the
+transactions through the entity’s information system</para>
+    </listitem>
+    <listitem>
+      <para>The initiation of a settlement for an event, such
+as a corporate action by an organization providing outsourced administrative
+services</para>
+    </listitem>
+    <listitem>
+      <para>
+        Services that are ancillary to holding an entity’s financial instruments, such as
+        <footnote id="aag-afi3_fn4" label="fn 4" role="number">
+          <para>Maintaining custody of securities, either in physical or electronic
+form, is referred to as holding securities, and performing ancillary
+services is referred to as servicing securities.</para>
+        </footnote>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="emdash" role="ps_indent_4">
+    <listitem>
+      <para>collecting dividend and interest income and distributing
+that income to the entity</para>
+    </listitem>
+    <listitem>
+      <para>receiving notification of corporate actions</para>
+    </listitem>
+    <listitem>
+      <para>receiving notification of security purchase and sale
+transactions</para>
+    </listitem>
+    <listitem>
+      <para>receiving payments from purchasers and disbursing
+proceeds to sellers for security purchase and sale transactions</para>
+    </listitem>
+    <listitem>
+      <para>maintaining records of financial instrument transactions
+for the entity</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>A pricing service providing fair values of financial
+instruments through paper documents for financial statement reporting</para>
+    </listitem>
+  </itemizedlist>
+</root>

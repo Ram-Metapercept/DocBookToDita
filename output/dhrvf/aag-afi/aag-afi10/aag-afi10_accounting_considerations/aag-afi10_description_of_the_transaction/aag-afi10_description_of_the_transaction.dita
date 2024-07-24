@@ -1,0 +1,33 @@
+<root id="aag-afi10_description_of_the_transaction" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Description of the Transaction</titleabbrev>
+    <title role="ps_sub_heading">Description of the Transaction</title>
+  </sectioninfo>
+  <section id="aag-afi10_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.06</titleabbrev>
+      <title role="ps_para_number">10.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">JLM manufactures windows and doors for
+residential sale and is a SEC registrant that operates under a fiscal
+year-end of December 31. JLM has experienced a tremendous growth rate
+during the past 2 years. As a result, it has entered into an expansion
+and equipment upgrade project at its plant. In order to keep up with
+demands, JLM has increased its workforce by 25%.</para>
+  </section>
+  <section id="aag-afi10_07" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.07</titleabbrev>
+      <title role="ps_para_number">10.07</title>
+    </sectioninfo>
+    <para role="ps_para_number">On January 1, 20X1, JLM issued a 5-year,
+$1 million, BB-rated bond obligation. The interest rate on the bond
+obligation was fixed at 8%, payable on a quarterly basis. On February
+1, 20X1, to hedge its exposure to changes in LIBOR (that is, the designated
+benchmark interest rate risk being hedged), JLM entered into a 5-year
+interest rate swap with a notional amount of $1 million to receive
+a fixed rate of 8% and pay a variable rate equal to 90-day LIBOR (at
+the end of each quarter) plus 2%, payable on a quarterly basis, with
+the first payment due March 31, 20X1.</para>
+  </section>
+</root>

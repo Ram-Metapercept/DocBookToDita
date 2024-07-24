@@ -1,0 +1,47 @@
+<root id="aag-afi9_11" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>9.11</titleabbrev>
+    <title role="ps_para_number">9.11</title>
+  </sectioninfo>
+  <para role="ps_para_number">For example, assume that at the first
+measurement date after Martin purchased the bonds, using the with-and-without
+method used at the purchase date, Martin estimated the fair value
+of the straight bonds as follows:</para>
+  <para role="ps_indent_0">In addition, as of the first measurement
+date</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Based on quotes from dealers, the fair value of the
+hybrid instrument has increased by $15,750, from $124,250 to $140,000.</para>
+    </listitem>
+    <listitem>
+      <para>A specialist engaged by Martin estimated that the
+fair value of the option has increased by $6,475, from $58,525 to
+$65,000.</para>
+    </listitem>
+    <listitem>
+      <para>The fair value of the straight bonds therefore increased
+by $9,275, from $65,725 to $75,000.</para>
+    </listitem>
+  </itemizedlist>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>the discount on the bonds has decreased by $3,500,
+from $34,275 to $30,775.</para>
+    </listitem>
+    <listitem>
+      <para>interest of $4,998 was received, of which $1,998 was
+for the accrual at the date the bonds were purchased. The remaining
+$3,000 receipt relates to the current period.</para>
+    </listitem>
+    <listitem>
+      <para>of the $9,275 total increase in the fair value of
+the straight bonds, $3,500 is recorded as discount amortization, with
+the remaining $5,775 recorded as other comprehensive income. Total
+interest income recognized is $6,500, consisting of the $3,000 realized
+and $3,500 discount amortization. Based on annualized calculations,
+Martin concluded that the implicit yield is consistent with its initial
+YTM calculations.</para>
+    </listitem>
+  </itemizedlist>
+</root>

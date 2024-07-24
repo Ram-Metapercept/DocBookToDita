@@ -1,0 +1,20 @@
+<root id="aag-afi10_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.04</titleabbrev>
+    <title role="ps_para_number">10.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">Under the agreement in this case study,
+the entity effectively pays interest under the swap at a variable
+rate and receives interest under the swap at a fixed rate (although
+the entity actually pays or receives only the net amount under the
+swap). In this particular case, the notional amount of the swap is
+the same as the principal outstanding under the entity’s bond, and
+the fixed rate received under the swap is the same as the bond’s rate.
+Accordingly, the amount of fixed-rate interest received under the
+swap equals the amount of interest paid on the bond, and the net amount
+of interest paid equals the interest paid under the swap at the variable
+rate. The swap therefore enables the entity to pay a variable rate
+of interest on the amount of principal outstanding under the bond,
+thus effectively converting the bond from a fixed-rate to variable-rate
+instrument.</para>
+</root>

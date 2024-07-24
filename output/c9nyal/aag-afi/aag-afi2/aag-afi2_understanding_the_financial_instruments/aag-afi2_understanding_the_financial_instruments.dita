@@ -1,0 +1,84 @@
+<root id="aag-afi2_understanding_the_financial_instruments" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Understanding the Financial Instruments</titleabbrev>
+    <title role="ps_main_heading">Understanding the Financial Instruments</title>
+  </sectioninfo>
+  <section id="aag-afi2_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.06</titleabbrev>
+      <title role="ps_para_number">2.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">The characteristics of financial instruments
+may obscure certain elements of risk and exposure. Obtaining an understanding
+of the instruments in which the entity has invested or to which it
+is exposed, including the characteristics of the instruments, helps
+the auditor identify whether</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>important aspects of a transaction are missing or
+inaccurately recorded.</para>
+      </listitem>
+      <listitem>
+        <para>the risks inherent in them are fully understood and
+managed by the entity.</para>
+      </listitem>
+      <listitem>
+        <para>the instruments are valued using an appropriate valuation
+technique.</para>
+      </listitem>
+      <listitem>
+        <para>the financial instruments are appropriately classified
+into current and noncurrent assets and liabilities.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi2_07" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.07</titleabbrev>
+      <title role="ps_para_number">2.07</title>
+    </sectioninfo>
+    <para role="ps_para_number">Examples of matters that the auditor may
+consider when obtaining an understanding of the entity’s financial
+instruments include</para>
+    <para role="ps_indent_0">Inquiries of the internal audit function
+and risk management function, if such functions exist, and discussions
+with those charged with governance may assist the auditor in obtaining
+this understanding.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>the types of financial instruments to which the entity
+is exposed.</para>
+      </listitem>
+      <listitem>
+        <para>the purpose for which they are used.</para>
+      </listitem>
+      <listitem>
+        <para>management’s and, when appropriate, those charged
+with governance’s understanding of the financial instruments, their
+use, and the accounting requirements.</para>
+      </listitem>
+      <listitem>
+        <para>their exact terms and characteristics so that their
+implications can be fully understood and, in particular, when transactions
+are linked, the overall effect of the financial instrument transactions.</para>
+      </listitem>
+      <listitem>
+        <para>how they fit into the entity’s overall risk management
+strategy.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi2_08" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>2.08</titleabbrev>
+      <title role="ps_para_number">2.08</title>
+    </sectioninfo>
+    <para role="ps_para_number">In some cases, a contract, including a
+contract for a nonfinancial instrument, may contain a derivative.
+Some financial reporting frameworks permit or require such embedded
+derivatives to be separated from the host contract in some circumstances.
+Understanding management’s process for identifying and accounting
+for embedded derivatives will assist the auditor in understanding
+the risks to which the entity is exposed.</para>
+  </section>
+</root>

@@ -1,0 +1,261 @@
+<root id="aag-afi1_purpose_and_risks_of" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Purpose and Risks of Using Financial Instruments</titleabbrev>
+    <title role="ps_main_heading">Purpose and Risks of Using Financial
+Instruments</title>
+  </sectioninfo>
+  <section id="aag-afi1_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.04</titleabbrev>
+      <title role="ps_para_number">1.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">Financial instruments may be used for</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>hedging purposes (for example, to change an existing
+risk profile to which an entity is exposed). This includes</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>the forward purchase or sale of currency to fix a
+future exchange rate.</para>
+      </listitem>
+      <listitem>
+        <para>converting future interest rates to fixed rates or
+floating rates through the use of swaps.</para>
+      </listitem>
+      <listitem>
+        <para>the purchase of option contracts to provide an entity
+with protection against a particular price movement, including contracts
+that may contain embedded derivatives.</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>trading purposes (for example, to enable an entity
+to take a risk position to benefit from short-term market movements).</para>
+      </listitem>
+      <listitem>
+        <para>investment purposes (for example, to enable an entity
+to benefit from long-term investment returns).</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.05</titleabbrev>
+      <title role="ps_para_number">1.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">The use of financial instruments can reduce
+exposures to certain business risks (for example, changes in exchange
+rates, interest rates, and commodity prices or a combination of those
+risks). On the other hand, the inherent complexities of some financial
+instruments also may result in increased risk.</para>
+  </section>
+  <section id="aag-afi1_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.06</titleabbrev>
+      <title role="ps_para_number">1.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Business risk and the risk of material misstatement increase when management
+and those charged with governance
+      <footnote id="aag-afi1_fn2" label="fn 2" role="number">
+        <para>
+           is defined
+in paragraph .04 of AU-C section 315B, .
+          <emphasis role="italic">Business risk</emphasis>
+          <emphasis role="italic">Understanding
+the Entity and Its Environment and Assessing the Risks of Material
+Misstatement</emphasis>
+        </para>
+        <para>
+          All AU-C sections can be found in AICPA .
+          <tab/>
+          <emphasis role="italic">
+            <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+          </emphasis>
+        </para>
+      </footnote>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>do not fully understand the risks of using financial
+instruments and have insufficient skills and experience to manage
+those risks.</para>
+      </listitem>
+      <listitem>
+        <para>do not have the expertise to value them appropriately
+in accordance with the applicable financial reporting framework.</para>
+      </listitem>
+      <listitem>
+        <para>do not have sufficient controls in place over financial
+instrument activities.</para>
+      </listitem>
+      <listitem>
+        <para>inappropriately hedge risks or speculate.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_07" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.07</titleabbrev>
+      <title role="ps_para_number">1.07</title>
+    </sectioninfo>
+    <para role="ps_para_number">Management’s failure to fully understand
+the risks inherent in a financial instrument can have a direct effect
+on management’s ability to manage these risks appropriately and may
+ultimately threaten the viability of the entity.</para>
+  </section>
+  <section id="aag-afi1_08" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.08</titleabbrev>
+      <title role="ps_para_number">1.08</title>
+    </sectioninfo>
+    <para role="ps_para_number">The following are principal types of risk
+applicable to financial instruments. This list is not meant to be
+exhaustive, and different terminology may be used to describe these
+risks or classify the components of individual risks:</para>
+    <para role="ps_indent_hang_2">
+        is the
+risk that one party to a financial instrument will cause a financial
+loss to another party by failing to discharge an obligation, and it
+is often associated with default. Credit risk includes counterparty
+risk and settlement risk, which are defined as follows:
+      <emphasis role="bold">Credit (or counterparty)
+risk. </emphasis>
+      <emphasis role="italic">Credit risk</emphasis>
+      <footnote id="aag-afi1_fn3" label="fn 3" role="number">
+        <para>
+          See the FASB ASC Master Glossary for definitions of  for purposes of a hedged item
+in a fair value hedge and a hedged transaction in a cash flow hedge. 
+          <emphasis role="italic">credit risk</emphasis>
+        </para>
+      </footnote>
+    </para>
+    <para role="ps_indent_hang_2">
+        is the risk that
+the fair value or future cash flows of a financial instrument will
+fluctuate because of changes in market prices. Market risk comprises
+currency risk, interest rate risk, and other price risk.
+      <emphasis role="bold">Market risk. </emphasis>
+      <emphasis role="italic">Market risk</emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+      Liquidity risk includes the risk of not being able to buy or sell
+a financial instrument at an appropriate price in a timely manner
+due to a lack of marketability for that financial instrument.
+      <emphasis role="bold">Liquidity risk. </emphasis>
+    </para>
+    <para role="ps_indent_hang_2">
+       Operational risk relates to the specific processing required for
+financial instruments. Operational risk may increase as the complexity
+of a financial instrument increases, and poor management of operational
+risk may increase other types of risk. Operational risk includes the
+risk
+      <emphasis role="bold">Operational risk.</emphasis>
+    </para>
+    <itemizedlist mark="bullet" role="ps_indent_4">
+      <listitem>
+        <para>
+          . Connotes the exposure to the aggregate credit risk posed by all
+transactions with one counterparty.
+          <emphasis role="italic">Counterparty risk</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          . The related exposure that a counterparty may fail to perform under
+a contract after the end user has delivered funds or assets according
+to its obligations. Settlement risk relates almost solely to over-the-counter
+(OTC) contracts (that is, nonexchange-traded instruments). One method
+for minimizing settlement risk is to enter into a master netting agreement
+that allows the parties to offset all their related payable and receivable
+positions at settlement.
+          <emphasis role="italic">Settlement risk</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_4">
+      <listitem>
+        <para>that confirmation and reconciliation controls are
+inadequate, resulting in incomplete or inaccurate recording of financial
+instruments.</para>
+      </listitem>
+      <listitem>
+        <para>that inappropriate documentation of transactions and
+insufficient monitoring of these transactions exist.</para>
+      </listitem>
+      <listitem>
+        <para>that transactions are incorrectly recorded, processed,
+or risk managed and, therefore, do not reflect the economics of the
+overall trade.</para>
+      </listitem>
+      <listitem>
+        <para>that undue reliance is placed by staff on the accuracy
+of valuation techniques without adequate review, and transactions
+are, therefore, incorrectly valued, or their risk is improperly measured.</para>
+      </listitem>
+      <listitem>
+        <para>that the use of financial instruments is not adequately
+incorporated into the entity’s risk management policies and procedures.</para>
+      </listitem>
+      <listitem>
+        <para>of loss resulting from inadequate or failed internal
+processes and systems or from external events, including the risk
+of fraud from both internal and external sources.</para>
+      </listitem>
+      <listitem>
+        <para>that inadequate or nontimely maintenance of valuation
+techniques used to measure financial instruments exist.</para>
+      </listitem>
+      <listitem>
+        <para>that losses may result from a legal or regulatory
+action that invalidates or otherwise precludes performance by the
+end user or its counterparty under the terms of the contract or related
+netting arrangements (that is, legal risk, which is a component of
+operational risk). For example, legal risk could arise from insufficient
+or incorrect documentation for the contract, an inability to enforce
+a netting arrangement in bankruptcy, adverse changes in tax laws,
+or statutes that prohibit entities from investing in certain types
+of financial instruments.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi1_09" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.09</titleabbrev>
+      <title role="ps_para_number">1.09</title>
+    </sectioninfo>
+    <para role="ps_para_number">Other considerations relevant to risks
+of using financial instruments include the risk</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>of fraud that may be increased if, for example, an
+employee in a position to perpetrate a financial fraud understands
+both the financial instruments and processes for accounting for them,
+but management and those charged with governance have a lesser degree
+of understanding.</para>
+      </listitem>
+      <listitem>
+        <para>
+          that master netting arrangements may not be properly reflected in the financial statements.
+          <footnote id="aag-afi1_fn4" label="fn 4" role="number">
+            <para>An entity that undertakes a number of financial instrument transactions
+with a single counterparty may enter into a master netting arrangement
+with that counterparty. Such an agreement provides for a single net
+settlement of all financial instruments covered by the agreement in
+the event of default of any one contract. See FASB ASC 815-10-45 for
+information on offsetting amounts related to derivative instruments. </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>that some financial instruments may change between
+being assets or liabilities during their term and that such change
+may occur rapidly.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

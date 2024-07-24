@@ -1,0 +1,64 @@
+<root id="aag-afi11_08" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.08</titleabbrev>
+    <title role="ps_para_number">11.08</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    Pursuant to its foreign exchange risk-management
+policy, Austin-Jhanes manages its currency risk by purchasing a foreign
+currency put option. It considers this transaction to be a cash flow
+hedge of a foreign currency-denominated transaction that is in accordance
+with FASB ASC 815, , subtopics 815−20, “Hedging — General,” and 815−30, “Cash Flow Hedges.”
+The terms of the purchased option are as follows:
+    <emphasis role="italic">Derivatives and Hedging</emphasis>
+  </para>
+  <table frame="none" id="aag-afi11_table1" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="1.5in"/>
+      <colspec colname="c2" colwidth="1.5in"/>
+      <tbody>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Contract amount</para>
+          </entry>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>FC 10,000,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Expiration date</para>
+          </entry>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>March 31, 20X2</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Strike exchange rate (that is, the contract rate)</para>
+          </entry>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>2 FC/1 U.S. $</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Spot exchange rate</para>
+          </entry>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>2 FC/1 U.S. $</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Premium</para>
+          </entry>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>$20,000</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

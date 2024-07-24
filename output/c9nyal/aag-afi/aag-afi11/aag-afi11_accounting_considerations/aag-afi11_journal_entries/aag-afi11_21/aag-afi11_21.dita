@@ -1,0 +1,108 @@
+<root id="aag-afi11_21" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>11.21</titleabbrev>
+    <title role="ps_para_number">11.21</title>
+  </sectioninfo>
+  <para role="ps_para_number">The effects of the transaction on Austin-Jhanes’
+statement of financial position are as follows:</para>
+  <table frame="none" id="aag-afi11_table6" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="2" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="2.99in"/>
+      <colspec colname="c2" colwidth="0.93in"/>
+      <tbody>
+        <row>
+          <entry colsep="0" rowsep="0"/>
+          <entry align="center" colsep="0" rowsep="1" valign="bottom">
+            <para>DR (CR)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+            <para>
+              <emphasis role="bold">September 30, 20X1</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Cash</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> $(20,000)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Foreign currency option</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 20,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+            <para>
+              <emphasis role="bold">December 31, 20X1</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Cash</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> $(20,000)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Foreign currency option</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 248,095</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Accumulated other comprehensive income</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> (238,095)</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Retained earnings</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para> 10,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+            <para>
+              <emphasis role="bold">March 31, 20X2</emphasis>
+            </para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Cash</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>$4,980,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" colsep="0" rowsep="0" valign="bottom">
+            <para>Retained earnings</para>
+          </entry>
+          <entry align="right" colsep="0" rowsep="0" valign="bottom">
+            <para>(4,980,000)</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

@@ -1,0 +1,38 @@
+<root id="aag-afi3_38" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.38</titleabbrev>
+    <title role="ps_para_number">3.38</title>
+  </sectioninfo>
+  <para role="ps_para_number">The entity’s ongoing monitoring activities
+are designed to detect and correct any deficiencies in the effectiveness
+of controls over transactions for financial instruments and their
+valuation. It is important that there is adequate supervision and
+review of financial instrument activity within the entity, including</para>
+  <para role="ps_indent_hang_2">
+    all controls being subject to review (for example, the monitoring
+of operational statistics, such as the number of reconciling items
+or the difference between internal pricing and external pricing sources).
+    <emphasis role="italic">
+      a.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    the need for robust IT controls and monitoring and validating their
+application.
+    <emphasis role="italic">
+      b.
+      <tab/>
+    </emphasis>
+  </para>
+  <para role="ps_indent_hang_2">
+    the need to ensure that information resulting from different processes
+and systems is adequately reconciled. For example, there is little
+benefit in a valuation process if its output is not reconciled properly
+to the general ledger.
+    <emphasis role="italic">
+      c.
+      <tab/>
+    </emphasis>
+  </para>
+</root>

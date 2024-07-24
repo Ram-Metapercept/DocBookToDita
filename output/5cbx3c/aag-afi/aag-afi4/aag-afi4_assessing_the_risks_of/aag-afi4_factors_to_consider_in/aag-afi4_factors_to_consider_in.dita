@@ -1,0 +1,95 @@
+<root id="aag-afi4_factors_to_consider_in" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Factors to Consider in Determining Whether and to What
+Extent to Test the Operating Effectiveness of Controls </titleabbrev>
+    <title role="ps_sub_heading">Factors to Consider in Determining Whether
+and to What Extent to Test the Operating Effectiveness of Controls </title>
+  </sectioninfo>
+  <section id="aag-afi4_09" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.09</titleabbrev>
+      <title role="ps_para_number">4.09</title>
+    </sectioninfo>
+    <para role="ps_para_number">An expectation that controls are operating
+effectively may be more common when dealing with an entity with well-established
+controls; therefore, testing controls may be an effective means of
+obtaining audit evidence. When an entity has a trading function, substantive
+procedures alone may not provide sufficient appropriate audit evidence
+due to the volume of contracts and the different systems used. Tests
+of controls, however, will not be sufficient on their own because
+the auditor is required by paragraph .18 of AU-C section 330B to design
+and perform substantive procedures for all relevant assertions related
+to each material class of transactions, account balance, and disclosure.</para>
+  </section>
+  <section id="aag-afi4_10" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.10</titleabbrev>
+      <title role="ps_para_number">4.10</title>
+    </sectioninfo>
+    <para role="ps_para_number">Entities with a high volume of trading
+and use of financial instruments may have more sophisticated controls
+and an effective risk management function; therefore, the auditor
+may be more likely to test controls in obtaining evidence about the
+following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The occurrence, completeness, valuation, accuracy,
+and cutoff of the transactions</para>
+      </listitem>
+      <listitem>
+        <para>The existence, rights and obligations, and completeness
+of account balances</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_11" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.11</titleabbrev>
+      <title role="ps_para_number">4.11</title>
+    </sectioninfo>
+    <para role="ps_para_number">In those entities with relatively few
+financial instrument transactions</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>management and those charged with governance may have
+only a limited understanding of financial instruments and how they
+affect the business.</para>
+      </listitem>
+      <listitem>
+        <para>the entity may only have a few different types of
+instruments, with little or no interaction between them.</para>
+      </listitem>
+      <listitem>
+        <para>
+          there is unlikely to be a complex control environment
+(for example, the controls described in , "Internal Control," of this guide may not be in
+place at the entity).
+          <olink targetptr="aag-afi3">chapter 3</olink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>management may use pricing information from third-party
+pricing sources to value their instruments.</para>
+      </listitem>
+      <listitem>
+        <para>controls over the use of pricing information from
+third-party pricing sources may be less sophisticated.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_12" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.12</titleabbrev>
+      <title role="ps_para_number">4.12</title>
+    </sectioninfo>
+    <para role="ps_para_number">When an entity has relatively few transactions
+involving financial instruments, it may be relatively easy for the
+auditor to obtain an understanding of the entity’s objectives for
+using the financial instruments and the characteristics of the instruments.
+In such circumstances, much of the audit evidence is likely to be
+substantive in nature; the auditor may perform the majority of the
+audit work at year-end; and third-party confirmations are likely to
+provide evidence in relation to the completeness, accuracy, and existence
+of the transactions. </para>
+  </section>
+</root>

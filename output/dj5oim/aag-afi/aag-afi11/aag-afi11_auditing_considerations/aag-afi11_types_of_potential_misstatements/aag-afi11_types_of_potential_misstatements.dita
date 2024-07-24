@@ -1,0 +1,46 @@
+<root id="aag-afi11_types_of_potential_misstatements" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Types of Potential Misstatements</titleabbrev>
+    <title role="ps_sub_heading">Types of Potential Misstatements</title>
+  </sectioninfo>
+  <section id="aag-afi11_36" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.36</titleabbrev>
+      <title role="ps_para_number">11.36</title>
+    </sectioninfo>
+    <para role="ps_para_number">The types of potential misstatements are</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>improper use of hedge accounting under FASB ASC 815,
+including the following:</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="emdash" role="ps_indent_4">
+      <listitem>
+        <para>Failure to properly designate and document the hedge
+at its inception</para>
+      </listitem>
+      <listitem>
+        <para>Incorrect assessment of hedge effectiveness, including
+the improper inclusion or exclusion of the time value of the options</para>
+      </listitem>
+      <listitem>
+        <para>Improper recording of gains and losses relating to
+the transaction (for example, transactions recorded in the improper
+amount or wrong accounting period)</para>
+      </listitem>
+      <listitem>
+        <para>Improper inclusion or exclusion of the time value
+of the options in the measure of hedge effectiveness</para>
+      </listitem>
+    </itemizedlist>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>failure to record all derivatives transactions.</para>
+      </listitem>
+      <listitem>
+        <para>inaccurate determination of fair values of derivatives.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

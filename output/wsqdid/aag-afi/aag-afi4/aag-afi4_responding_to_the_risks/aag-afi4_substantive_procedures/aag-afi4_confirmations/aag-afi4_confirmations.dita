@@ -1,0 +1,151 @@
+<root id="aag-afi4_confirmations" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Confirmations</titleabbrev>
+    <title role="ps_subsub_heading">Confirmations</title>
+  </sectioninfo>
+  <section id="aag-afi4_24" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.24</titleabbrev>
+      <title role="ps_para_number">4.24</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .A4 of AU-C section 505B, , states that the design
+of a confirmation request may directly affect the confirmation response
+rate and the reliability and nature of the audit evidence obtained
+from responses. For example, a custodian would be able to confirm
+the existence of financial instruments but may be unable to confirm
+their valuation, the entity’s rights and obligations with respect
+to the financial instruments, or their completeness. Additionally,
+certain respondents’ accounting systems may facilitate the confirmation
+of single transactions rather than entire account balances, or respondents
+may not be able to confirm the balances of their installment loans,
+but they may be able to confirm whether their payments are up to date,
+the amount of the payment, and the key terms of their loans. Understanding
+the entity’s arrangements and transactions with third parties is key
+to determining the information to be confirmed. 
+      <emphasis role="italic">External Confirmations</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi4_25" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.25</titleabbrev>
+      <title role="ps_para_number">4.25</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Paragraph .07 of AU-C section 505B requires the auditor to select the appropriate
+confirming party. AU-C section 505B further states that responses
+to confirmation requests provide more relevant and reliable audit
+evidence when confirmation requests are sent to a confirming party
+who the auditor believes is knowledgeable about the information to
+be confirmed. For example, a financial institution official who is
+knowledgeable about the transactions or arrangements for which confirmation
+is requested may be the most appropriate person at the financial institution
+from whom to request confirmation.
+      <emphasis role="italic">b</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi4_26" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.26</titleabbrev>
+      <title role="ps_para_number">4.26</title>
+    </sectioninfo>
+    <para role="ps_para_number">When designing confirmations for financial
+instruments, auditors might consider confirming the following attributes,
+as applicable:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>The name of the issuer</para>
+      </listitem>
+      <listitem>
+        <para>The description of the financial instruments</para>
+      </listitem>
+      <listitem>
+        <para>The name of the owner of the financial instruments
+or the parties to the financial instrument</para>
+      </listitem>
+      <listitem>
+        <para>The terms of the financial instrument</para>
+      </listitem>
+      <listitem>
+        <para>Any evidence of pledging or restrictions on disposal</para>
+      </listitem>
+      <listitem>
+        <para>The investment certificate numbers on the documents</para>
+      </listitem>
+      <listitem>
+        <para>The number of shares of stock or face amount of debt
+securities</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_27" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.27</titleabbrev>
+      <title role="ps_para_number">4.27</title>
+    </sectioninfo>
+    <para role="ps_para_number">Paragraph .12 of AU-C section 505B states
+that in the case of each nonresponse, the auditor should perform alternative
+audit procedures to obtain relevant and reliable audit evidence. Examples
+include the following:</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Examining source documents, such as invoices or broker’s
+statements</para>
+      </listitem>
+      <listitem>
+        <para>Inspecting executed agreements</para>
+      </listitem>
+      <listitem>
+        <para>Examining cash receipts, disbursements, and trade
+confirmations subsequent to year-end</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+  <section id="aag-afi4_28" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.28</titleabbrev>
+      <title role="ps_para_number">4.28</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      When an electronic confirmation process
+or system is used, the auditor’s consideration of the risks includes
+the consideration of risks that the electronic confirmation process
+is not secure or is improperly controlled. An electronic confirmation system or process that creates
+a secure confirmation environment may mitigate the risks of interception
+or alteration. Creating a secure confirmation environment depends
+on the process or mechanism used by the auditor and respondent to
+minimize the possibility that the results will be compromised because
+of interception or alteration of the confirmation. If the auditor
+is satisfied that such a system or process is secure and properly
+controlled, evidence provided by responses received using the system
+or process may be considered reliable. Various means might be used
+to validate the source of the electronic information. For example,
+the use of encryption, electronic digital signatures, and procedures
+to verify website authenticity may improve the security of the electronic
+confirmation system or process. If a system or process that facilitates
+electronic confirmation between the auditor and respondent is in place,
+and the auditor plans to rely on the controls over such a system or
+process, an assurance trust services report (for example, Systrust)
+or another assurance report on that system or process may assist the
+auditor in assessing the design and operating effectiveness of the
+electronic and manual controls with respect to that system or process.
+Such an assurance report may address the risks described in paragraph
+.A13 of AU-C section 505B. If these risks are not adequately addressed
+in such a report, the auditor may perform additional procedures to
+address those risks. For example, the auditor may determine that it is appropriate
+to address such risks by directly contacting the purported sender
+(for example, by telephone) to validate the identity of the sender
+of the response and to validate that the information received by the
+auditor corresponds to what was transmitted by the sender.
+      <footnote id="aag-afi4_fn7" label="fn 7" role="number">
+        <para>
+          Paragraph .A13 of AU-C section 505B, .
+          <emphasis role="italic">External Confirmations</emphasis>
+        </para>
+      </footnote>
+      <footnote id="aag-afi4_fn8" label="fn 8" role="number">
+        <para>Paragraph .A15 of AU-C section 505B.</para>
+      </footnote>
+    </para>
+  </section>
+</root>

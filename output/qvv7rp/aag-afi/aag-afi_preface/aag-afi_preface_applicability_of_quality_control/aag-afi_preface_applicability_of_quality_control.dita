@@ -1,0 +1,123 @@
+<root id="aag-afi_preface_applicability_of_quality_control" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Applicability of Quality Control Standards</titleabbrev>
+    <title role="ps_main_heading">Applicability of Quality Control Standards</title>
+  </sectioninfo>
+  <para role="ps_indent_0">
+    , , addresses a CPA firm’s responsibilities for its system
+of quality control for its accounting and auditing practice. A system
+of quality control consists of policies that a firm establishes and
+maintains to provide it with reasonable assurance that the firm and
+its personnel comply with professional standards, as well as applicable
+legal and regulatory requirements. The policies also provide the firm
+with reasonable assurance that reports issued by the firm are appropriate
+in the circumstances. 
+    <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+    <emphasis role="italic">A Firm’s System of
+Quality Control</emphasis>
+    <footnote id="aag-afi_preface_fn2" label="fn 2" role="number">
+      <para>
+        All QM sections can be found in AICPA .
+        <emphasis role="italic">
+          <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+        </emphasis>
+      </para>
+    </footnote>
+  </para>
+  <para role="ps_indent_0">
+     applies to all CPA firms with respect to engagements
+in their accounting and auditing practice. In  of QM section 10A, an  is defined
+as
+    <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+    <olink targetdoc="ps" targetptr="qm_10a_13">paragraph .13</olink>
+    <emphasis role="italic">accounting and auditing practice</emphasis>
+  </para>
+  <para role="ps_indent_2">
+    a practice that performs engagements covered
+by this section, which are audit, attestation, compilation, review,
+and any other services for which standards have been promulgated by
+the AICPA Auditing Standards Board (ASB) or the AICPA Accounting and
+Review Services Committee (ARSC) under the “” (ET sec.1.300.001) or the “” (ET sec. 1.310.001) of the
+AICPA Code of Professional Conduct. Although standards for other engagements
+may be promulgated by other AICPA technical committees, engagements
+performed in accordance with those standards are not encompassed in
+the definition of an .
+    <olink targetdoc="ps" targetptr="et-cod1_300_001">General Standards Rule</olink>
+    <olink targetdoc="ps" targetptr="et-cod1_310_001">Compliance With Standards Rule</olink>
+    <footnote id="aag-afi_preface_fn3" label="fn 3" role="number">
+      <para>
+        All ET sections can be found in AICPA .
+        <olink targetdoc="ps" targetptr="ps">
+          <emphasis role="italic">Professional Standards</emphasis>
+        </olink>
+      </para>
+    </footnote>
+    <emphasis role="italic">accounting and auditing
+practice</emphasis>
+  </para>
+  <para role="ps_indent_0">
+    In addition to the provisions of , readers
+should be aware of other sections within AICPA  that address quality control considerations, including
+the following provisions that address engagement-level quality control
+matters for various types of engagements that an accounting and auditing
+practice might perform:
+    <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+    <emphasis role="italic">
+      <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+    </emphasis>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>
+          AU-C section 220B, 
+          <emphasis role="italic">Quality
+Control for an Engagement Conducted in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          , 
+          <olink targetdoc="ps" targetptr="atc_105">AT-C section
+105</olink>
+          <emphasis role="italic">Concepts Common to All Attestation
+Engagements</emphasis>
+          <footnote id="aag-afi_preface_fn4" label="fn 4" role="number">
+            <para>
+              All AT-C sections can be found in AICPA .
+              <emphasis role="italic">
+                <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+              </emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          , 
+          <olink targetdoc="ps" targetptr="arc_60a">AR-C section
+60A</olink>
+          <emphasis role="italic">General Principles for Engagements
+Performed in Accordance With Statements on Standards for Accounting
+and Review Services</emphasis>
+          <footnote id="aag-afi_preface_fn5" label="fn 5" role="number">
+            <para>
+              All AR-C sections can be found in AICPA .
+              <emphasis role="italic">
+                <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+              </emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </para>
+  <para role="ps_indent_0">
+    Because of the importance of engagement quality,
+this guide includes , “Overview of Statements on Quality Control Standards,” which summarizes
+key aspects of the quality control standard. This summarization should
+be read in conjunction with , AU-C section 220B, and the quality control
+standards issued by the PCAOB, as applicable.
+    <olink targetptr="aag-afi_appA">appendix A</olink>
+    <olink targetdoc="ps" targetptr="qm_10a">QM section 10A</olink>
+  </para>
+</root>

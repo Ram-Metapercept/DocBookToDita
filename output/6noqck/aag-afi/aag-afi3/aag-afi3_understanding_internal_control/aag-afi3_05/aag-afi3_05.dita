@@ -1,0 +1,116 @@
+<root id="aag-afi3_05" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>3.05</titleabbrev>
+    <title role="ps_para_number">3.05</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    This chapter provides background information
+and examples of controls that may exist in an entity that deals in
+a high volume of financial instrument transactions, whether for trading
+or investing purposes. The examples are not meant to be exhaustive,
+and entities may establish different control environments and processes
+depending on their size, the industry in which they operate, and the
+extent of their financial instrument transactions. The following four
+Technical Questions and Answers (Q&amp;A) sections address internal control:
+    <footnote id="aag-afi3_fn3" label="fn 3" role="number">
+      <para>
+         is not a source
+of established authoritative accounting principles as described in
+the FASB , the authoritative source
+of U.S. generally accepted accounting principles for nongovernmental
+entities. This nonauthoritative material is based on selected practice
+matters identified by the staff of the AICPA  and various other bodies within the AICPA and has
+not been approved, disapproved, or otherwise acted upon by any senior
+technical committee of the AICPA. 
+        <emphasis role="italic">
+          <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+        </emphasis>
+        <emphasis role="italic">Accounting Standards Codification</emphasis>
+        <emphasis role="superscript">®</emphasis>
+        <ulink url="https://www.aicpa.org/research/technicalhotline.html">Technical
+Hotline</ulink>
+      </para>
+      <para>
+        All Q&amp;A sections can be found in .
+        <tab/>
+        <emphasis role="italic">
+          <olink targetdoc="tpa" targetptr="tpa">Technical Questions and Answers</olink>
+        </emphasis>
+      </para>
+    </footnote>
+  </para>
+  <table frame="all" print-only-role="ps_narrative_normal" id="aag-afi3_table1" role="ps_table_center">
+    <tgroup align="left" cols="2">
+      <colspec colname="col1" colwidth="2.5in"/>
+      <colspec colname="col2" colwidth="4in"/>
+      <tbody>
+        <row valign="top">
+          <entry>
+            <para>
+              , “Obtaining an Understanding of Business Processes Relevant to Financial
+Reporting and Communication”
+              <olink targetdoc="tpa" targetptr="tis_8200_17">8200.17</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>This Q&amp;A section addresses whether auditors are required
+to obtain an understanding of business processes relevant to financial
+reporting and communication in every audit engagement.</para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              , “Obtaining an Understanding of Internal Control Relevant to the
+Audit”
+              <olink targetdoc="tpa" targetptr="tis_8200_18">8200.18</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>This Q&amp;A section addresses whether an understanding of internal
+control relevant to the audit should encompass more than control activities. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              , “Obtaining an Understanding of the Controls Relevant to the Audit”
+              <olink targetdoc="tpa" targetptr="tis_8200_19">8200.19</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>This Q&amp;A section addresses whether an understanding of controls
+relevant to the audit requires that the auditor evaluate the design
+of controls relevant to the audit and determine whether they have
+been implemented every year. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              , “Control Activities That Are Always Relevant to the Audit”
+              <olink targetdoc="tpa" targetptr="tis_8200_20">8200.20</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>This Q&amp;A section addresses the control activities that are
+always considered to be relevant in every audit. </para>
+          </entry>
+        </row>
+        <row valign="top">
+          <entry>
+            <para>
+              , “Control Activities That May Be Relevant to the Audit”
+              <olink targetdoc="tpa" targetptr="tis_8200_21">8200.21</olink>
+            </para>
+          </entry>
+          <entry>
+            <para>This Q&amp;A section addresses the control activities that may
+vary from audit engagement to audit engagement and may be relevant
+to the audit (based on the auditor’s judgment).</para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>

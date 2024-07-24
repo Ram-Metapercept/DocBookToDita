@@ -1,0 +1,30 @@
+<root id="aag-afi5_12" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>5.12</titleabbrev>
+    <title role="ps_para_number">5.12</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    AU-C section 500B, , explains that when information to be used
+as audit evidence has been prepared using the work of management’s
+specialist, the requirement with respect to management’s specialist
+in paragraph .08 of AU-C section 500B applies. For example, an individual
+or organization may possess expertise in the application of models
+to estimate the fair value of securities for which no observable market
+exists. If the individual or organization applies that expertise in
+making an estimate that the entity uses in preparing its financial
+statements, the individual or organization is a management’s specialist,
+and paragraph .08 of AU-C section 500B applies. If, on the other hand,
+that individual or organization merely provides price data regarding
+private transactions not otherwise available to the entity that the
+entity uses in its own estimation methods, such information, if used
+as audit evidence, is subject to paragraph .07 of AU-C section 500B,
+but it is not the use of management’s specialist by the entity.
+    <emphasis role="italic">Audit Evidence</emphasis>
+    <footnote id="aag-afi5_fn6" label="fn 6" role="number">
+      <para>
+        See paragraph .A36 of AU-C section 500B, .
+        <emphasis role="italic">Audit Evidence</emphasis>
+      </para>
+    </footnote>
+  </para>
+</root>

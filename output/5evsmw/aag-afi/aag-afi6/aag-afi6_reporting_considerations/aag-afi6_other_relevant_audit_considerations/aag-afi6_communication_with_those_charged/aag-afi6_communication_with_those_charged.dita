@@ -1,0 +1,107 @@
+<root id="aag-afi6_communication_with_those_charged" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Communication With Those Charged With Governance and
+Others</titleabbrev>
+    <title role="ps_subsub_heading">Communication With Those Charged With
+Governance and Others</title>
+  </sectioninfo>
+  <section id="aag-afi6_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.31</titleabbrev>
+      <title role="ps_para_number">6.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">Because of the uncertainties associated
+with the valuation of financial instruments, the potential effects
+on the financial statements of any significant risks are likely to
+be of governance interest. The auditor may communicate the nature
+and consequences of significant assumptions used in fair value measurements,
+the degree of subjectivity involved in the development of the assumptions,
+and the relative materiality of the items being measured at fair value
+to the financial statements as a whole. In addition, the need for
+appropriate controls over commitments to enter into financial instrument
+contracts and the subsequent measurement processes are matters that
+may give rise to the need for communication with those charged with
+governance.</para>
+  </section>
+  <section id="aag-afi6_32" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.32</titleabbrev>
+      <title role="ps_para_number">6.32</title>
+    </sectioninfo>
+    <para role="ps_para_number">AU-C section 260B addresses the auditor’s
+responsibility to communicate with those charged with governance in
+an audit of financial statements. With respect to financial instruments,
+matters to be communicated to those charged with governance may include</para>
+    <para role="ps_indent_0">The appropriate timing for communications
+will vary with the circumstances of the engagement; however, it may
+be appropriate to communicate significant difficulties encountered
+during the audit as soon as practicable if those charged with governance
+are able to assist the auditor to overcome the difficulty or if it
+is likely to lead to a modified opinion.</para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>a lack of management understanding of the nature or
+extent of the financial instrument activities or the risks associated
+with such activities.</para>
+      </listitem>
+      <listitem>
+        <para>
+          significant deficiencies or material weaknesses in
+the design or operation of the system of internal control relating
+to the entity’s financial instrument activities that the auditor has
+identified during the audit.
+          <footnote id="aag-afi6_fn16" label="fn 16" role="number">
+            <para>
+              AU-C section 265B, , addresses
+the auditor’s responsibility to communicate to those charged with
+governance and management deficiencies in internal control that the
+auditor has identified in an audit of financial statements. It explains
+that deficiencies in internal control may be identified during the
+auditor’s risk assessment procedures, in accordance with AU-C section
+315B, , or at
+any other stage of the audit.
+              <emphasis role="italic">Communicating Internal
+Control Related Matters Identified in an Audit</emphasis>
+              <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+            </para>
+          </footnote>
+        </para>
+      </listitem>
+      <listitem>
+        <para>significant difficulties encountered when obtaining
+sufficient appropriate audit evidence relating to valuations performed
+by management or management’s specialist (for example, when management
+is unable to obtain an understanding of the valuation methodology,
+assumptions, and data used by management’s specialists, and such information
+is not made available to the auditor by management’s specialist).</para>
+      </listitem>
+      <listitem>
+        <para>significant differences in judgments between the auditor
+and management or management’s specialist regarding valuations.</para>
+      </listitem>
+      <listitem>
+        <para>the potential effects on the entity’s financial statements
+of material risks and exposures required to be disclosed in the financial
+statements, including the measurement uncertainty associated with
+financial instruments.</para>
+      </listitem>
+      <listitem>
+        <para>the auditor’s views about the appropriateness of the
+selection of accounting policies and presentation of financial instrument
+transactions in the financial statements.</para>
+      </listitem>
+      <listitem>
+        <para>the auditor’s views about the qualitative aspects
+of the entity’s accounting practices and financial reporting for financial
+instruments.</para>
+      </listitem>
+      <listitem>
+        <para>a lack of comprehensive and clearly stated policies
+for the purchase, sale, and holding of financial instruments, including
+operational controls, procedures for designating financial instruments
+as hedges, and monitoring exposures.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

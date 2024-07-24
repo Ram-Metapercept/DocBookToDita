@@ -1,0 +1,23 @@
+<root id="aag-afi10_11" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>10.11</titleabbrev>
+    <title role="ps_para_number">10.11</title>
+  </sectioninfo>
+  <para role="ps_para_number">Both present value calculations are computed
+using the estimated future cash flows for the hedged item (which typically
+would be its remaining contractual cash flows). Hedge ineffectiveness
+will occur if changes in the fair value of the obligation under the
+bond attributable to changes in the benchmark interest rate do not
+equal changes in the fair value of the swap. </para>
+  <para role="ps_indent_0">
+    <emphasis role="shade">Consistent with “Pending
+Content” in FASB ASC 815-25-55-56, both present value calculations
+are computed using the estimated future cash flows for the hedged
+item, which would be either its remaining contractual coupon cash
+flows or the LIBOR benchmark rate component of the remaining contractual
+coupon cash flows determined at hedge inception. Hedge ineffectiveness
+will occur if changes in the fair value of the obligation under the
+bond attributable to changes in the benchmark interest rate do not
+equal changes in the fair value of the swap.</emphasis>
+  </para>
+</root>

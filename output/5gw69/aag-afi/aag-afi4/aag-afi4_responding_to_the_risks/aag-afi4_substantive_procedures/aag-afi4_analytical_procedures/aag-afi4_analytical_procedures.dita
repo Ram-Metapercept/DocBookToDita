@@ -1,0 +1,80 @@
+<root id="aag-afi4_analytical_procedures" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Analytical Procedures</titleabbrev>
+    <title role="ps_subsub_heading">Analytical Procedures</title>
+  </sectioninfo>
+  <section id="aag-afi4_29" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.29</titleabbrev>
+      <title role="ps_para_number">4.29</title>
+    </sectioninfo>
+    <para role="ps_para_number">Analytical procedures are based on relationships
+between data. The more predictable the relationships, the more precise
+the auditor’s expectation of the financial statement account. The
+value of many financial instruments can be highly volatile, making
+valuation assertions about them ill-suited to testing via analytical
+procedures. Additionally, the accounting for many financial instruments
+is based on underlying assumptions that, oftentimes, are quite subjective.
+Finally, the accounting for financial instruments may be highly dependent
+on management’s intention. For example, the classification of debt
+and equity securities depends on management’s ability and intent with
+regard to holding those financial instruments. The accounting for
+derivatives depends on management’s objectives in entering into those
+financial instruments’ transactions.</para>
+  </section>
+  <section id="aag-afi4_30" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.30</titleabbrev>
+      <title role="ps_para_number">4.30</title>
+    </sectioninfo>
+    <para role="ps_para_number">For these reasons, performing analytical
+procedures alone may not sufficiently reduce audit risk for some assertions
+about financial instruments. For example, analytical procedures would
+not be effective in determining whether an embedded derivative has
+been properly recognized in the financial statements or in evaluating
+the fair value of a financial instrument whose value fluctuates greatly.
+However, they may be effective in pointing out unrecorded derivatives,
+such as interest rate swaps that contractually require no cash at
+inception. For example, a difference from an expectation that interest
+expense will be a fixed percentage of a note based on the interest
+provisions of the underlying agreement may indicate the existence
+of an interest rate swap agreement. Also, analytical procedures based
+on expectations of relationships between income and assets may provide
+some evidence about existence and completeness assertions.</para>
+  </section>
+  <section id="aag-afi4_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.31</titleabbrev>
+      <title role="ps_para_number">4.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">Analytical procedures may also be effective
+in corroborating the occurrence of income and expenses and, sometimes,
+gains and losses associated with a financial instrument. For example,
+the absence of a material difference from an expectation that interest
+income will be a fixed percentage of a debt security based on the
+effective interest rate when the entity purchased the security provides
+evidence about the existence of the income (and the security). However,
+auditors might consider that the income, expenses, gains, and losses
+associated with a financial instrument may involve a complex interplay
+of many factors. For example, if the fair value of a derivative is
+derived from the interrelationship of exchange rates, interest rates,
+rate differentials, or a combination of these, any attempts to develop
+an expectation of a financial statement amount may be difficult.</para>
+  </section>
+  <section id="aag-afi4_32" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>4.32</titleabbrev>
+      <title role="ps_para_number">4.32</title>
+    </sectioninfo>
+    <para role="ps_para_number">Many of the auditor’s procedures can be
+used to address a number of assertions. For example, procedures to
+address the existence of an account balance at period-end will also
+address the occurrence of a class of transactions and may also assist
+in establishing proper cut-off because financial instruments arise
+from legal contracts, and by verifying the accuracy of the recording
+of the transaction, the auditor can also verify its existence and
+obtain evidence to support the occurrence and rights and obligations
+assertions at the same time and can confirm that transactions are
+recorded in the correct accounting period. </para>
+  </section>
+</root>

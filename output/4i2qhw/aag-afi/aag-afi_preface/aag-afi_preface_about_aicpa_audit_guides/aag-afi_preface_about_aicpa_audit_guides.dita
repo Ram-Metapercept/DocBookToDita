@@ -1,0 +1,91 @@
+<root id="aag-afi_preface_about_aicpa_audit_guides" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>About AICPA Audit Guides</titleabbrev>
+    <title role="ps_main_heading">About AICPA Audit Guides</title>
+  </sectioninfo>
+  <para role="ps_indent_0">This AICPA Audit Guide has been developed
+by the AICPA publications team to assist practitioners in performing
+and reporting on their audit engagements.</para>
+  <para role="ps_indent_0">
+    An AICPA guide containing auditing guidance
+related to generally accepted auditing standards (GAAS) is recognized
+as an interpretive publication, as defined in AU-C section 200B, . Interpretive publications are recommendations
+on the application of GAAS in specific circumstances, including engagements
+for entities in specialized industries.
+    <footnote id="aag-afi_preface_fn1" label="fn 1" role="number">
+      <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of SAS Nos. 134–140 or the amendments to other SASs
+made by SAS Nos. 134–140 and subsequently issued SASs. </para>
+      <para>
+        All AU-C sections can be found in AICPA .
+        <tab/>
+        <olink targetdoc="ps" targetptr="ps">
+          <emphasis role="italic">Professional
+Standards</emphasis>
+        </olink>
+      </para>
+    </footnote>
+    <emphasis role="italic">Overall Objectives of the Independent
+Auditor and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+  </para>
+  <para role="ps_indent_0">Interpretive publications are issued under
+the authority of the AICPA Auditing Standards Board (ASB) after all
+ASB members have been provided an opportunity to consider and comment
+on whether the proposed interpretive publication is consistent with
+GAAS. The members of the ASB have found the auditing guidance in this
+guide to be consistent with existing GAAS.</para>
+  <para role="ps_indent_0">Although interpretive publications are not
+auditing standards, AU-C section 200B requires the auditor to consider
+applicable interpretive publications in planning and performing the
+audit because interpretive publications are relevant to the proper
+application of GAAS in specific circumstances. If the auditor does
+not apply the auditing guidance in an applicable interpretive publication,
+the auditor should document how the requirements of GAAS were complied
+with in the circumstances addressed by such auditing guidance.</para>
+  <para role="ps_indent_0">
+    Throughout this guide, when appropriate,
+reference is made to Technical Questions and Answers, which are considered
+other auditing publications. AU-C section 200B indicates that in applying
+the auditing guidance included in an other auditing publication, the
+auditor should, exercising professional judgment, assess the relevance
+and appropriateness of such guidance to the circumstances of the audit.
+Other auditing publications have no authoritative status; however,
+they may help the auditor understand and apply GAAS. The auditor is
+not expected to be aware of the full body of other auditing publications.
+Although the auditor determines the relevance of these publications
+in accordance with paragraph .28 of AU-C section 200B, the auditor
+may presume that other auditing publications published by the AICPA
+that have been reviewed by the AICPA Audit and Attest Standards staff
+are appropriate. These other auditing publications are listed in , .
+    <olink targetdoc="ps" targetptr="ad_appendix_f">AU-C appendix F</olink>
+    <emphasis role="italic">Other Auditing Publications</emphasis>
+  </para>
+  <para role="ps_indent_0">The ASB is the designated senior committee
+of the AICPA authorized to speak for the AICPA on all matters related
+to auditing. Conforming changes made to the auditing guidance contained
+in this guide are approved by the ASB chair (or his or her designee)
+and the director of the AICPA Audit and Attest Standards staff. Updates
+made to the auditing guidance in this guide exceeding that of conforming
+changes are issued after all ASB members have been provided an opportunity
+to consider and comment on whether the guide is consistent with existing
+GAAS.</para>
+  <para role="ps_indent_0">AICPA Guides may include certain content
+presented as “supplement”, “appendix”, or “exhibit.” A supplement
+is a reproduction, in whole or in part, of authoritative guidance
+originally issued by a standard-setting body (including regulatory
+bodies) and applicable to entities or engagements within the purview
+of that standard setter, independent of the authoritative status of
+the applicable AICPA Guide. Both appendixes and exhibits are included
+for informational purposes and have no authoritative status.</para>
+  <para role="ps_indent_0">Any auditing guidance in a guide appendix
+or exhibit (whether chapter or back matter appendix or exhibit), though
+not authoritative, is considered an “other auditing publication.”
+In applying such guidance, the auditor should, exercising professional
+judgment, assess the relevance and appropriateness of such guidance
+to the circumstances of the audit. Although the auditor determines
+the relevance of other auditing guidance, auditing guidance in a guide
+appendix or exhibit has been reviewed by the AICPA Audit and Attest
+Standards staff and the auditor may presume that it is appropriate.</para>
+</root>

@@ -1,0 +1,225 @@
+<root id="aag-afi9_description_of_the_entity" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Description of the Entity</titleabbrev>
+    <title role="ps_sub_heading">Description of the Entity</title>
+  </sectioninfo>
+  <paraBlock role="ps_box">
+    <para>
+      <emphasis role="bold">
+        Update 9-1  Audit Evidence
+        <emphasis role="italic">Auditing:</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued , , which supersedes
+AU-C section 500, , and amends the following AU-C sections:SAS No. 142 explains what constitutes audit evidence
+in an audit of financial statements and sets out attributes of information
+that are taken into account by the auditor when evaluating information
+to be used as audit evidence.
+      <olink targetdoc="ps" targetptr="ad_500">Statement on Auditing Standards (SAS) No. 142</olink>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <emphasis role="italic">Audit Evidence</emphasis>
+      <itemizedlist>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            <emphasis role="italic">Audit Documentation</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_315">Section 315</olink>
+            <emphasis role="italic">Understanding the Entity and Its Environment
+and Assessing the Risks of Material Misstatement</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_330">Section 330</olink>
+            <emphasis role="italic">Performing Audit Procedures in Response
+to Assessed Risks and Evaluating the Audit Evidence</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_530">Section 530</olink>
+            <emphasis role="italic">Audit Sampling</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_540">Section 540</olink>
+            <emphasis role="italic">Auditing Accounting Estimates, Including
+Fair Value Accounting Estimates, and Related Disclosures</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+      This SAS is effective for
+audits of financial statements for periods ending on or after December
+15, 2022. A link to the final SAS and other resources can be found
+on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org. 
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <paraBlock role="ps_box">
+    <para>
+      <emphasis role="bold">
+        Update 9-2 : Auditing Accounting Estimates,
+Including Fair Value Accounting Estimates, and Related Disclosures
+        <emphasis role="italic">Auditing</emphasis>
+      </emphasis>
+    </para>
+    <para>
+      In July 2020, the AICPA issued , , which supersedes , , and amends
+the following AU-C sections: SAS No. 143 addresses the auditor’s responsibilities
+relating to accounting estimates, including fair value accounting
+estimates and related disclosures, in an audit of financial statements. 
+      <olink targetdoc="ps" targetptr="ad_540">SAS No. 143</olink>
+      <olink targetdoc="ps" targetptr="ad_540a">AU-C section 540</olink>
+      <emphasis role="italic">Auditing
+Accounting Estimates and Related Disclosures</emphasis>
+      <emphasis role="italic">Auditing Accounting Estimates, Including Fair Value
+Accounting Estimates, and Related Disclosures</emphasis>
+      <itemizedlist>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_200">Section 200</olink>
+            <emphasis role="italic">Overall Objectives of the Independent Auditor
+and the Conduct of an Audit in Accordance With Generally Accepted
+Auditing Standards</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_230">Section 230</olink>
+            <emphasis role="italic">Audit Documentation</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_240">Section 240</olink>
+            <emphasis role="italic">Consideration of Fraud in a Financial Statement
+Audit</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_260">Section 260</olink>
+            <emphasis role="italic">The Auditor’s Communication With Those
+Charged With Governance</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_501">Section 501</olink>
+            <emphasis role="italic">Audit Evidence — Specific Considerations
+for Selected Items</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_580">Section 580</olink>
+            <emphasis role="italic">Written Representations</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_700">Section 700</olink>
+            <emphasis role="italic">Forming an Opinion and Reporting on Financial
+Statements</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            , 
+            <olink targetdoc="ps" targetptr="ad_701">Section 701</olink>
+            <emphasis role="italic">Communicating Key Audit Matters in the
+Independent Auditor’s Report</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
+    <para>
+      This SAS is effective for audits of financial statements for
+periods ending on or after December 15, 2023. A link to the final
+SAS and other resources can be found on the page “,” which is available using the audit and attest
+link in the financial reporting center at aicpa.org.
+      <ulink url="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+Resources</ulink>
+    </para>
+  </paraBlock>
+  <section id="aag-afi9_13" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.13</titleabbrev>
+      <title role="ps_para_number">9.13</title>
+    </sectioninfo>
+    <para role="ps_para_number">Although Martin has invested in financial
+instruments in the past, it has not invested in a security with a
+feature that constitutes an embedded derivative. However, Martin’s
+board of directors exercises proper oversight and authorization of
+all investing activities. In regard to the convertible bond investment,
+the board took an active role in understanding the risks of the investment
+and how it was priced and, ultimately, approving the transaction.</para>
+  </section>
+  <section id="aag-afi9_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>9.14</titleabbrev>
+      <title role="ps_para_number">9.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">Martin also has other characteristics
+of a strong control environment:</para>
+    <para role="ps_indent_0">The bonds are held and serviced by a well-known
+bank with an investment department that is widely respected. </para>
+    <itemizedlist mark="bullet" role="ps_indent_2">
+      <listitem>
+        <para>Management has high integrity and ethical values.</para>
+      </listitem>
+      <listitem>
+        <para>Management philosophy and operating style are commensurate
+with the demands and needs of a well-regarded business organization.</para>
+      </listitem>
+      <listitem>
+        <para>Management carefully assigns authority and responsibility
+to appropriate personnel.</para>
+      </listitem>
+      <listitem>
+        <para>Human resource policies and procedures are designed
+in a way that the most qualified individuals are attracted to the
+organization, hired, trained, rewarded, and retained.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</root>

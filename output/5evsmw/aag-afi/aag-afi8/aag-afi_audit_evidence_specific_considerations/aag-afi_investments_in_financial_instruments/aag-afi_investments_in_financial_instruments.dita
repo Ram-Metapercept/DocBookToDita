@@ -1,0 +1,27 @@
+<root id="aag-afi_investments_in_financial_instruments" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Investments in Financial Instruments When Valuations
+Are Based on Cost</titleabbrev>
+    <title role="ps_sub_heading">Investments in Financial Instruments
+When Valuations Are Based on Cost</title>
+  </sectioninfo>
+  <section id="aag-afi8_31" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>8.31</titleabbrev>
+      <title role="ps_para_number">8.31</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      Procedures to obtain evidence about the
+valuation of financial instruments that are recorded at cost may include
+inspection of documentation of the purchase price, confirmation with
+the issuer or holder, and testing discount or premium amortization
+either by recomputation or through the use of analytical procedures.
+      <footnote id="aag-afi8_fn10" label="fn 10" role="number">
+        <para>
+          Paragraph .A3 of AU-C section 501B, .
+          <emphasis role="italic">Audit Evidence — Specific Considerations for Selected Items</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+</root>

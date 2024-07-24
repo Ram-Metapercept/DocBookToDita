@@ -1,0 +1,33 @@
+<root id="aag-afi4_21" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.21</titleabbrev>
+    <title role="ps_para_number">4.21</title>
+  </sectioninfo>
+  <para role="ps_para_number">Traded financial instruments typically
+are maintained in electronic form and street name and, accordingly,
+cannot be inspected. For example, even though stock certificates are
+on file at a depository (for example, the Depository Trust Company),
+those shares are allocated to broker-dealers, and the issuer has no
+record of who owns shares. The broker-dealers send documents such
+as proxy statements to stockholders. Confirmation of the security
+provides evidence about the existence of financial instruments. Evidence
+about existence also may be gathered by examining supporting documentation,
+such as</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>instructions to portfolio managers or directed custodians.</para>
+    </listitem>
+    <listitem>
+      <para>transaction confirmations.</para>
+    </listitem>
+    <listitem>
+      <para>agreements.</para>
+    </listitem>
+    <listitem>
+      <para>contracts.</para>
+    </listitem>
+    <listitem>
+      <para>minutes of investment committees.</para>
+    </listitem>
+  </itemizedlist>
+</root>

@@ -1,0 +1,51 @@
+<root id="aag-afi6_04" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>6.04</titleabbrev>
+    <title role="ps_para_number">6.04</title>
+  </sectioninfo>
+  <para role="ps_para_number">
+    The auditor’s professional judgment about
+what constitutes sufficient appropriate audit evidence is influenced
+by such factors as the
+    <footnote id="aag-afi6_fn4" label="fn 4" role="number">
+      <para>
+        Paragraph .A75 of AU-C section 330B, .
+        <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+      </para>
+    </footnote>
+  </para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>
+        significance of the potential misstatement in the
+relevant assertion and the likelihood of it having a material effect,
+individually or aggregated with other potential misstatements, on
+the financial statements. (See AU-C section 450B, .)
+        <emphasis role="italic">Evaluation of Misstatements Identified During the Audit</emphasis>
+      </para>
+    </listitem>
+    <listitem>
+      <para>effectiveness of management’s responses and controls
+to address the risks.</para>
+    </listitem>
+    <listitem>
+      <para>experience gained during previous audits with respect
+to similar potential misstatements.</para>
+    </listitem>
+    <listitem>
+      <para>results of audit procedures performed, including whether
+such audit procedures identified specific instances of fraud or error.</para>
+    </listitem>
+    <listitem>
+      <para>source and reliability of the available information.</para>
+    </listitem>
+    <listitem>
+      <para>persuasiveness of the audit evidence.</para>
+    </listitem>
+    <listitem>
+      <para>understanding of the entity and its environment, including
+its internal control.</para>
+    </listitem>
+  </itemizedlist>
+</root>

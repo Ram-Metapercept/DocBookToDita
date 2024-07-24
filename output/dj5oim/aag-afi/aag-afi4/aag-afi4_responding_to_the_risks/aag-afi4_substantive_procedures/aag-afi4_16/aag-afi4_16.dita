@@ -1,0 +1,37 @@
+<root id="aag-afi4_16" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>4.16</titleabbrev>
+    <title role="ps_para_number">4.16</title>
+  </sectioninfo>
+  <para role="ps_para_number">For example, in the case of an asset-backed
+security, in responding to the risks of material misstatement for
+such a security, the auditor may consider performing some of the following
+audit procedures related to the valuation assertion:</para>
+  <itemizedlist mark="bullet" role="ps_indent_2">
+    <listitem>
+      <para>Examining contractual documentation to understand
+the terms of the security, the underlying collateral, and the rights
+of each class of security holder</para>
+    </listitem>
+    <listitem>
+      <para>Inquiring about management’s process of estimating
+cash flows</para>
+    </listitem>
+    <listitem>
+      <para>Evaluating the reasonableness of assumptions, such
+as prepayment rates, default rates, and loss reserves</para>
+    </listitem>
+    <listitem>
+      <para>Obtaining an understanding of the method used to determine
+the cash flow "waterfall"</para>
+    </listitem>
+    <listitem>
+      <para>Comparing the results of the fair value measurement
+with the valuations of other financial instruments with similar underlying
+collateral and terms</para>
+    </listitem>
+    <listitem>
+      <para>Reperforming calculations</para>
+    </listitem>
+  </itemizedlist>
+</root>

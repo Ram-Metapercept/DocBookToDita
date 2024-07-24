@@ -1,0 +1,37 @@
+<root id="aag-afi6_communications_with_regulators_and" role="ls_level_5">
+  <sectioninfo>
+    <titleabbrev>Communications With Regulators and Others</titleabbrev>
+    <title role="ps_subsub_heading">Communications With Regulators and
+Others</title>
+  </sectioninfo>
+  <section id="aag-afi6_33" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>6.33</titleabbrev>
+      <title role="ps_para_number">6.33</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      In some cases, auditors may be required, or may consider it appropriate, to communicate directly
+with regulators or others, in addition to those charged with governance,
+regarding matters relating to financial instruments. Such communication
+may be useful throughout the audit. For example, when required to
+communicate with banking regulators, such regulators may share information
+with the auditor about the operation and application of controls over
+financial instrument activities, challenges in valuing financial instruments
+in inactive markets, and compliance with regulations. This sharing
+of information may be helpful to the auditor in identifying risks
+of material misstatement.
+      <footnote id="aag-afi6_fn17" label="fn 17" role="number">
+        <para>
+          For example, AU-C section 250B, , requires auditors to determine whether there is a responsibility
+to report identified or suspected noncompliance with laws and regulations
+to parties outside the entity. In addition, requirements concerning
+the auditor’s communication to banking supervisors and others may
+be established in many countries by law, supervisory requirement,
+or formal agreement or protocol.
+          <emphasis role="italic">Consideration
+of Laws and Regulations in an Audit of Financial Statements</emphasis>
+        </para>
+      </footnote>
+    </para>
+  </section>
+</root>

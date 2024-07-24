@@ -1,0 +1,1948 @@
+<root id="aag-afi11" role="ls_level_2">
+  <chapterinfo>
+    <titleabbrev>Chapter 11 — Case Study of the Use of a Foreign Currency
+Put Option to Hedge a Forecasted Sale Denominated in a Foreign Currency</titleabbrev>
+    <title role="ps_section_heading">Chapter 11</title>
+    <subtitle role="ps_section_title">Case Study of the Use of a Foreign
+Currency Put Option to Hedge a Forecasted Sale Denominated in a Foreign
+Currency</subtitle>
+  </chapterinfo>
+  <paraBlock role="ps_box_shade">
+    <para>
+      <emphasis role="italic">Gray
+shaded text in this chapter reflects guidance issued but not yet effective
+as of the date of this guide, September 1, 2020, but becoming effective
+on or prior to December 31, 2020, exclusive of any option to early
+adopt ahead of the mandatory effective date. Unless otherwise indicated,
+all unshaded text reflects guidance that was already effective as
+of the date of this guide.</emphasis>
+    </para>
+  </paraBlock>
+  <section id="aag-afi11_01" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.01</titleabbrev>
+      <title role="ps_para_number">11.01</title>
+    </sectioninfo>
+    <para role="ps_para_number">In this case study, the entity has forecasted
+a foreign currency-denominated sale during the upcoming period and
+is exposed to the risk that the foreign currency exchange rate will
+change by the time the sale occurs. To manage this risk, the entity
+enters into a foreign currency cash flow hedge using a foreign currency
+put option.</para>
+  </section>
+  <section id="aag-afi11_02" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.02</titleabbrev>
+      <title role="ps_para_number">11.02</title>
+    </sectioninfo>
+    <para role="ps_para_number">By purchasing the put option, the entity
+has the right to sell foreign currency to the writer at the spot price,
+which, in this case study, is the current exchange rate. To obtain
+this right, the entity pays the writer a premium.</para>
+  </section>
+  <section id="aag-afi11_03" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.03</titleabbrev>
+      <title role="ps_para_number">11.03</title>
+    </sectioninfo>
+    <para role="ps_para_number">The most fundamental characteristic of
+every option is the uneven allocation of risk and reward. The holder
+of the option (the entity, in this case study) receives a larger potential
+gain than it does risk of loss. In this case study, the entity’s profits
+on the option increase as the value of the foreign currency falls
+relative to the functional currency (U.S. dollars). However, if the
+value of the foreign currency rises relative to the functional currency,
+the entity simply will not exercise its option and can lose no more
+than the option premium it paid the writer.</para>
+  </section>
+  <section id="aag-afi11_04" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.04</titleabbrev>
+      <title role="ps_para_number">11.04</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The value of an option during its life
+has two components: the intrinsic value and time value. The term  is defined in the FASB ASC
+glossary as the amount by which fair value of the underlying stock
+exceeds the exercise price of an option (or the difference between
+the underlying spot price and option exercise price, which would be
+the strike rate, in this case study) if that difference is positive
+for the option holder. Intrinsic value is the net amount that would
+be realized upon immediate exercise of the option and sale of the
+underlying instrument (foreign currency, in this case study), and
+it can never be negative for the option holder.
+      <emphasis role="italic">intrinsic value</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_05" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.05</titleabbrev>
+      <title role="ps_para_number">11.05</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+       is the excess of the total fair value of the option over its intrinsic
+value. Time value represents the premium that a rational investor
+would pay for an option based on the likelihood that, and degree to
+which, the fair value of the underlying stock may exceed the exercise
+price of the option before the option expires. Time value can never
+be negative for the holder and only decreases to zero when the option
+reaches its expiration date.
+      <emphasis role="italic">Time value</emphasis>
+    </para>
+  </section>
+  <section id="aag-afi11_06" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>11.06</titleabbrev>
+      <title role="ps_para_number">11.06</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+      The "" section illustrates the accounting for the cash flow hedge of a
+forecasted foreign currency-denominated transaction, including the
+requirement that the forecasted transaction be probable, and illustrates
+an audit approach when control risk is assessed as low or moderate
+for certain assertions.
+      <olink targetptr="aag-afi11_accounting_considerations">Accounting Considerations</olink>
+    </para>
+  </section>
+  <section id="aag-afi11_accounting_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Accounting Considerations</titleabbrev>
+      <title role="ps_main_heading">
+        Accounting Considerations
+        <footnote id="aag-afi11_fn1" label="fn 1" role="number">
+          <para>For simplicity, this case study ignores income tax consequences.</para>
+        </footnote>
+        <footnote id="aag-afi11_fn2" label="fn 2" role="number">
+          <para>
+            <emphasis role="shade">
+              FASB Accounting Standards Update (ASU)
+No. 2017-12, , issued in August 2017, is effective for fiscal years of public
+business entities beginning after December 15, 2018, including interim
+periods within those fiscal years. For all other entities, FASB ASU
+No. 2017-12 is effective for fiscal years beginning after December
+15, 2019, and interim periods within fiscal years beginning after
+December 15, 2020. Early application is permitted in any interim period
+after issuance of the ASU.
+              <emphasis role="italic">Derivatives and Hedging (Topic
+815): Targeted Improvements to Accounting for Hedging Activities</emphasis>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              FASB ASU No. 2017-12 better aligns
+an entity's risk management activities and financial reporting for
+hedging relationships through changes to both the designation and
+measurement guidance for qualifying hedging relationships and the
+presentation of hedge results. To meet that objective, the amendments
+expand and refine hedge accounting for both nonfinancial and financial
+risk components and align the recognition and presentation of the
+effects of the hedging instrument and the hedged item in the financial
+statements.
+              <tab/>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              The amendments in this ASU also
+make certain targeted improvements to simplify the application of
+hedge accounting guidance and ease the administrative burden of hedge
+documentation requirements and assessing hedge effectiveness.
+              <tab/>
+            </emphasis>
+          </para>
+          <para>
+            <emphasis role="shade">
+              Readers are encouraged to consult
+the full text of this ASU on FASB’s website at .
+              <tab/>
+              <ulink url="http://www.fasb.org">www.fasb.org</ulink>
+            </emphasis>
+          </para>
+        </footnote>
+      </title>
+    </sectioninfo>
+    <section id="aag-afi11_description_of_the_transaction" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Transaction</titleabbrev>
+        <title role="ps_sub_heading">Description of the Transaction</title>
+      </sectioninfo>
+      <section id="aag-afi11_07" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.07</titleabbrev>
+          <title role="ps_para_number">11.07</title>
+        </sectioninfo>
+        <para role="ps_para_number">Austin-Jhanes is a U.S. manufacturing
+(and reporting) entity with sales to foreign purchasers. Its forecasted
+sales are denominated in foreign currency but do not represent firm
+commitments. As of September 30, 20X1, Austin-Jhanes forecasts that
+a specific foreign currency sale of FC 10 million will occur on March
+31, 20X2. At the current spot rate of 2 FC/1 U.S. $, this expected
+sale equals $5 million. Austin-Jhanes’ historical experience with
+the foreign customer for the forecasted sale indicates the sale is
+probable. Management is concerned that between September 30, 20X1,
+and March 31, 20X2, the foreign currency will weaken relative to the
+dollar.</para>
+      </section>
+      <section id="aag-afi11_08" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.08</titleabbrev>
+          <title role="ps_para_number">11.08</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Pursuant to its foreign exchange risk-management
+policy, Austin-Jhanes manages its currency risk by purchasing a foreign
+currency put option. It considers this transaction to be a cash flow
+hedge of a foreign currency-denominated transaction that is in accordance
+with FASB ASC 815, , subtopics 815−20, “Hedging — General,” and 815−30, “Cash Flow Hedges.”
+The terms of the purchased option are as follows:
+          <emphasis role="italic">Derivatives and Hedging</emphasis>
+        </para>
+        <table frame="none" id="aag-afi11_table1" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="1.5in"/>
+            <colspec colname="c2" colwidth="1.5in"/>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Contract amount</para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>FC 10,000,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Expiration date</para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>March 31, 20X2</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Strike exchange rate (that is, the contract rate)</para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>2 FC/1 U.S. $</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Spot exchange rate</para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>2 FC/1 U.S. $</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Premium</para>
+                </entry>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi11_09" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.09</titleabbrev>
+          <title role="ps_para_number">11.09</title>
+        </sectioninfo>
+        <para role="ps_para_number">The option is purchased at the money (that
+is, at the spot rate). Therefore, the premium on September 30, 20X1,
+reflects the option’s time value only. The option is designated as
+a hedge of the forecasted sale, and management expects that at the
+hedge’s inception and through the period until the forecasted sale,
+the hedge will be highly effective. Accordingly, management expects
+that cash flows received on the exercised option will offset foreign
+exchange losses on the cash sale, thereby assuring net U.S. dollar
+receipts of $5 million (excluding the put option premium) on March
+31, 20X2.</para>
+      </section>
+      <section id="aag-afi11_10" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.10</titleabbrev>
+          <title role="ps_para_number">11.10</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Austin-Jhanes decides to assess effectiveness
+on the basis of the option’s  that it defines as the value of the option that reflects the positive
+difference between the spot exchange rate and strike exchange rate.
+Because changes in the time value of the option have been excluded
+from the assessment of the hedge’s effectiveness, changes in these
+amounts will be included in earnings during the periods they occur.
+          <emphasis role="italic">intrinsic value</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_11" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.11</titleabbrev>
+          <title role="ps_para_number">11.11</title>
+        </sectioninfo>
+        <para role="ps_para_number">During the period, the foreign currency
+weakened relative to the dollar. The spot rates for calculating the
+fair value of the option are as follows:</para>
+        <table frame="none" id="aag-afi11_table2" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.03in"/>
+            <colspec colname="c2" colwidth="1.13in"/>
+            <colspec colname="c4" colwidth="1.00in"/>
+            <tbody>
+              <row>
+                <entry colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Contract Rate</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Spot Rate</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>September 30, 20X1</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.00</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.00</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>December 31, 20X1</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.00</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.10</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>March 31, 20X2</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.00</para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>2.30</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi11_12" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.12</titleabbrev>
+          <title role="ps_para_number">11.12</title>
+        </sectioninfo>
+        <para role="ps_para_number">The fair value, intrinsic value, and time
+value of the put option are as follows:</para>
+        <table frame="none" id="aag-afi11_table3" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="4" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="1.99in"/>
+            <colspec colname="c2" colwidth="1.00in"/>
+            <colspec colname="c4" colwidth="1.18in"/>
+            <colspec colname="c6" colwidth="1.00in"/>
+            <tbody>
+              <row>
+                <entry colsep="0" rowsep="0"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">(A)</emphasis>
+                    <emphasis role="italic">Fair Value</emphasis>
+                    <footnote id="aag-afi11_fn3" label="fn 3" role="number">
+                      <para>
+                        The fair value may be based on observable prices, recent transactions,
+third-party pricing services, broker or dealer quotes, or models prepared
+by management or management’s specialists. See additional guidance
+on techniques that management may use to value financial instruments
+in  of this
+guide.
+                        <olink targetptr="aag-afi1_33">paragraphs 1.33–.55</olink>
+                      </para>
+                    </footnote>
+                    <newline/>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">(B)</emphasis>
+                    <emphasis role="italic">Intrinsic Value</emphasis>
+                    <footnote id="aag-afi11_fn4" label="fn 4" role="number">
+                      <para>Intrinsic value is computed based on the changes in spot rates
+as compared with the strike rate.</para>
+                    </footnote>
+                    <newline/>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">(A)–(B)</emphasis>
+                    <emphasis role="italic">Time Value</emphasis>
+                    <newline/>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>September 30, 20X1</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$ —</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>December 31, 20X1</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>248,095</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    238,095
+                    <footnote id="aag-afi11_fn5" label="fn 5" role="number">
+                      <para>Foreign currency [FC] 10,000,000 ÷ 2.00 = $5,000,000) less (FC
+10,000,000 ÷ 2.10 = $4,761,905) = $238,095.</para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>March 31, 20X2</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>652,174</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    652,174
+                    <footnote id="aag-afi11_fn6" label="fn 6" role="number">
+                      <para>(FC 10,000,000 ÷ 2.00 = $5,000,000) less (FC 10,000,000 ÷ 2.30
+= $4,347,826) = $652,174. The increase in intrinsic value is $414,079
+($652,174 less $238,095).</para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>—</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi11_13" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.13</titleabbrev>
+          <title role="ps_para_number">11.13</title>
+        </sectioninfo>
+        <para role="ps_para_number">Management used that information to prepare
+a hedge-effective analysis as follows:</para>
+        <table frame="none" id="aag-afi11_table4" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="7" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="0.82in"/>
+            <colspec colname="c3" colwidth="1.37in"/>
+            <colspec colname="COLSPEC0" colwidth="0.79in"/>
+            <colspec colname="c5" colwidth="1.11in"/>
+            <colspec colname="COLSPEC1" colwidth="1.11in"/>
+            <colspec colname="c7" colwidth="0.50in"/>
+            <colspec colname="c9" colwidth="0.50in"/>
+            <tbody>
+              <row>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Date</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Cumulative Change in the Option’s Intrinsic
+Value</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Cumulative Change in Expected Cash Flows
+Based on Changes in the FC Spot Rate</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" nameend="c9" namest="c7" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Effectiveness Ratio</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">For the Period</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="italic">Cumulative</emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>12/31/X1</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$238,095</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$(238,095)</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>1.00</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>1.00</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="center" colsep="0" rowsep="0" valign="bottom">
+                  <para>3/31/X2</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>652,174</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>(652,174)</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>1.00</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>1.00</para>
+                </entry>
+              </row>
+              <row>
+                <entry nameend="c9" namest="c1" rowsep="0" valign="bottom">
+                  <para>Austin-Jhanes has determined that the hedging relationship between
+the option contract and forecasted sales proceeds is highly effective
+in achieving the offset in changes of cash flows due to changes in
+foreign currency exchange rates. Management has formally documented
+the hedging relationship, as well as its objectives for entering into
+the hedge.</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="aag-afi11_analysis" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Analysis</titleabbrev>
+        <title role="ps_sub_heading">Analysis</title>
+      </sectioninfo>
+      <section id="aag-afi11_14" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.14</titleabbrev>
+          <title role="ps_para_number">11.14</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Austin-Jhanes’ forecasted sale on March
+31, 20X2, is considered to be a forecasted transaction. A derivative
+that hedges the foreign currency exposure to the variability of cash
+flows associated with a forecasted transaction is a , provided
+that it meets the eligibility requirements of FASB ASC 815-30. The
+use of an option contract to offset a loss qualifies for cash flow
+hedge accounting, provided that it is highly effective (as described
+in paragraphs 38–41 of FASB ASC 815-20-25). 
+          <emphasis role="italic">foreign currency cash flow hedge</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_15" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.15</titleabbrev>
+          <title role="ps_para_number">11.15</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Among other criteria, FASB ASC 815-20-25-15(b)
+requires that the forecasted transaction (in this case, the foreign
+currency-denominated sale) be , as the term is used in FASB ASC 450, . The mere intent of management is not sufficient support for the
+conclusion that the forecasted transaction is probable. Rather, the
+transaction’s probability should be supported by observable facts
+and the attendant circumstances, such as the following:
+          <emphasis role="italic">probable</emphasis>
+          <emphasis role="italic">Contingencies</emphasis>
+        </para>
+        <para role="ps_indent_0">Additionally, the length of time until a
+forecasted transaction is expected to occur and the quantity of the
+forecasted transaction that is expected to occur are considerations
+in determining probability. Austin-Jhanes has a history of foreign
+sales that are similar to the one it is hedging. The forecasted sale
+is imminent and expected to take place in six months, on March 31,
+20X2. The management of Austin-Jhanes believes its assessment of probability
+is supportable.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>The frequency of similar past transactions</para>
+          </listitem>
+          <listitem>
+            <para>The financial and operational ability of the entity
+to carry out the transaction</para>
+          </listitem>
+          <listitem>
+            <para>The extent of loss that could result if the transaction
+does not occur</para>
+          </listitem>
+          <listitem>
+            <para>The likelihood that transactions with substantially
+different characteristics might be used to achieve the same business
+purposes</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi11_16" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.16</titleabbrev>
+          <title role="ps_para_number">11.16</title>
+        </sectioninfo>
+        <para role="ps_para_number">Further, the forecasted transaction must
+continue to be probable throughout the period covered by the hedge.
+FASB ASC 815-30-40-1(a) states that the entity is required to discontinue
+prospectively hedge accounting if the transaction fails to meet any
+of the hedge accounting criteria stated in FASB ASC 815-30-25, including
+the requirement that the forecasted transaction be probable.</para>
+      </section>
+      <section id="aag-afi11_17" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.17</titleabbrev>
+          <title role="ps_para_number">11.17</title>
+        </sectioninfo>
+        <para role="ps_para_number">Management has elected to measure effectiveness
+based on changes in the intrinsic value of the option contract, as
+permitted by FASB ASC 815-20-25-82.</para>
+      </section>
+      <section id="aag-afi11_18" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.18</titleabbrev>
+          <title role="ps_para_number">11.18</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          Austin-Jhanes should report the fair value
+of the option in its statement of financial position. Changes in the
+time value of the option should be recorded currently in earnings.  is considered to be the excess
+of the fair value of the option over its intrinsic value. Changes
+in the option’s intrinsic value, to the extent it is effective as
+a hedge, should be recorded in other comprehensive income. That is,
+the amount in other comprehensive income should be brought to a balance
+equal to the lesser of the cumulative
+          <emphasis role="italic">Time value</emphasis>
+        </para>
+        <para role="ps_indent_0">Any additional change in the intrinsic value
+of the option should be recorded in earnings. The balance in accumulated
+other comprehensive income should be reclassified to earnings at March
+31, 20X2: the date of the sale.</para>
+        <para role="ps_indent_0">
+          <emphasis role="shade">
+            Austin-Jhanes should
+report the fair value of the option in its statement of financial
+position. Changes in the time value of the option should be recorded
+currently in earnings.  is considered to be the excess of the fair value of the option over
+its intrinsic value. “Pending content” in FASB ASC 815-30-35-3 provides
+that when the relationship between the hedged item and hedging instrument
+is highly effective at achieving offsetting changes in cash flows
+attributable to the hedged risk, an entity should record in other
+comprehensive income the entire change in the fair value of the designated
+hedging instrument that is included in the assessment of hedge effectiveness.
+More specifically, a qualifying cash flow hedge should be accounted
+for as follows:
+            <emphasis role="italic">Time value</emphasis>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            An entity’s defined risk management
+strategy for a particular hedging relationship may exclude a specific
+component of the gain or loss, or related cash flows, on the hedging
+derivative from the assessment of hedge effectiveness (as discussed
+in paragraphs 81–83B of FASB ASC 815-20-25). That excluded component
+of the gain or loss should be recognized in earnings either through
+an amortization approach in accordance with FASB ASC 815-20-25-83A
+or through a mark-to-market approach in accordance with FASB ASC 815-20-25-83B.
+Under either approach, the amount recognized in earnings for an excluded
+component should be presented in the same income statement line item
+as the earnings effect of the hedged item in accordance with FASB
+ASC 815-20-45-1A. For example, if the effectiveness of a hedging relationship
+with an option is assessed based on changes in the option’s intrinsic
+value, the changes in the option’s time value would be excluded from
+the assessment of hedge effectiveness and either may be recognized
+in earnings through an amortization approach in accordance with FASB
+ASC 815-20-25-83A or currently in earnings in accordance with FASB
+ASC 815-20-25-83B.
+            <emphasis role="italic">a.</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <para role="ps_indent_hang_2">
+          <emphasis role="shade">
+            Amounts in accumulated other comprehensive
+income related to the derivative designated as a hedging instrument
+included in the assessment of hedge effectiveness are reclassified
+to earnings in the same period or periods during which the hedged
+forecasted transaction affects earnings in accordance with paragraphs
+38–41 of 815-30-35 and presented in the same income statement line
+item as the earnings effect of the hedged item in accordance with
+FASB ASC 815-20-45-1A. The balance in accumulated other comprehensive
+income associated with the hedged transaction should be the cumulative
+gain or loss on the derivative instrument from inception of the hedge
+less all of the following items: () the derivative instrument’s gains or losses previously reclassified
+from accumulated other comprehensive income into earnings pursuant
+to paragraphs 38–41 of FASB ASC 815-30-35; () the cumulative amount amortized to earnings related
+to excluded components accounted for through an amortization approach
+in accordance with paragraph FASB ASC 815-20-25-83A; and () the cumulative change in fair value of
+an excluded component for which changes in fair value are recorded
+currently in earnings in accordance with paragraph 815-20-25-83B.
+            <emphasis role="italic">b.</emphasis>
+            <emphasis role="italic">a</emphasis>
+            <emphasis role="italic">b</emphasis>
+            <emphasis role="italic">c</emphasis>
+            <tab/>
+          </emphasis>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>increase in the intrinsic value of the option (less
+any gains and losses on the option that were previously reclassified
+from accumulated other comprehensive income to earnings).</para>
+          </listitem>
+          <listitem>
+            <para>decrease in the expected proceeds of the sale, measured
+at the current spot rate, less any gains and losses on the option
+that were previously reclassified from accumulated other comprehensive
+income into earnings. </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi11_19" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.19</titleabbrev>
+          <title role="ps_para_number">11.19</title>
+        </sectioninfo>
+        <para role="ps_para_number">By entering into the option contract,
+Austin-Jhanes is assured of receiving at least $5 million from its
+FC 10 million sale, excluding the cost of the option contract. (As
+shown in the journal entries that follow, the entity received $5 million,
+consisting of $4,347,826 from the sale at the spot rate plus $652,174
+from the gain on the option contract.)</para>
+      </section>
+    </section>
+    <section id="aag-afi11_journal_entries" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Journal Entries</titleabbrev>
+        <title role="ps_sub_heading">Journal Entries</title>
+      </sectioninfo>
+      <section id="aag-afi11_20" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.20</titleabbrev>
+          <title role="ps_para_number">11.20</title>
+        </sectioninfo>
+        <para role="ps_para_number">The journal entries Austin-Jhanes made
+are as follows:</para>
+        <table frame="none" id="aag-afi11_table5" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="3.36in"/>
+            <colspec colname="c2" colwidth="0.91in"/>
+            <colspec colname="c3" colwidth="0.91in"/>
+            <tbody>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">September 30, 20X1</emphasis>
+                  </para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Foreign currency option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Cash
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the purchased option as an asset.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">December 31, 20X1</emphasis>
+                  </para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Loss on hedging activity
+                    <footnote id="aag-afi11_fn7" label="fn 7" role="number">
+                      <para>
+                        <emphasis role="shade">
+                          “Pending content” in FASB ASC 815-20-45-1A
+provides that, for qualifying fair value and cash flow hedges, an
+entity should present both of the following in earnings in the same
+income statement line item that is used to present the earnings effect
+of the hedged item: () the change
+in the fair value of the hedging instrument that is included in the
+assessment of hedge effectiveness, and () amounts excluded from the assessment of hedge effectiveness in
+accordance with paragraphs 83A–83B of FASB ASC 815-20-25. 
+                          <emphasis role="italic">a</emphasis>
+                          <emphasis role="italic">b</emphasis>
+                        </emphasis>
+                      </para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$10,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Foreign currency option
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the reduction in the time value of the option through
+a charge to earnings.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Foreign currency option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$238,095</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Other comprehensive income
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$238,095</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the increase in the option’s intrinsic value through
+a credit to other comprehensive income.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">March 31, 20X2</emphasis>
+                  </para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Loss on hedging activity
+                    <footnote id="aag-afi11_fn8" label="fn 8" role="number">
+                      <para>
+                        <emphasis role="shade">
+                          See .
+                          <olink role="footnote" targetptr="aag-afi11_fn7">footnote 7</olink>
+                        </emphasis>
+                      </para>
+                    </footnote>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$10,000</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Foreign currency option
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the reduction in the time value of the option through
+a charge to earnings.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Foreign currency option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$414,079</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Other comprehensive income
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$414,079</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the increase in the intrinsic value of the option
+through a credit to other comprehensive income.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$4,347,826</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Sales
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$4,347,826</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the FC 10,000,000 sale at a spot rate of 2.30 FC/1
+U.S. $.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$652,174</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Foreign currency option
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$652,174</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To record the net cash settlement of the option at its maturity.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Other comprehensive income</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$652,174</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>
+                    Other income
+                    <tab/>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$652,174</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>To transfer the gain on the hedging activity to earnings when
+the forecasted transaction affects earnings.</para>
+                </entry>
+                <entry colsep="0" rowsep="0"/>
+                <entry colsep="0" rowsep="0"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi11_21" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.21</titleabbrev>
+          <title role="ps_para_number">11.21</title>
+        </sectioninfo>
+        <para role="ps_para_number">The effects of the transaction on Austin-Jhanes’
+statement of financial position are as follows:</para>
+        <table frame="none" id="aag-afi11_table6" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.99in"/>
+            <colspec colname="c2" colwidth="0.93in"/>
+            <tbody>
+              <row>
+                <entry colsep="0" rowsep="0"/>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>DR (CR)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">September 30, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> $(20,000)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Foreign currency option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 20,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">December 31, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> $(20,000)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Foreign currency option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 248,095</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Accumulated other comprehensive income</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> (238,095)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Retained earnings</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para> 10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">March 31, 20X2</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Cash</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>$4,980,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Retained earnings</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>(4,980,000)</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="aag-afi11_22" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.22</titleabbrev>
+          <title role="ps_para_number">11.22</title>
+        </sectioninfo>
+        <para role="ps_para_number">The effects of the transaction on Austin-Jhanes’
+earnings are as follows:</para>
+        <table frame="top" id="aag-afi11_table7" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="2" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.99in"/>
+            <colspec colname="c2" colwidth="1.09in"/>
+            <tbody>
+              <row>
+                <entry colsep="0" rowsep="1" valign="bottom">
+                  <para/>
+                </entry>
+                <entry align="center" colsep="0" rowsep="1" valign="bottom">
+                  <para>DR (CR)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">Period Ended December 31, 20X1</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="1" valign="bottom">
+                  <para>Loss on hedging activity resulting from a decrease of the time
+value of the option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>$10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" nameend="c2" namest="c1" rowsep="0" valign="bottom">
+                  <para>
+                    <emphasis role="bold">Period Ended March 31, 20X2</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="0" valign="bottom">
+                  <para>Other Income</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="0" valign="bottom">
+                  <para>(5,000,000)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="1" valign="bottom">
+                  <para>Loss on hedging activity resulting from a decrease of the time
+value of the option</para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para> 10,000</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="1" valign="bottom"/>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>$(4,990,000)</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="0" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">Cumulative impact</emphasis>
+                  </para>
+                </entry>
+                <entry align="right" colsep="0" rowsep="1" valign="bottom">
+                  <para>$(4,980,000)</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+  <section id="aag-afi11_auditing_considerations" role="ls_level_3">
+    <sectioninfo>
+      <titleabbrev>Auditing Considerations</titleabbrev>
+      <title role="ps_main_heading">Auditing Considerations</title>
+    </sectioninfo>
+    <section id="aag-afi11_description_of_the_entity" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Description of the Entity</titleabbrev>
+        <title role="ps_sub_heading">Description of the Entity</title>
+      </sectioninfo>
+      <section id="aag-afi11_23" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.23</titleabbrev>
+          <title role="ps_para_number">11.23</title>
+        </sectioninfo>
+        <para role="ps_para_number">Austin-Jhanes is a U.S. manufacturer that
+sells its products both domestically and outside the United States.
+Its foreign sales are denominated in foreign currencies, although
+its functional currency is the U.S. dollar.</para>
+      </section>
+      <section id="aag-afi11_24" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.24</titleabbrev>
+          <title role="ps_para_number">11.24</title>
+        </sectioninfo>
+        <para role="ps_para_number">The entity uses derivatives regularly
+to hedge forecasted foreign currency-denominated sales and purchases
+of raw materials. Derivatives are used to a lesser extent for management
+of U.S. interest rate risk (for example, converting fixed-rate debt
+to floating debt using interest rate swaps). (For purposes of this
+case study, only the accounting for the hedging of a forecasted foreign
+currency-denominated sale is illustrated.) Derivatives are not used
+for investment purposes.</para>
+      </section>
+      <section id="aag-afi11_25" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.25</titleabbrev>
+          <title role="ps_para_number">11.25</title>
+        </sectioninfo>
+        <para role="ps_para_number">The board of directors has authorized
+management of Austin-Jhanes to enter into derivatives for hedging
+purposes, and the board receives periodic reports on the intent of
+usage, as well as hedge effectiveness.</para>
+      </section>
+      <section id="aag-afi11_26" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.26</titleabbrev>
+          <title role="ps_para_number">11.26</title>
+        </sectioninfo>
+        <para role="ps_para_number">All derivatives transactions are executed
+through a centralized group of traders that reports to the CFO. The
+traders and CFO are very knowledgeable about derivatives. There is
+a formal risk management process for derivatives. Austin-Jhanes has
+systems in place to monitor the risks being hedged, as well as the
+ongoing effectiveness of the hedges. The trading desk executes derivatives
+transactions only with counterparties that have been approved after
+careful assessment of creditworthiness. There are limits on the credit
+exposure to any one counterparty and the extent to which derivatives
+can be used to hedge a given exposure.</para>
+      </section>
+      <section id="aag-afi11_27" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.27</titleabbrev>
+          <title role="ps_para_number">11.27</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . Because of senior management’s integrity and ethical values, its
+commitment to competence, its active involvement with the business,
+its philosophy and operating style, and the operating structure it
+has imposed, Austin-Jhanes’ overall control environment is sound.
+          <emphasis role="italic">Control environment</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_28" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.28</titleabbrev>
+          <title role="ps_para_number">11.28</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . Austin-Jhanes’ CFO conducts weekly meetings with the derivatives
+traders to discuss the financial markets generally and to assess the
+entity’s position in derivatives, including ongoing hedge effectiveness.
+This discussion includes an assessment of the valuation of the derivatives,
+as well as the hedged exposures, with particular emphasis on derivatives
+and exposures that are not exchange traded or are traded in a broad
+interbank market. Sales forecasts, significant forecasted transactions,
+and other issues also are discussed in order to plan for required
+upcoming hedging activities. The use of new types of derivatives or
+the execution of transactions with new counterparties must be discussed
+with, and approved by, the CFO.
+          <emphasis role="italic">Risk assessment</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_29" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.29</titleabbrev>
+          <title role="ps_para_number">11.29</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . Control activities include, among other things, the following:
+          <emphasis role="italic">Control activities</emphasis>
+        </para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Controls have been implemented with respect to control
+objectives of</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>completeness of records.</para>
+          </listitem>
+          <listitem>
+            <para>validity of records.</para>
+          </listitem>
+          <listitem>
+            <para>restricted access to assets.</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              Segregation of the accounting function from trade
+authorization and execution. The accounting department is responsible
+for cash and derivatives position reconciliations between the accounting
+and trading records and broker or counterparty statements. Quarterly,
+the controller reviews hedging activities for compliance with the
+requirements of FASB ASC 815, .
+              <emphasis role="italic">Derivatives
+and Hedging</emphasis>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Data files with such information as counterparty limits
+are maintained apart from the traders. The CFO authorizes any changes
+to these files. </para>
+          </listitem>
+          <listitem>
+            <para>Austin-Jhanes’ derivatives trading system has an automated
+interface with the general ledger and updates the general ledger monthly.
+Movements of cash associated with derivatives transactions are authorized
+and executed by the treasurer’s department, which is separate from
+the derivatives trading group.</para>
+          </listitem>
+          <listitem>
+            <para>Austin-Jhanes’ derivatives trading, sales, accounting,
+and other transaction processing activities are highly automated.
+There are effective general computer controls at the data centers
+that process the entity’s transactions and other information.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section id="aag-afi11_30" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.30</titleabbrev>
+          <title role="ps_para_number">11.30</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . The CFO and controller receive monthly reports
+summarizing derivatives transactions for the period and the positions
+at the end of the month. (See the discussion of monitoring controls
+for descriptions of this and other reports.)
+          <emphasis role="italic">Information and
+communication</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_31" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.31</titleabbrev>
+          <title role="ps_para_number">11.31</title>
+        </sectioninfo>
+        <para role="ps_para_number">The CFO advises the audit committee at
+its quarterly meetings on the status of the entity’s derivatives positions,
+realized and unrealized gains, compliance with Austin-Jhanes’ derivatives
+policy, and any other information that would be useful for the audit
+committee in carrying out its responsibilities.</para>
+      </section>
+      <section id="aag-afi11_32" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.32</titleabbrev>
+          <title role="ps_para_number">11.32</title>
+        </sectioninfo>
+        <para role="ps_para_number">The notes to the entity’s financial statements
+contain a description of the entity’s accounting policy for derivatives
+and other information required by the applicable financial reporting
+framework. </para>
+      </section>
+      <section id="aag-afi11_33" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.33</titleabbrev>
+          <title role="ps_para_number">11.33</title>
+        </sectioninfo>
+        <para role="ps_para_number">
+          . The CFO and controller perform monthly reviews of Austin-Jhanes’
+performance in using derivatives, including their effectiveness, and,
+in the case of hedges of forecasted transactions, whether the forecasted
+transaction continues to meet the requirements for hedge accounting.
+          <emphasis role="italic">Monitoring</emphasis>
+        </para>
+      </section>
+      <section id="aag-afi11_34" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.34</titleabbrev>
+          <title role="ps_para_number">11.34</title>
+        </sectioninfo>
+        <para role="ps_para_number">The CFO and controller receive monthly
+reports that provide information that enables them to identify any
+material breakdowns in controls, problems with the underlying systems,
+or possible material misstatements in the information. The reports
+include</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>realized and unrealized gain or loss on derivatives
+and hedged exposures, as well as a statistical measurement of correlation
+of changes in their values.</para>
+          </listitem>
+          <listitem>
+            <para>transaction volumes and trends.</para>
+          </listitem>
+          <listitem>
+            <para>derivatives positions by exchange; counterpart; or
+type of instrument, with a comparison with established limits. The
+CFO receives notification as limits are approached. The system does
+not allow limits to be exceeded without the CFO’s approval.</para>
+          </listitem>
+          <listitem>
+            <para>information on various reconciliations, including
+an aging of reconciling items and resolution status.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi11_summary_of_accounting" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Summary of Accounting</titleabbrev>
+        <title role="ps_sub_heading">Summary of Accounting</title>
+      </sectioninfo>
+      <section id="aag-afi11_35" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.35</titleabbrev>
+          <title role="ps_para_number">11.35</title>
+        </sectioninfo>
+        <para role="ps_para_number">Transactions in derivatives are material
+to the entity’s financial statements. Austin-Jhanes uses foreign currency
+options to hedge forecasted foreign sales. Under FASB ASC 815, it
+must record the fair value of the options in its statement of financial
+position. Changes in the time value of the options are recorded currently
+in earnings. Changes in the options’ intrinsic value, to the extent
+they are effective as a hedge, are recorded in other comprehensive
+income.</para>
+      </section>
+    </section>
+    <section id="aag-afi11_types_of_potential_misstatements" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Types of Potential Misstatements</titleabbrev>
+        <title role="ps_sub_heading">Types of Potential Misstatements</title>
+      </sectioninfo>
+      <section id="aag-afi11_36" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.36</titleabbrev>
+          <title role="ps_para_number">11.36</title>
+        </sectioninfo>
+        <para role="ps_para_number">The types of potential misstatements are</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>improper use of hedge accounting under FASB ASC 815,
+including the following:</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="emdash" role="ps_indent_4">
+          <listitem>
+            <para>Failure to properly designate and document the hedge
+at its inception</para>
+          </listitem>
+          <listitem>
+            <para>Incorrect assessment of hedge effectiveness, including
+the improper inclusion or exclusion of the time value of the options</para>
+          </listitem>
+          <listitem>
+            <para>Improper recording of gains and losses relating to
+the transaction (for example, transactions recorded in the improper
+amount or wrong accounting period)</para>
+          </listitem>
+          <listitem>
+            <para>Improper inclusion or exclusion of the time value
+of the options in the measure of hedge effectiveness</para>
+          </listitem>
+        </itemizedlist>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>failure to record all derivatives transactions.</para>
+          </listitem>
+          <listitem>
+            <para>inaccurate determination of fair values of derivatives.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi11_inherent_risk_factors_to" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Inherent Risk Factors to Consider for This Transaction
+in Assessing the Risks of Material Misstatement</titleabbrev>
+        <title role="ps_sub_heading">Inherent Risk Factors to Consider for
+This Transaction in Assessing the Risks of Material Misstatement</title>
+      </sectioninfo>
+      <section id="aag-afi11_37" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.37</titleabbrev>
+          <title role="ps_para_number">11.37</title>
+        </sectioninfo>
+        <para role="ps_para_number">The following inherent risk factors have
+been identified:</para>
+        <para role="ps_indent_0">Based on the preceding factors, the auditor
+determines inherent risk to be high.</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>Because small amounts of cash are required to enter
+into the options, there is an increased inherent risk that the options
+will not be identified.</para>
+          </listitem>
+          <listitem>
+            <para>The complexity of accounting for the put options and
+hedging activities leads to an increased inherent risk that the transactions
+will not be accounted for in conformity with the applicable financial
+reporting framework.</para>
+          </listitem>
+          <listitem>
+            <para>The options are not exchange traded, which increases
+the inherent risk that valuations will be inappropriate.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi11_control_risk_and_timing_of" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Control Risk and Timing of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Control Risk and Timing of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi11_38" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.38</titleabbrev>
+          <title role="ps_para_number">11.38</title>
+        </sectioninfo>
+        <para role="ps_para_number">Control risk has been assessed as low
+or moderate for certain assertions and as high for others:</para>
+        <itemizedlist mark="bullet" role="ps_indent_2">
+          <listitem>
+            <para>
+              . For the assertions about existence or occurrence, completeness,
+and rights and obligations, control risk will be assessed as low or
+moderate. This is considered the most effective and efficient approach,
+given the controls in place, such as the performance of reconciliations
+and monitoring of hedge effectiveness. Tests of details of the recording
+of transactions in the general ledger in accordance with FASB ASC
+815 and confirmation procedures will take place prior to year-end.
+At year-end, various reconciliations, significant activity, and hedge
+effectiveness will be reviewed, and the continuance of controls tested
+will be reviewed through inquiry and observation. Paragraph .18 of
+AU-C section 330B, , states that irrespective of the assessed risk of material
+misstatements, the auditor should design and perform substantive procedures
+for all relevant assertions related to each material class of transactions,
+account balance, and disclosure. Because effective internal controls generally reduce but
+do not eliminate risk of material misstatement, tests of controls
+reduce but do not eliminate the need for substantive procedures. In addition, analytical procedures alone may not be sufficient
+in some cases.
+              <emphasis role="italic">Control risk as low or moderate</emphasis>
+              <emphasis role="italic">Performing Audit Procedures
+in Response to Assessed Risks and Evaluating the Audit Evidence Obtained</emphasis>
+              <footnote id="aag-afi11_fn9" label="fn 9" role="number">
+                <para>
+                  All AU-C sections can be found in AICPA .
+                  <emphasis role="italic">
+                    <olink targetdoc="ps" targetptr="ps">Professional Standards</olink>
+                  </emphasis>
+                </para>
+              </footnote>
+              <footnote id="aag-afi11_fn10" label="fn 10" role="number">
+                <para>Each AU-C section in this guide designated with a “B” suffix
+(for example, “AU-C section 200B”) denotes content that does not reflect
+the codification of Statement on Auditing Standards (SAS) Nos. 134–140
+or the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+issued SASs.</para>
+              </footnote>
+              <footnote id="aag-afi11_fn11" label="fn 11" role="number">
+                <para>
+                  Paragraph .A9 of AU-C section 330B, .
+                  <emphasis role="italic">Performing Audit Procedures in Response to Assessed Risks and Evaluating
+the Audit Evidence Obtained</emphasis>
+                </para>
+              </footnote>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              . For the assertions about valuation and presentation and disclosure,
+control risk is assessed as high due to the efficiency with which
+the valuation of derivatives at year-end can be tested. Also, adequacy
+of presentation and disclosure can only be assessed at year-end.
+              <emphasis role="italic">Control risk as high</emphasis>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+    <section id="aag-afi11_materiality" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Materiality</titleabbrev>
+        <title role="ps_sub_heading">Materiality</title>
+      </sectioninfo>
+      <section id="aag-afi11_39" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.39</titleabbrev>
+          <title role="ps_para_number">11.39</title>
+        </sectioninfo>
+        <para role="ps_para_number">The transaction is considered material.</para>
+      </section>
+    </section>
+    <section id="aag-afi11_design_of_procedures" role="ls_level_4">
+      <sectioninfo>
+        <titleabbrev>Design of Procedures</titleabbrev>
+        <title role="ps_sub_heading">Design of Procedures</title>
+      </sectioninfo>
+      <section id="aag-afi11_40" role="ls_level_8">
+        <sectioninfo>
+          <titleabbrev>11.40</titleabbrev>
+          <title role="ps_para_number">11.40</title>
+        </sectioninfo>
+        <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about put options
+hedging forecasted sales:</para>
+        <table frame="all" id="aag-afi11_table8" role="ps_table_center">
+          <title/>
+          <tgroup align="left" cols="3" colsep="1" rowsep="1">
+            <colspec colname="c1" colwidth="2.13in"/>
+            <colspec colname="c3" colwidth="2.50in"/>
+            <colspec colname="c5" colwidth="1.16in"/>
+            <thead>
+              <row>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Audit Objective</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Procedures, Including
+Those Designed to Gather Audit Evidence About the Operating Effectiveness
+of Controls</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+                <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+                  <para>
+                    <emphasis role="bold">
+                      <emphasis role="italic">Timing</emphasis>
+                    </emphasis>
+                  </para>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>The purchase of options was properly authorized.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>For a sample of transactions, review for proper authorization.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Interim date</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" morerows="2" rowsep="1" valign="top">
+                  <para>The foreign currency options exist, and the entity’s rights
+and obligations relating to the options have been properly classified
+and recorded.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Confirm details of related transactions and derivatives.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>For selected transactions, trace to proper recording
+in the trading system and general ledger, with emphasis on classification
+(that is, earnings or other comprehensive income).</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Review general ledger, trading system, and cash reconciliations.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" morerows="2" rowsep="1" valign="top">
+                  <para>All options transactions have been captured and recorded in
+the entity’s information in the proper accounting period.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test controls on completeness (for example, independent
+review of deal information and reconciliations).</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date</para>
+                </entry>
+              </row>
+              <row>
+                <entry rowsep="0">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>For a sample of transactions, review for recording
+in the proper period.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry rowsep="0">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Send confirmations to dealers, and compare options
+in the responses to amounts recorded.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" morerows="3" rowsep="1" valign="top">
+                  <para>Hedge accounting has been properly applied.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Review open options contracts, and determine whether
+forecasted foreign currency-denominated transactions qualify for hedge
+accounting.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date and year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test the process by which hedge effectiveness is determined
+and monitored.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date and year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Determine that options transactions continue to qualify
+as foreign currency cash flow hedges.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Interim date and year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Determine that the fair value of the options and changes
+in the fair value thereof are properly reported in the financial statements.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" morerows="1" rowsep="1" valign="top">
+                  <para>
+                    The options and hedged transaction are measured at fair value,
+consistent with the requirements of FASB  (ASC) 815, .
+                    <emphasis role="italic">Accounting
+Standards Codification</emphasis>
+                    <emphasis role="italic">Derivatives and Hedging</emphasis>
+                  </para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>By reference to independent sources, verify the valuation
+of the options.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="0" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Test valuation of the hedged transactions.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Presentation and disclosure are appropriate.</para>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <itemizedlist mark="bullet" role="ps_indent_0">
+                    <listitem>
+                      <para>Read the financial statements, and compare the presentation
+and disclosure with the requirements of FASB ASC 815.</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry align="left" colsep="1" rowsep="1" valign="top">
+                  <para>Year-end</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </section>
+</root>

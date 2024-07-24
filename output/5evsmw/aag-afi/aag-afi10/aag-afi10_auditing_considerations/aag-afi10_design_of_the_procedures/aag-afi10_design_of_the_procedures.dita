@@ -1,0 +1,173 @@
+<root id="aag-afi10_design_of_the_procedures" role="ls_level_4">
+  <sectioninfo>
+    <titleabbrev>Design of the Procedures</titleabbrev>
+    <title role="ps_sub_heading">Design of the Procedures</title>
+  </sectioninfo>
+  <section id="aag-afi10_25" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>10.25</titleabbrev>
+      <title role="ps_para_number">10.25</title>
+    </sectioninfo>
+    <para role="ps_para_number">The auditor defined the following objectives
+and related procedures for the audit of assertions about the interest
+rate swap:</para>
+    <table frame="all" id="aag-afi10_table3" role="ps_table_center">
+      <title/>
+      <tgroup align="left" cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1" colwidth="2.81in"/>
+        <colspec colname="c3" colwidth="3.14in"/>
+        <thead>
+          <row>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="bold">
+                  <emphasis role="italic">Audit Objective </emphasis>
+                </emphasis>
+              </para>
+            </entry>
+            <entry align="center" colsep="1" role="shade" rowsep="1" valign="bottom">
+              <para>
+                <emphasis role="bold">
+                  <emphasis role="italic">Procedure</emphasis>
+                </emphasis>
+              </para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>All derivatives JLM has entered into are reported in its statement
+of financial position. </para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Read minutes of the board of directors for approval
+of derivatives transactions.</para>
+                </listitem>
+                <listitem>
+                  <para>Confirm at year-end the existence, rights, and obligations
+and description of the swap with the broker-dealer. </para>
+                </listitem>
+                <listitem>
+                  <para>Examine broker-dealer’s advice evidencing purchase
+or issuance in JLM’s name.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>Derivatives transactions are approved in accordance with JLM’s
+investment policy.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Read JLM’s investment policy, and compare the interest
+rate swap with the policy to determine if the swap’s terms are within
+the policy’s guidelines.</para>
+                </listitem>
+                <listitem>
+                  <para>Read minutes of the board of directors to determine
+if approval to enter into the swap was obtained.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The fair values of the swap and bond are reasonable.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Obtain an understanding, and evaluate the relationship
+between the broker-dealer and JLM.</para>
+                </listitem>
+                <listitem>
+                  <para>
+                    Obtain an understanding of the methodology behind
+the broker-dealer’s valuation. Alternatively, use a valuation consultant
+to assist in evaluating the reasonableness of the estimate of fair
+value, taking into consideration the requirements of AU-C section
+620B, .
+                    <emphasis role="italic">Using the Work of an Auditor’s Specialist</emphasis>
+                  </para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The designation of the interest rate swap as a hedge meets the
+applicable criteria for hedge accounting at inception and ongoing,
+including the documentation requirement.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Read the board of directors’ minutes that document
+the formal designation of the swap as a hedge of the fair value of
+the bond obligation.</para>
+                </listitem>
+                <listitem>
+                  <para>Confirm (in the management representation letter)
+the designation of the swap as a hedge at the date of inception and
+each subsequent measurement date.</para>
+                </listitem>
+                <listitem>
+                  <para>
+                    Examine documentation that supports the designation,
+documentation, and risk management requirements of FASB  (ASC) 815, .
+                    <emphasis role="italic">Accounting Standards Codification</emphasis>
+                    <emphasis role="italic">Derivatives and Hedging</emphasis>
+                  </para>
+                </listitem>
+                <listitem>
+                  <para>Recompute JLM’s calculation of hedge effectiveness
+using the methodology prescribed by management, noting whether the
+hedge effectiveness is assessed in a similar manner to other hedging
+strategies of JLM.</para>
+                </listitem>
+                <listitem>
+                  <para>Read board of directors’ minutes for documentation
+of the board’s periodic review of hedging effectiveness.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>The journal entries required to record the effect of the interest
+rate swap are appropriate.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Review journal entries in relation to supporting documentation,
+including the broker-dealer’s advice and cancelled checks for interest
+payments made on the bond obligation and interest rate swap.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <para>Presentation is appropriate and disclosure adequate.</para>
+            </entry>
+            <entry align="left" colsep="1" rowsep="1" valign="top">
+              <itemizedlist mark="bullet" role="ps_indent_0">
+                <listitem>
+                  <para>Read the financial statements, and compare the presentation
+and disclosure with the requirements of FASB ASC 815.</para>
+                </listitem>
+              </itemizedlist>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+</root>

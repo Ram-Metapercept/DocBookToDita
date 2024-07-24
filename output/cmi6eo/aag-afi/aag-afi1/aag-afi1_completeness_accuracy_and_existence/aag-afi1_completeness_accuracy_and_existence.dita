@@ -1,0 +1,24 @@
+<root id="aag-afi1_completeness_accuracy_and_existence" role="ls_level_3">
+  <sectioninfo>
+    <titleabbrev>Completeness, Accuracy, and Existence</titleabbrev>
+    <title role="ps_main_heading">Completeness, Accuracy, and Existence</title>
+  </sectioninfo>
+  <section id="aag-afi1_14" role="ls_level_8">
+    <sectioninfo>
+      <titleabbrev>1.14</titleabbrev>
+      <title role="ps_para_number">1.14</title>
+    </sectioninfo>
+    <para role="ps_para_number">
+       describe controls and processes that may be in place
+in entities with a high volume of financial instrument transactions,
+including those with trading rooms. By contrast, an entity that does
+not have a high volume of financial instrument transactions may not
+have these controls and processes but may instead confirm its transactions
+with the counterparty or clearinghouse. Doing so may be relatively
+straightforward in that the entity may only transact with one or two
+counterparties.
+      <olink targetptr="aag-afi1_15">Paragraphs
+1.15–.23</olink>
+    </para>
+  </section>
+</root>

@@ -1,0 +1,111 @@
+<root id="aag-afi7_09" role="ls_level_8">
+  <sectioninfo>
+    <titleabbrev>7.09</titleabbrev>
+    <title role="ps_para_number">7.09</title>
+  </sectioninfo>
+  <para role="ps_para_number">The increase in equity should be split
+between interest income and other comprehensive income. Because BEV
+will not realize the $150,000 unrealized loss charged to other comprehensive
+income, the effective rate of return on the bond reported in earnings
+is equal to the bond’s stated interest rate. Therefore, interest income
+equals interest received. In substance, the excess of the increase
+in equity over the interest income equals the amortization of the
+discount and is reported as other comprehensive income. The 3 entries
+for the first year would be as follows:</para>
+  <table frame="none" id="aag-afi7_table3" role="ps_table_center">
+    <title/>
+    <tgroup align="left" cols="3" colsep="1" rowsep="1">
+      <colspec colname="c1" colwidth="3.49in"/>
+      <colspec colname="c2" colwidth="1.00in"/>
+      <colspec colname="c3" colwidth="0.98in"/>
+      <tbody>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>Cash</para>
+          </entry>
+          <entry colsep="0" rowsep="0">
+            <para>$48,000</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>
+              Interest income
+              <tab/>
+            </para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry colsep="0" rowsep="0">
+            <para>$48,000</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>To record interest received</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry colsep="0" rowsep="0"/>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>Discount on investment in held-to-maturity bond</para>
+          </entry>
+          <entry colsep="0" rowsep="0">
+            <para>$24,046</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>
+              Interest income
+              <tab/>
+            </para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry colsep="0" rowsep="0">
+            <para>$24,046</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>To record amortization of the discount on the held-to-maturity
+bond</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry colsep="0" rowsep="0"/>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>Interest income</para>
+          </entry>
+          <entry colsep="0" rowsep="0">
+            <para>$24,046</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>
+              Other comprehensive income
+              <tab/>
+            </para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry colsep="0" rowsep="0">
+            <para>$24,046</para>
+          </entry>
+        </row>
+        <row>
+          <entry colsep="0" rowsep="0">
+            <para>To record amortization of the unrealized loss included in accumulated
+other comprehensive income</para>
+          </entry>
+          <entry colsep="0" rowsep="0"/>
+          <entry rowsep="0"/>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</root>
